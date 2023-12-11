@@ -1,0 +1,13 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-1.12.2-3.1.0.141-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ge1sOdFH/versions/QWJ0uEnl/ToughAsNails-1.12.2-3.1.0.141-universal.jar"
+hash-format = "sha1"
+hash = "594c723d9708616b0f69bec1fb2d884d9ade7444"
+
+[update]
+[update.modrinth]
+mod-id = "ge1sOdFH"
+version = "QWJ0uEnl"

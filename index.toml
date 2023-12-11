@@ -109,6 +109,61 @@ hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
 metafile = true
 
 [[files]]
+file = "mods/firstaid.pw.toml"
+hash = "ff13e29ac0ae894265188938c6c8de0c1f5e7b6a2af21f94a90741323522acb5"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "b9d0fa17a02f9eb096c35e62624bbc34221c205c57c0599845ccf0f8c2a044ab"
+metafile = true
+
+[[files]]
+file = "mods/mcgltf.pw.toml"
+hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "8935ea958a5b1267afb2a20394fbe18d414b9d68cfd754dd614b2b39f7475de7"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/modularwarfare.pw.toml"
+hash = "998f0e2a56b0b2f5d5e4aa6740f0779a5afd752e922e656c353aec7244783a11"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "4731615e45979e1eee2e5439777e6390aba9b8d8bf11c4299723a1659bf5c115"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "61e0a9d796d6bf8ca35cbe0da2540813a944fa215de972759369005c85bccb26"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "b5248f89469820205128cfabc3afacd143c713558d582cbbc0ab95c1845f0ff2"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "f9fc3b370c254e96c2f3dd7e2369c6cdc15ddc93772522883a38b839827187f0"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "5eba1aa2ef28a697ede7569c3adc3b7c986b8674b2662d347c445b469b02b0e7"
 metafile = true
