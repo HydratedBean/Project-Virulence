@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "5846bc9d8e65c1f52e9adb632df94a14bd14faf297565bf68edf990320f2b24f"
+
+[[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "e675f4b50b848ce1b79847e35e4baa1383131c8d9cb8d3b47c57d58fe09fb974"
 
@@ -104,6 +108,16 @@ hash = "753729626a25b69823761ada6ee62e1a73afa0a0c479ce66ce9dd0e1deed0a89"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings-huds.pw.toml"
+hash = "6e11e918dd22b38d673f64fc8d65d5eae8e80764db7a704709eced0b645ac29b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
 metafile = true
@@ -111,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/firstaid.pw.toml"
 hash = "ff13e29ac0ae894265188938c6c8de0c1f5e7b6a2af21f94a90741323522acb5"
+metafile = true
+
+[[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "c7b364e1b492d0a828d04455d81268e48eae8a7973d4e327fe34e53e3d72a276"
 metafile = true
 
 [[files]]
@@ -144,8 +163,18 @@ hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
 metafile = true
 
 [[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "4731615e45979e1eee2e5439777e6390aba9b8d8bf11c4299723a1659bf5c115"
+metafile = true
+
+[[files]]
+file = "mods/real-first-person-render.pw.toml"
+hash = "db15aa278913d6585f54b8f3cf181793cdb1be550dca6d7d7f4ab8bd31c68d42"
 metafile = true
 
 [[files]]
@@ -154,8 +183,18 @@ hash = "61e0a9d796d6bf8ca35cbe0da2540813a944fa215de972759369005c85bccb26"
 metafile = true
 
 [[files]]
+file = "mods/scapeandrunparasites.pw.toml"
+hash = "94f3abb7c19836fca7eb63d389152dea4f2430766dfc4d6d51fcdb58bdae601d"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-cities.pw.toml"
 hash = "b5248f89469820205128cfabc3afacd143c713558d582cbbc0ab95c1845f0ff2"
+metafile = true
+
+[[files]]
+file = "mods/time-control.pw.toml"
+hash = "63a07c4d38eec5ea9a6aa00bf64f3fba3023b44e87baa579a2465d92f7f59c19"
 metafile = true
 
 [[files]]
