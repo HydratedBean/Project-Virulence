@@ -1,0 +1,120 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
+metafile = true
+
+[[files]]
+file = "mods/default-world-generator-port.pw.toml"
+hash = "6f6027918bcecb2e34dbaf3c221997a2b465fc6bac9ae59eeaca646e09017ea6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings-huds.pw.toml"
+hash = "6e11e918dd22b38d673f64fc8d65d5eae8e80764db7a704709eced0b645ac29b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "695658ffd80b0ebbe81b26f9291f7d90e46fefee18600f0882f00b8c6da10466"
+metafile = true
+
+[[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "c7b364e1b492d0a828d04455d81268e48eae8a7973d4e327fe34e53e3d72a276"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "8bb458661433eb42920e72245023a497cd34b00e147528d15a043176d57d9f0f"
+metafile = true
+
+[[files]]
+file = "mods/ivtoolkit.pw.toml"
+hash = "1ce21898ee51d69f97aa0456f339965c7c6763b34853a25de72b30a1e23f42da"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d1583e5a76a3d77f42e81c73a7ed73cddcd5aa2551b689f5db4803587a77fe9a"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "b9d0fa17a02f9eb096c35e62624bbc34221c205c57c0599845ccf0f8c2a044ab"
+metafile = true
+
+[[files]]
+file = "mods/mcgltf.pw.toml"
+hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
+metafile = true
+
+[[files]]
+file = "mods/minetweaker-recipemaker.pw.toml"
+hash = "ec44fb5b7a7f89925e8473869a201fa113ff8b705934cd5ca62aeb2587226eac"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "51576b8b08e85156127e64674f06287e171a4d3e344476c59b3ce2c797f378b0"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/modern-beta-forge.pw.toml"
+hash = "5f5a67d04160a168c9fc81fea72d574233ab14c2f258c4720ca6844aec42d9f4"
+metafile = true
+
+[[files]]
+file = "mods/modularwarfare.pw.toml"
+hash = "998f0e2a56b0b2f5d5e4aa6740f0779a5afd752e922e656c353aec7244783a11"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
+metafile = true
+
+[[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "4731615e45979e1eee2e5439777e6390aba9b8d8bf11c4299723a1659bf5c115"
+metafile = true
+
+[[files]]
+file = "mods/recurrent-complex.pw.toml"
+hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "61e0a9d796d6bf8ca35cbe0da2540813a944fa215de972759369005c85bccb26"
+metafile = true
+
+[[files]]
+file = "mods/scapeandrunparasites.pw.toml"
+hash = "341c4c00d8cb543d4f12b4c79c6c680ac4bf05f7496b21f8942be4efaf8398f5"
+metafile = true
+
+[[files]]
+file = "mods/xp-orb-clump.pw.toml"
+hash = "c4dbdec00e364707521b2bb168b9fd490a2d20cd2e81cb5bdbdfd435435b575f"
+metafile = true
+
+[[files]]
+file = "scripts/MineTweakerRecipeMaker.zs"
+hash = "ab682b7959ce447d606a148c1ad47e64f0d4cb1e1eeb16b53dd4ccfb77ed55c3"

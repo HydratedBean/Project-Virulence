@@ -1,0 +1,13 @@
+name = "MCglTF"
+filename = "MCglTF-1.12.2-Forge-2.0.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jnZgACca/versions/SCpPaz39/MCglTF-1.12.2-Forge-2.0.3.0.jar"
+hash-format = "sha1"
+hash = "b8511ed2c704a433e60f2fefec8090e7692250c3"
+
+[update]
+[update.modrinth]
+mod-id = "jnZgACca"
+version = "SCpPaz39"

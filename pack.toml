@@ -1,0 +1,13 @@
+name = "Project Virulence"
+author = "HydratedBean"
+version = "2024.2.3a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "06a02fbc44ec0aa902d59db493ad98c38e125648c5ff7625326ccd85c3871f11"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
