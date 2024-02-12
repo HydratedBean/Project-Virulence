@@ -1,5 +1,5 @@
-# Project-Virulence
-A lightweight and optimized survival horror modpack for minecraft centered around Scape and Run Parasites
+![](images/projectvirulence_title.png)
+## A lightweight and optimized survival horror modpack for minecraft centered around Scape and Run Parasites
 
 ## How to create an instance
 1. Download Prism Launcher, and log in: ```https://prismlauncher.org/```
