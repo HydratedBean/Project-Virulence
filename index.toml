@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ModularWarfare/mod_config.json"
+hash = "b6587237899ebe0d57b0cbfa2b7896583e6843f84f605a198fa32c4c9d5fbfea"
+
+[[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "7c274b7de5b8d7d03bdfb600b7c8c9debc9e79124acd07628214cd690b86f650"
 
