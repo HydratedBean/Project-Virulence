@@ -1,4 +1,5 @@
-<img src="images/projectvirulence_title.png" height=100 >
+<img src="images/projectvirulence_title.png" height=150 >
+
 ## A lightweight and optimized survival horror modpack for minecraft centered around Scape and Run Parasites
 
 ## How to create an instance
