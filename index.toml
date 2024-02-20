@@ -70,7 +70,7 @@ hash = "d7cc1cf84412f9e5127ada9bc8619d017788136105a1cccf0ad5b453a123b358"
 
 [[files]]
 file = "config/reccomplex.cfg"
-hash = "7a2da7130cdd744fb829c8fb4bdd773c024d1f040ff5946130de8d041dd0cc55"
+hash = "d3d102c67f4047b06c25d081247307f15f08ce34eea7be9f9362a22405a4ea25"
 
 [[files]]
 file = "config/splash.properties"
@@ -214,8 +214,8 @@ hash = "61e0a9d796d6bf8ca35cbe0da2540813a944fa215de972759369005c85bccb26"
 metafile = true
 
 [[files]]
-file = "mods/scape-and-run-parasites.pw.toml"
-hash = "b9d8de523a02a4ae6511dad0a04e97c5531d6039c54630e5f290b0e017997842"
+file = "mods/scapeandrunparasites.pw.toml"
+hash = "463c2ae2a0ec5334302d0e3daab26a73b764c4cc343fbe9d7fd0e703b3c2799a"
 metafile = true
 
 [[files]]
