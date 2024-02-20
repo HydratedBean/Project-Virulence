@@ -9,8 +9,24 @@ file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "7c274b7de5b8d7d03bdfb600b7c8c9debc9e79124acd07628214cd690b86f650"
 
 [[files]]
+file = "config/dimdoors.cfg"
+hash = "c2d6cbb76eceffc9cc1518daba34d00359c4fa2d3b88ea53d132a149f45ede96"
+
+[[files]]
 file = "config/dshuds.cfg"
 hash = "61f050fc26ca4fd6d25d6441313b15357d44019c7431d788154d507c4100b9ee"
+
+[[files]]
+file = "config/dsurround/dsurround.cfg"
+hash = "94e08e27da42650d083be10b3b05d1c61218af369437ca6249232dc65e63d3eb"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
 
 [[files]]
 file = "config/globalgamerules.cfg"
@@ -21,8 +37,56 @@ file = "config/inventoryhud.cfg"
 hash = "5827280ceb757bc59068cba000286571515f4184abf284944d5d8d0cba2f3da2"
 
 [[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "1988985bfeb9100369c6a2f636d401b122f0cf396759f1262fb439c5c29ea367"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "b85869a2e25b816d7835eddd06b2a60c87083e4b4c3d03bab3914eef05ef88e7"
+
+[[files]]
+file = "config/loliasm.cfg"
+hash = "a42c56483f6a67fcccce3247898834fe252dc350251f33d45bc72aa57561fb42"
+
+[[files]]
 file = "config/mcgltf.cfg"
 hash = "7a63732095a67de18ab6bf6cca11f5b8c368e3b6ec859b9f1c6d231d5b6c9114"
+
+[[files]]
+file = "config/modernbetaforge.cfg"
+hash = "6fcb98d51292490230358c5d4342622e53c3bf7187b04ed934f0f476b5ac46bf"
+
+[[files]]
+file = "config/orelib.cfg"
+hash = "d7cc1cf84412f9e5127ada9bc8619d017788136105a1cccf0ad5b453a123b358"
+
+[[files]]
+file = "config/reccomplex.cfg"
+hash = "7a2da7130cdd744fb829c8fb4bdd773c024d1f040ff5946130de8d041dd0cc55"
+
+[[files]]
+file = "config/splash.properties"
+hash = "4349ec474195cefbf74b5076b5ec39e9cf211db83d29b5c547e14480e670f59a"
+
+[[files]]
+file = "config/vintagefix.properties"
+hash = "54cbf11acdee95f8066ebdac8d860ab8096e7a6457e5d9390e341630c9942b6d"
+
+[[files]]
+file = "config/xporbclump.cfg"
+hash = "a5cbaa918a7cc7758ad0d4f2c000d790144c832eef94347ca0350c3494d2bbd4"
+
+[[files]]
+file = "images/projectvirulence_title.png"
+hash = "b974a61d43b749058fb9dc165a2eda33db6a578781dcd6c57dc44a3e2707a7bb"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
@@ -37,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/default-world-generator-port.pw.toml"
 hash = "6f6027918bcecb2e34dbaf3c221997a2b465fc6bac9ae59eeaca646e09017ea6"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "1911b6e62b70784ca4335fdf758d3439863f5e4eab446cddacb45f641624d285"
 metafile = true
 
 [[files]]
@@ -80,6 +149,11 @@ hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
 metafile = true
 
 [[files]]
+file = "mods/minemenu.pw.toml"
+hash = "e3af043d80b766bd958c0eec2d9a871a8726eee750aa15598d9b22f9f36da34b"
+metafile = true
+
+[[files]]
 file = "mods/minetweaker-recipemaker.pw.toml"
 hash = "ec44fb5b7a7f89925e8473869a201fa113ff8b705934cd5ca62aeb2587226eac"
 metafile = true
@@ -100,6 +174,11 @@ hash = "5f5a67d04160a168c9fc81fea72d574233ab14c2f258c4720ca6844aec42d9f4"
 metafile = true
 
 [[files]]
+file = "mods/modular-powersuits.pw.toml"
+hash = "eea4c4a4853178a9cba6d3693c55316b91d7f2723c2e88d50128e973b6a81abe"
+metafile = true
+
+[[files]]
 file = "mods/modularwarfare.pw.toml"
 hash = "998f0e2a56b0b2f5d5e4aa6740f0779a5afd752e922e656c353aec7244783a11"
 metafile = true
@@ -107,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/nothirium.pw.toml"
 hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "be048772c15768cdfad49db77fd785213946a0726dbcd689c57ab4119fc6645c"
 metafile = true
 
 [[files]]
@@ -130,8 +214,8 @@ hash = "61e0a9d796d6bf8ca35cbe0da2540813a944fa215de972759369005c85bccb26"
 metafile = true
 
 [[files]]
-file = "mods/scapeandrunparasites.pw.toml"
-hash = "341c4c00d8cb543d4f12b4c79c6c680ac4bf05f7496b21f8942be4efaf8398f5"
+file = "mods/scape-and-run-parasites.pw.toml"
+hash = "b9d8de523a02a4ae6511dad0a04e97c5531d6039c54630e5f290b0e017997842"
 metafile = true
 
 [[files]]
