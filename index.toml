@@ -5,6 +5,50 @@ file = "ModularWarfare/mod_config.json"
 hash = "b6587237899ebe0d57b0cbfa2b7896583e6843f84f605a198fa32c4c9d5fbfea"
 
 [[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/gltf/guns/pv.shotgun.glb"
+hash = "4018922b3e31d916e66646721f2e1410958da7666dab2b1e5708fc6e9da9723c"
+
+[[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/lang/en_US.lang"
+hash = "bd0d2469bc31bc6dac69ae288b63467c8e8d23889a9c847ce1cb3bcbf6e42fae"
+
+[[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/models/item/pv.shotgun.flash.json"
+hash = "542fb39eaa1b85a21a788e4168f8a34b7722a04469894e69b139806dcab319b7"
+
+[[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/models/item/pv.shotgun.json"
+hash = "7fa414f2491566470f201c9a4ac76f0765afcc835466f306499d46c9f49c6189"
+
+[[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/skins/guns/pv.shotgun.png"
+hash = "12e693a94a7fff9ff89a63d8b2babd6d88789b6a7846d780d66761e61b738cad"
+
+[[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/sounds.json"
+hash = "287f9ae0fde8b65397651b99b71879270092cebcc28c7bd131c932b7007db371"
+
+[[files]]
+file = "ModularWarfare/project-virulence/assets/modularwarfare/textures/flash/pv.shotgun.flash.png"
+hash = "113e66efc5a5326e4fffa45d17d819cc7ca86af95fbcd89f8319060e2e50fd25"
+
+[[files]]
+file = "ModularWarfare/project-virulence/guns/pv.shotgun.json"
+hash = "8d961f8fad0aa7fed886b4173a209a093a55b525682e16321c515ccefb0b6a95"
+
+[[files]]
+file = "ModularWarfare/project-virulence/guns/render/pv.shotgun.render.json"
+hash = "1b3779011d46fb3bb69f11910fc161a41aec15c41641c67b84a08689b26b5667"
+
+[[files]]
+file = "ModularWarfare/project-virulence/textures/pv.shotgun.flash.json"
+hash = "bc18c36297d6979d452cbcedd7af95f71e1d9328d3535fb9bb0dd90377eceabb"
+
+[[files]]
+file = "ModularWarfare/project-virulence/textures/render/pv.shotgun.flash.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "7c274b7de5b8d7d03bdfb600b7c8c9debc9e79124acd07628214cd690b86f650"
 
