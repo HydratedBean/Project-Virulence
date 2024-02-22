@@ -1,0 +1,13 @@
+name = "Scape and Run Parasites Addon: Cotesia Glomerata"
+filename = "srpcotesia-1.12.2-1.0.5h.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41d26603508b83321f3baa22a3f948b9f7d39280"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5127203
+project-id = 971348

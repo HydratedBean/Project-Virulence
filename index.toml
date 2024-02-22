@@ -163,6 +163,11 @@ hash = "695658ffd80b0ebbe81b26f9291f7d90e46fefee18600f0882f00b8c6da10466"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4e87ea91ac584b6c91dbac23bd05db9be1a848e47dda3524224bb189f4fe5b10"
+metafile = true
+
+[[files]]
 file = "mods/global-gamerules.pw.toml"
 hash = "c7b364e1b492d0a828d04455d81268e48eae8a7973d4e327fe34e53e3d72a276"
 metafile = true
@@ -260,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/scapeandrunparasites.pw.toml"
 hash = "463c2ae2a0ec5334302d0e3daab26a73b764c4cc343fbe9d7fd0e703b3c2799a"
+metafile = true
+
+[[files]]
+file = "mods/srp-addon-cotesia-glomerata.pw.toml"
+hash = "f3ce81077499837ac71f8be3f151d93dcc44ebe8fefb05ed580add1362800d66"
 metafile = true
 
 [[files]]
