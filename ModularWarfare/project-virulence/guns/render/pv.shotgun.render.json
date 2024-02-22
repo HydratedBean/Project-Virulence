@@ -2,84 +2,84 @@
   "modelFileName": "pv.shotgun.glb",
   "animations": {
     "default": {
-      "startTime": 9,
-	  "endTime": 10,
+      "startTime": 16,
+	  "endTime": 17,
 	  "speed": 0.0015
     },
     "draw": {
       "startTime": 0,
-      "endTime": 9,
+      "endTime": 15,
 	  "speed": 0.036
     },
     "aim": {
 	  "speed": 0.01
     },
 	"preFire": {
-      "startTime": 79,
-      "endTime": 80,
+      "startTime": 312,
+      "endTime": 313,
 	  "speed":0.055
     },
 	"fire": {
-      "startTime": 81,
-      "endTime": 82,
-	  "speed": 0.03
-    },
-	"postFire": {
-      "startTime": 83,
-      "endTime": 104,
+      "startTime": 315,
+      "endTime": 322,
 	  "speed": 0.08
     },
+	"postFire": {
+      "startTime": 346,
+      "endTime": 355,
+	  "speed": 0.04
+    },
     "preReload": {
-      "startTime": 11,
-      "endTime": 30,
-	  "speed": 0.03
+      "startTime": 166,
+      "endTime": 192,
+	  "speed": 0.06
     },
 	"reloadFirst": {
-      "startTime": 31,
-      "endTime": 36,
-	  "speed": 0.03
+      "startTime": 218,
+      "endTime": 258,
+	  "speed": 0.06
     },
 	"reloadSecond": {
-      "startTime": 37,
-      "endTime": 53,
-	  "speed": 0.03
+      "startTime": 259,
+      "endTime": 260,
+	  "speed": 0.06
     },
 	"postReload": {
-      "startTime": 60,
-      "endTime": 78,
+      "startTime": 282,
+      "endTime": 291,
 	  "speed": 0.03
     },
 	"preUnload": {
-      "startTime": 63,
-      "endTime": 64,
-	  "speed": 0.055
+      "startTime": 344,
+      "endTime": 345,
+	  "speed": 0.03
     },
 	"unload": {
-      "startTime": 65,
-      "endTime": 80,
-	  "speed": 0.055
+      "startTime": 346,
+      "endTime": 355,
+	  "speed": 0.03
     },
 	"postUnload": {
-      "startTime": 80,
-      "endTime": 80,
-	  "speed": 1.0
+      "startTime": 356,
+      "endTime": 357,
+	  "speed": 0.03
     },
     "inspect": {
-      "startTime": 120,
-      "endTime": 190,
-	  "speed": 0.04
+      "startTime": 47,
+      "endTime": 133,
+	  "speed": 0.01
     }
   },
   "sprint": {
     "basicSprint": true,
     "sprintRotate": {
-      "x": 25.0,
+      "x": 0.0,
       "y": 50.0,
       "z": 0.0
     },
     "sprintTranslate": {
       "x": -5.5,
-      "y": -0.5,
+      "y": -2.0,
       "z": 5.5
     }
   },

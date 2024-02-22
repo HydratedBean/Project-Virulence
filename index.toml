@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "ModularWarfare/mod_config.json"
-hash = "b6587237899ebe0d57b0cbfa2b7896583e6843f84f605a198fa32c4c9d5fbfea"
+hash = "066132520926a0e2a08c06ec065edca85dee3eb7a97492bf1f5c04393d0ac14a"
 
 [[files]]
 file = "ModularWarfare/project-virulence/assets/modularwarfare/gltf/guns/pv.shotgun.glb"
-hash = "4018922b3e31d916e66646721f2e1410958da7666dab2b1e5708fc6e9da9723c"
+hash = "74b46790ff4d114d5b28a391bd4fad47f77bf792fce75b16282dcc0481d3b5c9"
 
 [[files]]
 file = "ModularWarfare/project-virulence/assets/modularwarfare/lang/en_US.lang"
@@ -22,7 +22,7 @@ hash = "7fa414f2491566470f201c9a4ac76f0765afcc835466f306499d46c9f49c6189"
 
 [[files]]
 file = "ModularWarfare/project-virulence/assets/modularwarfare/skins/guns/pv.shotgun.png"
-hash = "12e693a94a7fff9ff89a63d8b2babd6d88789b6a7846d780d66761e61b738cad"
+hash = "64236a8a9d1ee1c06a4e7b24140b2bca2dbe516be73ac7182131dfe1af7b6856"
 
 [[files]]
 file = "ModularWarfare/project-virulence/assets/modularwarfare/sounds.json"
@@ -30,7 +30,7 @@ hash = "287f9ae0fde8b65397651b99b71879270092cebcc28c7bd131c932b7007db371"
 
 [[files]]
 file = "ModularWarfare/project-virulence/assets/modularwarfare/textures/flash/pv.shotgun.flash.png"
-hash = "113e66efc5a5326e4fffa45d17d819cc7ca86af95fbcd89f8319060e2e50fd25"
+hash = "ee7532cd79baec787faf76c706ef30788c3520521c4932644cd04295e6dfdf0f"
 
 [[files]]
 file = "ModularWarfare/project-virulence/guns/pv.shotgun.json"
@@ -38,7 +38,7 @@ hash = "8d961f8fad0aa7fed886b4173a209a093a55b525682e16321c515ccefb0b6a95"
 
 [[files]]
 file = "ModularWarfare/project-virulence/guns/render/pv.shotgun.render.json"
-hash = "1b3779011d46fb3bb69f11910fc161a41aec15c41641c67b84a08689b26b5667"
+hash = "d0cbac5f2fedb2e8bdfb1ca4d601209c58c5ce1aad630f91a6061cfb515bf230"
 
 [[files]]
 file = "ModularWarfare/project-virulence/textures/pv.shotgun.flash.json"

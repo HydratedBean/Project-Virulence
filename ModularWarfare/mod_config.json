@@ -38,7 +38,7 @@
     "advanced_drops_models_everything": false
   },
   "hud": {
-    "hitmarkers": true,
+    "hitmarkers": false,
     "enable_crosshair": true,
     "dynamic_crosshair": true,
     "ammo_count": true,
