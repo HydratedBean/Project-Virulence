@@ -9,7 +9,7 @@ https://prismlauncher.org/
 2. Log in to prism launcher with your minecraft account
 3. Click the ```Add Instance``` button in the launcher
 4. Select version 1.12.2
-5. Select Forge in the modloader section
+5. Select Forge in the modloader section (Pick version 14.23.5.2860)
 6. Click ```OK```
 7. Download packwiz-installer-bootstrap:
 ```
