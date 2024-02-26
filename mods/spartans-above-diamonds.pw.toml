@@ -1,0 +1,13 @@
+name = "Spartans Above DIAMONDS"
+filename = "SpartansAboveDiamonds-1.12.2-2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8835c44d36a5a0eb1dad57020cc812cbe728726d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5078387
+project-id = 867518

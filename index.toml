@@ -49,8 +49,12 @@ file = "ModularWarfare/project-virulence/textures/render/pv.shotgun.flash.render
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/MineMenu.cfg"
+hash = "71cd10cb492d5c5731ea0bdf9629a4999814de70d5cf8b1a011000865116920f"
+
+[[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
-hash = "7c274b7de5b8d7d03bdfb600b7c8c9debc9e79124acd07628214cd690b86f650"
+hash = "70baea0fe80aafe124da08d35458a5aa697d0c885a8cf6988904ad43d79a6ac1"
 
 [[files]]
 file = "config/dimdoors.cfg"
@@ -101,6 +105,94 @@ file = "config/loliasm.cfg"
 hash = "a42c56483f6a67fcccce3247898834fe252dc350251f33d45bc72aa57561fb42"
 
 [[files]]
+file = "config/loliasm/methods-stable_39.csv"
+hash = "0a583eb8a8f4e8f797e965fdecb5d72ec4d33fc7e8d6002a82a4e62d35abe9c2"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/power_fist/Default.dat"
+hash = "b3315a67c79e4eeb70e5e68804f0a25909b593ad27067e0bab5f0baad6d3a5c3"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_feet/Citizen Joe Armor Skin.dat"
+hash = "474b09047993376dcba3b5b7205f4fa940230b5822a4de49fd9c8c56e015ad57"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_feet/Default Armor Skin.dat"
+hash = "0745fcb8a92c4d2256c9bcd8fadb7911a6706183372066a76e2583fb7c8f0366"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_feet/Default Armor2.dat"
+hash = "8c74ddc3b86c882fd97808b633fe90adacd99581074bd8aa24ceb2c281085039"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_feet/Default.dat"
+hash = "9828418b434a2835c03fa2ead6a3ad7020631ec7d7bfc9eb456f050784b7c70b"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_head/Citenzen Joe Armor Skin.dat"
+hash = "6a81702e61cad8867e17387a68b8d0978c9921ce0f8ef72bc0c3a6dce772ac37"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_head/Default Armor Skin.dat"
+hash = "3bcc8d2c1ff9bcc975d47aaa25e30837fc719246e1ca10c76f4168f3b5b0ec90"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_head/Default Armor2.dat"
+hash = "4c4be0d5950c20f9ea45a7dcb418854de4b9e2f87446704a24e117b6e10e4a42"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_head/Default.dat"
+hash = "b9c0dddd3d7cade4f8d95a2697dfe13d3dc9a2a8a99bef9c0b902d796b4c5a4b"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_legs/Citizen Joe Armor Skin.dat"
+hash = "ce43639f794832c4f770498bfdfcae22c17faded229a4107d9e31663415e0298"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_legs/Defalt Armor Skin.dat"
+hash = "4246f44a364dc374d4d5ba68336ca51cfafc5a2358d9b7f1eb98b47ec851493a"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_legs/Default Armor2.dat"
+hash = "b1e78c921056cccb6ba3fe1dfe1f9f3db51c32e6da3f6e2d11df8a1519e3ce09"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_legs/Default.dat"
+hash = "7c603c1c0e9f0c7e5d81685b6748845de7ebacf59c4a69693477e552d0560e92"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_torso/Citenzen Joe Armor Skin.dat"
+hash = "c254af5b38ad90a1a7702e35a77df301f65034762df20a56295dc1f35b86d617"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_torso/Default Armor Skin.dat"
+hash = "a34aa9bcffaccf96ce85f33ea0eec02db8249fcf1e339370530fd0baede07141"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_torso/Default Armor2.dat"
+hash = "a1f8c6841eb089bdd0aea3cf059d7e9fc5f790e2f20d914417bca5b63d129fe2"
+
+[[files]]
+file = "config/machinemuse/cosmeticpresets/powerarmor_torso/Default.dat"
+hash = "56c4aeb1f58e67a004422eb9650ee24fbb5b21145895e3cec1df632f11ed1ba2"
+
+[[files]]
+file = "config/machinemuse/custominstallcosts.json"
+hash = "f0c4b335e69270c4221a186efe3744be2d02108f26565f044c158cbb97eceaa7"
+
+[[files]]
+file = "config/machinemuse/numina.cfg"
+hash = "c23c0cddeed67907e98162a7ae978c63ae16fb717f2cb89535d6e62ab63c6692"
+
+[[files]]
+file = "config/machinemuse/powersuits-keybinds.json"
+hash = "26e957831ed20d1b8208532ec6d6165a3f5f140de6cd2af4c0e5ad30d847dd38"
+
+[[files]]
+file = "config/machinemuse/powersuits.cfg"
+hash = "31edf75a63a66e535a594a31714363cbc82624e840460a9c40242853c7f01385"
+
+[[files]]
 file = "config/mcgltf.cfg"
 hash = "7a63732095a67de18ab6bf6cca11f5b8c368e3b6ec859b9f1c6d231d5b6c9114"
 
@@ -109,16 +201,44 @@ file = "config/modernbetaforge.cfg"
 hash = "6fcb98d51292490230358c5d4342622e53c3bf7187b04ed934f0f476b5ac46bf"
 
 [[files]]
+file = "config/nothirium.cfg"
+hash = "bd8a742bf6d3b80365b450e7674cc0edd6be5e140ca6ed896488d8f6ae3278ba"
+
+[[files]]
 file = "config/orelib.cfg"
 hash = "d7cc1cf84412f9e5127ada9bc8619d017788136105a1cccf0ad5b453a123b358"
+
+[[files]]
+file = "config/particleculling.cfg"
+hash = "3f36eed8c82a3349066a442ab5476276444ef7a0b2193215af4571eb1354b5d5"
 
 [[files]]
 file = "config/reccomplex.cfg"
 hash = "d3d102c67f4047b06c25d081247307f15f08ce34eea7be9f9362a22405a4ea25"
 
 [[files]]
+file = "config/renderlib.cfg"
+hash = "8980698b1a88e6deaa052be38f4e82606174c9692a233fc9d3a6f9ed1a553671"
+
+[[files]]
 file = "config/splash.properties"
 hash = "4349ec474195cefbf74b5076b5ec39e9cf211db83d29b5c547e14480e670f59a"
+
+[[files]]
+file = "config/srparasites/SRParasites.cfg"
+hash = "e146b61cca839594d2ebd5b14ebd8637cdf6163639a7f18078b117fd89a45ab4"
+
+[[files]]
+file = "config/srparasites/SRParasitesMobs.cfg"
+hash = "36d1623a3006d0da9ff9f5097e054a365f5877e5f5baa78c18afdae1be13e80e"
+
+[[files]]
+file = "config/srparasites/SRParasitesSystems.cfg"
+hash = "0d07a011854fb8a42a717e015e80455faff8c4baf9c275dd252e67c4f86ca9b9"
+
+[[files]]
+file = "config/srparasites/SRParasitesWorld.cfg"
+hash = "240e583ace2cee39ce2cd0285114dee616b5cdd4d414bd83f2a07b729f1de227"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -138,8 +258,23 @@ hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "7dde40fe909e0755a761db848c2fa6ae83ff9c4ef640c43fa4e29855203e0f1a"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "5da396732a45b3281362756b78c3de650ecd96a00f13c1c755fcec28955d5883"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "ffecbfb48490b9b6b713077e8e2cf89a5a3335cc5d5240ed5e260e962e3eedee"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true
 
 [[files]]
@@ -228,6 +363,11 @@ hash = "998f0e2a56b0b2f5d5e4aa6740f0779a5afd752e922e656c353aec7244783a11"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
 file = "mods/nothirium.pw.toml"
 hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
 metafile = true
@@ -243,8 +383,23 @@ hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
 
 [[files]]
+file = "mods/ores-above-diamonds.pw.toml"
+hash = "f8f3a7823bdd7e8f320a95b1a5efa4a239cd5a36182a1dc05330124a70daf554"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "4731615e45979e1eee2e5439777e6390aba9b8d8bf11c4299723a1659bf5c115"
+metafile = true
+
+[[files]]
+file = "mods/pickle-tweaks.pw.toml"
+hash = "8e04421f03ffe22145eefce3df597f94a591e26832dd0b581a83730e3fd93354"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
@@ -260,6 +415,21 @@ metafile = true
 [[files]]
 file = "mods/scapeandrunparasites.pw.toml"
 hash = "463c2ae2a0ec5334302d0e3daab26a73b764c4cc343fbe9d7fd0e703b3c2799a"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry.pw.toml"
+hash = "3b7b6c25c4e625c673b05145ddb986260d730afbc1b2970f86d19666cc78ccdd"
+metafile = true
+
+[[files]]
+file = "mods/spartans-above-diamonds.pw.toml"
+hash = "c639ce6d24db0df5e2b0bd68f8c2393def39bd3adfb16f0a116e47c3b0071c36"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
 metafile = true
 
 [[files]]
