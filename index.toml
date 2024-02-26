@@ -50,7 +50,19 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/MineMenu.cfg"
-hash = "71cd10cb492d5c5731ea0bdf9629a4999814de70d5cf8b1a011000865116920f"
+hash = "5ff30b5ad38476120050c291b6939066b434c85ddd0d3c6e47a38911ef7e75b9"
+
+[[files]]
+file = "config/defaultoptions.cfg"
+hash = "1cd9e176b04dfd80d71da2b001c71b8d95a427b532316f02dbe5665c1dd1866a"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "00817055a2165f7e1aec554b65b52f012dc23a59cf8630a17225ff162aebd1ae"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "dd453ebdbe0c7dd6e96d59d2e835ac346d341aa1637d870b0a738a568dcae64a"
 
 [[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
@@ -82,7 +94,7 @@ hash = "72e9c506ac77e411ae0f0a21d8d4b979fa0c224219677c7b01deb061cff16dce"
 
 [[files]]
 file = "config/inventoryhud.cfg"
-hash = "5827280ceb757bc59068cba000286571515f4184abf284944d5d8d0cba2f3da2"
+hash = "2d6c525fe261e9e0b322b7afb9deb18a0521c339f8683712cc3310dcd109fbd4"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -209,8 +221,20 @@ file = "config/orelib.cfg"
 hash = "d7cc1cf84412f9e5127ada9bc8619d017788136105a1cccf0ad5b453a123b358"
 
 [[files]]
+file = "config/ores_above_diamonds_1.12.2-v4.2.cfg"
+hash = "43e37f444d34e5948e850ea64b44f6badcf0c15ecfdfecb552a1f32267d7c08f"
+
+[[files]]
 file = "config/particleculling.cfg"
 hash = "3f36eed8c82a3349066a442ab5476276444ef7a0b2193215af4571eb1354b5d5"
+
+[[files]]
+file = "config/pickletweaks.cfg"
+hash = "e972d7f9e7e36bb3139ec00d4ab19fe1a86e4a412e53e73be5daf178c49c6998"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "518b06ff0afb0cebc08a746d6c5ca923869fe89724931762908072727220022e"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -221,8 +245,12 @@ file = "config/renderlib.cfg"
 hash = "8980698b1a88e6deaa052be38f4e82606174c9692a233fc9d3a6f9ed1a553671"
 
 [[files]]
+file = "config/spartanweaponry.cfg"
+hash = "e9fbd74ff5b736d073bd1ed3e20b1c20b1d9c8f547ea3ef3d02d54358c90e5dc"
+
+[[files]]
 file = "config/splash.properties"
-hash = "4349ec474195cefbf74b5076b5ec39e9cf211db83d29b5c547e14480e670f59a"
+hash = "604354d979b705c317afd4d6ca1f5370066016b88cec2f1abd0c6d439590b287"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
@@ -241,6 +269,10 @@ file = "config/srparasites/SRParasitesWorld.cfg"
 hash = "240e583ace2cee39ce2cd0285114dee616b5cdd4d414bd83f2a07b729f1de227"
 
 [[files]]
+file = "config/toastcontrol.cfg"
+hash = "45f5fbced3b98103513288df2ef1808e89699c42f1e4b9d5e1ecfec38bd72449"
+
+[[files]]
 file = "config/vintagefix.properties"
 hash = "54cbf11acdee95f8066ebdac8d860ab8096e7a6457e5d9390e341630c9942b6d"
 
@@ -251,6 +283,10 @@ hash = "a5cbaa918a7cc7758ad0d4f2c000d790144c832eef94347ca0350c3494d2bbd4"
 [[files]]
 file = "images/projectvirulence_title.png"
 hash = "b974a61d43b749058fb9dc165a2eda33db6a578781dcd6c57dc44a3e2707a7bb"
+
+[[files]]
+file = "minemenu/menu.json"
+hash = "c82718854d014b7ebf4f33d5527bfdadaab7ca15789829617a53d5fd5fe95ca0"
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
