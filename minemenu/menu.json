@@ -1,0 +1,69 @@
+{
+  "main": {
+    "0": {
+      "title": "Inspect",
+      "icon": {
+        "name": "modularwarfare:pv.shotgun",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "Inspect",
+          "toggle": false
+        }
+      }
+    },
+    "1": {
+      "title": "Gun Attachments",
+      "icon": {
+        "name": "modularwarfare:tcp.suppressor_normal",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "Attachment Mode",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "Toggle Selection Box",
+      "icon": {
+        "name": "minecraft:glass",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "dshuds.keybind.SelectionBox",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "Light Level",
+      "icon": {
+        "name": "minecraft:redstone_torch",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "dshuds.keybind.LightLevel",
+          "toggle": false
+        }
+      }
+    },
+    "9": {
+      "title": "Open Quiver",
+      "icon": {
+        "name": "spartanweaponry:quiver_arrow_heavy",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.spartanweaponry.access_quiver",
+          "toggle": false
+        }
+      }
+    }
+  }
+}
