@@ -1,0 +1,13 @@
+name = "Particle Culling"
+filename = "particleculling-1.12.2-v1.4.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l7imhLoC/versions/kwzcEeSC/particleculling-1.12.2-v1.4.3.jar"
+hash-format = "sha1"
+hash = "2c4847ca6c7cf1d41ff320943394ff61028c7e72"
+
+[update]
+[update.modrinth]
+mod-id = "l7imhLoC"
+version = "kwzcEeSC"

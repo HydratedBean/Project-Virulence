@@ -1,0 +1,13 @@
+name = "Scape and Run: Parasites"
+filename = "SRParasites-1.12.2v1.9.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MJX7HTHx/versions/sGgSorId/SRParasites-1.12.2v1.9.21.jar"
+hash-format = "sha1"
+hash = "17225b532334c4652a698be3d41d819af2b0f051"
+
+[update]
+[update.modrinth]
+mod-id = "MJX7HTHx"
+version = "sGgSorId"

@@ -1,0 +1,191 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "b88a88ada39f46c4f2f8cf947e6d02bcb7e1d13ec65d2ae342a64a4f9898bd35"
+metafile = true
+
+[[files]]
+file = "mods/backpacked.pw.toml"
+hash = "d957b4143f2333dce8b7bc0edf283e3b9c35abea72cf897e8a289588a7f75d98"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "a9d9db0f7fb2e95f71bb656771c59c2d633a4acd11068f2aebbf982e267fb044"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "1901eae762e0e63ea74a253835c684c9f8ebdc533e2dd2a99a8ffaff92fef58e"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
+
+[[files]]
+file = "mods/default-world-generator-port.pw.toml"
+hash = "6f6027918bcecb2e34dbaf3c221997a2b465fc6bac9ae59eeaca646e09017ea6"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
+metafile = true
+
+[[files]]
+file = "mods/fermiumasm.pw.toml"
+hash = "43a5e7abd61fc7ff85c04fdd60abea1cd5923670cce322f039da73800c15f79c"
+metafile = true
+
+[[files]]
+file = "mods/fermiumbooter.pw.toml"
+hash = "de2c5f203df74a9c65527989e1877e598230ec680afd93d94d97d5e383993b25"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "146ccb001ec0a8e7964ebdf4934c239672360bcd00acdf03c6c81d73b0d65248"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
+metafile = true
+
+[[files]]
+file = "mods/iblis-headshots.pw.toml"
+hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
+metafile = true
+
+[[files]]
+file = "mods/iguanatweaks-reborn.pw.toml"
+hash = "b11cf11571ea62db4c4bf8f77b8728efbe24a447d10c27c53fd7233f5dd661a4"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "839fb48d8e9a49583622859ace3d1b757d88b9d5c0b2f9c20f31eef8445efa1b"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "9ef29d41405c24797713f4220925aa080814d8736f1f894cc41292fa1dcf3b80"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "975c24e4bc73cbd1dc24f3c6b51b435450ab0d69b0ae0bdd4bfb05e78e1de1da"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
+metafile = true
+
+[[files]]
+file = "mods/mixinbooter.pw.toml"
+hash = "622537a24372ed1329b300b9cab2aeb3052ef5b9526fc786dbc55fa248062a93"
+metafile = true
+
+[[files]]
+file = "mods/mixincompat.pw.toml"
+hash = "6dbfbe17c42118e8f916528f36783c86ee3f6634db6579d74bd693965f7abb1f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/no-worldgen-5-you.pw.toml"
+hash = "4dfb629e02b3fd34b960ceffedb965bee8e2f5bfce66557dd6e9f8fd5c00a4f7"
+metafile = true
+
+[[files]]
+file = "mods/nolancheating.pw.toml"
+hash = "f5ab1260d536841def48d4aa374cea1205c1286a79e9074d06241c402d233bc8"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "6dadc3f071dc5ded6ed61cd5b572dc79588cd2ccec46e86b5b4081abff485cfa"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "a11e92e144e4656b57124b3890338d98f9512f9eaac04018316bc8f99d496cbf"
+metafile = true
+
+[[files]]
+file = "mods/scapeandrunparasites.pw.toml"
+hash = "d29a22f1131661f02773c2bf2979e3a4176c4abfeed04564802182814c949481"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "7784b5c3a35938bb31d4334c349c085793a37e0b3fb7cadff59b291204d509ab"
+metafile = true
+
+[[files]]
+file = "mods/sound-filters.pw.toml"
+hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
+metafile = true
+
+[[files]]
+file = "mods/the-lost-cities.pw.toml"
+hash = "0605c683ae32b9562d91aa3a633214510969402cb4d8147938c7805da4584eef"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "752aa89024b720c353c0a8f9ff6c40e89c6c7036873dcf40f85d3f12b004c185"
+metafile = true
+
+[[files]]
+file = "mods/unexperienced.pw.toml"
+hash = "943470df4a88d23d763d764f79f79bb94c3f7b2efa737c27527e346062a6ade0"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "fe41c86ca3aa8459dd4b4f0ee750368a673e3383422e170d93122e0526a8bd3c"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "ef89f215dc193c679db5768a230c4faf7b2dce29168872de8235048cf72acf96"
+metafile = true
+
+[[files]]
+file = "mods/zombie-awareness.pw.toml"
+hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
+hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
+metafile = true

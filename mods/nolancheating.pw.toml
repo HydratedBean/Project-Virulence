@@ -1,0 +1,13 @@
+name = "No LAN Cheating"
+filename = "nolancheating-1.12.2-v1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Knh0brsc/versions/EyxzrjMF/nolancheating-1.12.2-v1.0.jar"
+hash-format = "sha1"
+hash = "fb3213beb4ecd9dbefdb1d2a3b2c0704527c3360"
+
+[update]
+[update.modrinth]
+mod-id = "Knh0brsc"
+version = "EyxzrjMF"
