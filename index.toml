@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/IguanaTweaksReborn.cfg"
+hash = "1d24f4f8fc1697396e02560dcb0440792bb013ec232ed86dafe85a01adda0588"
+
+[[files]]
+file = "config/defaultworldgenerator-port/worldsettings.data"
+hash = "8bfe8a2728ed015a42d1c19316190033083514ee2e166203ef095454882ac6ad"
+
+[[files]]
+file = "config/iblis_headshots.cfg"
+hash = "5d04d5a82f4df04b337798750c17a031be6dbd313f5ef093bbf3eb65b946ddf2"
+
+[[files]]
+file = "config/noworldgen5you.cfg"
+hash = "f53c48023f5e9022ddc5b577f1410d3058c964e60d360f2e628395b39d7d61c1"
+
+[[files]]
+file = "config/unexperienced.cfg"
+hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b88a88ada39f46c4f2f8cf947e6d02bcb7e1d13ec65d2ae342a64a4f9898bd35"
 metafile = true
