@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/IguanaTweaksReborn.cfg"
-hash = "1d24f4f8fc1697396e02560dcb0440792bb013ec232ed86dafe85a01adda0588"
+hash = "6885b70653dbd66bf5f90de550b70ae6553a1bd79ca68fcd0d09340ba6726d64"
 
 [[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
@@ -66,6 +66,16 @@ hash = "de2c5f203df74a9c65527989e1877e598230ec680afd93d94d97d5e383993b25"
 metafile = true
 
 [[files]]
+file = "mods/first-aid.pw.toml"
+hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-darkness.pw.toml"
+hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
 metafile = true
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/mixincompat.pw.toml"
 hash = "6dbfbe17c42118e8f916528f36783c86ee3f6634db6579d74bd693965f7abb1f"
+metafile = true
+
+[[files]]
+file = "mods/mob-sunscreen.pw.toml"
+hash = "381f2a082ab2a661c882c6ed894b9ac22f5a00a3a2e9a2718f7a5e27c9f00fe1"
 metafile = true
 
 [[files]]
