@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "0:1": "backpacked:backpack",
+    "0:3": "minecraft:rabbit_stew",
+    "0:5": "dynamicstealth:handmirror",
+    "0:2": "firstaid:bandage,16",
+    "0:0": "spartanweaponry:throwing_knife_iron,1,0,{AmmoUsed:0,enchChecked:1b,UUIDMost:9126424256162189215L,UUIDLeast:-7933317484544415850L,Original:1b}",
+    "0:4": "minecraft:rabbit_stew"
+  }
+}
