@@ -13,12 +13,32 @@ file = "config/brandon3055/CSG/Config.json"
 hash = "7b88756522f72fe97a9d03007dda041da1d157aa87fa1e051d52add6b9a5aed2"
 
 [[files]]
+file = "config/defaultoptions.cfg"
+hash = "f177ee6ebdbde5e015d422455259f8547719051c9a983656eaa367429d09ed50"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "98e49ede08b4aedb8ffe7c5e17ebfc64f4a61aa6bb0107727e823abd6d620225"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "9b9743fc35a6efd05b7f890d8a3f117abcd04111229d4006ae191491e87191f8"
+
+[[files]]
+file = "config/defaultoptions/optionsof.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "7cef95cd73ae93a252e950f4e5e4976fd6e3dc029e2f9a44719543e5aff6e0ca"
 
 [[files]]
+file = "config/dsurround/dsurround.cfg"
+hash = "e3229ce97151e179ae9676caf949fbe4151f9ed36bb99e5c84dad11c3c8cd38e"
+
+[[files]]
 file = "config/dynamicstealth/1.12.2.095+.cfg"
-hash = "a7908ca0eaebdccc9a21fef3f60f89dc9cddfdba1929c22de9e77b79321a4877"
+hash = "61c55efebc24cb0985a6c399fce12ec4d1e5de1f53f79eca696f035bcb13d921"
 
 [[files]]
 file = "config/firstaid.cfg"
@@ -64,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/custom-starter-gear.pw.toml"
 hash = "dddbe2f0df078972469f1df3861b2f1e50cedc2e18e2c03bbe839f360ac1a0af"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true
 
 [[files]]
