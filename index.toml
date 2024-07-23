@@ -227,11 +227,6 @@ hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
 metafile = true
 
 [[files]]
-file = "mods/obfuscate.pw.toml"
-hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
-metafile = true
-
-[[files]]
 file = "mods/orelib.pw.toml"
 hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
