@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
+
+[[files]]
 file = "ModularWarfare/mod_config.json"
 hash = "2476c0cd5530649675831e717bd4413970d19fba28ff801ccf0c1e7a8c4db0b6"
 
@@ -69,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
+file = "mods/bloodmoon.pw.toml"
+hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
 
 [[files]]
@@ -142,6 +151,11 @@ hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
 metafile = true
 
 [[files]]
+file = "mods/harder-branch-mining.pw.toml"
+hash = "6ba6712840fa0fb2615e49a493713a35e4594895dde1352c6934b5248231bcb3"
+metafile = true
+
+[[files]]
 file = "mods/iblis-headshots.pw.toml"
 hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
 metafile = true
@@ -212,6 +226,11 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
+file = "mods/multi-mine.pw.toml"
+hash = "bc5bee1dfa77341aaba73ee0bfbf44c0cd5c4483445333a2c122622d21bba0d4"
+metafile = true
+
+[[files]]
 file = "mods/no-worldgen-5-you.pw.toml"
 hash = "4dfb629e02b3fd34b960ceffedb965bee8e2f5bfce66557dd6e9f8fd5c00a4f7"
 metafile = true
@@ -257,8 +276,8 @@ hash = "d29a22f1131661f02773c2bf2979e3a4176c4abfeed04564802182814c949481"
 metafile = true
 
 [[files]]
-file = "mods/simply-unbreakable-1-12-2.pw.toml"
-hash = "0f46e21373ea422b26718d3f7b2e987b39e3a5f7f05fb2f2ba08f75bdcbaf768"
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "7784b5c3a35938bb31d4334c349c085793a37e0b3fb7cadff59b291204d509ab"
 metafile = true
 
 [[files]]
