@@ -1,0 +1,13 @@
+name = "Harder Branch Mining"
+filename = "HarderBranchMining-1.12.2-2.0.0.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34660c87f6e5be45309b88b9bbd9742c87c74cbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5630006
+project-id = 361427
