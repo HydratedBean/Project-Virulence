@@ -49,6 +49,10 @@ file = "config/firstaid.cfg"
 hash = "e874cbdcffefa3687af3c75e33a43b417c0cf415adba2d44de13c15c5141cb7a"
 
 [[files]]
+file = "config/harderbranchmining.cfg"
+hash = "1b6ea18f3c0f846c1d54a2f9e5aff555bc47e703b49fdbbb140ba3c2ecc6f077"
+
+[[files]]
 file = "config/iblis_headshots.cfg"
 hash = "5d04d5a82f4df04b337798750c17a031be6dbd313f5ef093bbf3eb65b946ddf2"
 
