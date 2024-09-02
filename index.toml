@@ -125,6 +125,11 @@ hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
 metafile = true
 
 [[files]]
+file = "mods/epic-siege-mod.pw.toml"
+hash = "61a82bc5fc535d4132e78d675344d131a9d05b4c6bb43992eb9c42ef8557b6fb"
+metafile = true
+
+[[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
 metafile = true
