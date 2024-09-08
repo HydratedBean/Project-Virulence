@@ -239,11 +239,6 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
-file = "mods/multi-mine.pw.toml"
-hash = "bc5bee1dfa77341aaba73ee0bfbf44c0cd5c4483445333a2c122622d21bba0d4"
-metafile = true
-
-[[files]]
 file = "mods/no-worldgen-5-you.pw.toml"
 hash = "4dfb629e02b3fd34b960ceffedb965bee8e2f5bfce66557dd6e9f8fd5c00a4f7"
 metafile = true
