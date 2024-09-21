@@ -189,6 +189,11 @@ hash = "ba41617b9c1d2a392be933ffba197856f41ebf870d976ea1e401a2752387ac40"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "339166d6cf1eb1b613cc0a527800dea1adc1f52ca6be581638a5de54e8d7bdeb"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "839fb48d8e9a49583622859ace3d1b757d88b9d5c0b2f9c20f31eef8445efa1b"
 metafile = true
