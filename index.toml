@@ -45,6 +45,10 @@ file = "config/dynamicstealth/1.12.2.095+.cfg"
 hash = "61c55efebc24cb0985a6c399fce12ec4d1e5de1f53f79eca696f035bcb13d921"
 
 [[files]]
+file = "config/epicsiegemod.cfg"
+hash = "0a248d03cd7366f1d1f352feec2c6ad930555dde851ea0bd9c6538d50314eb76"
+
+[[files]]
 file = "config/firstaid.cfg"
 hash = "e874cbdcffefa3687af3c75e33a43b417c0cf415adba2d44de13c15c5141cb7a"
 
@@ -125,6 +129,16 @@ hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
 metafile = true
 
 [[files]]
+file = "mods/epic-siege-mod.pw.toml"
+hash = "61a82bc5fc535d4132e78d675344d131a9d05b4c6bb43992eb9c42ef8557b6fb"
+metafile = true
+
+[[files]]
+file = "mods/ex-nihilo-creatio.pw.toml"
+hash = "1cb500fac0079f6cb958dd9a6f58b4eaf8466a6af7ad3530d505037f35bc5d16"
+metafile = true
+
+[[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
 metafile = true
@@ -172,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-combat.pw.toml"
 hash = "ba41617b9c1d2a392be933ffba197856f41ebf870d976ea1e401a2752387ac40"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "339166d6cf1eb1b613cc0a527800dea1adc1f52ca6be581638a5de54e8d7bdeb"
 metafile = true
 
 [[files]]
@@ -230,11 +249,6 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
-file = "mods/multi-mine.pw.toml"
-hash = "bc5bee1dfa77341aaba73ee0bfbf44c0cd5c4483445333a2c122622d21bba0d4"
-metafile = true
-
-[[files]]
 file = "mods/no-worldgen-5-you.pw.toml"
 hash = "4dfb629e02b3fd34b960ceffedb965bee8e2f5bfce66557dd6e9f8fd5c00a4f7"
 metafile = true
@@ -282,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "7784b5c3a35938bb31d4334c349c085793a37e0b3fb7cadff59b291204d509ab"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
