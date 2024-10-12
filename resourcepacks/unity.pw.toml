@@ -1,0 +1,13 @@
+name = "Unity"
+filename = "Unity-1.6.4-1.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "266fe7b6bc6b2bad38bedf84094088faf7dc7aa7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2576530
+project-id = 222097
