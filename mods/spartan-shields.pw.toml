@@ -1,0 +1,13 @@
+name = "Spartan Shields"
+filename = "SpartanShields-1.12.2-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W5rjEyqs/versions/1.5.5/SpartanShields-1.12.2-1.5.5.jar"
+hash-format = "sha1"
+hash = "89faa64364dfaa6799392e8f71da95e7b5af1144"
+
+[update]
+[update.modrinth]
+mod-id = "W5rjEyqs"
+version = "PpoSqemC"

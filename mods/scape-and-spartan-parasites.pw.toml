@@ -1,13 +1,13 @@
 name = "Scape and Spartan: Parasites"
-filename = "swparasites-v1.1.jar"
+filename = "swparasites-v3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d59fc90a8a28f71c3a082c076f2e6ebafedde251"
+hash = "78239ae1c7d947296d5d9351d2b17659afb1d71a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5365880
+file-id = 5691474
 project-id = 1017208

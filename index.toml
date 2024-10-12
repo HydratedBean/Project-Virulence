@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/scape-and-spartan-parasites.pw.toml"
-hash = "79548f8dba766d7fdad521d890962aa196b7f0514b29a734c7ac5faa0069b422"
+hash = "98e4a8ffc4c0d8018a6f2e7f068ee209ae89f8c2fee61c29848774a28cff8062"
 metafile = true
 
 [[files]]
@@ -309,8 +309,13 @@ hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
 metafile = true
 
 [[files]]
+file = "mods/spartan-shields.pw.toml"
+hash = "bd572a46699d751f4aa35062de06410892b964db3558ef8254f9b2a6283e1e83"
+metafile = true
+
+[[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "3b7b6c25c4e625c673b05145ddb986260d730afbc1b2970f86d19666cc78ccdd"
+hash = "9640925f3578a1bd4031d7013f4d0af82bc3cd7a31272baa1d90ecc282cb7a01"
 metafile = true
 
 [[files]]
@@ -346,4 +351,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
 hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+hash = "c61b32cd7681185ed85ff00f41aff76fba955d6f0320bf50da7a8a49cf9d094e"
 metafile = true
