@@ -284,6 +284,11 @@ hash = "a11e92e144e4656b57124b3890338d98f9512f9eaac04018316bc8f99d496cbf"
 metafile = true
 
 [[files]]
+file = "mods/scape-and-run-meshi.pw.toml"
+hash = "abb7fd53b4d9f2b42b9309fc386379b36de7a28a5954b5389703cf745f616e6b"
+metafile = true
+
+[[files]]
 file = "mods/scape-and-spartan-parasites.pw.toml"
 hash = "98e4a8ffc4c0d8018a6f2e7f068ee209ae89f8c2fee61c29848774a28cff8062"
 metafile = true
