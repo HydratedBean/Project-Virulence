@@ -184,11 +184,6 @@ hash = "b11cf11571ea62db4c4bf8f77b8728efbe24a447d10c27c53fd7233f5dd661a4"
 metafile = true
 
 [[files]]
-file = "mods/immersive-combat.pw.toml"
-hash = "ba41617b9c1d2a392be933ffba197856f41ebf870d976ea1e401a2752387ac40"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "339166d6cf1eb1b613cc0a527800dea1adc1f52ca6be581638a5de54e8d7bdeb"
 metafile = true
