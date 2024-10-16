@@ -69,6 +69,11 @@ file = "config/unexperienced.cfg"
 hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
 
 [[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b88a88ada39f46c4f2f8cf947e6d02bcb7e1d13ec65d2ae342a64a4f9898bd35"
 metafile = true
@@ -81,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
+metafile = true
+
+[[files]]
+file = "mods/blahajasm.pw.toml"
+hash = "1451cc038fc02b940d2fe9d34bae8ac904f5f65cadf7d40c6d0cfb2cb3cbf91e"
 metafile = true
 
 [[files]]
@@ -144,16 +154,6 @@ hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
 metafile = true
 
 [[files]]
-file = "mods/fermiumasm.pw.toml"
-hash = "43a5e7abd61fc7ff85c04fdd60abea1cd5923670cce322f039da73800c15f79c"
-metafile = true
-
-[[files]]
-file = "mods/fermiumbooter.pw.toml"
-hash = "de2c5f203df74a9c65527989e1877e598230ec680afd93d94d97d5e383993b25"
-metafile = true
-
-[[files]]
 file = "mods/first-aid.pw.toml"
 hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
 metafile = true
@@ -214,8 +214,8 @@ hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
 metafile = true
 
 [[files]]
-file = "mods/mixinbooter.pw.toml"
-hash = "622537a24372ed1329b300b9cab2aeb3052ef5b9526fc786dbc55fa248062a93"
+file = "mods/mixin-booter.pw.toml"
+hash = "105fc73e223d1a9ef35ec2b37aefabb2f1b95dea81d52f2147702771c9042a33"
 metafile = true
 
 [[files]]
@@ -274,6 +274,11 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
+file = "mods/red-core.pw.toml"
+hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
+metafile = true
+
+[[files]]
 file = "mods/renderlib.pw.toml"
 hash = "a11e92e144e4656b57124b3890338d98f9512f9eaac04018316bc8f99d496cbf"
 metafile = true
@@ -321,11 +326,6 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
-metafile = true
-
-[[files]]
-file = "mods/the-lost-cities.pw.toml"
-hash = "0605c683ae32b9562d91aa3a633214510969402cb4d8147938c7805da4584eef"
 metafile = true
 
 [[files]]
