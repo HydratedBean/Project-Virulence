@@ -34,7 +34,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
-hash = "7cef95cd73ae93a252e950f4e5e4976fd6e3dc029e2f9a44719543e5aff6e0ca"
+hash = "ac7c348f69dcbf19ff7f0bbd6b3a5096e5077432eaedae099cdb15c107710197"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
