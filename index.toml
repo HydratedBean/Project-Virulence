@@ -49,10 +49,6 @@ file = "config/epicsiegemod.cfg"
 hash = "0a248d03cd7366f1d1f352feec2c6ad930555dde851ea0bd9c6538d50314eb76"
 
 [[files]]
-file = "config/firstaid.cfg"
-hash = "d90e9b8406f674081a84a8269d7cd9c47e9a8ee04ee74590fed9ad5ffba76b0c"
-
-[[files]]
 file = "config/harderbranchmining.cfg"
 hash = "1b6ea18f3c0f846c1d54a2f9e5aff555bc47e703b49fdbbb140ba3c2ecc6f077"
 
