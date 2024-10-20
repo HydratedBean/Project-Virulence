@@ -13,6 +13,10 @@ file = "config/IguanaTweaksReborn.cfg"
 hash = "6885b70653dbd66bf5f90de550b70ae6553a1bd79ca68fcd0d09340ba6726d64"
 
 [[files]]
+file = "config/bettercombatmod.cfg"
+hash = "d5a023ba5487b21988c24f5318ad861c99116859e948bbb6d7c3507644b4715b"
+
+[[files]]
 file = "config/brandon3055/CSG/Config.json"
 hash = "7b88756522f72fe97a9d03007dda041da1d157aa87fa1e051d52add6b9a5aed2"
 
