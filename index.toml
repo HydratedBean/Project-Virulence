@@ -38,7 +38,7 @@ hash = "ac7c348f69dcbf19ff7f0bbd6b3a5096e5077432eaedae099cdb15c107710197"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "a54766812cc233711d2a82380e27372858d8fd9ca370d91280a18a7c0b89cc31"
+hash = "e3229ce97151e179ae9676caf949fbe4151f9ed36bb99e5c84dad11c3c8cd38e"
 
 [[files]]
 file = "config/dynamicstealth/1.12.2.095+.cfg"
@@ -147,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
+metafile = true
+
+[[files]]
+file = "mods/fermiumbooter.pw.toml"
+hash = "0e3b0bc5908955eef7b2f6593dbab8e47f89ea66fa48fcd205328d794798e4d5"
 metafile = true
 
 [[files]]
@@ -265,8 +270,18 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
+file = "mods/reach-fix.pw.toml"
+hash = "e8fef717ef2bb8ba83f2022f11c311dd8a1cd356dc03d8c106a625e198cd03e5"
+metafile = true
+
+[[files]]
 file = "mods/red-core.pw.toml"
 hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
+metafile = true
+
+[[files]]
+file = "mods/rlcombat.pw.toml"
+hash = "5707280ab4de2579de339b05dab2f6dc2f48999466b2e5d133c6d1905b2f9c08"
 metafile = true
 
 [[files]]
