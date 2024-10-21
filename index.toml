@@ -114,6 +114,11 @@ hash = "dddbe2f0df078972469f1df3861b2f1e50cedc2e18e2c03bbe839f360ac1a0af"
 metafile = true
 
 [[files]]
+file = "mods/damage-tilt.pw.toml"
+hash = "625b150e7070043d16446738e23a9326fd66aad8cb426f4693783ecd00c817a5"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
 metafile = true
