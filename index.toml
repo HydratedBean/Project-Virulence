@@ -319,6 +319,11 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/simply-unbreakable-1-12-2.pw.toml"
+hash = "0f46e21373ea422b26718d3f7b2e987b39e3a5f7f05fb2f2ba08f75bdcbaf768"
+metafile = true
+
+[[files]]
 file = "mods/sound-filters.pw.toml"
 hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
 metafile = true
