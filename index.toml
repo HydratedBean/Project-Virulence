@@ -17,10 +17,6 @@ file = "config/bettercombatmod.cfg"
 hash = "d5a023ba5487b21988c24f5318ad861c99116859e948bbb6d7c3507644b4715b"
 
 [[files]]
-file = "config/brandon3055/CSG/Config.json"
-hash = "7b88756522f72fe97a9d03007dda041da1d157aa87fa1e051d52add6b9a5aed2"
-
-[[files]]
 file = "config/defaultoptions.cfg"
 hash = "f177ee6ebdbde5e015d422455259f8547719051c9a983656eaa367429d09ed50"
 
@@ -79,11 +75,6 @@ hash = "b88a88ada39f46c4f2f8cf947e6d02bcb7e1d13ec65d2ae342a64a4f9898bd35"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "d957b4143f2333dce8b7bc0edf283e3b9c35abea72cf897e8a289588a7f75d98"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -106,11 +97,6 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
-metafile = true
-
-[[files]]
-file = "mods/custom-starter-gear.pw.toml"
-hash = "dddbe2f0df078972469f1df3861b2f1e50cedc2e18e2c03bbe839f360ac1a0af"
 metafile = true
 
 [[files]]
