@@ -155,11 +155,6 @@ hash = "77f6eba7bcfcac39409a6d708742f7b1a0265d3f8988364101029daf63109f50"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-darkness.pw.toml"
-hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
-metafile = true
-
-[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
 metafile = true
