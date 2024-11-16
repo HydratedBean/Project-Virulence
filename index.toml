@@ -66,7 +66,7 @@ hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "38b628f90818b2e90a98f718b8841f02ae98516a56f821321857187a602e311f"
+hash = "7982f6e824230578e2cf597be16e362a6e593ac1a6edeeb7408378f063b5c4cd"
 metafile = true
 
 [[files]]
@@ -77,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
-metafile = true
-
-[[files]]
-file = "mods/blahajasm.pw.toml"
-hash = "1451cc038fc02b940d2fe9d34bae8ac904f5f65cadf7d40c6d0cfb2cb3cbf91e"
 metafile = true
 
 [[files]]
@@ -131,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/epic-siege-mod.pw.toml"
-hash = "61a82bc5fc535d4132e78d675344d131a9d05b4c6bb43992eb9c42ef8557b6fb"
+hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
 metafile = true
 
 [[files]]
@@ -145,8 +140,13 @@ hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
 metafile = true
 
 [[files]]
+file = "mods/fermiumasm.pw.toml"
+hash = "80be94087c87a612483f59263ef766599b690ddf98c770909b286b610093a826"
+metafile = true
+
+[[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "0e3b0bc5908955eef7b2f6593dbab8e47f89ea66fa48fcd205328d794798e4d5"
+hash = "46d6e1ee38386dc5891a365d028e161a8f12b905bc6fb1e1b9c7815aa36a6089"
 metafile = true
 
 [[files]]
@@ -157,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
-metafile = true
-
-[[files]]
-file = "mods/harder-branch-mining.pw.toml"
-hash = "6ba6712840fa0fb2615e49a493713a35e4594895dde1352c6934b5248231bcb3"
 metafile = true
 
 [[files]]
@@ -176,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
-hash = "339166d6cf1eb1b613cc0a527800dea1adc1f52ca6be581638a5de54e8d7bdeb"
+hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
 metafile = true
 
 [[files]]
@@ -186,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9ef29d41405c24797713f4220925aa080814d8736f1f894cc41292fa1dcf3b80"
+hash = "f188ad857ac9af9451ae7839d8ef5dedd1c0e4f9891e14639ceb168d92d6f7fd"
 metafile = true
 
 [[files]]
@@ -206,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "105fc73e223d1a9ef35ec2b37aefabb2f1b95dea81d52f2147702771c9042a33"
+hash = "f50f6d7f8fb9a8cbeaa61b2ef04d0028d0999af789ae6946d769b66a0464bc2b"
 metafile = true
 
 [[files]]
@@ -266,22 +261,17 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
+hash = "4eff071ea2fbac18f5a6905547ad9f6abd66619c8f166d627aa9ccdca2c13c6b"
 metafile = true
 
 [[files]]
 file = "mods/rlcombat.pw.toml"
-hash = "5707280ab4de2579de339b05dab2f6dc2f48999466b2e5d133c6d1905b2f9c08"
-metafile = true
-
-[[files]]
-file = "mods/scape-and-run-meshi.pw.toml"
-hash = "abb7fd53b4d9f2b42b9309fc386379b36de7a28a5954b5389703cf745f616e6b"
+hash = "7aa11c13e5cf56a6249688830548b76788278c4c81bcf409ff5a4262861053b4"
 metafile = true
 
 [[files]]
 file = "mods/scape-and-spartan-parasites.pw.toml"
-hash = "98e4a8ffc4c0d8018a6f2e7f068ee209ae89f8c2fee61c29848774a28cff8062"
+hash = "3fcb6fc9345bc21d9419a69f19a3aac8a5701c7e6bb20a8d9766352615a6bb19"
 metafile = true
 
 [[files]]
@@ -341,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "fe41c86ca3aa8459dd4b4f0ee750368a673e3383422e170d93122e0526a8bd3c"
+hash = "50866cb43ce184b741eb94a00a550b9271901c90112e22de2f44b050eba7ad4b"
 metafile = true
 
 [[files]]
@@ -356,5 +346,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unity.pw.toml"
-hash = "c61b32cd7681185ed85ff00f41aff76fba955d6f0320bf50da7a8a49cf9d094e"
+hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
 metafile = true
