@@ -1,13 +1,13 @@
 name = "Just Enough Items"
-filename = "jei_1.12.2-4.16.1.301.jar"
+filename = "jei_1.12.2-4.16.1.1013.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/njepWG0M/jei_1.12.2-4.16.1.301.jar"
-hash-format = "sha1"
-hash = "3045e8440ea44071d8b83c4e7b3c190348fdc527"
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/MO021mIp/jei_1.12.2-4.16.1.1013.jar"
+hash-format = "sha512"
+hash = "a821983c9920e6ac3f70d3175fcb612030c01b8c3fb3247c24856dc76e9befcc0ea61eb564bd7a918d58336221602e67e5cc4af84c63e50768029815a5a22442"
 
 [update]
 [update.modrinth]
 mod-id = "u6dRKJwZ"
-version = "njepWG0M"
+version = "MO021mIp"

@@ -3,11 +3,11 @@ filename = "`FermiumBooter-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c62eb3446c827f02c9f3130fbb37991cea616fb9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/e00stJKZ/versions/fMrLStT2/%60FermiumBooter-1.1.1.jar"
+hash-format = "sha512"
+hash = "ef511fcd34c3dd6939f07f0fffe6c9f175a2a140dd7243e1831a30ce7e75e434b42498382a4f467fe55f7fea352548e1d826dd5930ce8091aad2320ac514d48d"
 
 [update]
-[update.curseforge]
-file-id = 5672830
-project-id = 968474
+[update.modrinth]
+mod-id = "e00stJKZ"
+version = "fMrLStT2"
