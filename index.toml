@@ -240,6 +240,11 @@ hash = "f5ab1260d536841def48d4aa374cea1205c1286a79e9074d06241c402d233bc8"
 metafile = true
 
 [[files]]
+file = "mods/nothirium.pw.toml"
+hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
+metafile = true
+
+[[files]]
 file = "mods/orelib.pw.toml"
 hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/red-core.pw.toml"
 hash = "4eff071ea2fbac18f5a6905547ad9f6abd66619c8f166d627aa9ccdca2c13c6b"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "5b65213d7179d07ab308e4a108b53d5d3fc4caef98efd4fef64ddaaeaf489400"
 metafile = true
 
 [[files]]
