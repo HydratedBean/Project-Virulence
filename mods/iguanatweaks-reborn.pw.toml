@@ -1,0 +1,13 @@
+name = "IguanaTweaks Reborn"
+filename = "IguanaTweaksReborn-1.5.2-mc1.12.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad81ee92a1a795cda09de97a28a2f837fd0e06bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3283799
+project-id = 285690
