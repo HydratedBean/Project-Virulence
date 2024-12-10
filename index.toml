@@ -105,6 +105,11 @@ hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "7243df226f4079685bab9cfef4cdc80b3552ee746d610bca0be46bd01cd44291"
+metafile = true
+
+[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "625b150e7070043d16446738e23a9326fd66aad8cb426f4693783ecd00c817a5"
 metafile = true
@@ -275,6 +280,11 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
+file = "mods/punch-me-not.pw.toml"
+hash = "528d499aabf24d2acb8a6818426028df2065211cf83069215b0824142b0180c6"
+metafile = true
+
+[[files]]
 file = "mods/reach-fix.pw.toml"
 hash = "e8fef717ef2bb8ba83f2022f11c311dd8a1cd356dc03d8c106a625e198cd03e5"
 metafile = true
@@ -393,3 +403,7 @@ metafile = true
 file = "resourcepacks/unity.pw.toml"
 hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
 metafile = true
+
+[[files]]
+file = "scripts/recipes.zs"
+hash = "8d61a737bd603e891e7d33e549b4690534a4f25c40e5cf0340696ac49a523baf"
