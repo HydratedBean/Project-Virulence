@@ -1,0 +1,13 @@
+name = "Modernity"
+filename = "Modernity-f3-3.10.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58babf749ab21af4a9a7c7f77ddce91e430ebedb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5789809
+project-id = 300317
