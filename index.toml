@@ -21,6 +21,14 @@ file = "config/bettercombatmod.cfg"
 hash = "d5a023ba5487b21988c24f5318ad861c99116859e948bbb6d7c3507644b4715b"
 
 [[files]]
+file = "config/cofh/world/00_minecraft.json"
+hash = "8a837fec674fe5b4a004804bbc245d648ef3674f7c78f0f89c1eb09124ce077d"
+
+[[files]]
+file = "config/cofh/world/config.cfg"
+hash = "ea06351fcfc8f2891fa509e9f9f07ac4793edc391e4dcf5344478cfe2c21c974"
+
+[[files]]
 file = "config/defaultoptions.cfg"
 hash = "f177ee6ebdbde5e015d422455259f8547719051c9a983656eaa367429d09ed50"
 
@@ -102,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
