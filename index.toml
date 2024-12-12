@@ -90,6 +90,11 @@ hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
+file = "mods/asmc.pw.toml"
+hash = "d22688df11872272ad08732584de0c4a50193e3f0e3b156e0d1c4eaedf0a1de2"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -190,6 +195,11 @@ hash = "839fb48d8e9a49583622859ace3d1b757d88b9d5c0b2f9c20f31eef8445efa1b"
 metafile = true
 
 [[files]]
+file = "mods/itemzoom.pw.toml"
+hash = "dd837a22df3ea453629c63743442c8d75e7fd8f1bbace8f2b764c27391cb83fc"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "f188ad857ac9af9451ae7839d8ef5dedd1c0e4f9891e14639ceb168d92d6f7fd"
 metafile = true
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/neverenoughanimation.pw.toml"
+hash = "72e444908f254023edd03c903162d19929f533bea64c21c1e1b69ee1830bd20c"
 metafile = true
 
 [[files]]
