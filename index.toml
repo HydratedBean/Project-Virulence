@@ -413,11 +413,6 @@ hash = "50866cb43ce184b741eb94a00a550b9271901c90112e22de2f44b050eba7ad4b"
 metafile = true
 
 [[files]]
-file = "mods/waterskin.pw.toml"
-hash = "90476c32853fcefbe2bbfa40857c79701a5df5d734b7a35e2a95af318cb6fea4"
-metafile = true
-
-[[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
