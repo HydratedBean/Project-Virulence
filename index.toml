@@ -123,6 +123,11 @@ hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "7243df226f4079685bab9cfef4cdc80b3552ee746d610bca0be46bd01cd44291"
 metafile = true
@@ -134,12 +139,12 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
+hash = "2d93ed5044fafbbabeab41598ff9de1ed8234e9e43f6330a4c5c090836f9b834"
 metafile = true
 
 [[files]]
 file = "mods/default-world-generator-port.pw.toml"
-hash = "6f6027918bcecb2e34dbaf3c221997a2b465fc6bac9ae59eeaca646e09017ea6"
+hash = "23be1e66b63c7b7a887032650b48c907a69aca417a6f6663bb43626fc696b778"
 metafile = true
 
 [[files]]
@@ -149,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "2d482b40072462ca65ca75ac3e475137d2c9871bb3fe678484b759b55f0d85cc"
+hash = "65170142f7f13aabed317c8f730c55406fb99ddcc77a46f5fcd12a4577204c96"
 metafile = true
 
 [[files]]
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
-hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
+hash = "6f0f0279ebcea34ed9caca99a10130e3e94f1fc2199155185a31fa7e29a84a59"
 metafile = true
 
 [[files]]
@@ -209,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemzoom.pw.toml"
-hash = "dd837a22df3ea453629c63743442c8d75e7fd8f1bbace8f2b764c27391cb83fc"
+hash = "55fe557779bafe6d40b3e251d301a9c1cfe7a61059c16f3b07f9e6710609d432"
 metafile = true
 
 [[files]]
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]
@@ -284,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/nothirium.pw.toml"
-hash = "388bcf63c6501be62387d89f6b702b4a1916e3517437c82f0e16e655da6bca00"
+hash = "d989889ad15e00afaa80373c425ab0b514bfb71388504be089518a1300d75aae"
 metafile = true
 
 [[files]]
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/renderlib.pw.toml"
-hash = "5b65213d7179d07ab308e4a108b53d5d3fc4caef98efd4fef64ddaaeaf489400"
+hash = "c7ddef34666ce7837957d261422a0e8252fcdc3dd8fbd6ab3ed470c43541a01b"
 metafile = true
 
 [[files]]
@@ -359,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-filters.pw.toml"
-hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
+hash = "f111153fa99abf794602fb50a853d1f8f05c1acbbca099d813389564cd4ead3d"
 metafile = true
 
 [[files]]
@@ -405,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "50866cb43ce184b741eb94a00a550b9271901c90112e22de2f44b050eba7ad4b"
-metafile = true
-
-[[files]]
-file = "mods/waterskin.pw.toml"
-hash = "90476c32853fcefbe2bbfa40857c79701a5df5d734b7a35e2a95af318cb6fea4"
 metafile = true
 
 [[files]]
