@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "7982f6e824230578e2cf597be16e362a6e593ac1a6edeeb7408378f063b5c4cd"
+hash = "5db04ae4861c21151ceaee3a2b66684aed1461acdcb609a9e249c1187fa6d303"
 metafile = true
 
 [[files]]
@@ -238,6 +238,11 @@ hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
 metafile = true
 
 [[files]]
+file = "mods/mini-effects.pw.toml"
+hash = "a7ab61befb744dab46fb64068e7c7709f3ce20b6cefcc0f28a470d76594e506f"
+metafile = true
+
+[[files]]
 file = "mods/mixin-booter.pw.toml"
 hash = "f50f6d7f8fb9a8cbeaa61b2ef04d0028d0999af789ae6946d769b66a0464bc2b"
 metafile = true
@@ -334,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/rlcombat.pw.toml"
-hash = "7aa11c13e5cf56a6249688830548b76788278c4c81bcf409ff5a4262861053b4"
+hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
 metafile = true
 
 [[files]]
