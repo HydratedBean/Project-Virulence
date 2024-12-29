@@ -1,0 +1,13 @@
+name = "Pam's BreadCraft - Pam's HarvestCraft Addon"
+filename = "Pam's+BreadCraft+1.12.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8a6fbcfed905877f1513daf23c27f0a262475b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3332835
+project-id = 446100
