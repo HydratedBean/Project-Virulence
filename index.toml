@@ -73,6 +73,10 @@ file = "config/unexperienced.cfg"
 hash = "d7d8d4142451c0ad174a754ffb8333a8ff46581805443f6bbf26f83979467a89"
 
 [[files]]
+file = "mods/Nutrition-1.12.2-4.9.0.jar"
+hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
+
+[[files]]
 file = "mods/alcatrazcore.pw.toml"
 hash = "0dcea6e8171157d25594d8cae90d785ebf40cb538aa652e58e42516812adc8c4"
 metafile = true
@@ -303,6 +307,16 @@ hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
 
 [[files]]
+file = "mods/pams-breadcraft.pw.toml"
+hash = "de9d22c42e4b1350256cca18e2dba09345bc8ca4fd17e2312e7bfee2ea02312f"
+metafile = true
+
+[[files]]
+file = "mods/pams-brewcraft.pw.toml"
+hash = "f4bcd2ae2ba8d45686366da82ca98da0aeda3c50f8c9d07f0f11a7969c321782"
+metafile = true
+
+[[files]]
 file = "mods/pams-harvestcraft.pw.toml"
 hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
@@ -383,13 +397,13 @@ hash = "9640925f3578a1bd4031d7013f4d0af82bc3cd7a31272baa1d90ecc282cb7a01"
 metafile = true
 
 [[files]]
-file = "mods/swingthroughgrass.pw.toml"
-hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "3c488bc1200c41f69e61d86b87389afcd936fac6e9378df07961458cb1f459de"
 metafile = true
 
 [[files]]
-file = "mods/the-spice-of-life.pw.toml"
-hash = "aae7752ff23773d2dd0a2720d6dc4c97abac4a9560bd2f75b879407d4847231f"
+file = "mods/swingthroughgrass.pw.toml"
+hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
