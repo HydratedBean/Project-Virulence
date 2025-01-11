@@ -447,10 +447,5 @@ hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unity.pw.toml"
-hash = "69e82afeb9a001deeec9d170197269429ca9b028eb57c7c1e254061c493e5e20"
-metafile = true
-
-[[files]]
 file = "scripts/recipes.zs"
 hash = "9ebea5c3a3c6d7f871f000954e964cf0a510be6b2d84e467a6cec85d5b54445c"
