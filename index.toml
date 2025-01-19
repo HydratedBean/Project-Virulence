@@ -9,12 +9,20 @@ file = "ModularWarfare/mod_config.json"
 hash = "2476c0cd5530649675831e717bd4413970d19fba28ff801ccf0c1e7a8c4db0b6"
 
 [[files]]
+file = "config/IguanaTweaksReborn.cfg"
+hash = "3d2a9a64e887cfe9fb1d43f15bfeecf17a93b38c826170fd2e7f48beabb7c97d"
+
+[[files]]
 file = "config/aquaacrobatics_core.cfg"
 hash = "2b34ba14a25600ebdb49ebb6fd5de4623114c524abf2e73852553461d6552127"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
 hash = "d5a023ba5487b21988c24f5318ad861c99116859e948bbb6d7c3507644b4715b"
+
+[[files]]
+file = "config/darkness.cfg"
+hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
 
 [[files]]
 file = "config/defaultoptions.cfg"
@@ -146,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/dtphc.pw.toml"
 hash = "3bf8c73951670419fba5b7e367aeb9c67054355fc83b058b009a4f4bebdee75b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-darkness.pw.toml"
+hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
 metafile = true
 
 [[files]]
