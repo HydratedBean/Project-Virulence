@@ -65,6 +65,10 @@ file = "config/instantunify.cfg"
 hash = "baee270e3320c1f18af81cbcf7177096262e3213d21ad6bcd9bf293c0a175f68"
 
 [[files]]
+file = "config/mekanism.cfg"
+hash = "4c47b2d442810f42af7e578ee3819b5123889802a0f2d3d3b06224b9704c691f"
+
+[[files]]
 file = "config/unexperienced.cfg"
 hash = "d7d8d4142451c0ad174a754ffb8333a8ff46581805443f6bbf26f83979467a89"
 
