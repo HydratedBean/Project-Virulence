@@ -488,8 +488,12 @@ hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
 
 [[files]]
+file = "resources/minecraft/textures/gui/options_background.png"
+hash = "aab9c5a8c24498cf7b1daaab3fb7a9f6bc8132dc40dfe0c2af432822603bf9f8"
+
+[[files]]
 file = "resources/minecraft/textures/gui/widgets.png"
-hash = "b85cf0679ccad75e9082946886a650a477a3a25e0319a9aebd7e429dcfe22d34"
+hash = "fca79fb02ff7b621bdbc9601ff4da8ccba7990d55abe081df7cfd3e7b2b79e9f"
 
 [[files]]
 file = "resources/projectvirulence/backgrounds/01.png"
