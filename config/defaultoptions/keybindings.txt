@@ -31,15 +31,9 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
-key_keybinds.show_wounds:35:NONE
-key_key.fastEquip.desc:45:NONE
+key_key.death_history:22:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
-key_key.toastcontrol.clear:36:NONE
-key_treechop.key.toggle_chopping:0:NONE
-key_treechop.key.toggle_felling:0:NONE
-key_treechop.key.cycle_sneak_behavior:0:NONE
-key_treechop.key.open_settings_overlay:0:NONE
-key_key.backpack:48:NONE
+key_key.toastcontrol.clear:0:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -51,6 +45,19 @@ key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_waila.keybind.wailaconfig:82:NONE
+key_waila.keybind.wailadisplay:79:NONE
+key_waila.keybind.liquid:80:NONE
+key_waila.keybind.recipe:81:NONE
+key_waila.keybind.usage:75:NONE
+key_key.itemzoom.toggle:44:SHIFT
+key_key.itemzoom.hold:0:NONE
+key_key.itemzoom.zoom.in:0:NONE
+key_key.itemzoom.zoom.out:0:NONE
+key_mekanism.key.mode:36:NONE
+key_mekanism.key.armorMode:34:NONE
+key_mekanism.key.feetMode:35:NONE
+key_mekanism.key.voice:37:NONE
 key_Reload Gun:19:NONE
 key_Reload Client:67:NONE
 key_Fire Mode:47:NONE
@@ -64,4 +71,7 @@ key_Right (Attach mode):205:NONE
 key_Up (Attach mode):200:NONE
 key_Down (Attach mode):208:NONE
 key_Debug Mode:68:NONE
+key_key.nutrition:39:NONE
+key_key.sort_config:0:NONE
+key_key.sort:-98:NONE
 key_key.entityculling.toggle:-1:NONE
