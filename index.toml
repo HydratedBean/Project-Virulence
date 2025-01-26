@@ -30,11 +30,11 @@ hash = "f177ee6ebdbde5e015d422455259f8547719051c9a983656eaa367429d09ed50"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "98e49ede08b4aedb8ffe7c5e17ebfc64f4a61aa6bb0107727e823abd6d620225"
+hash = "bcfdb71c961be7f67f989b98416a5170edf2f52ce822d1be1a232e033d0ca88f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "9b9743fc35a6efd05b7f890d8a3f117abcd04111229d4006ae191491e87191f8"
+hash = "1d3106af17b075a1ded28167b4ce67a396936696ebd62fb3c7d7f91833bba556"
 
 [[files]]
 file = "config/defaultoptions/optionsof.txt"
@@ -71,6 +71,10 @@ hash = "4c47b2d442810f42af7e578ee3819b5123889802a0f2d3d3b06224b9704c691f"
 [[files]]
 file = "config/notreepunching.cfg"
 hash = "f0d15915a9c4e7b4a3511567563220984f74f4d9e2bf3a9badac0d0bf22eb4cb"
+
+[[files]]
+file = "config/srparasites/SRParasites.cfg"
+hash = "87efdc812d8ca9718b7e4a4d9ce722127fd78896a69d1f5d2100cbb8e6723267"
 
 [[files]]
 file = "config/unexperienced.cfg"
