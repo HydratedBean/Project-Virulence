@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CustomMainMenu/mainmenu.json"
-hash = "033265bfa61d15852f84f423db00ecd5541e67572e7090f4907b46f73498e4fb"
-
-[[files]]
 file = "LICENSE"
 hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
 
 [[files]]
 file = "ModularWarfare/mod_config.json"
 hash = "2476c0cd5530649675831e717bd4413970d19fba28ff801ccf0c1e7a8c4db0b6"
+
+[[files]]
+file = "config/CustomMainMenu/mainmenu.json"
+hash = "033265bfa61d15852f84f423db00ecd5541e67572e7090f4907b46f73498e4fb"
 
 [[files]]
 file = "config/IguanaTweaksReborn.cfg"
