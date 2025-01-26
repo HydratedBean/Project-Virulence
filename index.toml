@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomMainMenu/mainmenu.json"
+hash = "033265bfa61d15852f84f423db00ecd5541e67572e7090f4907b46f73498e4fb"
+
+[[files]]
 file = "LICENSE"
 hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
 
@@ -144,6 +148,11 @@ hash = "7243df226f4079685bab9cfef4cdc80b3552ee746d610bca0be46bd01cd44291"
 metafile = true
 
 [[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+metafile = true
+
+[[files]]
 file = "mods/damage-tilt.pw.toml"
 hash = "625b150e7070043d16446738e23a9326fd66aad8cb426f4693783ecd00c817a5"
 metafile = true
@@ -266,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "975c24e4bc73cbd1dc24f3c6b51b435450ab0d69b0ae0bdd4bfb05e78e1de1da"
+metafile = true
+
+[[files]]
+file = "mods/load-my-resources-forge.pw.toml"
+hash = "44a011219af622cdc929933e9eb60afc7683c9e237d01593c5a33c9f1d61b6b4"
 metafile = true
 
 [[files]]
@@ -472,6 +486,18 @@ metafile = true
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
 hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
+
+[[files]]
+file = "resources/minecraft/textures/gui/widgets.png"
+hash = "b85cf0679ccad75e9082946886a650a477a3a25e0319a9aebd7e429dcfe22d34"
+
+[[files]]
+file = "resources/projectvirulence/backgrounds/01.png"
+hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
+
+[[files]]
+file = "resources/projectvirulence/title.png"
+hash = "fb7a20d30d4dccc10a6d412b44fcdbded3f5e060077d1efdfaf91eb0c423a94a"
 
 [[files]]
 file = "scripts/recipes.zs"
