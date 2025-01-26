@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:true
-resourcePacks:["Modernity-f3-3.10.2.zip","TZP 1.12.2_2.6.zip"]
+resourcePacks:["TZP 1.12.2_2.6.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

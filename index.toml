@@ -38,7 +38,7 @@ hash = "bcfdb71c961be7f67f989b98416a5170edf2f52ce822d1be1a232e033d0ca88f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "1d3106af17b075a1ded28167b4ce67a396936696ebd62fb3c7d7f91833bba556"
+hash = "4ed9c586f3ee82f3ef7e205834cb6433734d77382e23191ec0f94ad9dbb9d493"
 
 [[files]]
 file = "config/defaultoptions/optionsof.txt"
