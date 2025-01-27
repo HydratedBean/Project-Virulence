@@ -473,6 +473,10 @@ hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
 
 [[files]]
+file = "resources/minecraft/textures/entity/creeper/creeper.png"
+hash = "27fcb3d58de457370effe2d179a2e71e327f86f57269a96c5abc790ac4ba908c"
+
+[[files]]
 file = "resources/minecraft/textures/gui/options_background.png"
 hash = "aab9c5a8c24498cf7b1daaab3fb7a9f6bc8132dc40dfe0c2af432822603bf9f8"
 
