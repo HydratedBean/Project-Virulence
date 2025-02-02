@@ -13,6 +13,18 @@ file = "config/CustomMainMenu/mainmenu.json"
 hash = "033265bfa61d15852f84f423db00ecd5541e67572e7090f4907b46f73498e4fb"
 
 [[files]]
+file = "config/GeographiCraft/CCDimensions.cfg"
+hash = "88ffab3ae68274d502f323642773e96bc57435ec7cc4f69ef18ad24f3352aa45"
+
+[[files]]
+file = "config/GeographiCraft/biomesoplentyInCC.cfg"
+hash = "90a7c41d62f42f8ec5f361b2a21f2f1bc554c3cf4faa2b3245ca58e4400d1ab5"
+
+[[files]]
+file = "config/GeographiCraft/geographicraft.cfg"
+hash = "ccecda01925f9e5c896889f91ec291b62bb63aad17f30d0e316235209e3a82aa"
+
+[[files]]
 file = "config/IguanaTweaksReborn.cfg"
 hash = "048272b70195a5fcfa98018109e67b0889c69630c92700e8a36e282dbc766174"
 
@@ -46,7 +58,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/defaultworldgenerator-port/worldsettings.data"
-hash = "ac7c348f69dcbf19ff7f0bbd6b3a5096e5077432eaedae099cdb15c107710197"
+hash = "08cde52d7eac02d5f09ac1b28021238a38e485f0e79085e74a9396acb5c3f0fd"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
@@ -59,6 +71,10 @@ hash = "6413e5ed50f6cc954f39d12d65992795d290772ced0cb46107d7052b7f5392e1"
 [[files]]
 file = "config/epicsiegemod.cfg"
 hash = "e5fb4474dc54d77213f6d6ea594fde7bfc1eae189108eaa9b6020d4f6f57518f"
+
+[[files]]
+file = "config/geolosys.json"
+hash = "ae1cf3795234da743ee44fda0927beeb584acc178923deec220bede43dd89e6e"
 
 [[files]]
 file = "config/iblis_headshots.cfg"
@@ -123,6 +139,11 @@ hash = "d22688df11872272ad08732584de0c4a50193e3f0e3b156e0d1c4eaedf0a1de2"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "4d2a7b1094737b39ed9cdfb29e83aedd0ac0addd72b41d5e6b129754e9eae316"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -130,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
+metafile = true
+
+[[files]]
+file = "mods/climate-control-geographicraft.pw.toml"
+hash = "135f0f8478fe6e1a822028cba294160c2a8965b29467b899cdcecf5e241102f3"
 metafile = true
 
 [[files]]
@@ -373,6 +399,11 @@ hash = "4ae2c4ad308c1bcb8754f1fa130fea231c214b111d59b034d3d5f5a7412056f7"
 metafile = true
 
 [[files]]
+file = "mods/realistic-terrain-generation-plus.pw.toml"
+hash = "9343669fb7fc937c158f5642e0a8b45045589ca55a427cb765ba162721a2af45"
+metafile = true
+
+[[files]]
 file = "mods/red-core.pw.toml"
 hash = "7885bb8ac4efe4c49f9783812d77fe878352e9442f988199f48f55cf1616ac7f"
 metafile = true
@@ -435,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/underground-biomes.pw.toml"
+hash = "557db497a5d706a43f4e69bf8792f167a3f2e6df36243769a91116719bb7d29c"
 metafile = true
 
 [[files]]
