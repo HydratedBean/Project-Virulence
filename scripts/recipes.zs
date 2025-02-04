@@ -4,10 +4,11 @@
 recipes.removeShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null],[<minecraft:diamond>, <minecraft:obsidian>, <minecraft:diamond>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
 //Don't touch me!
 //#Add
+recipes.addShaped(<srparasites:armor_boots>, [[<srparasites:living_core>, null, <srparasites:living_core>],[<srparasites:vile_shell>, null, <srparasites:vile_shell>], [null, null, null]]);
+recipes.addShaped(<srparasites:armor_pants>, [[<srparasites:vile_shell>, <srparasites:living_core>, <srparasites:vile_shell>],[<srparasites:vile_shell>, null, <srparasites:vile_shell>], [<srparasites:vile_shell>, null, <srparasites:vile_shell>]]);
+recipes.addShaped(<srparasites:armor_chest>, [[<srparasites:vile_shell>, null, <srparasites:vile_shell>],[<srparasites:lurecomponent4>, <srparasites:living_core>, <srparasites:lurecomponent4>], [<srparasites:vile_shell>, <srparasites:vile_shell>, <srparasites:vile_shell>]]);
+recipes.addShaped(<srparasites:armor_helm>, [[<srparasites:lurecomponent5>, <srparasites:living_core>, <srparasites:lurecomponent5>],[<srparasites:vile_shell>, null, <srparasites:vile_shell>], [null, null, null]]);
+recipes.addShapeless(<biomesoplenty:blue_dye>, [<harvestcraft:mortarandpestleitem>,<harvestcraft:flaxitem>]);
 recipes.addShapeless(<biomesoplenty:green_dye>, [<harvestcraft:mortarandpestleitem>,<harvestcraft:freshwateritem>,<notreepunching:grass_fiber>]);
-recipes.addShapedMirrored(<srparasites:armor_boots>, [[null, null, null],[<minecraft:golden_apple>, null, <srparasites:lurecomponent2>], [<srparasites:assimilated_flesh>, null, <srparasites:assimilated_flesh>]]);
-recipes.addShaped(<srparasites:armor_pants>, [[<srparasites:assimilated_flesh>, <minecraft:golden_apple>, <srparasites:assimilated_flesh>],[<srparasites:lurecomponent2>, null, <srparasites:lurecomponent2>], [<srparasites:assimilated_flesh>, null, <srparasites:assimilated_flesh>]]);
-recipes.addShaped(<srparasites:armor_chest>, [[<srparasites:assimilated_flesh>, null, <srparasites:assimilated_flesh>],[<srparasites:assimilated_flesh>, <srparasites:lurecomponent2>, <srparasites:assimilated_flesh>], [<srparasites:assimilated_flesh>, <minecraft:golden_apple>, <srparasites:assimilated_flesh>]]);
-recipes.addShaped(<srparasites:armor_helm>, [[<srparasites:assimilated_flesh>, <minecraft:golden_apple>, <srparasites:assimilated_flesh>],[<srparasites:lurecomponent2>, null, <srparasites:lurecomponent2>], [null, null, null]]);
 recipes.addShapeless(<notreepunching:flint_shard>, [<notreepunching:rock/stone>,<notreepunching:rock/stone>]);
 //File End
