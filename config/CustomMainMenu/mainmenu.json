@@ -4,11 +4,11 @@
         "title":
         {
             "image" : "projectvirulence:title.png",
-            "posX" : -137,
-            "posY" : 30,
-            "width" : 512,
-            "height" : 512,
-            "alignment" : "top_center"
+            "posX" : 10,
+            "posY" : -96,
+            "width" : 256,
+            "height" : 256,
+            "alignment" : "left_center"
         }
     },
     
@@ -17,10 +17,11 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
+            "posX" : 20,
+            "posY" : -24,
             "width" : 98,
             "height" : 20,
+            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -31,10 +32,11 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : 2,
-            "posY" : 48,
+            "posX" : 30,
+            "posY" : 0,
             "width" : 98,
             "height" : 20,
+            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -45,10 +47,11 @@
         "mods":
         {
             "text" : "fml.menu.mods",
-            "posX" : 2,
-            "posY" : 72,
+            "posX" : 40,
+            "posY" : 24,
             "width" : 98,
             "height" : 20,
+            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -59,10 +62,11 @@
         "options":
         {
             "text" : "menu.options",
-            "posX" : -100,
-            "posY" : 72,
+            "posX" : 50,
+            "posY" : 48,
             "width" : 98,
             "height" : 20,
+            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -73,10 +77,11 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
+            "posX" : 60,
+            "posY" : 72,
+            "width" : 98,
             "height" : 20,
+            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "quit"
@@ -86,42 +91,16 @@
         "language":
         {
             "text" : "",
-            "posX" : -124,
-            "posY" : 96,
+            "posX" : 5,
+            "posY" : -25,
             "width" : 20,
             "height" : 20,
+            "alignment" : "bottom_left",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "languages"
             }
-        }
-    },
-    
-    "labels":
-    {
-        "mojang":
-        {
-            "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "�nCopyright Mojang AB. Do not distribute!",
-            "posX" : -197,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
-        },
-        
-        "fml":
-        {
-            "text" : "",
-            "posX" : 2,
-            "posY" : -40,
-            "color" : -1,
-            "alignment" : "bottom_left"
         }
     },
     

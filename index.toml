@@ -10,7 +10,7 @@ hash = "2476c0cd5530649675831e717bd4413970d19fba28ff801ccf0c1e7a8c4db0b6"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "033265bfa61d15852f84f423db00ecd5541e67572e7090f4907b46f73498e4fb"
+hash = "53ae6f11e696eeb57ef8bd838d29168ce687c1ca5aa0101b98b4bd3271abbf23"
 
 [[files]]
 file = "config/GeographiCraft/CCDimensions.cfg"
@@ -526,7 +526,7 @@ hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 
 [[files]]
 file = "resources/projectvirulence/title.png"
-hash = "fb7a20d30d4dccc10a6d412b44fcdbded3f5e060077d1efdfaf91eb0c423a94a"
+hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
 
 [[files]]
 file = "scripts/recipes.zs"
