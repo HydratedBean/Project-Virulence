@@ -1,0 +1,13 @@
+name = "ShieldBreak"
+filename = "ShieldBreak-1.1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/UMhQPpZd/versions/VMSujAmH/ShieldBreak-1.1.3.jar"
+hash-format = "sha512"
+hash = "77672b832a7df6d4d8cd756240d4aa8a15cc1f63df85173069b6f6289f6e693f4a7ab7956be1297388b0094477f954db5193fcb8824e75e276453a48dd825762"
+
+[update]
+[update.modrinth]
+mod-id = "UMhQPpZd"
+version = "VMSujAmH"

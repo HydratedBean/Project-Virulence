@@ -369,6 +369,11 @@ hash = "1c611284aae5119c9d52f35384cc6a3e6f90f9139ad3d4dd5ff411ef7d6063c0"
 metafile = true
 
 [[files]]
+file = "mods/nodami.pw.toml"
+hash = "65ac5223b872ca4bc92e188c322ba6bc188a9561a301c9e700f3d9bf131e6b07"
+metafile = true
+
+[[files]]
 file = "mods/nothirium.pw.toml"
 hash = "d989889ad15e00afaa80373c425ab0b514bfb71388504be089518a1300d75aae"
 metafile = true
@@ -414,6 +419,11 @@ hash = "c7ddef34666ce7837957d261422a0e8252fcdc3dd8fbd6ab3ed470c43541a01b"
 metafile = true
 
 [[files]]
+file = "mods/responsive-shields.pw.toml"
+hash = "d7f7a9d84f4b2871d0a51bfa01bbafb05cdc9934fbe85994669e5155e1b267ba"
+metafile = true
+
+[[files]]
 file = "mods/rlcombat.pw.toml"
 hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
 metafile = true
@@ -441,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/shieldbreak.pw.toml"
+hash = "d429481d4112b36507c5d9f29b9127d89022852c04a5fe2f8d01ba363d9fb2e0"
 metafile = true
 
 [[files]]

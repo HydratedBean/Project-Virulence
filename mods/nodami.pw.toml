@@ -1,0 +1,13 @@
+name = "NoDamI (No Damage Immunity)"
+filename = "nodami-1.12.2-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc293b6478b78e231109c954fbce6c8ee5d7195b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2969453
+project-id = 267721
