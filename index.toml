@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "975c24e4bc73cbd1dc24f3c6b51b435450ab0d69b0ae0bdd4bfb05e78e1de1da"
+hash = "4d941a784aaf275797d892e740b1d189c8c9f20e44d37309f37ac1ec00a1cdac"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/shieldbreak.pw.toml"
-hash = "d429481d4112b36507c5d9f29b9127d89022852c04a5fe2f8d01ba363d9fb2e0"
+hash = "6c0f5a20503c87d85e0e6add89de522a92690bb201f59f9ea095fe58fc902832"
 metafile = true
 
 [[files]]
