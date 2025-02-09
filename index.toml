@@ -97,6 +97,10 @@ file = "config/notreepunching.cfg"
 hash = "67facab3ad42d789bc878c7294e6b921256184088d7bcadac0d5a44f723126da"
 
 [[files]]
+file = "config/simpledifficulty.cfg"
+hash = "6ca45c8cd41f4e1d65d54004cf1803c249b1eab33c40f76fd25af2f1f662a8a2"
+
+[[files]]
 file = "config/spartanshields.cfg"
 hash = "db32f62efff569e57ed0fe1fe06037ddc05ff9754376d2b0896ec4920964e61d"
 
