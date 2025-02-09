@@ -101,6 +101,10 @@ file = "config/simpledifficulty.cfg"
 hash = "6ca45c8cd41f4e1d65d54004cf1803c249b1eab33c40f76fd25af2f1f662a8a2"
 
 [[files]]
+file = "config/soundphysics.cfg"
+hash = "21f9c0d17ff69e2d9542a4e8f3d5be3776ec9feced802d9b53a30965575c7350"
+
+[[files]]
 file = "config/spartanshields.cfg"
 hash = "db32f62efff569e57ed0fe1fe06037ddc05ff9754376d2b0896ec4920964e61d"
 
@@ -465,8 +469,8 @@ hash = "f54e790995a4b814e553edb13505e9115f784344706d261943cc8b97986e1a76"
 metafile = true
 
 [[files]]
-file = "mods/sound-filters.pw.toml"
-hash = "f111153fa99abf794602fb50a853d1f8f05c1acbbca099d813389564cd4ead3d"
+file = "mods/sound-physics-remixin.pw.toml"
+hash = "92af505a6c4c8296370a5a274318418c86c4e235b7eaf10061982182ccf57483"
 metafile = true
 
 [[files]]
