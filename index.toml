@@ -69,8 +69,12 @@ file = "config/dynamicstealth/1.12.2.095+.cfg"
 hash = "6413e5ed50f6cc954f39d12d65992795d290772ced0cb46107d7052b7f5392e1"
 
 [[files]]
-file = "config/epicsiegemod.cfg"
-hash = "e5fb4474dc54d77213f6d6ea594fde7bfc1eae189108eaa9b6020d4f6f57518f"
+file = "config/esm/entity_ai.json"
+hash = "1f61cb7f315cbaf9061b8e96f922ccb5f125c0802e4b61a530442b444090ef80"
+
+[[files]]
+file = "config/esm/epicsiegemod.cfg"
+hash = "ea33c9b1e22e6fec9182951a10b0b60371df80a5650a63c696dae50ae89be40b"
 
 [[files]]
 file = "config/geolosys.json"
@@ -90,7 +94,15 @@ hash = "4c47b2d442810f42af7e578ee3819b5123889802a0f2d3d3b06224b9704c691f"
 
 [[files]]
 file = "config/notreepunching.cfg"
-hash = "f0d15915a9c4e7b4a3511567563220984f74f4d9e2bf3a9badac0d0bf22eb4cb"
+hash = "4fd61e19208d587d7f2eab808cf9d913ac2adbc0629f9e1f6cafe671e858884e"
+
+[[files]]
+file = "config/spartanshields.cfg"
+hash = "db32f62efff569e57ed0fe1fe06037ddc05ff9754376d2b0896ec4920964e61d"
+
+[[files]]
+file = "config/spartanweaponry.cfg"
+hash = "5c247d9874657e919022285e2a32f80eff34220e005c0d5901a735ed19621d95"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
@@ -316,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "23a8d6b69e0153452509b57edb45472a327acfdd87242d0ea52dcda0b1439e5f"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.pw.toml"
-hash = "25acc0e6f8593e38d35df3973edfa181793ec831cd9a3cc3637642c54d5e8fb4"
 metafile = true
 
 [[files]]
