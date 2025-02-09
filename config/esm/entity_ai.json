@@ -85,14 +85,14 @@
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 1.0
+      "Speed": 1.05
     },
     "minecraft:husk": {
       "Digging": true,
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 4.0
+      "Speed": 1.1
     },
     "minecraft:cave_spider": {
       "Spider Webbing": 1.00

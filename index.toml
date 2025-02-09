@@ -70,7 +70,7 @@ hash = "6413e5ed50f6cc954f39d12d65992795d290772ced0cb46107d7052b7f5392e1"
 
 [[files]]
 file = "config/esm/entity_ai.json"
-hash = "1f61cb7f315cbaf9061b8e96f922ccb5f125c0802e4b61a530442b444090ef80"
+hash = "cb71e49cc95833660e92b69a40c128ceafd1967a6881d8114cb1c2febe4e9f6d"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
