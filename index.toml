@@ -454,11 +454,6 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
-file = "mods/shieldbreak.pw.toml"
-hash = "6c0f5a20503c87d85e0e6add89de522a92690bb201f59f9ea095fe58fc902832"
-metafile = true
-
-[[files]]
 file = "mods/simpledifficulty.pw.toml"
 hash = "f54e790995a4b814e553edb13505e9115f784344706d261943cc8b97986e1a76"
 metafile = true
