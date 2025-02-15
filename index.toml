@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "fbc33eb5ed391842b8cd6ca271606f28d36d88093cd55b850389c669f6168300"
+hash = "80518543eb4397bef9e312fa388e6ada52b25f31e3db157640afc0c48f759096"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "5d9ae9d753af2bea7f466037645b6cc47d6ef9bad6e0fdc579b50832743a8190"
+hash = "394979d466449434539b556b7a958220510e2b14060b8f338a947eca0c926f7b"
 metafile = true
 
 [[files]]
