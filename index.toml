@@ -474,6 +474,11 @@ hash = "2c160ad20e478704312f5128fd5ebde2d6c88cc086d758b4b48056abf7bee730"
 metafile = true
 
 [[files]]
+file = "mods/sparks-hammers.pw.toml"
+hash = "94f15697448d4bd1833d4246cd26aeb2864784ad6b9f4ea695023374a5784ebe"
+metafile = true
+
+[[files]]
 file = "mods/spartan-shields.pw.toml"
 hash = "bd572a46699d751f4aa35062de06410892b964db3558ef8254f9b2a6283e1e83"
 metafile = true
@@ -506,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/wawla.pw.toml"
 hash = "dc1ee5d5a602f9cc633d511a4d00e2e0e7189d6135fd11343bf76e9f47aa2d07"
+metafile = true
+
+[[files]]
+file = "mods/xtones.pw.toml"
+hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
 metafile = true
 
 [[files]]
