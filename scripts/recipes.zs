@@ -1,9 +1,11 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.removeShaped(<wearablebackpacks:backpack>, [[<minecraft:leather>, <minecraft:gold_ingot>, <minecraft:leather>],[<minecraft:leather>, <ore:wool>, <minecraft:leather>], [<minecraft:leather>, <minecraft:leather>, <minecraft:leather>]]);
 recipes.removeShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null],[<minecraft:diamond>, <minecraft:obsidian>, <minecraft:diamond>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
 //Don't touch me!
 //#Add
+recipes.addShaped(<wearablebackpacks:backpack>, [[<minecraft:leather>, <notreepunching:grass_string>, <minecraft:leather>],[<minecraft:leather>, <ore:wool>, <minecraft:leather>], [<minecraft:leather>, <minecraft:leather>, <minecraft:leather>]]);
 recipes.addShaped(<biomesoplenty:green_dye>, [[<harvestcraft:mortarandpestleitem>, <notreepunching:ceramic_bucket>.withTag({Fluid: {FluidName: "water", Amount: 1000}}).onlyWithTag({Fluid: {FluidName: "water", Amount: 1000}}), null],[<notreepunching:grass_fiber>, null, null], [null, null, null]]);
 recipes.addShapeless(<harvestcraft:freshmilkitem> * 8, [<harvestcraft:freshmilkitem>]);
 recipes.addShaped(<srparasites:armor_boots>, [[<srparasites:living_core>, null, <srparasites:living_core>],[<srparasites:vile_shell>, null, <srparasites:vile_shell>], [null, null, null]]);
