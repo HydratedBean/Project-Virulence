@@ -66,7 +66,7 @@ hash = "e3229ce97151e179ae9676caf949fbe4151f9ed36bb99e5c84dad11c3c8cd38e"
 
 [[files]]
 file = "config/dynamicstealth/1.12.2.095+.cfg"
-hash = "6413e5ed50f6cc954f39d12d65992795d290772ced0cb46107d7052b7f5392e1"
+hash = "eb08479c8f867d286da164a9c5f1eae827df90fb7b19b5cc0164761c74018e11"
 
 [[files]]
 file = "config/enchcontrol/config.json"
