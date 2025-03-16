@@ -579,6 +579,26 @@ file = "resources/minecraft/textures/gui/widgets.png"
 hash = "fca79fb02ff7b621bdbc9601ff4da8ccba7990d55abe081df7cfd3e7b2b79e9f"
 
 [[files]]
+file = "resources/minecraft/textures/misc/enchanted_item_glint.png"
+hash = "a696a5626629823b4467548ee7d0e0da22f97063f35195212fd342aa799a4bdf"
+
+[[files]]
+file = "resources/minecraft/textures/misc/enchanted_item_glint.png.mcmeta"
+hash = "a4f5e3c3235dd128ee6d2ce397217e8c77037dbcf641aaa5bef65824e3b4b168"
+
+[[files]]
+file = "resources/minecraft/textures/misc/shadow.png"
+hash = "2288d82b71fa005a3425f11d6d82d43d55f133ee8b6aab922f6700fb7fc319d2"
+
+[[files]]
+file = "resources/minecraft/textures/misc/shadow.png.mcmeta"
+hash = "51cbe6abaa3db42ee417a3c941108188dc2f38a4679fce20a68299a6f7831e19"
+
+[[files]]
+file = "resources/minecraft/textures/misc/underwater.png"
+hash = "8ff30cd9dc11cc06a7377bb427946861d492966ac3d4e4f663dd2ad9d1ad6941"
+
+[[files]]
 file = "resources/projectvirulence/backgrounds/01.png"
 hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 
