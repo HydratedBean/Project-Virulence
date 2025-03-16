@@ -1,0 +1,1 @@
+mods.ltt.LootTable.removeGlobalItem("minecraft:enchanted_book");

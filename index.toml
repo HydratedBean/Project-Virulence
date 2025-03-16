@@ -334,6 +334,11 @@ hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
 metafile = true
 
 [[files]]
+file = "mods/loottabletweaker.pw.toml"
+hash = "dfd6fcf223a5908a1ee25901dd3cf9f74881c565a9f610682ffbc43a57525119"
+metafile = true
+
+[[files]]
 file = "mods/mcgltf.pw.toml"
 hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
 metafile = true
@@ -567,6 +572,10 @@ hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 [[files]]
 file = "resources/projectvirulence/title.png"
 hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
+
+[[files]]
+file = "scripts/LootTableTweaker/tweaks.zs"
+hash = "311ed7c6fe142be099a163ce7da5f1ad6fd0c36dddbc0d1750487f3bbf090697"
 
 [[files]]
 file = "scripts/recipes.zs"

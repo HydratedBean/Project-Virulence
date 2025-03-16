@@ -1,0 +1,13 @@
+name = "LootTableTweaker"
+filename = "LootTableTweaker-1.12.2-1.1.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EWRcVRTL/versions/2yVK8R2l/LootTableTweaker-1.12.2-1.1.14.jar"
+hash-format = "sha512"
+hash = "8556ec47550918eac55596d2fc7179a897882c3d174cc47edbcbbae9b43affe80ae8bc5217dd0598ac8e97e73269935262fbc7f8773ebfe1bb6628b6f2611db6"
+
+[update]
+[update.modrinth]
+mod-id = "EWRcVRTL"
+version = "2yVK8R2l"
