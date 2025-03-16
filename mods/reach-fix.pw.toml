@@ -1,13 +1,13 @@
 name = "Reach Fix"
-filename = "ReachFix-1.12.2-1.0.11.jar"
+filename = "ReachFix-1.12.2-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0cd2482b0f54acdd62b674530bb0f4fd264a9465"
+hash = "1a01edd6e2749ed5adc04897c68b9d121519bcba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6069258
+file-id = 6218135
 project-id = 556777

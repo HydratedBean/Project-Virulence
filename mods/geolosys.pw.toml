@@ -1,13 +1,13 @@
 name = "Geolosys"
-filename = "Geolosys-1.12.2-3.0.10.jar"
+filename = "Geolosys-1.12.2-3.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7b521fc9c9af3ef65e2ca465e3d3aed9e8114e2e"
+hash = "589080f389534a77c3a32064b148c5315f40862d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2827665
+file-id = 6228868
 project-id = 271856

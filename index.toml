@@ -69,6 +69,14 @@ file = "config/dynamicstealth/1.12.2.095+.cfg"
 hash = "6413e5ed50f6cc954f39d12d65992795d290772ced0cb46107d7052b7f5392e1"
 
 [[files]]
+file = "config/enchcontrol/config.json"
+hash = "2bcca9c7a8cbc4a79c2f539fdb1968f62e6f7d18637a31f29edf17fc4949b49d"
+
+[[files]]
+file = "config/enchcontrol/enchantments.json"
+hash = "7f1ea27f9b642f3db5b4b9497fd2f63097817f1553a2353b53629559a833aef8"
+
+[[files]]
 file = "config/esm/entity_ai.json"
 hash = "cb71e49cc95833660e92b69a40c128ceafd1967a6881d8114cb1c2febe4e9f6d"
 
@@ -135,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "f2e5451942c9a377e565fa896d5f4f85bb1dbb25fd04d5f7ee63daed55b27f13"
+hash = "4178f220d660d21cba7f04acb8d671fd650896d3f00f2936ca9d091c99a700df"
 metafile = true
 
 [[files]]
@@ -235,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-stealth.pw.toml"
-hash = "414a3083880efba44f0e76a8ebaa8e94f34d142f4f7205d436ff1a97e4928968"
+hash = "aa843be4e2cfecd1d01ba7469c9eecb501a269d7fa4146f6e571a1e108a34f6f"
 metafile = true
 
 [[files]]
@@ -246,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-control.pw.toml"
+hash = "eb35a4d5ca02525ca8cb48b07a481c9d611a511a82628645542c120b8bd65b6c"
 metafile = true
 
 [[files]]
@@ -260,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
-hash = "c6977729248c2f66f3b2bf0fc928790d7ae79cdd99ff1137741c4ae1c96ac6b5"
+hash = "5a41ea438b21c2384658de7fd3c3f1ba274db3fdeab940f28999d4a295d6d033"
 metafile = true
 
 [[files]]
@@ -275,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/geolosys.pw.toml"
-hash = "e8dd4e20d091f9971589e3b9d3381abfef9bec4e9c5fdbfd2502b47f6bce0a88"
+hash = "b0a8f7daa948daec8a98603ee3888438e2dee3b4cb0bb9bfcb0f980a7d16dc83"
 metafile = true
 
 [[files]]
@@ -335,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/loottabletweaker.pw.toml"
-hash = "dfd6fcf223a5908a1ee25901dd3cf9f74881c565a9f610682ffbc43a57525119"
+hash = "dbd8aeb68c0fede1db05d14b09e5a2ed9509f4f1f43aa0606172d4fc90f73068"
 metafile = true
 
 [[files]]
@@ -395,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/nothirium.pw.toml"
-hash = "d989889ad15e00afaa80373c425ab0b514bfb71388504be089518a1300d75aae"
+hash = "314842cf651825953c4751c4c9eddba45006698a7cd729cedfb5b589942b968b"
 metafile = true
 
 [[files]]
@@ -420,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/reach-fix.pw.toml"
-hash = "4ae2c4ad308c1bcb8754f1fa130fea231c214b111d59b034d3d5f5a7412056f7"
+hash = "9699fd2ea09e9c6a3c5b0d08826aa7c268c783777843a7b53b4b00bf3385cf7f"
 metafile = true
 
 [[files]]
@@ -430,12 +443,12 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "aab4a1e7623f5369e8d838c10dca6a62a7e58d294bcba4c901575a42b7214c49"
+hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
 
 [[files]]
 file = "mods/renderlib.pw.toml"
-hash = "c7ddef34666ce7837957d261422a0e8252fcdc3dd8fbd6ab3ed470c43541a01b"
+hash = "6abbf6556a15085df5fe156286e0ca9c0808c4e778d7614d9e9c27f76c7fe35b"
 metafile = true
 
 [[files]]
@@ -515,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "50866cb43ce184b741eb94a00a550b9271901c90112e22de2f44b050eba7ad4b"
+hash = "0b3178b628c2a9640ca2c081f50855b84b2f8dca2bd6468f6189b3d1c9c50d9c"
 metafile = true
 
 [[files]]
