@@ -352,6 +352,11 @@ hash = "dbd8aeb68c0fede1db05d14b09e5a2ed9509f4f1f43aa0606172d4fc90f73068"
 metafile = true
 
 [[files]]
+file = "mods/matchlock-guns.pw.toml"
+hash = "fc718297193c78cbbce389a2255c8e092a75567dc978ef680b64f8de441c9659"
+metafile = true
+
+[[files]]
 file = "mods/mcgltf.pw.toml"
 hash = "5728a310a39453ab16b791034d416c4aada10ffd663778394f41b8521b9be229"
 metafile = true

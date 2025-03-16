@@ -1,0 +1,13 @@
+name = "Matchlock Guns"
+filename = "Matchlock Guns Mod-1.12.2-7a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eec853a723cf419187f46f8f2861cdc566d558e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2786799
+project-id = 324273
