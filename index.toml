@@ -25,16 +25,80 @@ file = "config/GeographiCraft/geographicraft.cfg"
 hash = "9dc2adcc13e1ade9c442a2e8f380a0d9542966f2d027a58027966849f60ad75a"
 
 [[files]]
-file = "config/IguanaTweaksReborn.cfg"
-hash = "048272b70195a5fcfa98018109e67b0889c69630c92700e8a36e282dbc766174"
+file = "config/advRocketry/Centrifuge.xml"
+hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
+
+[[files]]
+file = "config/advRocketry/ChemicalReactor.xml"
+hash = "3e5ab4f1d4a293d6405d1c18621bb52aa1f64c71f48ca762d835665a47203e92"
+
+[[files]]
+file = "config/advRocketry/Crystallizer.xml"
+hash = "8237ba90732053ef20881dc2e47adab156914d259d3af4de3f66efd829551811"
+
+[[files]]
+file = "config/advRocketry/CuttingMachine.xml"
+hash = "5c96564904bdcf129498395ec16193a7f06b9865eddcd741bd03eddb245de1aa"
+
+[[files]]
+file = "config/advRocketry/ElectricArcFurnace.xml"
+hash = "969b8e7b33cf41cdc4a47146e1c9a70d2327ff2b08cf4485579d079aa9e9a1d0"
+
+[[files]]
+file = "config/advRocketry/Electrolyser.xml"
+hash = "59b49aef7613e439ffbc0e3bd0382417d395e6470a97ad59abe8c26432720fdf"
+
+[[files]]
+file = "config/advRocketry/Lathe.xml"
+hash = "efebf7408ba21cd1f476a0645a0d7e2368037c8de96adc768d35eb1a0f54054b"
+
+[[files]]
+file = "config/advRocketry/PrecisionAssembler.xml"
+hash = "ff19151163713ab035347b730427d2e740ed55a8fa8f2ba3971c34635ba9b4cb"
+
+[[files]]
+file = "config/advRocketry/PrecisionLaserEtcher.xml"
+hash = "f8e04353937af2da3aa67830e5b9b62c2a8d66b6d685cf7e39fe1464d4a62c02"
+
+[[files]]
+file = "config/advRocketry/RollingMachine.xml"
+hash = "4640cb0c4aec798b83930a58c46680a72f8e444217c9acb0222d03da20bf607a"
+
+[[files]]
+file = "config/advRocketry/SmallPlatePress.xml"
+hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
+
+[[files]]
+file = "config/advRocketry/advancedRocketry.cfg"
+hash = "e11880b312805f488056e0f6f0b30c8610d57a835ae93e019414950005547eb3"
+
+[[files]]
+file = "config/advRocketry/asteroidConfig.xml"
+hash = "26a8c4a8bb63dcf13cee4417fb19a794ff45ab1c0fe15d7c59849ef3d732209d"
+
+[[files]]
+file = "config/advRocketry/oreConfig.xml"
+hash = "16373fc73f5185845db08203cbdde009fca95f2b1787a47a10b47a3ce72ccfcd"
+
+[[files]]
+file = "config/advRocketry/weights.json"
+hash = "3e0055b25d62922c4fc2171daf70d48497211db621c6944338c32babf0a4e272"
 
 [[files]]
 file = "config/aquaacrobatics_core.cfg"
 hash = "2b34ba14a25600ebdb49ebb6fd5de4623114c524abf2e73852553461d6552127"
 
 [[files]]
+file = "config/athenaeum/athenaeum.cfg"
+hash = "65af9d634918923b911dc8f2c93acbac86628760749cd5003dbf5db7237e9d8c"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
-hash = "d5a023ba5487b21988c24f5318ad861c99116859e948bbb6d7c3507644b4715b"
+hash = "0f67ea9a2e9785dbfe19e7337b948773c236c849cf2a0a3627114c0e5ee3f3b7"
+
+[[files]]
+file = "config/betterhud.cfg"
+hash = "944a8c18ade805729990b5c51743a8a2b6c632886d950f8d5028397284a0de8d"
 
 [[files]]
 file = "config/darkness.cfg"
@@ -50,7 +114,7 @@ hash = "bcfdb71c961be7f67f989b98416a5170edf2f52ce822d1be1a232e033d0ca88f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "4ed9c586f3ee82f3ef7e205834cb6433734d77382e23191ec0f94ad9dbb9d493"
+hash = "8a25f2ef6fec097dc1eab01e16be8bd59b02bdfa2d185254157322a4cffa5c9c"
 
 [[files]]
 file = "config/defaultoptions/optionsof.txt"
@@ -61,12 +125,8 @@ file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "08cde52d7eac02d5f09ac1b28021238a38e485f0e79085e74a9396acb5c3f0fd"
 
 [[files]]
-file = "config/dsurround/dsurround.cfg"
-hash = "e3229ce97151e179ae9676caf949fbe4151f9ed36bb99e5c84dad11c3c8cd38e"
-
-[[files]]
 file = "config/dynamicstealth/1.12.2.095+.cfg"
-hash = "eb08479c8f867d286da164a9c5f1eae827df90fb7b19b5cc0164761c74018e11"
+hash = "f59048120c580da19584ad382c01f639a77dc1cde23ba8aeb8db30f8f7288fda"
 
 [[files]]
 file = "config/enchcontrol/config.json"
@@ -82,11 +142,15 @@ hash = "cb71e49cc95833660e92b69a40c128ceafd1967a6881d8114cb1c2febe4e9f6d"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
-hash = "ea33c9b1e22e6fec9182951a10b0b60371df80a5650a63c696dae50ae89be40b"
+hash = "65c248f0d830556445f03a733fb7ba91ab0d4d78850278ea437bf0ddd6b31472"
+
+[[files]]
+file = "config/geolosys.cfg"
+hash = "9664ea8b37b32c3231d147e92718d401dab9f66845d6956973ce72108eed4f0e"
 
 [[files]]
 file = "config/geolosys.json"
-hash = "ae1cf3795234da743ee44fda0927beeb584acc178923deec220bede43dd89e6e"
+hash = "76939507200b1e78b8bb2fb835dc55debbb1aa24b8e3f16a2c64fef0ee6d08a8"
 
 [[files]]
 file = "config/iblis_headshots.cfg"
@@ -98,11 +162,107 @@ hash = "baee270e3320c1f18af81cbcf7177096262e3213d21ad6bcd9bf293c0a175f68"
 
 [[files]]
 file = "config/mekanism.cfg"
-hash = "4c47b2d442810f42af7e578ee3819b5123889802a0f2d3d3b06224b9704c691f"
+hash = "dfb804ccef86f74614baa6bb5d319b81977cbb653cdfc953be548cf83f250ea4"
 
 [[files]]
-file = "config/notreepunching.cfg"
-hash = "67facab3ad42d789bc878c7294e6b921256184088d7bcadac0d5a44f723126da"
+file = "config/mekanism/BoxBlacklist.txt"
+hash = "663e0efd336f0fa1ca1bd88355c64d4f293a8cb44ee3ce8fa485ef471a38844f"
+
+[[files]]
+file = "config/pyrotech/core.OreDict-Custom.json"
+hash = "954535357266426fd10f8d880c8b02d54e03591d07b3d0fb05ecf80455e60527"
+
+[[files]]
+file = "config/pyrotech/core.OreDict-Generated.json"
+hash = "954535357266426fd10f8d880c8b02d54e03591d07b3d0fb05ecf80455e60527"
+
+[[files]]
+file = "config/pyrotech/core.cfg"
+hash = "986e7fe528958095fb55a39893eab0ac457bd108e6b4ad81b59be90790ce1d61"
+
+[[files]]
+file = "config/pyrotech/core.compat.Ore-Custom.json"
+hash = "701d9a0be5bc6fbc123838ef130845723bb0146b336862eafe5b1b582d64ad8d"
+
+[[files]]
+file = "config/pyrotech/core.compat.Ore-Generated.json"
+hash = "701d9a0be5bc6fbc123838ef130845723bb0146b336862eafe5b1b582d64ad8d"
+
+[[files]]
+file = "config/pyrotech/core.compat.Wood-Custom.json"
+hash = "303b8ccd2cc1018c1c3ee91dba3b53d992d57f6c26cfb808e6f8f73076cf3559"
+
+[[files]]
+file = "config/pyrotech/core.compat.Wood-Generated.json"
+hash = "303b8ccd2cc1018c1c3ee91dba3b53d992d57f6c26cfb808e6f8f73076cf3559"
+
+[[files]]
+file = "config/pyrotech/module.Bucket.cfg"
+hash = "6f2a1e8d98be419dc795ac32952326b0b068eb21b671042dc638a3ee52717b06"
+
+[[files]]
+file = "config/pyrotech/module.Hunting.cfg"
+hash = "03d21414dc181f7623153eb2088253cf436875dff4dabe50f60698f37092ceec"
+
+[[files]]
+file = "config/pyrotech/module.Ignition.cfg"
+hash = "1f2af3d804558b93ba30e9f5145031c503a69d270673d3d5fb8eabf0230771d6"
+
+[[files]]
+file = "config/pyrotech/module.Storage.cfg"
+hash = "296e29edb22542cb75c906bcf16fb7fb148d6924237bdfbd3c9380798f3d7d56"
+
+[[files]]
+file = "config/pyrotech/module.Tool.cfg"
+hash = "5a0f6b975d74cd56ac262ec85532958c43e0e174fe4cfd50ae3e9df2c83cd62f"
+
+[[files]]
+file = "config/pyrotech/module.WorldGen.cfg"
+hash = "0373798506c35686300a3c4f82782b1e1e11dd00268eff695e975cf1e716a6f8"
+
+[[files]]
+file = "config/pyrotech/module.tech.Basic.cfg"
+hash = "e4ca0f347aa5ea7cb44a3bb8c58c4e47c336179feb6c3e8b53f14024d3b1c2d4"
+
+[[files]]
+file = "config/pyrotech/module.tech.Bloomery.Slag-Custom.json"
+hash = "7a1f14b84916dadb5f56591a154803d7716e382ab369e56d2e90d8b8e225a35c"
+
+[[files]]
+file = "config/pyrotech/module.tech.Bloomery.Slag-Generated.json"
+hash = "7a1f14b84916dadb5f56591a154803d7716e382ab369e56d2e90d8b8e225a35c"
+
+[[files]]
+file = "config/pyrotech/module.tech.Bloomery.cfg"
+hash = "ed18b4f50dd82835396737a8ac77914ef287c05c081a8e02cb7ca60e2de3d752"
+
+[[files]]
+file = "config/pyrotech/module.tech.Machine.cfg"
+hash = "fc9ae68de8f9c2f80b8ed28d5624473557da4d53d0bfc5ea0e03a6a228b87e8b"
+
+[[files]]
+file = "config/pyrotech/module.tech.Refractory.cfg"
+hash = "83d77a32cc97f1875635eb40b7fca9d008f9794b75079f0f8b24c7b82c573cc8"
+
+[[files]]
+file = "config/pyrotech/modules.cfg"
+hash = "4d95e1c1c59e4cb219da3a3e3246865221c0cc37b3d547fb3febe8bd7da7e426"
+
+[[files]]
+file = "config/pyrotech/patreon.cfg"
+hash = "cde1eb0c761d142670b53e8e7eab1a3ae9d6222415f8fb8355a08dfc8a840e9f"
+
+[[files]]
+file = "config/pyrotech/plugin.Dropt.cfg"
+hash = "b73067b89d4b5c2e69e202b8d81f16d85ee5c2e4f06e5676fbc23481e7787298"
+
+[[files]]
+file = "config/pyrotech/plugin.Dropt.pyrotechCompat.cfg"
+hash = "c48e203cc644f819ee3c0640f6f29433767f9a5089daa1e0a5a29f514c7907f0"
+
+[[files]]
+file = "config/pyrotech/plugin.Patchouli.cfg"
+hash = "ee23296029c3c260dfd86fa78d30b66ac2610c23ff2f9f137e3055a986112967"
 
 [[files]]
 file = "config/simpledifficulty.cfg"
@@ -126,19 +286,19 @@ hash = "87efdc812d8ca9718b7e4a4d9ce722127fd78896a69d1f5d2100cbb8e6723267"
 
 [[files]]
 file = "config/unexperienced.cfg"
-hash = "d7d8d4142451c0ad174a754ffb8333a8ff46581805443f6bbf26f83979467a89"
+hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
 
 [[files]]
 file = "config/unidict/UniDict.cfg"
-hash = "fca8513c373caa27c4bda8f5a7b64ceb5d49f38ca01fdc6e693e44ca96b7583e"
+hash = "9ea314d5786b0c06a6618126ce42b88f288ad6ff58ad4f410746ebafdc1fb622"
 
 [[files]]
 file = "mods/Nutrition-1.12.2-4.9.0.jar"
 hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
 
 [[files]]
-file = "mods/alcatrazcore.pw.toml"
-hash = "0dcea6e8171157d25594d8cae90d785ebf40cb538aa652e58e42516812adc8c4"
+file = "mods/advanced-rocketry-2.pw.toml"
+hash = "f6609d9a7e3bed6a64cb8d24fd1d853b0a3017daaa14db3368bff1dc27d2044e"
 metafile = true
 
 [[files]]
@@ -167,13 +327,23 @@ hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
+file = "mods/arlib.pw.toml"
+hash = "6f3cd79eb43142203ba21deb183b39a1e8532a8c6e87ab7cb4ff607adfb8a2ea"
+metafile = true
+
+[[files]]
 file = "mods/asmc.pw.toml"
 hash = "d22688df11872272ad08732584de0c4a50193e3f0e3b156e0d1c4eaedf0a1de2"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.pw.toml"
-hash = "4d2a7b1094737b39ed9cdfb29e83aedd0ac0addd72b41d5e6b129754e9eae316"
+file = "mods/athenaeum.pw.toml"
+hash = "30120c9b5188449824a201cc681bfb8de70346b8cb1a189e1c717e44c80dd024"
+metafile = true
+
+[[files]]
+file = "mods/better-hud.pw.toml"
+hash = "e25f8a3e018be45491ce56df301075b682895e57f1891b9e5d6a794b5359b660"
 metafile = true
 
 [[files]]
@@ -227,13 +397,8 @@ hash = "23be1e66b63c7b7a887032650b48c907a69aca417a6f6663bb43626fc696b778"
 metafile = true
 
 [[files]]
-file = "mods/dtbop.pw.toml"
-hash = "51265430222174825ba7ff9f3b94a03b0fef7367d10ee4da3bd649cc559c03dc"
-metafile = true
-
-[[files]]
-file = "mods/dtphc.pw.toml"
-hash = "3bf8c73951670419fba5b7e367aeb9c67054355fc83b058b009a4f4bebdee75b"
+file = "mods/dropt.pw.toml"
+hash = "0d88899bf3170d49b241f3623d8cd9e02f01abe83756e7100f66846478611de9"
 metafile = true
 
 [[files]]
@@ -247,23 +412,8 @@ hash = "aa843be4e2cfecd1d01ba7469c9eecb501a269d7fa4146f6e571a1e108a34f6f"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-surroundings.pw.toml"
-hash = "65170142f7f13aabed317c8f730c55406fb99ddcc77a46f5fcd12a4577204c96"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
-metafile = true
-
-[[files]]
 file = "mods/enchantments-control.pw.toml"
 hash = "eb35a4d5ca02525ca8cb48b07a481c9d611a511a82628645542c120b8bd65b6c"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b5e00cb8cf4446d1213033b769343b60be1cb328c0dfbe0282f34c12a3f2ed96"
 metafile = true
 
 [[files]]
@@ -287,6 +437,16 @@ hash = "46d6e1ee38386dc5891a365d028e161a8f12b905bc6fb1e1b9c7815aa36a6089"
 metafile = true
 
 [[files]]
+file = "mods/fugue.pw.toml"
+hash = "fc3f4ac188fd6f63da77364f665ede6bae0deed9bb691b147a88cabecbfc31ca"
+metafile = true
+
+[[files]]
+file = "mods/gaspunk.pw.toml"
+hash = "5e57bf8b06ed3500216ec3df7728d8b258fd03cb7e8483dd29cc1724f7a431c0"
+metafile = true
+
+[[files]]
 file = "mods/geolosys.pw.toml"
 hash = "b0a8f7daa948daec8a98603ee3888438e2dee3b4cb0bb9bfcb0f980a7d16dc83"
 metafile = true
@@ -294,11 +454,6 @@ metafile = true
 [[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "ef2311d35eec247d9d0544804c3e744aa56a2e8984016505e1a073bad88ec9ba"
-metafile = true
-
-[[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "8495f0cc7fdf9fda206461954eccc7fca3cda853f5963f092a73fe91289c74c4"
 metafile = true
 
 [[files]]
@@ -312,11 +467,6 @@ hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
 metafile = true
 
 [[files]]
-file = "mods/iguanatweaks-reborn.pw.toml"
-hash = "b11cf11571ea62db4c4bf8f77b8728efbe24a447d10c27c53fd7233f5dd661a4"
-metafile = true
-
-[[files]]
 file = "mods/instantunify.pw.toml"
 hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
 metafile = true
@@ -324,11 +474,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "80518543eb4397bef9e312fa388e6ada52b25f31e3db157640afc0c48f759096"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-harvestcraft.pw.toml"
-hash = "06e3b67ee33614ed6a0563cd6a69fdac69d5190398995707dcc9eb74d1956033"
 metafile = true
 
 [[files]]
@@ -349,11 +494,6 @@ metafile = true
 [[files]]
 file = "mods/loottabletweaker.pw.toml"
 hash = "dbd8aeb68c0fede1db05d14b09e5a2ed9509f4f1f43aa0606172d4fc90f73068"
-metafile = true
-
-[[files]]
-file = "mods/matchlock-guns.pw.toml"
-hash = "fc718297193c78cbbce389a2255c8e092a75567dc978ef680b64f8de441c9659"
 metafile = true
 
 [[files]]
@@ -407,11 +547,6 @@ hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]
-file = "mods/no-tree-punching.pw.toml"
-hash = "1c611284aae5119c9d52f35384cc6a3e6f90f9139ad3d4dd5ff411ef7d6063c0"
-metafile = true
-
-[[files]]
 file = "mods/nothirium.pw.toml"
 hash = "314842cf651825953c4751c4c9eddba45006698a7cd729cedfb5b589942b968b"
 metafile = true
@@ -422,18 +557,28 @@ hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
 
 [[files]]
-file = "mods/pams-harvestcraft.pw.toml"
-hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
-metafile = true
-
-[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "6dadc3f071dc5ded6ed61cd5b572dc79588cd2ccec46e86b5b4081abff485cfa"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
+metafile = true
+
+[[files]]
+file = "mods/pyrotech-compat.pw.toml"
+hash = "ba557bef9df0bdffa15d4800424a7d3586861784465fbf871333f46c4de12be6"
+metafile = true
+
+[[files]]
+file = "mods/pyrotech.pw.toml"
+hash = "6af42b239eae2b46162a2ec88ba65db91a07555aba5101e8296025655b020bd4"
 metafile = true
 
 [[files]]
@@ -467,6 +612,11 @@ hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
 metafile = true
 
 [[files]]
+file = "mods/scalar.pw.toml"
+hash = "2dc545f49896881f74ca735437e14e30e967a8ec79cb32c21ce1024bdd85edba"
+metafile = true
+
+[[files]]
 file = "mods/scape-and-spartan-parasites.pw.toml"
 hash = "3fcb6fc9345bc21d9419a69f19a3aac8a5701c7e6bb20a8d9766352615a6bb19"
 metafile = true
@@ -492,18 +642,8 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
-file = "mods/simpledifficulty.pw.toml"
-hash = "f54e790995a4b814e553edb13505e9115f784344706d261943cc8b97986e1a76"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remixin.pw.toml"
 hash = "2c160ad20e478704312f5128fd5ebde2d6c88cc086d758b4b48056abf7bee730"
-metafile = true
-
-[[files]]
-file = "mods/sparks-hammers.pw.toml"
-hash = "94f15697448d4bd1833d4246cd26aeb2864784ad6b9f4ea695023374a5784ebe"
 metafile = true
 
 [[files]]
@@ -519,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/tree-chopper.pw.toml"
+hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
 metafile = true
 
 [[files]]
@@ -616,5 +761,13 @@ file = "scripts/LootTableTweaker/tweaks.zs"
 hash = "311ed7c6fe142be099a163ce7da5f1ad6fd0c36dddbc0d1750487f3bbf090697"
 
 [[files]]
+file = "scripts/pyrotech-bop.zs"
+hash = "9439d2d181a2c9fae8ce0e4d2b6a8167772a48cef08e8d22fefb5b29e732e471"
+
+[[files]]
 file = "scripts/recipes.zs"
-hash = "4416ad1394a7f60860c029f29313b796fa8717149ed43758dd18adfedbf3ccd5"
+hash = "c4c114f5801aa367fdfb665bf6d79f2570890c7803ebb54c44198687da748117"
+
+[[files]]
+file = "scripts/spartanweaponry.zs"
+hash = "cd39f4f1b534d6838b084db0be02aa648e9130ebda510fa1de3135d874555ee6"

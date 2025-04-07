@@ -1,0 +1,13 @@
+name = "Pyrotech Compat"
+filename = "Pyrotech Compat-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f164f0d55ccc9e0d0287b47ba252c12c50c56645"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2822846
+project-id = 349972

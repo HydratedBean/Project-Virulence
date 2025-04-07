@@ -1,0 +1,273 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "geolosys:geolosys.cluster.aluminum",
+        "libvulpes:material.Aluminum"
+      ],
+      "output": [
+        "libvulpes:productnugget:9"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "geolosys:geolosys.cluster.copper",
+        "libvulpes:material.Copper",
+        "mekanism:tile.OreBlock.CopperOre",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_1"
+      ],
+      "output": [
+        "libvulpes:productnugget:4",
+        "mekanism:nugget:5"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "geolosys:geolosys.cluster.gold",
+        "minecraft:tile.oreGold",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.igneous_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.metamorphic_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore",
+        "undergroundbiomes:tile.sedimentary_stone_gold_ore"
+      ],
+      "output": [
+        "minecraft:gold_nugget:0"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreIridium": {
+      "slagColor": "d5d4e7",
+      "langKey": [
+        "libvulpes:material.Iridium"
+      ],
+      "output": [
+        "libvulpes:productnugget:10"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "geolosys:geolosys.cluster.iron",
+        "minecraft:tile.oreIron",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.igneous_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.metamorphic_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore",
+        "undergroundbiomes:tile.sedimentary_stone_iron_ore"
+      ],
+      "output": [
+        "minecraft:iron_nugget:0"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreOsmium": {
+      "slagColor": "9babc4",
+      "langKey": [
+        "geolosys:geolosys.cluster.osmium",
+        "mekanism:tile.OreBlock.OsmiumOre",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock"
+      ],
+      "output": [
+        "mekanism:nugget:1"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.tin",
+        "libvulpes:material.Tin",
+        "mekanism:tile.OreBlock.TinOre",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.igneous_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.metamorphic_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2",
+        "undergroundbiomes:tile.sedimentary_stone_mekanism_oreblock_2"
+      ],
+      "output": [
+        "libvulpes:productnugget:5",
+        "mekanism:nugget:6"
+      ],
+      "bloomYieldMinMax": [
+        12,
+        15
+      ],
+      "slagBloomYieldMinMax": [
+        12,
+        15
+      ]
+    }
+  }
+}
