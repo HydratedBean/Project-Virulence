@@ -25,6 +25,10 @@ file = "config/GeographiCraft/geographicraft.cfg"
 hash = "9dc2adcc13e1ade9c442a2e8f380a0d9542966f2d027a58027966849f60ad75a"
 
 [[files]]
+file = "config/InGameInfo.xml"
+hash = "fb7292c475aa5da9ca9d9e140865efbbf7edae55759e7f0294ef0a73717e3d8e"
+
+[[files]]
 file = "config/advRocketry/Centrifuge.xml"
 hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
 
@@ -89,16 +93,8 @@ file = "config/aquaacrobatics_core.cfg"
 hash = "2b34ba14a25600ebdb49ebb6fd5de4623114c524abf2e73852553461d6552127"
 
 [[files]]
-file = "config/athenaeum/athenaeum.cfg"
-hash = "65af9d634918923b911dc8f2c93acbac86628760749cd5003dbf5db7237e9d8c"
-
-[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "0f67ea9a2e9785dbfe19e7337b948773c236c849cf2a0a3627114c0e5ee3f3b7"
-
-[[files]]
-file = "config/betterhud.cfg"
-hash = "944a8c18ade805729990b5c51743a8a2b6c632886d950f8d5028397284a0de8d"
 
 [[files]]
 file = "config/darkness.cfg"
@@ -157,6 +153,10 @@ file = "config/iblis_headshots.cfg"
 hash = "2ddffd83c99d943eb7eb716dd7fb23a76a22be1374231c9da2e5e695a32c6782"
 
 [[files]]
+file = "config/ingameinfoxml.cfg"
+hash = "2d3dfd0d0a136688dec741210cde0fa24400443d782dc455ee620ed8b3a25a84"
+
+[[files]]
 file = "config/instantunify.cfg"
 hash = "baee270e3320c1f18af81cbcf7177096262e3213d21ad6bcd9bf293c0a175f68"
 
@@ -182,11 +182,11 @@ hash = "986e7fe528958095fb55a39893eab0ac457bd108e6b4ad81b59be90790ce1d61"
 
 [[files]]
 file = "config/pyrotech/core.compat.Ore-Custom.json"
-hash = "701d9a0be5bc6fbc123838ef130845723bb0146b336862eafe5b1b582d64ad8d"
+hash = "8d6dcc02f51c537137a30c6c6f7da8b34833c2e1d8b964c40d7b441975648037"
 
 [[files]]
 file = "config/pyrotech/core.compat.Ore-Generated.json"
-hash = "701d9a0be5bc6fbc123838ef130845723bb0146b336862eafe5b1b582d64ad8d"
+hash = "8d6dcc02f51c537137a30c6c6f7da8b34833c2e1d8b964c40d7b441975648037"
 
 [[files]]
 file = "config/pyrotech/core.compat.Wood-Custom.json"
@@ -255,10 +255,6 @@ hash = "cde1eb0c761d142670b53e8e7eab1a3ae9d6222415f8fb8355a08dfc8a840e9f"
 [[files]]
 file = "config/pyrotech/plugin.Dropt.cfg"
 hash = "b73067b89d4b5c2e69e202b8d81f16d85ee5c2e4f06e5676fbc23481e7787298"
-
-[[files]]
-file = "config/pyrotech/plugin.Dropt.pyrotechCompat.cfg"
-hash = "c48e203cc644f819ee3c0640f6f29433767f9a5089daa1e0a5a29f514c7907f0"
 
 [[files]]
 file = "config/pyrotech/plugin.Patchouli.cfg"
@@ -342,11 +338,6 @@ hash = "30120c9b5188449824a201cc681bfb8de70346b8cb1a189e1c717e44c80dd024"
 metafile = true
 
 [[files]]
-file = "mods/better-hud.pw.toml"
-hash = "e25f8a3e018be45491ce56df301075b682895e57f1891b9e5d6a794b5359b660"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -362,13 +353,13 @@ hash = "135f0f8478fe6e1a822028cba294160c2a8965b29467b899cdcecf5e241102f3"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+file = "mods/controlling.pw.toml"
+hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
 
 [[files]]
@@ -452,6 +443,11 @@ hash = "b0a8f7daa948daec8a98603ee3888438e2dee3b4cb0bb9bfcb0f980a7d16dc83"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
+metafile = true
+
+[[files]]
 file = "mods/had-enough-items.pw.toml"
 hash = "ef2311d35eec247d9d0544804c3e744aa56a2e8984016505e1a073bad88ec9ba"
 metafile = true
@@ -464,6 +460,16 @@ metafile = true
 [[files]]
 file = "mods/iblis-headshots.pw.toml"
 hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
+metafile = true
+
+[[files]]
+file = "mods/ingame-info-xml-serene-seasons.pw.toml"
+hash = "393e54e99cef148a03ee9f4ab01cce77200ed2d4aa6e932e9dcde0d94ef02416"
+metafile = true
+
+[[files]]
+file = "mods/ingame-info-xml.pw.toml"
+hash = "44f8c8ec8537d281d633d900302e4757a52d003ed42c0874e115479ce88978ee"
 metafile = true
 
 [[files]]
@@ -494,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/loottabletweaker.pw.toml"
 hash = "dbd8aeb68c0fede1db05d14b09e5a2ed9509f4f1f43aa0606172d4fc90f73068"
+metafile = true
+
+[[files]]
+file = "mods/lunatriuscore.pw.toml"
+hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
@@ -569,11 +580,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
-metafile = true
-
-[[files]]
-file = "mods/pyrotech-compat.pw.toml"
-hash = "ba557bef9df0bdffa15d4800424a7d3586861784465fbf871333f46c4de12be6"
 metafile = true
 
 [[files]]
@@ -664,11 +670,6 @@ metafile = true
 [[files]]
 file = "mods/tree-chopper.pw.toml"
 hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
-metafile = true
-
-[[files]]
-file = "mods/underground-biomes.pw.toml"
-hash = "557db497a5d706a43f4e69bf8792f167a3f2e6df36243769a91116719bb7d29c"
 metafile = true
 
 [[files]]
