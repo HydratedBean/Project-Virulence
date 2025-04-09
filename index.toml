@@ -261,10 +261,6 @@ file = "config/pyrotech/plugin.Patchouli.cfg"
 hash = "ee23296029c3c260dfd86fa78d30b66ac2610c23ff2f9f137e3055a986112967"
 
 [[files]]
-file = "config/simpledifficulty.cfg"
-hash = "6ca45c8cd41f4e1d65d54004cf1803c249b1eab33c40f76fd25af2f1f662a8a2"
-
-[[files]]
 file = "config/soundphysics.cfg"
 hash = "21f9c0d17ff69e2d9542a4e8f3d5be3776ec9feced802d9b53a30965575c7350"
 
