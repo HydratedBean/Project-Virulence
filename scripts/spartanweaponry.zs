@@ -25,7 +25,7 @@ recipes.removeShaped(<spartanweaponry:katana_stone>);
 recipes.removeShaped(<spartanweaponry:longsword_stone>);
 recipes.removeShaped(<spartanweaponry:parrying_dagger_stone>);
 recipes.removeShaped(<spartanweaponry:dagger_stone>);
-recipes.removeShaped(<spartanweaponry:staff_wood>);
+recipes.removeShaped(<spartanweaponry:staff>);
 recipes.removeShaped(<spartanweaponry:glaive_wood>);
 recipes.removeShaped(<spartanweaponry:mace_wood>);
 recipes.removeShaped(<spartanweaponry:battleaxe_wood>);
