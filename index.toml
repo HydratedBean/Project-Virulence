@@ -354,6 +354,11 @@ hash = "135f0f8478fe6e1a822028cba294160c2a8965b29467b899cdcecf5e241102f3"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
