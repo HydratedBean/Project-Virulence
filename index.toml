@@ -763,8 +763,8 @@ hash = "9439d2d181a2c9fae8ce0e4d2b6a8167772a48cef08e8d22fefb5b29e732e471"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "c4c114f5801aa367fdfb665bf6d79f2570890c7803ebb54c44198687da748117"
+hash = "95d8ca27f70c598bfd0105f7cc953410cd3bd5491df791223e7bcf75f8f16673"
 
 [[files]]
 file = "scripts/spartanweaponry.zs"
-hash = "cd39f4f1b534d6838b084db0be02aa648e9130ebda510fa1de3135d874555ee6"
+hash = "88043db060046a84fbd146e68fc08bd5ff6d992450e1fd09f776df3ba0821f84"

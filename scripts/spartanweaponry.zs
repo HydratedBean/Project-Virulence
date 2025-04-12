@@ -25,6 +25,28 @@ recipes.removeShaped(<spartanweaponry:katana_stone>);
 recipes.removeShaped(<spartanweaponry:longsword_stone>);
 recipes.removeShaped(<spartanweaponry:parrying_dagger_stone>);
 recipes.removeShaped(<spartanweaponry:dagger_stone>);
+recipes.removeShaped(<spartanweaponry:staff_wood>);
+recipes.removeShaped(<spartanweaponry:glaive_wood>);
+recipes.removeShaped(<spartanweaponry:mace_wood>);
+recipes.removeShaped(<spartanweaponry:battleaxe_wood>);
+recipes.removeShaped(<spartanweaponry:boomerang_wood>);
+recipes.removeShaped(<spartanweaponry:javelin_wood>);
+recipes.removeShaped(<spartanweaponry:throwing_axe_wood>);
+recipes.removeShaped(<spartanweaponry:throwing_knife_wood>);
+recipes.removeShaped(<spartanweaponry:lance_wood>);
+recipes.removeShaped(<spartanweaponry:pike_wood>);
+recipes.removeShaped(<spartanweaponry:halberd_wood>);
+recipes.removeShaped(<spartanweaponry:spear_wood>);
+recipes.removeShaped(<spartanweaponry:warhammer_wood>);
+recipes.removeShaped(<spartanweaponry:hammer_wood>);
+recipes.removeShaped(<spartanweaponry:greatsword_wood>);
+recipes.removeShaped(<spartanweaponry:rapier_wood>);
+recipes.removeShaped(<spartanweaponry:saber_wood>);
+recipes.removeShaped(<spartanweaponry:scythe_wood>);
+recipes.removeShaped(<spartanweaponry:katana_wood>);
+recipes.removeShaped(<spartanweaponry:longsword_wood>);
+recipes.removeShaped(<spartanweaponry:parrying_dagger_wood>);
+recipes.removeShaped(<spartanweaponry:dagger_wood>);
 
 //#Add
 recipes.addShapedMirrored(<spartanshields:shield_tower_wood>, [[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],[<ore:plankWood>, <ore:stickWood>, <ore:plankWood>], [null, <ore:plankWood>, null]]);
