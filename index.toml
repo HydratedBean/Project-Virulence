@@ -334,6 +334,11 @@ hash = "30120c9b5188449824a201cc681bfb8de70346b8cb1a189e1c717e44c80dd024"
 metafile = true
 
 [[files]]
+file = "mods/avaritia-1-1x-unofficial.pw.toml"
+hash = "245bdb455f71f3bd877833b04c5ad38f91f8d83a63529df74275514be6ece54b"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -421,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
 hash = "46d6e1ee38386dc5891a365d028e161a8f12b905bc6fb1e1b9c7815aa36a6089"
+metafile = true
+
+[[files]]
+file = "mods/forgelin-continuous.pw.toml"
+hash = "c6dce75794a20c32bfce0a0162b08127510914c493f25325f451c33c7a017a92"
 metafile = true
 
 [[files]]
@@ -516,11 +526,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
-metafile = true
-
-[[files]]
-file = "mods/mixin-booter.pw.toml"
-hash = "06749d5ef9c2e430dec0243040098e71f1df160f9dacca34ee38459c14275043"
 metafile = true
 
 [[files]]
@@ -636,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "0e523af204e86543bd07267761b2ffedbd78dd77422fe6ef47e62891d7e3dcc9"
-metafile = true
-
-[[files]]
-file = "mods/shadowfacts-forgelin.pw.toml"
-hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
