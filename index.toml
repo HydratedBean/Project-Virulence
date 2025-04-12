@@ -664,11 +664,6 @@ hash = "9640925f3578a1bd4031d7013f4d0af82bc3cd7a31272baa1d90ecc282cb7a01"
 metafile = true
 
 [[files]]
-file = "mods/srpmixins.pw.toml"
-hash = "7bf861d30ecf91d5d6030a53b4fc9ed0c77f26b6819af165d83025d2cb758860"
-metafile = true
-
-[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
 metafile = true
