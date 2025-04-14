@@ -273,6 +273,10 @@ file = "config/spartanweaponry.cfg"
 hash = "5c247d9874657e919022285e2a32f80eff34220e005c0d5901a735ed19621d95"
 
 [[files]]
+file = "config/splash.properties"
+hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
+
+[[files]]
 file = "config/srparasites/SRParasites.cfg"
 hash = "87efdc812d8ca9718b7e4a4d9ce722127fd78896a69d1f5d2100cbb8e6723267"
 
@@ -717,6 +721,10 @@ metafile = true
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
 hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
+
+[[files]]
+file = "resources/assets/fml/textures/gui/hydrated_bean_patpat.gif"
+hash = "50604da98c03448b08422358a8be8a13688c304b94fc3ec2a71aebec05ce23c9"
 
 [[files]]
 file = "resources/minecraft/textures/entity/creeper/creeper.png"
