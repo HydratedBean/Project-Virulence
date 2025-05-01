@@ -146,7 +146,7 @@ hash = "9664ea8b37b32c3231d147e92718d401dab9f66845d6956973ce72108eed4f0e"
 
 [[files]]
 file = "config/geolosys.json"
-hash = "76939507200b1e78b8bb2fb835dc55debbb1aa24b8e3f16a2c64fef0ee6d08a8"
+hash = "3533343fb75d2ae7d64ef62b6c18abf95656cc4b90a2e937589cf47704d7a532"
 
 [[files]]
 file = "config/iblis_headshots.cfg"
@@ -167,6 +167,54 @@ hash = "dfb804ccef86f74614baa6bb5d319b81977cbb653cdfc953be548cf83f250ea4"
 [[files]]
 file = "config/mekanism/BoxBlacklist.txt"
 hash = "663e0efd336f0fa1ca1bd88355c64d4f293a8cb44ee3ce8fa485ef471a38844f"
+
+[[files]]
+file = "config/nutrition/effects/mining_fatigue.json"
+hash = "80a1dc9e636df3385fd97e37d9af1258d256f46e698d4c335a34ae72353eefb1"
+
+[[files]]
+file = "config/nutrition/effects/resistance.json"
+hash = "e9f231c68bbe2f6e0f725186f94f317dcacc6ecddcbf1fa8e5f201e53faba572"
+
+[[files]]
+file = "config/nutrition/effects/strength.json"
+hash = "c028940a1ff1fed5472671227706d32110f049e1f746047404be824ef900a81d"
+
+[[files]]
+file = "config/nutrition/effects/toughness.json"
+hash = "c91d1af60916cb36c3f50f2e6e752cb9fb38505d922df347e552449de64865da"
+
+[[files]]
+file = "config/nutrition/effects/weakness.json"
+hash = "fa85a4d88706a9298533033b1cabe7d071b55c7828e9e8a3df74924393c953b4"
+
+[[files]]
+file = "config/nutrition/nutrients/dairy.json"
+hash = "4b03c618ebca4612d8f16b60843298a6a118a1047847f5fead8e99670596a3d2"
+
+[[files]]
+file = "config/nutrition/nutrients/example.json"
+hash = "98abc7451e597d708ebaf4074b9129786aa819d5adde6025290750471ed64127"
+
+[[files]]
+file = "config/nutrition/nutrients/fruit.json"
+hash = "516b6c5763a0577de5cca9b31a4096e0465147bc2d9cfe9e78121a42bfc0e39f"
+
+[[files]]
+file = "config/nutrition/nutrients/grain.json"
+hash = "9d6acf34fda2fd4349aadd608a0dfbee18456445cd69122ce030682fb4ef729b"
+
+[[files]]
+file = "config/nutrition/nutrients/protein.json"
+hash = "07f8084eb3d510ef27cdd9ed038cfdcd4f2185357d146698e2a9a273e803d3af"
+
+[[files]]
+file = "config/nutrition/nutrients/vegetable.json"
+hash = "d715d2fc72740a5bba0443c78d051189ec8e14aa381225f5bda215af0bdf6b5e"
+
+[[files]]
+file = "config/nutrition/nutrition.cfg"
+hash = "e59b92162833d205c66ee95ce3e6346e918a05078c34af164c694433754e5e70"
 
 [[files]]
 file = "config/pyrotech/core.OreDict-Custom.json"

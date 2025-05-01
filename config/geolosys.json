@@ -334,6 +334,69 @@
         1
       ],
       "density": 1.0
+    },
+    {
+      "blocks": [
+        "libvulpes:ore0:0",
+        85,
+        "minecraft:stone:1",
+        15
+      ],
+      "samples": [
+        "pyrotech:rock:1",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 33,
+      "chance": 8,
+      "size": 48,
+      "dimBlacklist": [
+        -1,
+        1
+      ],
+      "density": 1.0
+    },
+        {
+      "blocks": [
+        "libvulpes:ore0:8",
+        85,
+        "pyrotech:limestone",
+        15
+      ],
+      "samples": [
+        "pyrotech:rock:8",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 33,
+      "chance": 8,
+      "size": 48,
+      "dimBlacklist": [
+        -1,
+        1
+      ],
+      "density": 1.0
+    },
+    {
+      "blocks": [
+        "libvulpes:ore0:10",
+        85,
+        "minecraft:stone:3",
+        15
+      ],
+      "samples": [
+        "pyrotech:rock:2",
+        100
+      ],
+      "yMin": 8,
+      "yMax": 33,
+      "chance": 8,
+      "size": 48,
+      "dimBlacklist": [
+        -1,
+        1
+      ],
+      "density": 1.0
     }
   ],
   "stones": [
