@@ -1,13 +1,13 @@
 name = "FermiumASM"
-filename = "fermiumasm-5.23.jar"
+filename = "fermiumasm-5.28.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LnSdxRsG/versions/ImR6ZvRq/fermiumasm-5.23.jar"
+url = "https://cdn.modrinth.com/data/LnSdxRsG/versions/1j3dT8HI/fermiumasm-5.28.jar"
 hash-format = "sha512"
-hash = "01c6f48300766e8c3569cc16e2d9e12757c321be2aa756e5cdb98c6258109c1a864ae1705318ab85069280968d193518a3a79b55280363225dd809ab66961a8f"
+hash = "2e0e906ff106c208e0a2fe2ebb849ce09e3e3f6f5956428c1e7663ee0c77927a4e630217c1e11edc04a81d0f3cbe84c4667d10e523b77146ef72198444d561f3"
 
 [update]
 [update.modrinth]
 mod-id = "LnSdxRsG"
-version = "ImR6ZvRq"
+version = "1j3dT8HI"

@@ -342,7 +342,7 @@ hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
 
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
-hash = "f6609d9a7e3bed6a64cb8d24fd1d853b0a3017daaa14db3368bff1dc27d2044e"
+hash = "1c72cddcaaf7b54f000286169a24142cae4c6ca549ab06154ec04189116a1182"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-stealth.pw.toml"
-hash = "aa843be4e2cfecd1d01ba7469c9eecb501a269d7fa4146f6e571a1e108a34f6f"
+hash = "71e574ece89eaebacb04c4c6653f9b3a1cc1b629944cd7649807b2dcbf22d866"
 metafile = true
 
 [[files]]
@@ -472,17 +472,17 @@ metafile = true
 
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
-hash = "5a41ea438b21c2384658de7fd3c3f1ba274db3fdeab940f28999d4a295d6d033"
+hash = "c26b036a8c5a094fb34dd40fdbd5d7ea0d05defc06756c486d8e186b07383f38"
 metafile = true
 
 [[files]]
 file = "mods/fermiumasm.pw.toml"
-hash = "80be94087c87a612483f59263ef766599b690ddf98c770909b286b610093a826"
+hash = "f7484ff1a7655695763970df350e5e5dd655467fd4b95823d9cbff409d49bfcb"
 metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "46d6e1ee38386dc5891a365d028e161a8f12b905bc6fb1e1b9c7815aa36a6089"
+hash = "3f07192463a10e91f487992ffcf59951f6db1c6e0c6a180a4a78e54faa5c5722"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "fc3f4ac188fd6f63da77364f665ede6bae0deed9bb691b147a88cabecbfc31ca"
+hash = "1fd010986acc83145ba612e0aba17ed7fd1d78c36b702bfc608312a05d9a2c37"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "ef2311d35eec247d9d0544804c3e744aa56a2e8984016505e1a073bad88ec9ba"
+hash = "f3d56a2af8454e4ccf94b86c17aef630c1952ba92783745fa47bd6dc20d2d162"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "80518543eb4397bef9e312fa388e6ada52b25f31e3db157640afc0c48f759096"
+hash = "fbc33eb5ed391842b8cd6ca271606f28d36d88093cd55b850389c669f6168300"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "394979d466449434539b556b7a958220510e2b14060b8f338a947eca0c926f7b"
+hash = "7288956db5731ae8f5c5a81df922124c172000416c1e02a44f85ac2acf7276fc"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/nothirium.pw.toml"
-hash = "314842cf651825953c4751c4c9eddba45006698a7cd729cedfb5b589942b968b"
+hash = "067e46211f3e32ee0472c299c71e618556b9e593e973005a0efbec40fbdfece1"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/reach-fix.pw.toml"
-hash = "9699fd2ea09e9c6a3c5b0d08826aa7c268c783777843a7b53b4b00bf3385cf7f"
+hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/renderlib.pw.toml"
-hash = "6abbf6556a15085df5fe156286e0ca9c0808c4e778d7614d9e9c27f76c7fe35b"
+hash = "c3dc965e7f98972b40bd70f7c946d0a72b99fbad10273d089ddf90deaee092cd"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalar.pw.toml"
-hash = "2dc545f49896881f74ca735437e14e30e967a8ec79cb32c21ce1024bdd85edba"
+hash = "c0a0a6df8882caf8989df6bec1864e16b6cf2d5bf960500910f43224c7fe9c41"
 metafile = true
 
 [[files]]
@@ -706,6 +706,11 @@ hash = "9640925f3578a1bd4031d7013f4d0af82bc3cd7a31272baa1d90ecc282cb7a01"
 metafile = true
 
 [[files]]
+file = "mods/srpmixins.pw.toml"
+hash = "0c6fe133a51c2914418a3d64ddf2feaded70409d748db3241b736800b6d8b7f2"
+metafile = true
+
+[[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
 metafile = true
@@ -722,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "0b3178b628c2a9640ca2c081f50855b84b2f8dca2bd6468f6189b3d1c9c50d9c"
+hash = "0dada0e2dc7fd4c388d19617459de52bdf6b6005781db7ea38c9ecc118200a25"
 metafile = true
 
 [[files]]

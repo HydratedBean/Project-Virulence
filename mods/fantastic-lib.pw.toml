@@ -1,13 +1,13 @@
 name = "Fantastic Lib"
-filename = "FantasticLib-1.12.2.049.jar"
+filename = "FantasticLib-1.12.2.058.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d86c0bbefc9b44ca320a4b20a74e809206a27a6c"
+hash = "5f9130cb72b13c487c32035be4cb8729f91504d8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6307885
+file-id = 6465107
 project-id = 315773
