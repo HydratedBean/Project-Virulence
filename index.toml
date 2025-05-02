@@ -329,6 +329,18 @@ file = "config/srparasites/SRParasites.cfg"
 hash = "87efdc812d8ca9718b7e4a4d9ce722127fd78896a69d1f5d2100cbb8e6723267"
 
 [[files]]
+file = "config/srparasites/SRParasitesMobs.cfg"
+hash = "6ce05a0d7907888ddc1605bc7fdbf8ec2028b3624d3c73436a760c3d87dbf74c"
+
+[[files]]
+file = "config/srparasites/SRParasitesSystems.cfg"
+hash = "0312bd069afb5379d3d0fcb1848646f8abc4e980069d1de4bf522fec0ba84f58"
+
+[[files]]
+file = "config/srparasites/SRParasitesWorld.cfg"
+hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
+
+[[files]]
 file = "config/unexperienced.cfg"
 hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
 
