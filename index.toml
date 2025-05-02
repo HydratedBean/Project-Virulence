@@ -586,16 +586,6 @@ hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
 metafile = true
 
 [[files]]
-file = "mods/mixinbootstrap.pw.toml"
-hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
-metafile = true
-
-[[files]]
-file = "mods/mixincompat.pw.toml"
-hash = "6dbfbe17c42118e8f916528f36783c86ee3f6634db6579d74bd693965f7abb1f"
-metafile = true
-
-[[files]]
 file = "mods/mob-sunscreen.pw.toml"
 hash = "916bbd27f0bd909c5898566d153bc96a457ffcad1fb96a71105fde894d4bc8f4"
 metafile = true
