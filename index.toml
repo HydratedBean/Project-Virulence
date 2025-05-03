@@ -718,6 +718,11 @@ hash = "9640925f3578a1bd4031d7013f4d0af82bc3cd7a31272baa1d90ecc282cb7a01"
 metafile = true
 
 [[files]]
+file = "mods/splash-logo-color-fix.pw.toml"
+hash = "109387ca95c52d39f3fe7353ca747adad46ee58da302251f24e6d71adf28d02b"
+metafile = true
+
+[[files]]
 file = "mods/srpmixins.pw.toml"
 hash = "0c6fe133a51c2914418a3d64ddf2feaded70409d748db3241b736800b6d8b7f2"
 metafile = true
