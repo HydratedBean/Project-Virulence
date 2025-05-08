@@ -1,0 +1,13 @@
+name = "Mace Port"
+filename = "DerexMaceMod-1.12.2-5.1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69fe88aa37b6e230193151114c6fd455de63a2b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5225695
+project-id = 990180

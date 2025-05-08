@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.removeShaped(<futuremc:campfire>);
 recipes.removeShaped(<wearablebackpacks:backpack>);
 recipes.removeShaped(<minecraft:enchanting_table>);
 recipes.removeShaped(<minecraft:wooden_axe>);

@@ -508,6 +508,11 @@ hash = "1fd010986acc83145ba612e0aba17ed7fd1d78c36b702bfc608312a05d9a2c37"
 metafile = true
 
 [[files]]
+file = "mods/future-mc.pw.toml"
+hash = "3b0fdf57e37ea8839a4665c740e28816dc9b37b74929f444b8497de787b30a50"
+metafile = true
+
+[[files]]
 file = "mods/gaspunk.pw.toml"
 hash = "5e57bf8b06ed3500216ec3df7728d8b258fd03cb7e8483dd29cc1724f7a431c0"
 metafile = true
@@ -580,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/lunatriuscore.pw.toml"
 hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
+metafile = true
+
+[[files]]
+file = "mods/mace-backport.pw.toml"
+hash = "82ae1aaa518a527b14d023033aa92cd1f27c6880ecde5aeb69a0037f1f755724"
 metafile = true
 
 [[files]]
@@ -836,7 +846,7 @@ hash = "9439d2d181a2c9fae8ce0e4d2b6a8167772a48cef08e8d22fefb5b29e732e471"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "95d8ca27f70c598bfd0105f7cc953410cd3bd5491df791223e7bcf75f8f16673"
+hash = "0219301c0e8069b86414b71c7dc1ed3de5d5ff2d3beb91e710ae81404ddcdcb0"
 
 [[files]]
 file = "scripts/spartanweaponry.zs"
