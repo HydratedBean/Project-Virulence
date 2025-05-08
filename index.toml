@@ -353,6 +353,11 @@ file = "mods/Nutrition-1.12.2-4.9.0.jar"
 hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
 
 [[files]]
+file = "mods/absent-by-design.pw.toml"
+hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
+metafile = true
+
+[[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
 hash = "1c72cddcaaf7b54f000286169a24142cae4c6ca549ab06154ec04189116a1182"
 metafile = true
@@ -485,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "c26b036a8c5a094fb34dd40fdbd5d7ea0d05defc06756c486d8e186b07383f38"
+metafile = true
+
+[[files]]
+file = "mods/faster-ladder-climbing.pw.toml"
+hash = "2412145ac3688d33a36efc242c766ea7f598761ef1672c2629541b332f4a78c6"
 metafile = true
 
 [[files]]
@@ -740,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/torchslabs-mod.pw.toml"
+hash = "1b5a11a4d250af03a54c67708bb763e4ced80915f6ed1db349cbebaf035bbdc3"
 metafile = true
 
 [[files]]
