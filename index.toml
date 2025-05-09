@@ -121,8 +121,8 @@ file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "08cde52d7eac02d5f09ac1b28021238a38e485f0e79085e74a9396acb5c3f0fd"
 
 [[files]]
-file = "config/dynamicstealth/1.12.2.095+.cfg"
-hash = "aa632e7621c49a4799ec3f6d95b32db2b256fc70e5ebe20f1ed3b2101794e006"
+file = "config/dynamicstealth/1.12.2.116+.cfg"
+hash = "f15781a88b3381e2ebfe81337adca02a05ed9bb94f31648c6d76247efb40511e"
 
 [[files]]
 file = "config/enchcontrol/config.json"
