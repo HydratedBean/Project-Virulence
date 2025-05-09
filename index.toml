@@ -149,10 +149,6 @@ file = "config/geolosys.json"
 hash = "3533343fb75d2ae7d64ef62b6c18abf95656cc4b90a2e937589cf47704d7a532"
 
 [[files]]
-file = "config/iblis_headshots.cfg"
-hash = "2ddffd83c99d943eb7eb716dd7fb23a76a22be1374231c9da2e5e695a32c6782"
-
-[[files]]
 file = "config/ingameinfoxml.cfg"
 hash = "2d3dfd0d0a136688dec741210cde0fa24400443d782dc455ee620ed8b3a25a84"
 
@@ -551,11 +547,6 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
-metafile = true
-
-[[files]]
-file = "mods/iblis-headshots.pw.toml"
-hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
 metafile = true
 
 [[files]]
