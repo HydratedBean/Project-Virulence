@@ -1,0 +1,13 @@
+name = "Unstable Tools"
+filename = "unstabletools-1.12.2-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59e5e7a1d564afe05458b6f5a69660c9c7793b13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293939
+project-id = 322355

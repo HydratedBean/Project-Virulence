@@ -313,14 +313,6 @@ file = "config/soundphysics.cfg"
 hash = "21f9c0d17ff69e2d9542a4e8f3d5be3776ec9feced802d9b53a30965575c7350"
 
 [[files]]
-file = "config/spartanshields.cfg"
-hash = "db32f62efff569e57ed0fe1fe06037ddc05ff9754376d2b0896ec4920964e61d"
-
-[[files]]
-file = "config/spartanweaponry.cfg"
-hash = "5c247d9874657e919022285e2a32f80eff34220e005c0d5901a735ed19621d95"
-
-[[files]]
 file = "config/splash.properties"
 hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
 
@@ -524,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/fugue.pw.toml"
 hash = "1fd010986acc83145ba612e0aba17ed7fd1d78c36b702bfc608312a05d9a2c37"
+metafile = true
+
+[[files]]
+file = "mods/future-fireproof.pw.toml"
+hash = "abac4023c3c234d4787c63deb816f6727d04e5966d8c8082b3733c4ec757e318"
 metafile = true
 
 [[files]]
@@ -737,6 +734,11 @@ hash = "2c160ad20e478704312f5128fd5ebde2d6c88cc086d758b4b48056abf7bee730"
 metafile = true
 
 [[files]]
+file = "mods/spartan-netherite.pw.toml"
+hash = "89a6e945f18ae0727808ca5e46eb69bb082d647617a5e5533bdd3b6631dca2b8"
+metafile = true
+
+[[files]]
 file = "mods/spartan-shields.pw.toml"
 hash = "bd572a46699d751f4aa35062de06410892b964db3558ef8254f9b2a6283e1e83"
 metafile = true
@@ -774,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/unexperienced.pw.toml"
 hash = "943470df4a88d23d763d764f79f79bb94c3f7b2efa737c27527e346062a6ade0"
+metafile = true
+
+[[files]]
+file = "mods/unstable-tools.pw.toml"
+hash = "3c8c1281e2aec458c0339c19352fd94861cb8b1d13ed7aa837ef50b024bcca74"
 metafile = true
 
 [[files]]

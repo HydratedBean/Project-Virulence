@@ -1,0 +1,13 @@
+name = "Future Fireproof"
+filename = "futurefireproof-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c865e86ad3abf8ef2d755625688183c0c038939d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6397349
+project-id = 1121231
