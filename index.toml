@@ -341,6 +341,10 @@ file = "config/srparasites/SRParasitesWorld.cfg"
 hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 
 [[files]]
+file = "config/srpmixins.cfg"
+hash = "dbf035ef014ab71b3f1d9d9e1dfc79b0f18f1ff68881b28d0ab51804d3f5a1be"
+
+[[files]]
 file = "config/unexperienced.cfg"
 hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
 
@@ -360,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/advanced-rocketry-2.pw.toml"
 hash = "1c72cddcaaf7b54f000286169a24142cae4c6ca549ab06154ec04189116a1182"
+metafile = true
+
+[[files]]
+file = "mods/ai-reducer.pw.toml"
+hash = "7e2b92b486e5a6fed10f470e6c222dea72a12edd19e75aba12f293133187574b"
 metafile = true
 
 [[files]]
