@@ -620,8 +620,8 @@ hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
 metafile = true
 
 [[files]]
-file = "mods/mob-amputation.pw.toml"
-hash = "ea77ac331932e8806746ed26c1034c6eb13dc014f7d509f574349ead2e28a6a5"
+file = "mods/mob-dismemberment.pw.toml"
+hash = "0e9f470f078982e136269d489fd78d74d4329f662b1f62af5718a0fe50f10b19"
 metafile = true
 
 [[files]]
