@@ -165,6 +165,10 @@ file = "config/mekanism/BoxBlacklist.txt"
 hash = "663e0efd336f0fa1ca1bd88355c64d4f293a8cb44ee3ce8fa485ef471a38844f"
 
 [[files]]
+file = "config/morepaintings.cfg"
+hash = "ae036f9bb16f289694a19b55902556f1b5d769df9a78168642fba6cc2e041aab"
+
+[[files]]
 file = "config/nutrition/effects/mining_fatigue.json"
 hash = "80a1dc9e636df3385fd97e37d9af1258d256f46e698d4c335a34ae72353eefb1"
 
@@ -638,6 +642,10 @@ metafile = true
 file = "mods/modularwarfare.pw.toml"
 hash = "998f0e2a56b0b2f5d5e4aa6740f0779a5afd752e922e656c353aec7244783a11"
 metafile = true
+
+[[files]]
+file = "mods/morepaintings-1.12.2-5.0.1.2-projectvirulence.jar"
+hash = "9e816354879c37264b9b34146d881d348a9c636d333b2f279e453fce61b38cbf"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
