@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
-hash = "c26b036a8c5a094fb34dd40fdbd5d7ea0d05defc06756c486d8e186b07383f38"
+hash = "05cc87079bd7ac399083a8ebec2752a5bf22c8f8e077181633bea2e81c88bace"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "1fd010986acc83145ba612e0aba17ed7fd1d78c36b702bfc608312a05d9a2c37"
+hash = "0bc5d5ac93129ff8587f224fb1465798e938e1ff666e2bc9f04002ac52bdc82f"
 metafile = true
 
 [[files]]
