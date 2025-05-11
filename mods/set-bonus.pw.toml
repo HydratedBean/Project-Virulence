@@ -1,0 +1,13 @@
+name = "Set Bonus"
+filename = "SetBonus-1.12.2.035.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7f316cb6f381ec4c48c38963b5d9821fb719c51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6507321
+project-id = 317158

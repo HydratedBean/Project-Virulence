@@ -404,11 +404,6 @@ hash = "30120c9b5188449824a201cc681bfb8de70346b8cb1a189e1c717e44c80dd024"
 metafile = true
 
 [[files]]
-file = "mods/avaritia-1-1x-unofficial.pw.toml"
-hash = "245bdb455f71f3bd877833b04c5ad38f91f8d83a63529df74275514be6ece54b"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -446,11 +441,6 @@ metafile = true
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
-metafile = true
-
-[[files]]
-file = "mods/damage-tilt.pw.toml"
-hash = "625b150e7070043d16446738e23a9326fd66aad8cb426f4693783ecd00c817a5"
 metafile = true
 
 [[files]]
@@ -576,11 +566,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "fbc33eb5ed391842b8cd6ca271606f28d36d88093cd55b850389c669f6168300"
-metafile = true
-
-[[files]]
-file = "mods/lmd.pw.toml"
-hash = "4d941a784aaf275797d892e740b1d189c8c9f20e44d37309f37ac1ec00a1cdac"
 metafile = true
 
 [[files]]
@@ -738,6 +723,11 @@ hash = "0e523af204e86543bd07267761b2ffedbd78dd77422fe6ef47e62891d7e3dcc9"
 metafile = true
 
 [[files]]
+file = "mods/set-bonus.pw.toml"
+hash = "507a74d1ebd04cbf8f3c39b20063894d16f0ea22e5f7eacef1cd76a30ade92bd"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remixin.pw.toml"
 hash = "2c160ad20e478704312f5128fd5ebde2d6c88cc086d758b4b48056abf7bee730"
 metafile = true
@@ -768,11 +758,6 @@ hash = "0c6fe133a51c2914418a3d64ddf2feaded70409d748db3241b736800b6d8b7f2"
 metafile = true
 
 [[files]]
-file = "mods/toast-control.pw.toml"
-hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
-metafile = true
-
-[[files]]
 file = "mods/torchslabs-mod.pw.toml"
 hash = "1b5a11a4d250af03a54c67708bb763e4ced80915f6ed1db349cbebaf035bbdc3"
 metafile = true
@@ -785,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/unexperienced.pw.toml"
 hash = "943470df4a88d23d763d764f79f79bb94c3f7b2efa737c27527e346062a6ade0"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "0abec0949ca051ee96bdbfcd40a2a4d20413166b9a4f95e891faddb52d73a22a"
 metafile = true
 
 [[files]]
