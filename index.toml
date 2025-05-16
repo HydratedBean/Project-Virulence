@@ -137,6 +137,10 @@ file = "config/esm/epicsiegemod.cfg"
 hash = "65c248f0d830556445f03a733fb7ba91ab0d4d78850278ea437bf0ddd6b31472"
 
 [[files]]
+file = "config/futuremc/futuremc.cfg"
+hash = "75ce7934634d1b333bae6e7daa61155f3fa3286aff5e29b33804ccb9677b61b8"
+
+[[files]]
 file = "config/geolosys.cfg"
 hash = "9664ea8b37b32c3231d147e92718d401dab9f66845d6956973ce72108eed4f0e"
 
