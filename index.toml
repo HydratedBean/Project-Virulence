@@ -121,10 +121,6 @@ file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "08cde52d7eac02d5f09ac1b28021238a38e485f0e79085e74a9396acb5c3f0fd"
 
 [[files]]
-file = "config/dynamicstealth/1.12.2.116+.cfg"
-hash = "f15781a88b3381e2ebfe81337adca02a05ed9bb94f31648c6d76247efb40511e"
-
-[[files]]
 file = "config/enchcontrol/config.json"
 hash = "2bcca9c7a8cbc4a79c2f539fdb1968f62e6f7d18637a31f29edf17fc4949b49d"
 
@@ -404,6 +400,11 @@ hash = "30120c9b5188449824a201cc681bfb8de70346b8cb1a189e1c717e44c80dd024"
 metafile = true
 
 [[files]]
+file = "mods/better-invisibility.pw.toml"
+hash = "0470eb8ceb8f83cc263f47169ba7e1c60507ac58e78b77b800ac0a60e6ca16b5"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -464,11 +465,6 @@ hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-stealth.pw.toml"
-hash = "71e574ece89eaebacb04c4c6653f9b3a1cc1b629944cd7649807b2dcbf22d866"
-metafile = true
-
-[[files]]
 file = "mods/enchantments-control.pw.toml"
 hash = "eb35a4d5ca02525ca8cb48b07a481c9d611a511a82628645542c120b8bd65b6c"
 metafile = true
@@ -480,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
-hash = "05cc87079bd7ac399083a8ebec2752a5bf22c8f8e077181633bea2e81c88bace"
+hash = "0d6a5f075bc53ce96e8b43c8164cd044167b3fb225a616a2989d852fad464118"
 metafile = true
 
 [[files]]
