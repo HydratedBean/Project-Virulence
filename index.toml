@@ -823,11 +823,6 @@ hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/modernity.pw.toml"
-hash = "631681d3b1ce347884a36d2b0d8a0bd7f0a73c5547edea78fbe8bea513d9f97b"
-metafile = true
-
-[[files]]
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
 hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
