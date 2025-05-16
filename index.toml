@@ -699,6 +699,11 @@ hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
 metafile = true
 
 [[files]]
+file = "mods/roboticparts.pw.toml"
+hash = "e7f313d93cd3ef9f39cba1f81d69060993643ffedf6998757fda543fda6ebd4b"
+metafile = true
+
+[[files]]
 file = "mods/scalar.pw.toml"
 hash = "c0a0a6df8882caf8989df6bec1864e16b6cf2d5bf960500910f43224c7fe9c41"
 metafile = true
