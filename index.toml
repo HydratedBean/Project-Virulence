@@ -29,6 +29,66 @@ file = "config/InGameInfo.xml"
 hash = "fb7292c475aa5da9ca9d9e140865efbbf7edae55759e7f0294ef0a73717e3d8e"
 
 [[files]]
+file = "config/advRocketry/Centrifuge.xml"
+hash = "a7b514eb86691e27ae056edb12f6cb8a1efee998de1cb31e3de69bf228bf7734"
+
+[[files]]
+file = "config/advRocketry/ChemicalReactor.xml"
+hash = "3e5ab4f1d4a293d6405d1c18621bb52aa1f64c71f48ca762d835665a47203e92"
+
+[[files]]
+file = "config/advRocketry/Crystallizer.xml"
+hash = "8237ba90732053ef20881dc2e47adab156914d259d3af4de3f66efd829551811"
+
+[[files]]
+file = "config/advRocketry/CuttingMachine.xml"
+hash = "5c96564904bdcf129498395ec16193a7f06b9865eddcd741bd03eddb245de1aa"
+
+[[files]]
+file = "config/advRocketry/ElectricArcFurnace.xml"
+hash = "969b8e7b33cf41cdc4a47146e1c9a70d2327ff2b08cf4485579d079aa9e9a1d0"
+
+[[files]]
+file = "config/advRocketry/Electrolyser.xml"
+hash = "59b49aef7613e439ffbc0e3bd0382417d395e6470a97ad59abe8c26432720fdf"
+
+[[files]]
+file = "config/advRocketry/Lathe.xml"
+hash = "efebf7408ba21cd1f476a0645a0d7e2368037c8de96adc768d35eb1a0f54054b"
+
+[[files]]
+file = "config/advRocketry/PrecisionAssembler.xml"
+hash = "ff19151163713ab035347b730427d2e740ed55a8fa8f2ba3971c34635ba9b4cb"
+
+[[files]]
+file = "config/advRocketry/PrecisionLaserEtcher.xml"
+hash = "f8e04353937af2da3aa67830e5b9b62c2a8d66b6d685cf7e39fe1464d4a62c02"
+
+[[files]]
+file = "config/advRocketry/RollingMachine.xml"
+hash = "4640cb0c4aec798b83930a58c46680a72f8e444217c9acb0222d03da20bf607a"
+
+[[files]]
+file = "config/advRocketry/SmallPlatePress.xml"
+hash = "1f6dbcf7857f2481c5fdab362596705da5cc0d0d07eb8ee2d85bfae1c0f241f0"
+
+[[files]]
+file = "config/advRocketry/advancedRocketry.cfg"
+hash = "e11880b312805f488056e0f6f0b30c8610d57a835ae93e019414950005547eb3"
+
+[[files]]
+file = "config/advRocketry/asteroidConfig.xml"
+hash = "26a8c4a8bb63dcf13cee4417fb19a794ff45ab1c0fe15d7c59849ef3d732209d"
+
+[[files]]
+file = "config/advRocketry/oreConfig.xml"
+hash = "16373fc73f5185845db08203cbdde009fca95f2b1787a47a10b47a3ce72ccfcd"
+
+[[files]]
+file = "config/advRocketry/weights.json"
+hash = "3e0055b25d62922c4fc2171daf70d48497211db621c6944338c32babf0a4e272"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "0f67ea9a2e9785dbfe19e7337b948773c236c849cf2a0a3627114c0e5ee3f3b7"
 
