@@ -513,11 +513,6 @@ hash = "3b0fdf57e37ea8839a4665c740e28816dc9b37b74929f444b8497de787b30a50"
 metafile = true
 
 [[files]]
-file = "mods/gaspunk.pw.toml"
-hash = "5e57bf8b06ed3500216ec3df7728d8b258fd03cb7e8483dd29cc1724f7a431c0"
-metafile = true
-
-[[files]]
 file = "mods/geolosys.pw.toml"
 hash = "b0a8f7daa948daec8a98603ee3888438e2dee3b4cb0bb9bfcb0f980a7d16dc83"
 metafile = true
@@ -600,11 +595,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
-metafile = true
-
-[[files]]
-file = "mods/mob-dismemberment.pw.toml"
-hash = "0e9f470f078982e136269d489fd78d74d4329f662b1f62af5718a0fe50f10b19"
 metafile = true
 
 [[files]]
