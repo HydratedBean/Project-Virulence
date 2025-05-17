@@ -6,7 +6,7 @@ hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
 
 [[files]]
 file = "ModularWarfare/mod_config.json"
-hash = "2476c0cd5530649675831e717bd4413970d19fba28ff801ccf0c1e7a8c4db0b6"
+hash = "d40eca89b055dc393f6251841f68af2067590262e50994dbec6371057e967cf1"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
@@ -170,11 +170,11 @@ hash = "8d6dcc02f51c537137a30c6c6f7da8b34833c2e1d8b964c40d7b441975648037"
 
 [[files]]
 file = "config/pyrotech/core.compat.Wood-Custom.json"
-hash = "303b8ccd2cc1018c1c3ee91dba3b53d992d57f6c26cfb808e6f8f73076cf3559"
+hash = "123c4f03b014e812db69fb39b6cc68533f46cc3212b5bdbd99dd3e0ba62b564e"
 
 [[files]]
 file = "config/pyrotech/core.compat.Wood-Generated.json"
-hash = "303b8ccd2cc1018c1c3ee91dba3b53d992d57f6c26cfb808e6f8f73076cf3559"
+hash = "123c4f03b014e812db69fb39b6cc68533f46cc3212b5bdbd99dd3e0ba62b564e"
 
 [[files]]
 file = "config/pyrotech/module.Bucket.cfg"
@@ -324,11 +324,6 @@ metafile = true
 [[files]]
 file = "mods/better-invisibility.pw.toml"
 hash = "0470eb8ceb8f83cc263f47169ba7e1c60507ac58e78b77b800ac0a60e6ca16b5"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
 
 [[files]]
@@ -799,10 +794,6 @@ hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
 [[files]]
 file = "scripts/LootTableTweaker/tweaks.zs"
 hash = "311ed7c6fe142be099a163ce7da5f1ad6fd0c36dddbc0d1750487f3bbf090697"
-
-[[files]]
-file = "scripts/pyrotech-bop.zs"
-hash = "9439d2d181a2c9fae8ce0e4d2b6a8167772a48cef08e8d22fefb5b29e732e471"
 
 [[files]]
 file = "scripts/recipes.zs"

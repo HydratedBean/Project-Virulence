@@ -1,8 +1,8 @@
 {
   "general": {
     "customInventory": false,
-    "prototype_pack_extraction": true,
-    "animated_pack_extraction": true,
+    "prototype_pack_extraction": false,
+    "animated_pack_extraction": false,
     "modified_pack_server_kick": false,
     "drop_extra_slots_on_death": true
   },
@@ -50,14 +50,14 @@
     "shadersColorTexID": 0
   },
   "walks_sounds": {
-    "walk_sounds": false,
+    "walk_sounds": true,
     "volume": 0.3
   },
   "casings_drops": {
     "despawn_time": 10
   },
   "killFeed": {
-    "enableKillFeed": true,
+    "enableKillFeed": false,
     "sendDefaultKillMessage": false,
     "messageDuration": 10,
     "messageList": [
