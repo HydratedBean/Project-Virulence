@@ -1,7 +1,7 @@
 {
   "default": {
     "Awareness Radius": 64,
-    "Xray Distance": 64,
+    "Xray Distance": 5,
     "Attack Everything": false,
     "Attack Pets": true,
     "Attack Villagers": true,
@@ -81,6 +81,13 @@
       "Spider Webbing": 1.00
     },
     "minecraft:zombie": {
+      "Digging": true,
+      "Griefing": true,
+      "Pillaring": true,
+      "Infectious": true,
+      "Speed": 1.05
+    },
+    "cyberware:cyberzombie": {
       "Digging": true,
       "Griefing": true,
       "Pillaring": true,

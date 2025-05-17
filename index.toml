@@ -89,10 +89,6 @@ file = "config/advRocketry/weights.json"
 hash = "3e0055b25d62922c4fc2171daf70d48497211db621c6944338c32babf0a4e272"
 
 [[files]]
-file = "config/aquaacrobatics_core.cfg"
-hash = "2b34ba14a25600ebdb49ebb6fd5de4623114c524abf2e73852553461d6552127"
-
-[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "0f67ea9a2e9785dbfe19e7337b948773c236c849cf2a0a3627114c0e5ee3f3b7"
 
@@ -121,16 +117,8 @@ file = "config/defaultworldgenerator-port/worldsettings.data"
 hash = "08cde52d7eac02d5f09ac1b28021238a38e485f0e79085e74a9396acb5c3f0fd"
 
 [[files]]
-file = "config/enchcontrol/config.json"
-hash = "2bcca9c7a8cbc4a79c2f539fdb1968f62e6f7d18637a31f29edf17fc4949b49d"
-
-[[files]]
-file = "config/enchcontrol/enchantments.json"
-hash = "7f1ea27f9b642f3db5b4b9497fd2f63097817f1553a2353b53629559a833aef8"
-
-[[files]]
 file = "config/esm/entity_ai.json"
-hash = "cb71e49cc95833660e92b69a40c128ceafd1967a6881d8114cb1c2febe4e9f6d"
+hash = "eed878bd59b06a1ef09ccf42fc313372e11bb53423f952165a35aaa3b9f7088b"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
@@ -337,10 +325,6 @@ file = "config/srpmixins.cfg"
 hash = "dbf035ef014ab71b3f1d9d9e1dfc79b0f18f1ff68881b28d0ab51804d3f5a1be"
 
 [[files]]
-file = "config/unexperienced.cfg"
-hash = "6f2325e7c4ee9e5a0d11cadcd534a25f1019c8b447bdc6940a87359fefb336ad"
-
-[[files]]
 file = "config/unidict/UniDict.cfg"
 hash = "9ea314d5786b0c06a6618126ce42b88f288ad6ff58ad4f410746ebafdc1fb622"
 
@@ -371,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/anvil-patch-evil.pw.toml"
 hash = "4dc65992c4a3b755cde31400b5ef60b83549505f71b2c7aa523c0907f9dcd62c"
-metafile = true
-
-[[files]]
-file = "mods/applecore.pw.toml"
-hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
 
 [[files]]
@@ -416,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
 metafile = true
 
 [[files]]
@@ -466,6 +450,16 @@ metafile = true
 [[files]]
 file = "mods/dynamic-darkness.pw.toml"
 hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
+metafile = true
+
+[[files]]
+file = "mods/enchantingplusplus.pw.toml"
+hash = "d24d8f1fe204e131c296b6d1b9d46de6376fc43fd9633ef2f64a2519cf75cd59"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
 metafile = true
 
 [[files]]
@@ -778,8 +772,13 @@ hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
 metafile = true
 
 [[files]]
-file = "mods/unexperienced.pw.toml"
-hash = "943470df4a88d23d763d764f79f79bb94c3f7b2efa737c27527e346062a6ade0"
+file = "mods/unique-enchantments-base.pw.toml"
+hash = "bb1dd81cdb64931ae7851fd62499fb06f80d0c7a12af067f95825bfe7ac523bd"
+metafile = true
+
+[[files]]
+file = "mods/unique-enchantments.pw.toml"
+hash = "5afdca6ec323477de545f12fc558f25b2086a7502b5e0ac939b5e38717f9fd30"
 metafile = true
 
 [[files]]
@@ -844,14 +843,6 @@ file = "resources/minecraft/textures/gui/widgets.png"
 hash = "fca79fb02ff7b621bdbc9601ff4da8ccba7990d55abe081df7cfd3e7b2b79e9f"
 
 [[files]]
-file = "resources/minecraft/textures/misc/enchanted_item_glint.png"
-hash = "a696a5626629823b4467548ee7d0e0da22f97063f35195212fd342aa799a4bdf"
-
-[[files]]
-file = "resources/minecraft/textures/misc/enchanted_item_glint.png.mcmeta"
-hash = "a4f5e3c3235dd128ee6d2ce397217e8c77037dbcf641aaa5bef65824e3b4b168"
-
-[[files]]
 file = "resources/minecraft/textures/misc/shadow.png"
 hash = "2288d82b71fa005a3425f11d6d82d43d55f133ee8b6aab922f6700fb7fc319d2"
 
@@ -881,7 +872,7 @@ hash = "9439d2d181a2c9fae8ce0e4d2b6a8167772a48cef08e8d22fefb5b29e732e471"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "0219301c0e8069b86414b71c7dc1ed3de5d5ff2d3beb91e710ae81404ddcdcb0"
+hash = "7d1d9ee6d555e61bb6a5e8049d542c9bacc6db6fd5269bdb46803425524f7e63"
 
 [[files]]
 file = "scripts/spartanweaponry.zs"
