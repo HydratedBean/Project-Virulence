@@ -66,7 +66,7 @@ hash = "65c248f0d830556445f03a733fb7ba91ab0d4d78850278ea437bf0ddd6b31472"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "75ce7934634d1b333bae6e7daa61155f3fa3286aff5e29b33804ccb9677b61b8"
+hash = "c9bf17a38578770909e5e9014133363f813669a02e785b4bd4dbad5ef720ffce"
 
 [[files]]
 file = "config/geolosys.cfg"
