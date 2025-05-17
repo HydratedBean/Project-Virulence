@@ -4,7 +4,6 @@
 recipes.remove(<unstabletools:division_sign>);
 recipes.remove(<eplus:advanced_table>);
 recipes.remove(<eplus:table_upgrade>);
-recipes.remove(<futuremc:campfire>);
 recipes.remove(<wearablebackpacks:backpack>);
 recipes.remove(<minecraft:enchanting_table>);
 recipes.remove(<minecraft:wooden_axe>);

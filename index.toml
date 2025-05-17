@@ -29,6 +29,10 @@ file = "config/InGameInfo.xml"
 hash = "fb7292c475aa5da9ca9d9e140865efbbf7edae55759e7f0294ef0a73717e3d8e"
 
 [[files]]
+file = "config/advRocketry/advancedRocketry.cfg"
+hash = "a6349bedcd48698f35221c997b2e38756a5a121f9166f1d289bb0313eeacca28"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "0f67ea9a2e9785dbfe19e7337b948773c236c849cf2a0a3627114c0e5ee3f3b7"
 
@@ -770,7 +774,7 @@ hash = "aab9c5a8c24498cf7b1daaab3fb7a9f6bc8132dc40dfe0c2af432822603bf9f8"
 
 [[files]]
 file = "resources/minecraft/textures/gui/widgets.png"
-hash = "e781d1872794a04f85acc3819f2b1fbe5e34175dd8b2616b5361352d3add51ea"
+hash = "4a2f9fd0b6eb75b573d129d1cb0dcfa6dd0c51894063987c71ec32f47d05b0b4"
 
 [[files]]
 file = "resources/minecraft/textures/misc/shadow.png"
@@ -802,7 +806,7 @@ hash = "9439d2d181a2c9fae8ce0e4d2b6a8167772a48cef08e8d22fefb5b29e732e471"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "7d1d9ee6d555e61bb6a5e8049d542c9bacc6db6fd5269bdb46803425524f7e63"
+hash = "a2dd84e652f104076bdf0da83eb74814cb0480bf8b0e99f4bd89292423ff3221"
 
 [[files]]
 file = "scripts/spartanweaponry.zs"
