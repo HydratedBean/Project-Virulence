@@ -33,7 +33,7 @@
     ]
   },
   "drops": {
-    "advanced_drops_models": true,
+    "advanced_drops_models": false,
     "drops_despawn_time": 120,
     "advanced_drops_models_everything": false
   },
@@ -50,7 +50,7 @@
     "shadersColorTexID": 0
   },
   "walks_sounds": {
-    "walk_sounds": true,
+    "walk_sounds": false,
     "volume": 0.3
   },
   "casings_drops": {

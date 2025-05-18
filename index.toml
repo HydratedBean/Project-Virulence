@@ -6,7 +6,7 @@ hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
 
 [[files]]
 file = "ModularWarfare/mod_config.json"
-hash = "d40eca89b055dc393f6251841f68af2067590262e50994dbec6371057e967cf1"
+hash = "0fdd2897c0273436301c58a8671c2716b18e5fb48f6bcf748b62e48c5717dc83"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
