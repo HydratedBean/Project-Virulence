@@ -273,6 +273,10 @@ file = "config/unidict/UniDict.cfg"
 hash = "9ea314d5786b0c06a6618126ce42b88f288ad6ff58ad4f410746ebafdc1fb622"
 
 [[files]]
+file = "config/vehicle.cfg"
+hash = "7f4acda615bbc6590e027c5e6679abf334bf0a654313c7a34dceef3405a84be8"
+
+[[files]]
 file = "mods/Nutrition-1.12.2-4.9.0.jar"
 hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
 
@@ -561,6 +565,11 @@ hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfishs-vehicle-mod.pw.toml"
+hash = "ffeda295c954232dac21fd0e04562e97cdbc9f59f8d125a0062de7138c78511c"
+metafile = true
+
+[[files]]
 file = "mods/no-advancements.pw.toml"
 hash = "6a8daacdb775d0b6d0e07107f5e60f9715d6ecd68ca40981e7a5a9f926e8f1ae"
 metafile = true
@@ -568,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/nothirium.pw.toml"
 hash = "067e46211f3e32ee0472c299c71e618556b9e593e973005a0efbec40fbdfece1"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
@@ -658,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/set-bonus.pw.toml"
 hash = "507a74d1ebd04cbf8f3c39b20063894d16f0ea22e5f7eacef1cd76a30ade92bd"
+metafile = true
+
+[[files]]
+file = "mods/sit.pw.toml"
+hash = "47abc6c2ce2512da518477ca13bc05b51058e1eb52ae864c6dc656fa0643f912"
 metafile = true
 
 [[files]]
