@@ -50,7 +50,7 @@ hash = "bcfdb71c961be7f67f989b98416a5170edf2f52ce822d1be1a232e033d0ca88f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "8a25f2ef6fec097dc1eab01e16be8bd59b02bdfa2d185254157322a4cffa5c9c"
+hash = "91d7338e377c4009520f324280ea71958a0cdac21512ceb88eee1086e41f90c0"
 
 [[files]]
 file = "config/defaultoptions/optionsof.txt"
@@ -343,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/climate-control-geographicraft.pw.toml"
 hash = "135f0f8478fe6e1a822028cba294160c2a8965b29467b899cdcecf5e241102f3"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
 metafile = true
 
 [[files]]
@@ -650,6 +645,11 @@ hash = "c0a0a6df8882caf8989df6bec1864e16b6cf2d5bf960500910f43224c7fe9c41"
 metafile = true
 
 [[files]]
+file = "mods/scape-and-run-revenants.pw.toml"
+hash = "224ae0782c8a64fbb9e00513dff09fac989fc557fb3b2c4963e6f0d76c9046e5"
+metafile = true
+
+[[files]]
 file = "mods/scape-and-spartan-parasites.pw.toml"
 hash = "3fcb6fc9345bc21d9419a69f19a3aac8a5701c7e6bb20a8d9766352615a6bb19"
 metafile = true
@@ -767,11 +767,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
-hash = "90111db4c1a7b91f12497b173d224b1e5ba11fb7a933f489d32e6e5f584ef951"
 metafile = true
 
 [[files]]

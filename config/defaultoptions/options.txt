@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:true
-resourcePacks:["TZP 1.12.2_2.6.zip"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
