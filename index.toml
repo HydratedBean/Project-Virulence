@@ -774,8 +774,32 @@ file = "resources/assets/fml/textures/gui/hydrated_bean_patpat.gif"
 hash = "50604da98c03448b08422358a8be8a13688c304b94fc3ec2a71aebec05ce23c9"
 
 [[files]]
+file = "resources/cyberware/textures/entity/cyberzombie.png"
+hash = "bcbdcdbaf097675d9ec0016f4035e1c657ea614f3eff33e57656f0e675a7c2d3"
+
+[[files]]
+file = "resources/cyberware/textures/entity/cyberzombie_brute.png"
+hash = "3cf20d73630412ed7ac80d487be36950d1943b3631d1153322e2d354f43ee3a0"
+
+[[files]]
+file = "resources/cyberware/textures/entity/cyberzombie_brute_highlight.png"
+hash = "4fe70478c89d51ddc3cdd30ccbdd86ac6518f590712be16bcd677d0591f83fe7"
+
+[[files]]
+file = "resources/cyberware/textures/entity/cyberzombie_highlights.png"
+hash = "d86dbfc01aa933c1c6eff215e79ea95a09128f379c0a95ef79004310d2423e78"
+
+[[files]]
 file = "resources/minecraft/textures/entity/creeper/creeper.png"
 hash = "27fcb3d58de457370effe2d179a2e71e327f86f57269a96c5abc790ac4ba908c"
+
+[[files]]
+file = "resources/minecraft/textures/entity/zombie/husk.png"
+hash = "d44d7ad07b5bd440226ccbf633c1e379bf4ad76308ed0e81db03b798a4044d56"
+
+[[files]]
+file = "resources/minecraft/textures/entity/zombie/zombie.png"
+hash = "4d226dacc9b6efd0e8991a3573fae75ebeee1937416177dd8521a6e80121c4d9"
 
 [[files]]
 file = "resources/minecraft/textures/gui/options_background.png"
