@@ -715,6 +715,11 @@ hash = "1b5a11a4d250af03a54c67708bb763e4ced80915f6ed1db349cbebaf035bbdc3"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "c803580833ccd58d06253637db9db308b02d44aea2f06d30020aa5836a36e555"
+metafile = true
+
+[[files]]
 file = "mods/tree-chopper.pw.toml"
 hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
 metafile = true
