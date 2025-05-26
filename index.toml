@@ -471,6 +471,11 @@ hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "4f5dd055d9437637e23231224075be92b441e066201c076a1e04c005426fee6e"
+metafile = true
+
+[[files]]
 file = "mods/ingame-info-xml-serene-seasons.pw.toml"
 hash = "393e54e99cef148a03ee9f4ab01cce77200ed2d4aa6e932e9dcde0d94ef02416"
 metafile = true
@@ -707,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/srpmixins.pw.toml"
 hash = "0c6fe133a51c2914418a3d64ddf2feaded70409d748db3241b736800b6d8b7f2"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "47fb2197dcdb85aa5833a9c70d0291828c094bfa0207804b2a84aff9e6596e7a"
 metafile = true
 
 [[files]]
