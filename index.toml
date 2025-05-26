@@ -97,6 +97,10 @@ file = "config/mekanism/BoxBlacklist.txt"
 hash = "663e0efd336f0fa1ca1bd88355c64d4f293a8cb44ee3ce8fa485ef471a38844f"
 
 [[files]]
+file = "config/mobsunscreen.cfg"
+hash = "61086a7428c0ae88b0348431194e5de6daa4ed951a8a2bf1132b413ee7891704"
+
+[[files]]
 file = "config/morepaintings.cfg"
 hash = "ae036f9bb16f289694a19b55902556f1b5d769df9a78168642fba6cc2e041aab"
 
@@ -463,11 +467,6 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
-metafile = true
-
-[[files]]
-file = "mods/improved-mobs.pw.toml"
-hash = "4f5dd055d9437637e23231224075be92b441e066201c076a1e04c005426fee6e"
 metafile = true
 
 [[files]]
