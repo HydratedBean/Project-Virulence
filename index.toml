@@ -281,11 +281,6 @@ file = "mods/Nutrition-1.12.2-4.9.0.jar"
 hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
 
 [[files]]
-file = "mods/absent-by-design.pw.toml"
-hash = "64e3d7b364a86406558cc033bbd1fc936711951888fd1906eba9904789974275"
-metafile = true
-
-[[files]]
 file = "mods/advanced-rocketry.pw.toml"
 hash = "e8391cc00c6f79a19b5c7ab7916eb0d06650792c99df56c6d4a6644424a0301b"
 metafile = true
@@ -518,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/lunatriuscore.pw.toml"
 hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
-metafile = true
-
-[[files]]
-file = "mods/mace-backport.pw.toml"
-hash = "82ae1aaa518a527b14d023033aa92cd1f27c6880ecde5aeb69a0037f1f755724"
 metafile = true
 
 [[files]]
