@@ -74,7 +74,7 @@ hash = "c9bf17a38578770909e5e9014133363f813669a02e785b4bd4dbad5ef720ffce"
 
 [[files]]
 file = "config/geolosys.cfg"
-hash = "9664ea8b37b32c3231d147e92718d401dab9f66845d6956973ce72108eed4f0e"
+hash = "e204fb9645cd61c6caf9472073b65ed0c9b77054175afc7ef89ee38d3e8de922"
 
 [[files]]
 file = "config/geolosys.json"
@@ -783,7 +783,7 @@ hash = "bcbdcdbaf097675d9ec0016f4035e1c657ea614f3eff33e57656f0e675a7c2d3"
 
 [[files]]
 file = "resources/cyberware/textures/entity/cyberzombie_brute.png"
-hash = "3cf20d73630412ed7ac80d487be36950d1943b3631d1153322e2d354f43ee3a0"
+hash = "17b39e6787fd7dbe36f4b6d1a459870142841f64c7bb4e3a6cbc7ff33df657a8"
 
 [[files]]
 file = "resources/cyberware/textures/entity/cyberzombie_brute_highlight.png"
