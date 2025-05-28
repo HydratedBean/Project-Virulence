@@ -574,11 +574,6 @@ hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
-file = "mods/orelib.pw.toml"
-hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
-metafile = true
-
-[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "6dadc3f071dc5ded6ed61cd5b572dc79588cd2ccec46e86b5b4081abff485cfa"
 metafile = true
@@ -704,23 +699,13 @@ hash = "0c6fe133a51c2914418a3d64ddf2feaded70409d748db3241b736800b6d8b7f2"
 metafile = true
 
 [[files]]
-file = "mods/tenshilib.pw.toml"
-hash = "47fb2197dcdb85aa5833a9c70d0291828c094bfa0207804b2a84aff9e6596e7a"
-metafile = true
-
-[[files]]
-file = "mods/torchslabs-mod.pw.toml"
-hash = "1b5a11a4d250af03a54c67708bb763e4ced80915f6ed1db349cbebaf035bbdc3"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c803580833ccd58d06253637db9db308b02d44aea2f06d30020aa5836a36e555"
 metafile = true
 
 [[files]]
-file = "mods/tree-chopper.pw.toml"
-hash = "47399c22078453277f1b5d694ec9a6fff00a5df62ce1f7e5f6452b065e5caff4"
+file = "mods/treechop.pw.toml"
+hash = "b89e19ad4e520e0bdbbdb5520ce9d1b917909b5ff3b595ee4279cb26b83160bf"
 metafile = true
 
 [[files]]
