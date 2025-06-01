@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
-hash = "0d6a5f075bc53ce96e8b43c8164cd044167b3fb225a616a2989d852fad464118"
+hash = "be217005640d451a634b8ec1488c5ac67c9126909b83b2692402ad2aa649fe8f"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "7288956db5731ae8f5c5a81df922124c172000416c1e02a44f85ac2acf7276fc"
+hash = "b6687ee824c3aab78a9ef39d1c690345cfdef25723649f0fe8bfbb1da7d99612"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/set-bonus.pw.toml"
-hash = "507a74d1ebd04cbf8f3c39b20063894d16f0ea22e5f7eacef1cd76a30ade92bd"
+hash = "973d33a84f1fb134954e87e3070afd28b93ce60b64ff63a361f8454d34c17594"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "0c6fe133a51c2914418a3d64ddf2feaded70409d748db3241b736800b6d8b7f2"
+hash = "a96d4098db851d56e6d1a67d04507cd365f44e489601525d04e94c854deeb06c"
 metafile = true
 
 [[files]]
