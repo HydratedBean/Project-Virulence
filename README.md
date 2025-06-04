@@ -1,4 +1,4 @@
-![Project Virulence](resource/projectvirulence/title.png)\
+![Project Virulence](resources/projectvirulence/title_cropped.png)\
 aka. HydratedBean's personalised SRP fairness list
 ## Installation
 1. Go to the releases page and download one of the releases
