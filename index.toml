@@ -554,11 +554,6 @@ hash = "5eaab34dbc85c388430ed180eaf33ee94ea1699aac60d785a2fb79a832f74750"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-vehicle-mod.pw.toml"
-hash = "ffeda295c954232dac21fd0e04562e97cdbc9f59f8d125a0062de7138c78511c"
-metafile = true
-
-[[files]]
 file = "mods/no-advancements.pw.toml"
 hash = "6a8daacdb775d0b6d0e07107f5e60f9715d6ecd68ca40981e7a5a9f926e8f1ae"
 metafile = true
@@ -566,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/nothirium.pw.toml"
 hash = "067e46211f3e32ee0472c299c71e618556b9e593e973005a0efbec40fbdfece1"
-metafile = true
-
-[[files]]
-file = "mods/obfuscate.pw.toml"
-hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
@@ -706,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "b89e19ad4e520e0bdbbdb5520ce9d1b917909b5ff3b595ee4279cb26b83160bf"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "39a0b5bf16444f41f926e0d144e3b8e8fcaf2edfde8bd757896a84aa340c3f6d"
 metafile = true
 
 [[files]]
