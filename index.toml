@@ -9,6 +9,10 @@ file = "ModularWarfare/mod_config.json"
 hash = "0fdd2897c0273436301c58a8671c2716b18e5fb48f6bcf748b62e48c5717dc83"
 
 [[files]]
+file = "README.md"
+hash = "f8745a383060ac6d461d8ea3745633545fb49a294225b9212f0e823daadbc5ea"
+
+[[files]]
 file = "config/CustomMainMenu/mainmenu.json"
 hash = "53ae6f11e696eeb57ef8bd838d29168ce687c1ca5aa0101b98b4bd3271abbf23"
 
@@ -62,7 +66,7 @@ hash = "08cde52d7eac02d5f09ac1b28021238a38e485f0e79085e74a9396acb5c3f0fd"
 
 [[files]]
 file = "config/esm/entity_ai.json"
-hash = "eed878bd59b06a1ef09ccf42fc313372e11bb53423f952165a35aaa3b9f7088b"
+hash = "b99544c8303805608876d99c761322d34fcef516586850ddb02e1abefa3ac4f7"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
@@ -812,6 +816,10 @@ hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 [[files]]
 file = "resources/projectvirulence/title.png"
 hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
+
+[[files]]
+file = "resources/projectvirulence/title_cropped.png"
+hash = "6decad35329945ecb7b1324847eda0a0a8db91004932ca23fc05f9ec3bdf0239"
 
 [[files]]
 file = "scripts/LootTableTweaker/tweaks.zs"

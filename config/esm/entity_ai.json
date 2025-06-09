@@ -26,7 +26,7 @@
     "Digging": false,
     "Digging Blacklist": [],
     "Invert Blacklist": false,
-    "Requires Tools": false,
+    "Requires Tools": true,
     "Griefing": false,
     "Grief Targets": [
       "minecraft:chest",
