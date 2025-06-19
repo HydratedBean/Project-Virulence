@@ -1,0 +1,13 @@
+name = "Scape and Run: Revenants"
+filename = "SRRevenants-1.12.2v1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iUbAFNeg/versions/JnQHxGnu/SRRevenants-1.12.2v1.0.1.jar"
+hash-format = "sha512"
+hash = "00b8d67130c54662a14f5a99935cb28b3461005d5a154501628777ac02021e1e8a788968846f615159a1d99edb182837434c4414c5cbb415187fb9ad5fbd65f8"
+
+[update]
+[update.modrinth]
+mod-id = "iUbAFNeg"
+version = "JnQHxGnu"

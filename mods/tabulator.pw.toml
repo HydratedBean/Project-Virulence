@@ -1,0 +1,13 @@
+name = "Tabulator"
+filename = "tabulator-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfda900d1cadbb8c3072ce2030495758c20a348f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4028361
+project-id = 637556
