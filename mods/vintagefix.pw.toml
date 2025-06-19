@@ -1,13 +1,13 @@
 name = "VintageFix"
-filename = "vintagefix-0.5.6.jar"
+filename = "vintagefix-0.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e6vNsbAm/versions/McpyqyLw/vintagefix-0.5.6.jar"
-hash-format = "sha512"
-hash = "83d6519aa640233272c03cade0fff17a0f1ef87911a55fef7239254a37e777ec8e40042c99d9ed19e40f717e577ca60cbf890b7319d32d382d4ed00e8eddaf03"
+hash-format = "sha1"
+hash = "eb820c6e58a4d091b80311a28650c7a1b99a1b14"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "e6vNsbAm"
-version = "McpyqyLw"
+[update.curseforge]
+file-id = 6609247
+project-id = 871198

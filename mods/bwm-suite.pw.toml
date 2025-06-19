@@ -1,0 +1,13 @@
+name = "Better With Mods"
+filename = "BetterWithMods-1.12-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46052c39e9510f4c570ad804ac75906c1f6a008a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5702821
+project-id = 246760

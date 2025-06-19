@@ -20,48 +20,9 @@
     "Output item strings are in the format: (domain):(path):(meta)"
   ],
   "oredict": {
-    "oreAluminum": {
-      "slagColor": "e2e2e3",
-      "langKey": [
-        "geolosys:geolosys.cluster.aluminum",
-        "libvulpes:material.Aluminum"
-      ],
-      "output": [
-        "libvulpes:productnugget:9"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
-    "oreCopper": {
-      "slagColor": "ffaa1c",
-      "langKey": [
-        "geolosys:geolosys.cluster.copper",
-        "libvulpes:material.Copper",
-        "mekanism:tile.OreBlock.CopperOre"
-      ],
-      "output": [
-        "libvulpes:productnugget:4",
-        "mekanism:nugget:5"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
     "oreGold": {
       "slagColor": "fcee4b",
       "langKey": [
-        "geolosys:geolosys.cluster.gold",
         "minecraft:tile.oreGold"
       ],
       "output": [
@@ -76,69 +37,13 @@
         15
       ]
     },
-    "oreIridium": {
-      "slagColor": "d5d4e7",
-      "langKey": [
-        "libvulpes:material.Iridium"
-      ],
-      "output": [
-        "libvulpes:productnugget:10"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
-        "geolosys:geolosys.cluster.iron",
         "minecraft:tile.oreIron"
       ],
       "output": [
         "minecraft:iron_nugget:0"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
-    "oreOsmium": {
-      "slagColor": "9babc4",
-      "langKey": [
-        "geolosys:geolosys.cluster.osmium",
-        "mekanism:tile.OreBlock.OsmiumOre"
-      ],
-      "output": [
-        "mekanism:nugget:1"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
-    "oreTin": {
-      "slagColor": "c3e9ff",
-      "langKey": [
-        "geolosys:geolosys.cluster.tin",
-        "libvulpes:material.Tin",
-        "mekanism:tile.OreBlock.TinOre"
-      ],
-      "output": [
-        "libvulpes:productnugget:5",
-        "mekanism:nugget:6"
       ],
       "bloomYieldMinMax": [
         12,

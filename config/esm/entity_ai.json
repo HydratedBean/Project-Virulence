@@ -99,7 +99,10 @@
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 1.1
+      "Speed": 1.05
+    },
+    "minecraft:creeper": {
+      "Speed": 1.05
     },
     "minecraft:cave_spider": {
       "Spider Webbing": 1.00
