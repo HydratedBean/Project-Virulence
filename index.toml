@@ -282,6 +282,11 @@ hash = "78570ba33e1b1759faad7b70a29846c606b7ed989aebd1e1e45e9e30321cddf4"
 metafile = true
 
 [[files]]
+file = "mods/ai-reducer.pw.toml"
+hash = "7e2b92b486e5a6fed10f470e6c222dea72a12edd19e75aba12f293133187574b"
+metafile = true
+
+[[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
 hash = "4178f220d660d21cba7f04acb8d671fd650896d3f00f2936ca9d091c99a700df"
 metafile = true
@@ -392,6 +397,11 @@ hash = "02ff2c5bcdfe0ed7d7e7c3f88da0a35f855491901bedb9b0ad6f897df4ad0fba"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "2571263ec4228ca6c6d2cdbf677bbb7b07622382163f606630304696ba5d4abc"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "0bc5d5ac93129ff8587f224fb1465798e938e1ff666e2bc9f04002ac52bdc82f"
 metafile = true
@@ -446,6 +456,11 @@ hash = "97afad43aab051629f2e0dddcd0aa9909b94b616642a5c5cd0ab1754e8cf9c9e"
 metafile = true
 
 [[files]]
+file = "mods/noisethreader.pw.toml"
+hash = "86a0f4723fc2db5871a73182875d12e10e5f96d0cfdf0e63a1f5e395d1fea307"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
 metafile = true
@@ -456,6 +471,11 @@ hash = "6af42b239eae2b46162a2ec88ba65db91a07555aba5101e8296025655b020bd4"
 metafile = true
 
 [[files]]
+file = "mods/reach-fix.pw.toml"
+hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
+metafile = true
+
+[[files]]
 file = "mods/red-core.pw.toml"
 hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
@@ -463,6 +483,21 @@ metafile = true
 [[files]]
 file = "mods/renderlib.pw.toml"
 hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
+metafile = true
+
+[[files]]
+file = "mods/responsive-shields.pw.toml"
+hash = "d7f7a9d84f4b2871d0a51bfa01bbafb05cdc9934fbe85994669e5155e1b267ba"
+metafile = true
+
+[[files]]
+file = "mods/rlcombat.pw.toml"
+hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
+metafile = true
+
+[[files]]
+file = "mods/sanity-prequel.pw.toml"
+hash = "800847bf19f746b717b8041b7dab92927234310738192e2dd1818fa8770e6737"
 metafile = true
 
 [[files]]

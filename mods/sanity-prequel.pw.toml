@@ -1,0 +1,13 @@
+name = "Sanity: Prequel"
+filename = "sanity-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "639ce188a351099c49b1879fa33c3a036a20e251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6487067
+project-id = 1134090
