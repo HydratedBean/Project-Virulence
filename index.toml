@@ -18,7 +18,7 @@ hash = "24d736e5c074199bdabec84ea467d635431b69ccdda760988d4a5801a3959847"
 
 [[files]]
 file = "config/InvTweaks/InvTweaks.cfg"
-hash = "2ff631be0b0373a71235b2a671c6f7014ee7e3c45a2fa5753d1962ddafec3678"
+hash = "888a1e0dd57318fd6857db80ea6a81cb20a16636a4d9af82a15fe3f334831fd7"
 
 [[files]]
 file = "config/InvTweaks/InvTweaksRules.txt"
@@ -47,6 +47,14 @@ hash = "a798498905ccce6b82531f88f069bbb5a0791a33cdfa30ff683bd971f56d293e"
 [[files]]
 file = "config/darkness.cfg"
 hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "6d76c0c7457a2ac5aa5d635b1936e6fa3997acb6f702c09dd99e6f7757de0d50"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "7880d4ca2eea43386a20976c83ce328ea8f916bb80e954f6c1b2a11f97e45192"
 
 [[files]]
 file = "config/esm/entity_ai.json"
@@ -235,6 +243,10 @@ hash = "be494fa22311d8cdfb7e707d45001277396b5fe9c5f31ab958b2fd45d32debf9"
 [[files]]
 file = "config/pyrotech/plugin.Patchouli.cfg"
 hash = "ee23296029c3c260dfd86fa78d30b66ac2610c23ff2f9f137e3055a986112967"
+
+[[files]]
+file = "config/sanity.cfg"
+hash = "3d8c054c982d7d1391a3f2414eed9d6e6406ad98322153a8bd0561e6e333b8e5"
 
 [[files]]
 file = "config/splash.properties"
