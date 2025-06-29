@@ -1,0 +1,13 @@
+name = "Hardcore Buoyance"
+filename = "HardcoreBuoy-1.12-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f74009ca976f76065e9799cd7117a88b6949187"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2761579
+project-id = 283447

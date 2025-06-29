@@ -7,7 +7,7 @@
     "Attack Villagers": true,
     "Neutral Mob": false,
     "Strafe Evade": true,
-    "Animal Retaliate": false,
+    "Animal Retaliate": true,
     "Ranged Atk Dist": 64,
     "Ranged Atk Error": 0,
     "Arrow Tips": [
@@ -85,24 +85,17 @@
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 1.05
-    },
-    "cyberware:cyberzombie": {
-      "Digging": true,
-      "Griefing": true,
-      "Pillaring": true,
-      "Infectious": true,
-      "Speed": 1.05
+      "Speed": 0.7
     },
     "minecraft:husk": {
       "Digging": true,
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 1.05
+      "Speed": 0.7
     },
     "minecraft:creeper": {
-      "Speed": 1.05
+      "Speed": 0.7
     },
     "minecraft:cave_spider": {
       "Spider Webbing": 1.00

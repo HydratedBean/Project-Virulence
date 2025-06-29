@@ -1,0 +1,13 @@
+name = "Atlas Lib"
+filename = "Atlas-Lib-1.12.2-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59fb2d7c1e643c86343854f11b46e76c43e0ea7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5877784
+project-id = 463826
