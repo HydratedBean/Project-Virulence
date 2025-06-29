@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "4178f220d660d21cba7f04acb8d671fd650896d3f00f2936ca9d091c99a700df"
+hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "45d91c416875ed594543e20ac97241356d9af6c7357f46cd012afe3efd7b08bb"
+hash = "c17788a4885a889d1657405611d4d5d5925389875cd3bf55c212fe35d0753dd6"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "0bc5d5ac93129ff8587f224fb1465798e938e1ff666e2bc9f04002ac52bdc82f"
+hash = "f628a30d9acad256c5a5312efb79e0edbbe699ea73c32acc024878f2b5c9a8d3"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "f2014c8cef5413dcd6309db370b9c3d5efd2ed2e06d3f271230453bfb29d66a3"
+hash = "a0a7324aee5c3d9753ae50efca54452e3ea2751bdba3d1e51f61c87204039c10"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "0abec0949ca051ee96bdbfcd40a2a4d20413166b9a4f95e891faddb52d73a22a"
+hash = "b5f39d01a85a2d61db11ea5fbe74e7e5627c40740dd4648f8bed9f240e6178f9"
 metafile = true
 
 [[files]]
