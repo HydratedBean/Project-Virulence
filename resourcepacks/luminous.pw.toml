@@ -1,0 +1,13 @@
+name = "Luminous"
+filename = "Luminous1.12.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf58ee7668379bfb9ca86859a21cea36229dc468"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3177916
+project-id = 438326

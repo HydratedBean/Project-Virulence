@@ -1,0 +1,13 @@
+name = "Tweaked Enderman"
+filename = "tweaked enderman 1.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38aa72a9cda7f717b329ab7435b6e65e16afa922"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4143376
+project-id = 724381

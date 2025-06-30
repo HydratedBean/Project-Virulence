@@ -22,23 +22,23 @@ hash = "2b34ba14a25600ebdb49ebb6fd5de4623114c524abf2e73852553461d6552127"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
-hash = "0f67ea9a2e9785dbfe19e7337b948773c236c849cf2a0a3627114c0e5ee3f3b7"
+hash = "02c7f1407e561573ff50e9d852e97602acaecee866ad6dd230b68d3377b3ea4a"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "cade1c9646e5f2f517cd59e99d71c70b8abca2ed47368b2d8fe4d94c6a894279"
+hash = "3114366161c02c06c27c32ed6610ccad997e8369f7436d9ad0fea25a16a0e2c1"
 
 [[files]]
 file = "config/darkness.cfg"
-hash = "642254f869971ccb807e0ac2013e801dc73bdf409fbb10f2fe3002cc2afe204f"
+hash = "1c7370381933adceccc83a085c68ae468615995f3876b208fa8e8e738c0c2da6"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6d76c0c7457a2ac5aa5d635b1936e6fa3997acb6f702c09dd99e6f7757de0d50"
+hash = "8633edd5a62d263900ebe2afaff54d30c28e4a2281589455dbab3cf687b6464a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7880d4ca2eea43386a20976c83ce328ea8f916bb80e954f6c1b2a11f97e45192"
+hash = "62c3aafcff6127641afe81a89df3e6780af76d191c6bce030595426cd49c2e5a"
 
 [[files]]
 file = "config/esm/entity_ai.json"
@@ -126,7 +126,7 @@ hash = "6f2a1e8d98be419dc795ac32952326b0b068eb21b671042dc638a3ee52717b06"
 
 [[files]]
 file = "config/pyrotech/module.Hunting.cfg"
-hash = "03d21414dc181f7623153eb2088253cf436875dff4dabe50f60698f37092ceec"
+hash = "a9a437dd41d30696e99759c4a4d7ad9e6a65eabbf5f0827ef785ce9617e10ff4"
 
 [[files]]
 file = "config/pyrotech/module.Ignition.cfg"
@@ -236,6 +236,11 @@ hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "3778808688d9e39c0b0d58c171cc22786a83dd2ace5e52c1f19b67bffd232c0e"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
 
 [[files]]
@@ -575,48 +585,81 @@ hash = "9b56c87a5c4a4086096082adef912aa826248ed2a1b3dec4259c16bbc4bf448c"
 metafile = true
 
 [[files]]
-file = "resources/assets/fml/textures/gui/hydrated_bean_patpat.gif"
-hash = "50604da98c03448b08422358a8be8a13688c304b94fc3ec2a71aebec05ce23c9"
+file = "mods/zombie-awareness.pw.toml"
+hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
+metafile = true
 
 [[files]]
-file = "resources/minecraft/models/block/furnace.json"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/models/block/furnace.json"
 hash = "2cd9f46552914bffc7bc1b7e641f0c369dd35701d5c84c3f17cdd3c4c934502b"
 
 [[files]]
-file = "resources/minecraft/models/block/lit_furnace.json"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/models/block/lit_furnace.json"
 hash = "e64fca424473c986219c607bb268e7b323d48dca796aa2c9461292055bb8f44d"
 
 [[files]]
-file = "resources/minecraft/textures/blocks/furnace.png"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/furnace.png"
 hash = "c2a5e68819b3dcbf16226ec2bb7d0b873de47b0e135c83bad2fe649e859e7773"
 
 [[files]]
-file = "resources/minecraft/textures/blocks/lit_furnace.png"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/lit_furnace.png"
 hash = "62190fe08e19033a4df2112e1a6260f45883ef646c578a9264b010e4f88fae6d"
 
 [[files]]
-file = "resources/minecraft/textures/entity/zombie/husk.png"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/entity/zombie/husk.png"
 hash = "5259277b5ffd555b6a4638657989842c80f607cd409449e76a7dfc9acd9a6507"
 
 [[files]]
-file = "resources/minecraft/textures/entity/zombie/zombie.png"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/entity/zombie/zombie.png"
 hash = "59a79212e7e8042c12f88a3108a1a83fc73a7fda69af1b7e0ce28ff41adc0f11"
 
 [[files]]
-file = "resources/minecraft/textures/gui/options_background.png"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/gui/options_background.png"
 hash = "aab9c5a8c24498cf7b1daaab3fb7a9f6bc8132dc40dfe0c2af432822603bf9f8"
 
 [[files]]
-file = "resources/minecraft/textures/gui/widgets.png"
-hash = "4a2f9fd0b6eb75b573d129d1cb0dcfa6dd0c51894063987c71ec32f47d05b0b4"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/gui/widgets.png"
+hash = "c6acd8a7132cdc1aea351b30965634dd91b6fbf9c4fb704c3ca8b0e6beed6062"
 
 [[files]]
-file = "resources/minecraft/textures/misc/shadow.png"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/misc/shadow.png"
 hash = "2288d82b71fa005a3425f11d6d82d43d55f133ee8b6aab922f6700fb7fc319d2"
 
 [[files]]
-file = "resources/minecraft/textures/misc/shadow.png.mcmeta"
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/misc/shadow.png.mcmeta"
 hash = "51cbe6abaa3db42ee417a3c941108188dc2f38a4679fce20a68299a6f7831e19"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/pack.mcmeta"
+hash = "c480c15fcf02d79b3308cac37588193763c939f049533f854b94c9b6d7950094"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r472815_MC1.12.x.zip"
+hash = "e34cbfabdafce2ce82182f5b11517d74302d46155f353df90a8745fc100370cf"
+
+[[files]]
+file = "resourcepacks/audiocraft.pw.toml"
+hash = "a2a2f12e09abda8db0a86fbf3db15c752bf9afacd88b5985beace1cb4f9f5a5f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cine-ghast.pw.toml"
+hash = "8ac3edec9a3491515fdcfcab468cb5a66396d8e817078dd6b6b6cc13881b6faf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/luminous.pw.toml"
+hash = "af8eed53fca5a71bd16c65c3cdb1aecf53697a8f930b465c8e2bf6fece7ff617"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tweaked-enderman.pw.toml"
+hash = "6ee9893fdfc013203c9e849ebbe5626059aa842b3f281a0f587f9361a728bfc0"
+metafile = true
+
+[[files]]
+file = "resources/assets/fml/textures/gui/hydrated_bean_patpat.gif"
+hash = "50604da98c03448b08422358a8be8a13688c304b94fc3ec2a71aebec05ce23c9"
 
 [[files]]
 file = "resources/projectvirulence/backgrounds/01.png"
