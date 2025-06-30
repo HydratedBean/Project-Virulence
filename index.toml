@@ -535,6 +535,11 @@ hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
 metafile = true
 
 [[files]]
+file = "mods/sound-filters.pw.toml"
+hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
+metafile = true
+
+[[files]]
 file = "mods/splash-logo-color-fix.pw.toml"
 hash = "109387ca95c52d39f3fe7353ca747adad46ee58da302251f24e6d71adf28d02b"
 metafile = true
