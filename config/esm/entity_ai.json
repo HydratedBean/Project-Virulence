@@ -1,13 +1,13 @@
 {
   "default": {
     "Awareness Radius": 64,
-    "Xray Distance": 5,
+    "Xray Distance": 0,
     "Attack Everything": false,
     "Attack Pets": true,
     "Attack Villagers": true,
     "Neutral Mob": false,
     "Strafe Evade": true,
-    "Animal Retaliate": true,
+    "Animal Retaliate": false,
     "Ranged Atk Dist": 64,
     "Ranged Atk Error": 0,
     "Arrow Tips": [
@@ -22,7 +22,7 @@
       "minecraft:mining_fatigue:300:2"
     ],
     "Pillaring": false,
-    "Pillar Block": "minecraft:cobblestone:0",
+    "Pillar Block": "minecraft:dirt:0",
     "Digging": false,
     "Digging Blacklist": [],
     "Invert Blacklist": false,
@@ -85,20 +85,23 @@
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 0.7
+      "Speed": 0.5
     },
     "minecraft:husk": {
       "Digging": true,
       "Griefing": true,
       "Pillaring": true,
       "Infectious": true,
-      "Speed": 0.7
+      "Speed": 0.5
     },
     "minecraft:creeper": {
-      "Speed": 0.7
+      "Speed": 0.5
     },
     "minecraft:cave_spider": {
       "Spider Webbing": 1.00
+    },
+    "minecraft:cow": {
+      "Animal Retaliate": true
     }
   }
 }
