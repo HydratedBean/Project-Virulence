@@ -3,11 +3,11 @@ filename = "Forgelin-Continuous-2.1.21.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de6a2eaca0d2706333e190c5bc8ba2e0087ec809"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1mPcAmuy/versions/MLI4GVr4/Forgelin-Continuous-2.1.21.0.jar"
+hash-format = "sha512"
+hash = "bc8b6845a0153516826b338eba1e19b913ddeb5f2e82e6c35444e7bc37e487237b0b54c94ff97786faf791a9d6b9dcfc5de851e41b90ebbc0b8b2b65051e98c8"
 
 [update]
-[update.curseforge]
-file-id = 6617905
-project-id = 456403
+[update.modrinth]
+mod-id = "1mPcAmuy"
+version = "MLI4GVr4"

@@ -3,11 +3,11 @@ filename = "Quark-r1.6-179.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35521fd8911b6ef893afbfe7d0d5d04962b3360d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/MPJKDJmI/Quark-r1.6-179.jar"
+hash-format = "sha512"
+hash = "bf9727e791288019fbf88b02c0c33ea656ab2e8c2701c286270259476d5ad999852f37878170670a0e36c0788143fc98bc2810e387e892a6bd30821a6b663fad"
 
 [update]
-[update.curseforge]
-file-id = 2924091
-project-id = 243121
+[update.modrinth]
+mod-id = "qnQsVE2z"
+version = "MPJKDJmI"

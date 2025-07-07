@@ -1,0 +1,13 @@
+name = "Nutrition Unofficial Extended Life"
+filename = "Nutrition-UEL-4.15.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mV8EvSTx/versions/64ScTHbd/Nutrition-UEL-4.15.0.jar"
+hash-format = "sha512"
+hash = "fa65d9162301b31b6212888b1f169fa6ea2b63234867e0e051b67091c7a0c9d34ab6933fe314f556615e6ec9d5439e25c1316affe2e281b855d798eba64361ac"
+
+[update]
+[update.modrinth]
+mod-id = "mV8EvSTx"
+version = "64ScTHbd"

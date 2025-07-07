@@ -1,13 +1,13 @@
 name = "HT's TreeChop"
-filename = "TreeChop-1.12.2-0.14.7.jar"
+filename = "TreeChop-1.12.2-forge-0.14.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9deae143ff037ddd23d5bf514b25c456c0334c8c"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/PGz1ToRg/TreeChop-1.12.2-forge-0.14.7.jar"
+hash-format = "sha512"
+hash = "d2d56a078474bf90576c39f1fe0ec9e5f8253f73b0d5bb8cf01e27040e76d74856874721a67db0e037ff5be7d9b4eeccadf9c6a5908ab88ff0d8914777becfd5"
 
 [update]
-[update.curseforge]
-file-id = 3532213
-project-id = 421377
+[update.modrinth]
+mod-id = "gHoB7SHO"
+version = "PGz1ToRg"

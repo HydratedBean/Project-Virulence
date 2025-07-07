@@ -34,7 +34,7 @@ hash = "8633edd5a62d263900ebe2afaff54d30c28e4a2281589455dbab3cf687b6464a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "62c3aafcff6127641afe81a89df3e6780af76d191c6bce030595426cd49c2e5a"
+hash = "db954a1b4b588d27d2492b66fbda85a4b3ff6f5538efc60f148e135d90b880cf"
 
 [[files]]
 file = "config/esm/entity_ai.json"
@@ -277,10 +277,6 @@ file = "config/srpmixins.cfg"
 hash = "dbf035ef014ab71b3f1d9d9e1dfc79b0f18f1ff68881b28d0ab51804d3f5a1be"
 
 [[files]]
-file = "mods/Nutrition-1.12.2-4.9.0.jar"
-hash = "4dc8013acd097710ad248a3a6e37697cddd998a3e188c24538d83a89dd016e2a"
-
-[[files]]
 file = "mods/aainfo.pw.toml"
 hash = "78570ba33e1b1759faad7b70a29846c606b7ed989aebd1e1e45e9e30321cddf4"
 metafile = true
@@ -292,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
+hash = "b720ead1a383bbe9167f2c4c40775940412ff7d8bcd33bd4214d87be0270b81c"
 metafile = true
 
 [[files]]
@@ -307,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+hash = "8c56ff242b4104361a43c9f77a03cb3d1f1234daa11ce369db8b119021fdfcc2"
 metafile = true
 
 [[files]]
@@ -327,12 +323,12 @@ metafile = true
 
 [[files]]
 file = "mods/atlas-lib.pw.toml"
-hash = "e8bc0a028f03741b14f6c802dcf084025efebadc11c8d21825fb74a267dd04d6"
+hash = "127f1b0e6fb5f83fc4a9a85a878f88e7f95b450373778b1056b02112ff7ab190"
 metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
-hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+hash = "cb7c8abeaf45f8981e79ae05e3e16c9d50949f2b3289cf2e59d9252ece752739"
 metafile = true
 
 [[files]]
@@ -352,12 +348,12 @@ metafile = true
 
 [[files]]
 file = "mods/cameraoverhaul-vintage.pw.toml"
-hash = "4e74ff4ffd2eb630c74020ff3a43bf2b41c7311a63da45a3472a40a6abeca05c"
+hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
+hash = "a52181b941b7d5504aa07a232a2636065294e45fdb17ac5fbb879b8ce7af4773"
 metafile = true
 
 [[files]]
@@ -367,12 +363,12 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "c17788a4885a889d1657405611d4d5d5925389875cd3bf55c212fe35d0753dd6"
+hash = "7243df226f4079685bab9cfef4cdc80b3552ee746d610bca0be46bd01cd44291"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
+hash = "4ac54074b11216aa6cf6bfd99b1d7e24169ad48b9030b2b01ec18ba95d762135"
 metafile = true
 
 [[files]]
@@ -401,11 +397,6 @@ hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "f1c5bd9428d68488dc1c71472e73955e4fe422663d60ffc043d3d1b7cf8ac91f"
-metafile = true
-
-[[files]]
 file = "mods/dynaores.pw.toml"
 hash = "cd45e8c873bce7d04efcba4183e6a3807145f0320870434d40d9eb91c5bb3a89"
 metafile = true
@@ -417,12 +408,12 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumasm.pw.toml"
-hash = "c27eafc724f6b77054c2cb44e1eab0490de18a623e3c17312b1363bd6af7ccdb"
+hash = "f7484ff1a7655695763970df350e5e5dd655467fd4b95823d9cbff409d49bfcb"
 metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "59876ef658d18c4d68d3dc8e0f60be6e8c8c52188e29d4063518eb0300bff079"
+hash = "3f07192463a10e91f487992ffcf59951f6db1c6e0c6a180a4a78e54faa5c5722"
 metafile = true
 
 [[files]]
@@ -432,17 +423,17 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "02ff2c5bcdfe0ed7d7e7c3f88da0a35f855491901bedb9b0ad6f897df4ad0fba"
+hash = "78ace5a5d38a62af4ba5614fa819a112d8cefd6a4418baf5099706dd2f7be740"
 metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "2571263ec4228ca6c6d2cdbf677bbb7b07622382163f606630304696ba5d4abc"
+hash = "1f998d790af8119c415ed179131a1d6d8b1978a90f32ae9340ccdf239077299d"
 metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "f628a30d9acad256c5a5312efb79e0edbbe699ea73c32acc024878f2b5c9a8d3"
+hash = "b117889bf8fb4b1fcb79dbdd64811d853ac93d0802828ecbe8556c6bb083f44c"
 metafile = true
 
 [[files]]
@@ -452,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "f3d56a2af8454e4ccf94b86c17aef630c1952ba92783745fa47bd6dc20d2d162"
+hash = "f4b2ec7006dab4ab329aaa8834cf1b436a13ccbde965e33a87fe99589998e28c"
 metafile = true
 
 [[files]]
@@ -462,27 +453,22 @@ metafile = true
 
 [[files]]
 file = "mods/hwyla.pw.toml"
-hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
 metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "fbc33eb5ed391842b8cd6ca271606f28d36d88093cd55b850389c669f6168300"
+hash = "51ad661a19c7cadd253de3dd4d33bc4ac89dbeef4b8ac9d78d0d9e7ab4ab24c1"
 metafile = true
 
 [[files]]
-file = "mods/load-my-resources-forge.pw.toml"
-hash = "44a011219af622cdc929933e9eb60afc7683c9e237d01593c5a33c9f1d61b6b4"
+file = "mods/load-my-resources.pw.toml"
+hash = "d93906e5988c8ec86f36ff90efde6c01a14c9423c48cc47b1dde99db5a2726d0"
 metafile = true
 
 [[files]]
 file = "mods/material-changer.pw.toml"
 hash = "b82e68323a2bbcd938637a7d692200093e2fcad47e07a31e538d417d3a6fa149"
-metafile = true
-
-[[files]]
-file = "mods/mixinbootstrap.pw.toml"
-hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
 
 [[files]]
@@ -492,12 +478,12 @@ metafile = true
 
 [[files]]
 file = "mods/modtweaker.pw.toml"
-hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
+hash = "061c3882e2bef9107cdfb0f9cd160bf72a7e0aae4fa692f991a4dbdee92ee675"
 metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "b6687ee824c3aab78a9ef39d1c690345cfdef25723649f0fe8bfbb1da7d99612"
+hash = "bf50631491148d51d1184c5255202642818a53c5f54f1495b2284ca8b1e07eb4"
 metafile = true
 
 [[files]]
@@ -511,12 +497,12 @@ metafile = true
 
 [[files]]
 file = "mods/mtlib.pw.toml"
-hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
+hash = "ea5c0a24221e594a64813019076772ea46b3531127f998a9fb4143b17ac193d1"
 metafile = true
 
 [[files]]
 file = "mods/naughthirium.pw.toml"
-hash = "c2be1a59f9abab16b8988394be849509f36f8f56d8bcaa38abb782ea0265ea76"
+hash = "5c7f0086c0b91787ba1ee366d4d719df54f32990a6d8364a1b830173cf4d0b29"
 metafile = true
 
 [[files]]
@@ -530,8 +516,18 @@ hash = "410f0ac3709941db74b3e7947b40b5bef5fbde5fae2352c565d009e76166d127"
 metafile = true
 
 [[files]]
+file = "mods/nutrition-unofficial-extended-life.pw.toml"
+hash = "a8120f65abc8b4180cba6e56384adc3c27b7245273e6d00e033610bb41dc91d9"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
+hash = "6f9699ef531cb96bc7deaf77196b8cbe63a32360cdfebea8ffb9a2f6dd6b87c4"
+metafile = true
+
+[[files]]
+file = "mods/passable-leaves.pw.toml"
+hash = "ea12813c8bc6d3652e2e5b696959d03d1627e4ce2435a31a91a3bedbe71c4857"
 metafile = true
 
 [[files]]
@@ -541,12 +537,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark-oddities.pw.toml"
-hash = "9ab2d2f7a009920ff0c75575d0e3f2cdd1aa765c70ff37e9bf5efabde7aed918"
+hash = "3f75c1c33aa255a3c12759dd99abd4fe7b409d3f2f015bc9e33e9c18431f40fa"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
+hash = "20c69833ab1070d44599e14db7069a0e1232c490f2988378065d8708cabdf2ad"
 metafile = true
 
 [[files]]
@@ -556,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
+hash = "ac9cca051823089b6f0158464be26e3c75d83c590a698a76c8a788475017df99"
 metafile = true
 
 [[files]]
@@ -565,13 +561,13 @@ hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
 metafile = true
 
 [[files]]
-file = "mods/responsive-shields.pw.toml"
-hash = "d7f7a9d84f4b2871d0a51bfa01bbafb05cdc9934fbe85994669e5155e1b267ba"
+file = "mods/responsiveshields.pw.toml"
+hash = "c3958ee00e8add6e097c217a01c6d4d6c818d489d3bcfb216df59d1479f2295c"
 metafile = true
 
 [[files]]
 file = "mods/rlcombat.pw.toml"
-hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
+hash = "d0b6a3d67cc21661d31dba689f7d628184604cb3c00cbe5331df58315c97e1d2"
 metafile = true
 
 [[files]]
@@ -586,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/scape-and-spartan-parasites.pw.toml"
-hash = "3fcb6fc9345bc21d9419a69f19a3aac8a5701c7e6bb20a8d9766352615a6bb19"
+hash = "cd7236f00a7c61303897054be14419158d954186872cbe0e3566a3f72b2a160f"
 metafile = true
 
 [[files]]
@@ -596,12 +592,12 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "537667da8b18765eb6b6a4041ca23651f1c7b16caf1b206992012ffdf7df2ed4"
+hash = "b4468c89e9fe6284af2a108985c46ee6b1d742896e4664de531123a8350755e6"
 metafile = true
 
 [[files]]
 file = "mods/sledgehammer.pw.toml"
-hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+hash = "48f2d45241510db831478b94b89db8209a88929f8b3a20fbd5024d4eb14b7f62"
 metafile = true
 
 [[files]]
@@ -611,12 +607,12 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-shields.pw.toml"
-hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
+hash = "adb41e0070f1c95f3f99a5153f20545cf239dddb7350ad87d0cbf166a7b72e3d"
 metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "8ef1aeb26198754de21d6261d5a5504be75bed42510c6e48ce59d2bffeeb439f"
+hash = "d3e9ba33bf37c54871c8d7afe5a2415630af8a6b75fd4c6499b766a1a773d618"
 metafile = true
 
 [[files]]
@@ -641,22 +637,22 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "b89e19ad4e520e0bdbbdb5520ce9d1b917909b5ff3b595ee4279cb26b83160bf"
+hash = "35e36fd9f33c9ed9893bdfd63db0a186e69c17daf3cf19ba03b021c44a6638ec"
 metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "b5f39d01a85a2d61db11ea5fbe74e7e5627c40740dd4648f8bed9f240e6178f9"
+hash = "64c9942170913b1ed13af546ae524cab84cae0802b78683ebbfe5597f31ffde4"
 metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
+hash = "b016a6133e902eccc5327267ec34b466394b488c9a90de41c6d6edb83e233241"
 metafile = true
 
 [[files]]
 file = "mods/wawla.pw.toml"
-hash = "dc1ee5d5a602f9cc633d511a4d00e2e0e7189d6135fd11343bf76e9f47aa2d07"
+hash = "d808789ad05736d26ee79aadd1dc95a83670af06d618bf0b7a665f1da6ce38de"
 metafile = true
 
 [[files]]
@@ -673,6 +669,30 @@ metafile = true
 file = "mods/zombie-awareness.pw.toml"
 hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_acacia_stump.png"
+hash = "e64e32157b03df3a28d5c58188edb091e4ede3241dad1aaaa39a80c2b6564591"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_big_oak_stump.png"
+hash = "be7eefe90b83cc3c4f20b34f754c825607590c26f78534d7942a9df9df48218a"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_birch_stump.png"
+hash = "56659ab2348159658d4d9fb2339a8d1b5ae0ab13ddf3185eae876423e5233fee"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_jungle_stump.png"
+hash = "68ac7dbd699f8e682e584931b9a7dfb4eba4d6b4d924288c4596850179212a4e"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_oak_stump.png"
+hash = "c828dd59da832bed3772038625d2262ab8d644ab2645b531a816ef74b5817985"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_spruce_stump.png"
+hash = "2cc9d9159ae207affecc097690b31b821cd42eaa89b52ef73030ba8d680a9ce4"
 
 [[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/models/block/furnace.json"
@@ -711,12 +731,168 @@ file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/pl
 hash = "b0132a33648940ccdb6d2b45b8e5ee13497b91f36ad5432c8d9645a1e6ddb5b9"
 
 [[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/coal_ore.png.mcmeta"
+hash = "8c44a212793610fccc8e7d5184fc5f6ae591ca3dbe3c3e763d53fda44e8925b1"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/coal_ore_1.png"
+hash = "1c7e4bed9341e5444883008e18ee8d2c02967c81dcf62ebe2b20904539084793"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/coal_ore_2.png"
+hash = "be4be3980a6ebac68403c2d2a4f579b134e1ba629e11e76839642e687f14dff7"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/diamond_ore.png.mcmeta"
+hash = "f290a950f380b8615ba11c4e5df6adcd4a366233330374f9b8eaf57b2fd22f2e"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/diamond_ore_1.png"
+hash = "824d1095a0edd3584ecfdee91acc7154e86dec788013f7653f189a0ee0d8ae5a"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/diamond_ore_2.png"
+hash = "d220d4374df23ea922ab06418fcfbbc955321ff1627b6fb07ab8c5f16fac7890"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/emerald_ore.png.mcmeta"
+hash = "64421366859f30b0a3c757079e7fbd53e0e421af7f2c57446448054ebff904b7"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/emerald_ore_1.png"
+hash = "03b156eec8592b1712a63d16cf8fd017f454a4ad8da714e3f00e8d731b22f4d8"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/emerald_ore_2.png"
+hash = "957f2fc28824a6fde344b13e96c68479d1dfd7bec99845c036ad37b9cc109223"
+
+[[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/furnace.png"
-hash = "c2a5e68819b3dcbf16226ec2bb7d0b873de47b0e135c83bad2fe649e859e7773"
+hash = "e67693a7b2b5988c07cb84962ea3246c29a7d85279646c08740c7cd5b4cb737f"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/gold_ore.png.mcmeta"
+hash = "d3cbd54e969a453873a916f77dd82016160a3555661c2aafb6793361fa51f4ee"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/gold_ore_1.png"
+hash = "8690e0f36b7210be52ca383411be33fb6d641c8c5dd730837abcbf073c856730"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/gold_ore_2.png"
+hash = "8678f06dd4782c2525150a697b214cca88aab15093eeb5204795b3a23863588a"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/iron_ore.png.mcmeta"
+hash = "3d19fc1d6f1b91a7b0bd22fb9973426b0a851d2a86bf28e45fa75f56b38fcc56"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/iron_ore_1.png"
+hash = "02d2538c8364a09f0dfaf3f3c53bb83618c2da0f12f86b71708f59e09d2e661b"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/iron_ore_2.png"
+hash = "4769e4aa45b9d2d7dda91fd26a813eaf8f92190ab9737bbb160a97525bb88ba3"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/lapis_ore.png.mcmeta"
+hash = "01df698c2ccd37259004250f2ed951a08f1e46f1064f2a7baed464b737d43748"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/lapis_ore_1.png"
+hash = "1a67331c349e5a175008f7184fc4b41fe6cd96dabfa998949995d5f3e351c0df"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/lapis_ore_2.png"
+hash = "c52dda44ee275e5cbf50924df546031609dbdc88afe13154042ac7da78911157"
 
 [[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/lit_furnace.png"
-hash = "62190fe08e19033a4df2112e1a6260f45883ef646c578a9264b010e4f88fae6d"
+hash = "4c5e049c4f1ad35699287f0e319132dc0203d3cbcd9813eb7235cefea7b4d6c2"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/redstone_ore.png.mcmeta"
+hash = "3d7d2a608f79c22365f34d105c0453282155bdfd457fd9dd3156263f8f17e0e0"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/redstone_ore_1.png"
+hash = "8443ce72fcfdca754dafa2b4c4293ece5deb332e20a14b510cc1477eca12e35b"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/redstone_ore_2.png"
+hash = "11a2f6431e3d0998afb5daf03a0add29ff3ca91c91b6f7a4f4c9e557acdd4ed4"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone.png.mcmeta"
+hash = "5b678d84c9fc9d5bca01cea5457f56d0f953e242d6ccd15ad4455528acba90bb"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_1.png"
+hash = "c964a403d26427a07e7558b3cbe7eb759338b510e233350c94c8e4ce7b5fed19"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_2.png"
+hash = "af3ef4ac10530f7f530f3f24553fe5c64821b886a57c079774c29b6b14179154"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_andesite.png.mcmeta"
+hash = "3b85c5fa78dae3dd61d55913b527599d57a4026ded94cfeb27e374b5d3df1b53"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_andesite_1.png"
+hash = "4ca0badba6bfb2321e7c8c6a1b8053b36b4f84edaa2cfc73a296015f6e213cdf"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_andesite_2.png"
+hash = "c62378169c1a905b21c6a58cae3ff87464fdad1d91a786b609d9b2b37cc47051"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_diorite.png.mcmeta"
+hash = "abafea6d8c73c17367b264c3692b9edbb3aa769f5b7e9648f8bac972c5e0b08a"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_diorite_1.png"
+hash = "3a2a66c8280b9cc87d79f54e0d7f108d4980900603f83721cf2d0f3b02928daf"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_diorite_2.png"
+hash = "47d363b1f531effbf3865520386e8425700fa11fefa72b8cf3e2c6f3197600fd"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_granite.png.mcmeta"
+hash = "55bad7466458434217dcc681f2bdd14031b4a55f2da54d993c65a87c934acdf0"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_granite_1.png"
+hash = "3029ea0307d20ef5a7222853d5792fb9b8bc8cf2086acd4dae1c0b49b6c4f845"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stone_granite_2.png"
+hash = "28d18a8948b3775106ff8df50482af94dfed1a1cc1279a91060634133410cf6d"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stump_log_acacia_top.png"
+hash = "37dcd4a1806cb878166f6502fc7ebcfad55f9d306d3f001466d7aea51a16e096"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stump_log_big_oak_top.png"
+hash = "32aae2ac954ec9eb4c68931682701da5f45f128dfacd745defbc2d948532242a"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stump_log_birch_top.png"
+hash = "1ca5ee26594509819578370a3200574d39315435f43971bcd78f06bc4789f0ff"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stump_log_jungle_top.png"
+hash = "594e4b24ce10e7f75ec19528787ba35e285078442b58e5aab317750c427d3792"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stump_log_oak_top.png"
+hash = "a284d6789fa0d10d9fc9237995c1fcc6271200bd67955c1e0970979059970d97"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/stump_log_spruce_top.png"
+hash = "76cc43b5b10169e97fa8d9bea0b66d906805090837112f27d3bf4705bb84cc9f"
 
 [[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/entity/zombie/husk.png"
@@ -743,6 +919,10 @@ file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/misc/sh
 hash = "51cbe6abaa3db42ee417a3c941108188dc2f38a4679fce20a68299a6f7831e19"
 
 [[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/treechop/textures/block/chopped_log.png"
+hash = "848f6f704b2400fee395971c65eb10cec1730598e958dfcd9a4e1b330d51ab25"
+
+[[files]]
 file = "resourcepacks/Project Virulence Tweaks/pack.mcmeta"
 hash = "c480c15fcf02d79b3308cac37588193763c939f049533f854b94c9b6d7950094"
 
@@ -763,6 +943,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/luminous.pw.toml"
 hash = "af8eed53fca5a71bd16c65c3cdb1aecf53697a8f930b465c8e2bf6fece7ff617"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-pyrotech.pw.toml"
+hash = "ce2303e982a75ae2d4c9208939ce76186e3f9ace30a7e4bd46f098d79ac9345a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity-adjunct.pw.toml"
+hash = "0e511c6a280cf27b7c83b2b52f7f0e0764926732df5d4c7305086ea4c882b0af"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modernity.pw.toml"
+hash = "d4d8779c6305f9aff775220fa95a86fc09135a73a42905dc8443f807eb2fdb0c"
 metafile = true
 
 [[files]]
@@ -792,7 +987,7 @@ hash = "a10edbf89ef67865481b077b00e43139f25016cbe4ce4fef95b156d323fb9fb9"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "c61dfac5bae40fb866870c694c66dc6fa5f3f1c7779080f15a8c6207c1534077"
+hash = "f80d961e8f15837b32e7c7b2b1c78c02792461930f4474114d8be09f0a763c38"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech.zs"

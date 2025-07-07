@@ -3,11 +3,11 @@ filename = "MTLib-3.0.7.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7d2b9e97518dca1e9326fd347ba1eb93dec35999"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vtzPfzFT/versions/POz7FSh2/MTLib-3.0.7.jar"
+hash-format = "sha512"
+hash = "08824ba05c7213716df8f7063e78340e6bcb497f5993e7965c8bbd8f72c0f42ce53619bc99db5a85e1169302192c564da418b1e1f431c3d3fbad2083136a3a43"
 
 [update]
-[update.curseforge]
-file-id = 3308160
-project-id = 253211
+[update.modrinth]
+mod-id = "vtzPfzFT"
+version = "POz7FSh2"

@@ -3,11 +3,11 @@ filename = "modtweaker-4.0.20.11.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f0bdbf6f4257e392e59023289998aaa8c295df47"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7ZsHKFX3/versions/bwLUzXub/modtweaker-4.0.20.11.jar"
+hash-format = "sha512"
+hash = "2df4942cac107532e5c5b90dedabea90613f3f349cc979a8134afc9bfdb463f2d196da3ef1a27175cab73a6e783f5e8b32e55760249a558ef14c7501710f24fe"
 
 [update]
-[update.curseforge]
-file-id = 3840577
-project-id = 220954
+[update.modrinth]
+mod-id = "7ZsHKFX3"
+version = "bwLUzXub"

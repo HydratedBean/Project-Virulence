@@ -33,8 +33,13 @@ recipes.addShapedMirrored("stone_axe", <minecraft:stone_axe>,
    [<ore:stickWood>, <pyrotech:material:12>]]);
 
 recipes.replaceAllOccurences(<ore:cobblestone>, <ore:rock>, <minecraft:stone_pickaxe>);
+
 recipes.replaceAllOccurences(<ore:cobblestone>, <ore:rock>, <minecraft:stone_shovel>);
-recipes.replaceAllOccurences(<ore:cobblestone>, <ore:rock>, <minecraft:stone_hoe>);
+
+recipes.addShapedMirrored("stone_hoe", <minecraft:stone_hoe>,
+  [[<ore:rock>, <ore:rock>],
+   [null, <ore:stickWood>],
+   [null, <ore:stickWood>]]);
 
 
 # Furnace

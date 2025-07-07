@@ -3,11 +3,11 @@ filename = "+Fugue-0.19.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1ce36478097a39da7111cfac0269533829941404"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/vylTACsh/versions/obpHEIEj/%2BFugue-0.19.5.jar"
+hash-format = "sha512"
+hash = "95e73a7d4d9e1202c87ee5cfaa93787aa4a0e937e5ec3292da73a23792ecb622a0a9e8a680b6bed34bc3cc945c963fe3163449792dd0bd7fa1334a38f732a215"
 
 [update]
-[update.curseforge]
-file-id = 6690708
-project-id = 1005815
+[update.modrinth]
+mod-id = "vylTACsh"
+version = "obpHEIEj"
