@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
 
 [[files]]
+file = "ModularWarfare/mod_config.json"
+hash = "7c6ca579ada083069aa67c70aaceed720cd09f8dcb9ee9e3b22158bc49eeedf0"
+
+[[files]]
 file = "README.md"
 hash = "f8745a383060ac6d461d8ea3745633545fb49a294225b9212f0e823daadbc5ea"
 
@@ -34,7 +38,7 @@ hash = "8633edd5a62d263900ebe2afaff54d30c28e4a2281589455dbab3cf687b6464a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "db954a1b4b588d27d2492b66fbda85a4b3ff6f5538efc60f148e135d90b880cf"
+hash = "9d19282d4926c32c4880096a23f41296a84965c779bbd28fdf7502962426877f"
 
 [[files]]
 file = "config/esm/entity_ai.json"
@@ -472,6 +476,11 @@ hash = "b82e68323a2bbcd938637a7d692200093e2fcad47e07a31e538d417d3a6fa149"
 metafile = true
 
 [[files]]
+file = "mods/mcgltf.pw.toml"
+hash = "83b961eec06dadfad97d466399049bbab391ef3c2f343b0287e799ac3d8f771a"
+metafile = true
+
+[[files]]
 file = "mods/mob-sunscreen.pw.toml"
 hash = "d4e1c4a348f959fe07eca330a8e8c19b5d8fe07d9f5692047f70137deea23d03"
 metafile = true
@@ -484,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/modularui.pw.toml"
 hash = "bf50631491148d51d1184c5255202642818a53c5f54f1495b2284ca8b1e07eb4"
+metafile = true
+
+[[files]]
+file = "mods/modularwarfare.pw.toml"
+hash = "9c677256ee398777b58515bfbe8fadf8010c227dfec192dde55477e27a046648"
 metafile = true
 
 [[files]]
@@ -929,11 +943,6 @@ hash = "c480c15fcf02d79b3308cac37588193763c939f049533f854b94c9b6d7950094"
 [[files]]
 file = "resourcepacks/VanillaTweaks_r472815_MC1.12.x.zip"
 hash = "e34cbfabdafce2ce82182f5b11517d74302d46155f353df90a8745fc100370cf"
-
-[[files]]
-file = "resourcepacks/audiocraft.pw.toml"
-hash = "a2a2f12e09abda8db0a86fbf3db15c752bf9afacd88b5985beace1cb4f9f5a5f"
-metafile = true
 
 [[files]]
 file = "resourcepacks/cine-ghast.pw.toml"

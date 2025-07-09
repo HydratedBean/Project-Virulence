@@ -1,0 +1,13 @@
+name = "ModularWarfare"
+filename = "modularwarfare-2.4.2f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IkpfYUd0/versions/IvGwhObZ/modularwarfare-2.4.2f.jar"
+hash-format = "sha512"
+hash = "a9304325fa4cbeadffe390c7c905d85bccb802786757b53d8541342c3f4d226ca274cb779b58305a3245698bd089a2fc6014ffc8274e947fd8d85c8100211937"
+
+[update]
+[update.modrinth]
+mod-id = "IkpfYUd0"
+version = "IvGwhObZ"

@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Modernity-f3-3.10.2.zip","ModernityAdjunct-f3-1.6.zip","VanillaTweaks_r472815_MC1.12.x.zip","Modern Pyrotech [1.12] [v1.2].zip","tweaked enderman 1.12.zip","Luminous1.12.2.zip","AudioCraftV1.6.zip","Cine-Ghast.zip","Project Virulence Tweaks"]
+resourcePacks:["Modernity-f3-3.10.2.zip","ModernityAdjunct-f3-1.6.zip","VanillaTweaks_r472815_MC1.12.x.zip","Modern Pyrotech [1.12] [v1.2].zip","tweaked enderman 1.12.zip","Luminous1.12.2.zip","Cine-Ghast.zip","Project Virulence Tweaks"]
 incompatibleResourcePacks:["Cine-Ghast.zip"]
 lastServer:
 lang:en_us
