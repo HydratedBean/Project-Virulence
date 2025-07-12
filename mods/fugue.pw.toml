@@ -3,11 +3,11 @@ filename = "+Fugue-0.19.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vylTACsh/versions/obpHEIEj/%2BFugue-0.19.5.jar"
+url = "https://cdn.modrinth.com/data/vylTACsh/versions/UpzW5FmY/%2BFugue-0.19.5.jar"
 hash-format = "sha512"
-hash = "95e73a7d4d9e1202c87ee5cfaa93787aa4a0e937e5ec3292da73a23792ecb622a0a9e8a680b6bed34bc3cc945c963fe3163449792dd0bd7fa1334a38f732a215"
+hash = "802f21cb5baecde23e8025732be85c6651f085db6139796ab3d3bf644b8f44cf4302d2540ff71d10e9d304919b2c68938e196d78735085be91f0578ab16a8688"
 
 [update]
 [update.modrinth]
 mod-id = "vylTACsh"
-version = "obpHEIEj"
+version = "UpzW5FmY"

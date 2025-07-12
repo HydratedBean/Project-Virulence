@@ -1,13 +1,13 @@
 name = "Forgelin-Continuous"
-filename = "Forgelin-Continuous-2.1.21.0.jar"
+filename = "Forgelin-Continuous-2.2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1mPcAmuy/versions/MLI4GVr4/Forgelin-Continuous-2.1.21.0.jar"
+url = "https://cdn.modrinth.com/data/1mPcAmuy/versions/CWKmwkAL/Forgelin-Continuous-2.2.0.0.jar"
 hash-format = "sha512"
-hash = "bc8b6845a0153516826b338eba1e19b913ddeb5f2e82e6c35444e7bc37e487237b0b54c94ff97786faf791a9d6b9dcfc5de851e41b90ebbc0b8b2b65051e98c8"
+hash = "0dc2bdeeb95eac2238498f9c937944efa01307646ec5b97d91644b10362b7f17e1c2b8902a1809ff9f3407d1cc5850e4457c36e4212fe1b871cd82cd1e94cd19"
 
 [update]
 [update.modrinth]
 mod-id = "1mPcAmuy"
-version = "MLI4GVr4"
+version = "CWKmwkAL"

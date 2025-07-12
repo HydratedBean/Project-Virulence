@@ -26,11 +26,11 @@ hash = "13148803bc6795a6f3675b9fa50a1ed0f8716cb5cfc2f77739047ae650bd4592"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "13ccd248e6b0446a5d303b7b8d1d957d22ff66cfbe756380111297d721102eed"
+hash = "6d261d39776ca78425ca83e9b00998fe0d10ec490684bbc5ee46ef08701c6ac9"
 
 [[files]]
 file = "config/darkness.cfg"
-hash = "1c7370381933adceccc83a085c68ae468615995f3876b208fa8e8e738c0c2da6"
+hash = "fe4bbbe77eaedb5eb1fe5832d70a4808ab72adf278eaf20594d08bf545e8fc48"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -75,14 +75,6 @@ hash = "b13e7389709ab1535e01a6addcb39fc7ab0bb60747d5d68a6ca7fcbb7e9ac395"
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
 hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
-
-[[files]]
-file = "config/itemphysic-client.json"
-hash = "ea24c70c00202cf836bc9b27fd5361b9cf206a31e44de073078ddb422d2f4686"
-
-[[files]]
-file = "config/itemphysic.json"
-hash = "6a4104b330a53e11ff898ead75eecdcae7809e96a92d0e148505090e62294848"
 
 [[files]]
 file = "config/materialchanger.cfg"
@@ -417,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "3f07192463a10e91f487992ffcf59951f6db1c6e0c6a180a4a78e54faa5c5722"
+hash = "f290452a923c2bd5ba182d29a5b9bcc6ce55bcba6d7fffccafeef36621cdc9ea"
 metafile = true
 
 [[files]]
@@ -427,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "78ace5a5d38a62af4ba5614fa819a112d8cefd6a4418baf5099706dd2f7be740"
+hash = "a1e1ef7d4eba2404581d60fe50f672a5a3ea6d14e33ef6b665e7e5f9e6384b87"
 metafile = true
 
 [[files]]
@@ -437,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "b117889bf8fb4b1fcb79dbdd64811d853ac93d0802828ecbe8556c6bb083f44c"
+hash = "4fb7b65345723a063af6e24820d526b55a4b139d86db7e457ba6b09a91d412af"
 metafile = true
 
 [[files]]
@@ -521,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisethreader.pw.toml"
-hash = "86a0f4723fc2db5871a73182875d12e10e5f96d0cfdf0e63a1f5e395d1fea307"
+hash = "17eac7eb305119ebcc7d3fb9ef2f9e5d4763a356f025803db5cbde91e90ca255"
 metafile = true
 
 [[files]]
@@ -636,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "a0a7324aee5c3d9753ae50efca54452e3ea2751bdba3d1e51f61c87204039c10"
+hash = "b07d678c6017cde024507e85f58834d3792eb459f34738712b600989dae43f1b"
 metafile = true
 
 [[files]]
