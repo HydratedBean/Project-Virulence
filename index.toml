@@ -681,12 +681,12 @@ file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/bl
 hash = "e64e32157b03df3a28d5c58188edb091e4ede3241dad1aaaa39a80c2b6564591"
 
 [[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_big_oak_stump.png"
-hash = "be7eefe90b83cc3c4f20b34f754c825607590c26f78534d7942a9df9df48218a"
-
-[[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_birch_stump.png"
 hash = "56659ab2348159658d4d9fb2339a8d1b5ae0ab13ddf3185eae876423e5233fee"
+
+[[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_dark_oak_stump.png"
+hash = "be7eefe90b83cc3c4f20b34f754c825607590c26f78534d7942a9df9df48218a"
 
 [[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_jungle_stump.png"
