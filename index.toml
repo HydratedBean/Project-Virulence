@@ -254,7 +254,7 @@ hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "ba68770c43768b48349321dfcb781c2e0230096eb2326b0e409c500d2fe20c4b"
+hash = "95aa950f4f1c0383aa4339b66fc974d91fda020944a5bcfd4625b35986412711"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
