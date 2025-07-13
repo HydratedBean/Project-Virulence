@@ -89,6 +89,10 @@ file = "config/morepaintings.cfg"
 hash = "ae036f9bb16f289694a19b55902556f1b5d769df9a78168642fba6cc2e041aab"
 
 [[files]]
+file = "config/normalasm.cfg"
+hash = "e57d0fec604d87df995121913d30dcd108853e0c62b7002f197c98f02cc6f305"
+
+[[files]]
 file = "config/nutrition/effects/example.json"
 hash = "547d76223000afb92acda8a8e90bd6ef9923d8892b8496272a05eda2f5e87166"
 
@@ -273,6 +277,10 @@ file = "config/srpmixins.cfg"
 hash = "dbf035ef014ab71b3f1d9d9e1dfc79b0f18f1ff68881b28d0ab51804d3f5a1be"
 
 [[files]]
+file = "config/vintagefix.properties"
+hash = "8e6fae79f9ef739a5f0bb40440d1b66b7c48fbb673c758e0f0e70cb76096332d"
+
+[[files]]
 file = "mods/aainfo.pw.toml"
 hash = "78570ba33e1b1759faad7b70a29846c606b7ed989aebd1e1e45e9e30321cddf4"
 metafile = true
@@ -430,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/fugue.pw.toml"
 hash = "4fb7b65345723a063af6e24820d526b55a4b139d86db7e457ba6b09a91d412af"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "3c4b106079a9669e7303feece7bac9cff41b171455fe96589cd5cf54ebb64853"
 metafile = true
 
 [[files]]
@@ -634,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/startup-timer.pw.toml"
 hash = "70ac290d31eb53a8275bd570199a9cf25f0be0375e8256d7a1770f1f07519fa7"
+metafile = true
+
+[[files]]
+file = "mods/stellarcore.pw.toml"
+hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
 metafile = true
 
 [[files]]
