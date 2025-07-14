@@ -356,6 +356,10 @@ hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
 metafile = true
 
 [[files]]
+file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
+hash = "cdb18184f2d798249264610a5850b2d61056eee7b7e773f0d62e55152f833bf5"
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a52181b941b7d5504aa07a232a2636065294e45fdb17ac5fbb879b8ce7af4773"
 metafile = true
@@ -520,18 +524,8 @@ hash = "ea5c0a24221e594a64813019076772ea46b3531127f998a9fb4143b17ac193d1"
 metafile = true
 
 [[files]]
-file = "mods/naughthirium.pw.toml"
-hash = "5c7f0086c0b91787ba1ee366d4d719df54f32990a6d8364a1b830173cf4d0b29"
-metafile = true
-
-[[files]]
 file = "mods/noisethreader.pw.toml"
 hash = "17eac7eb305119ebcc7d3fb9ef2f9e5d4763a356f025803db5cbde91e90ca255"
-metafile = true
-
-[[files]]
-file = "mods/nothirium.pw.toml"
-hash = "410f0ac3709941db74b3e7947b40b5bef5fbde5fae2352c565d009e76166d127"
 metafile = true
 
 [[files]]
@@ -572,11 +566,6 @@ metafile = true
 [[files]]
 file = "mods/red-core.pw.toml"
 hash = "ac9cca051823089b6f0158464be26e3c75d83c590a698a76c8a788475017df99"
-metafile = true
-
-[[files]]
-file = "mods/renderlib.pw.toml"
-hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
 metafile = true
 
 [[files]]
