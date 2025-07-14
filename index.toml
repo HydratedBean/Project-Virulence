@@ -41,6 +41,10 @@ file = "config/defaultoptions/options.txt"
 hash = "9d19282d4926c32c4880096a23f41296a84965c779bbd28fdf7502962426877f"
 
 [[files]]
+file = "config/dshuds.cfg"
+hash = "8b8d9b0cb2235f28c3d657a6876e783ebc28c6ab6baa6c19f132fe76129d4887"
+
+[[files]]
 file = "config/esm/entity_ai.json"
 hash = "460e46ff3ea93590b3e1cb2eed2c0d4a239b8d8aed075c1b35d342377db97331"
 
@@ -405,6 +409,11 @@ hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings-huds.pw.toml"
+hash = "6e11e918dd22b38d673f64fc8d65d5eae8e80764db7a704709eced0b645ac29b"
+metafile = true
+
+[[files]]
 file = "mods/dynaores.pw.toml"
 hash = "cd45e8c873bce7d04efcba4183e6a3807145f0320870434d40d9eb91c5bb3a89"
 metafile = true
@@ -446,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "3c4b106079a9669e7303feece7bac9cff41b171455fe96589cd5cf54ebb64853"
+hash = "04ef9b96f7d8493ae1e7d4d11f7a077e1751f2a6c45b7649864a95e0adf7129f"
 metafile = true
 
 [[files]]
@@ -531,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/nutrition-unofficial-extended-life.pw.toml"
 hash = "a8120f65abc8b4180cba6e56384adc3c27b7245273e6d00e033610bb41dc91d9"
+metafile = true
+
+[[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
 metafile = true
 
 [[files]]
