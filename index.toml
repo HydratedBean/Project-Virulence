@@ -1005,11 +1005,11 @@ hash = "6decad35329945ecb7b1324847eda0a0a8db91004932ca23fc05f9ec3bdf0239"
 
 [[files]]
 file = "scripts/artisanworktables.zs"
-hash = "a10edbf89ef67865481b077b00e43139f25016cbe4ce4fef95b156d323fb9fb9"
+hash = "2c6320b69f36c7caba0d1b3afe13832132b9e56a00f791e7eb332e2793d555b7"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "e3c4ca6e44d694cb7d5797dc5c30b431cb531f8d811255cb6a47ee61ef897912"
+hash = "0043c098a8a3ea93f001151c0d2810a7b3873724fe2fb9f874725ac4b0667f01"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech.zs"

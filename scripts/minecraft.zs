@@ -45,12 +45,12 @@ recipes.addShapedMirrored("stone_hoe", <minecraft:stone_hoe>,
 # Furnace
 furnace.addRecipe(<minecraft:brick>, <betterwithmods:unfired_pottery:4>);
 furnace.addRecipe(<pyrotech:material:13>, <pyrotech:material:12>);
-furnace.addRecipe(<minecraft:sapling:0>, <pyrotech:material:12>);
-furnace.addRecipe(<minecraft:sapling:1>, <pyrotech:material:12>);
-furnace.addRecipe(<minecraft:sapling:2>, <pyrotech:material:12>);
-furnace.addRecipe(<minecraft:sapling:3>, <pyrotech:material:12>);
-furnace.addRecipe(<minecraft:sapling:4>, <pyrotech:material:12>);
-furnace.addRecipe(<minecraft:sapling:5>, <pyrotech:material:12>);
+furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:0>);
+furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:1>);
+furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:2>);
+furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:3>);
+furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:4>);
+furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:5>);
 
 
 # Brewing Stand

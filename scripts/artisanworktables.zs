@@ -1,5 +1,7 @@
 import mods.artisanworktables.builder.RecipeBuilder;
 
+recipes.RemoveByMod("artisanworktables");
+
 ## ARCANE SCROLLS
 # Sharpness
 RecipeBuilder.get("jeweler")
