@@ -1005,7 +1005,7 @@ hash = "6decad35329945ecb7b1324847eda0a0a8db91004932ca23fc05f9ec3bdf0239"
 
 [[files]]
 file = "scripts/artisanworktables.zs"
-hash = "2c6320b69f36c7caba0d1b3afe13832132b9e56a00f791e7eb332e2793d555b7"
+hash = "b15347b2a1e95dce6ead0255e302c49baeb37e7ec728eb8bb4ccac413c59be13"
 
 [[files]]
 file = "scripts/minecraft.zs"

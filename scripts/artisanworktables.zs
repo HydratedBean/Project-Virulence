@@ -1,6 +1,6 @@
 import mods.artisanworktables.builder.RecipeBuilder;
 
-recipes.RemoveByMod("artisanworktables");
+recipes.removeByMod("artisanworktables");
 
 ## ARCANE SCROLLS
 # Sharpness
