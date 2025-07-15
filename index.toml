@@ -158,7 +158,7 @@ hash = "954535357266426fd10f8d880c8b02d54e03591d07b3d0fb05ecf80455e60527"
 
 [[files]]
 file = "config/pyrotech/core.cfg"
-hash = "6f7caf38caf8b317ba2c0541d75c988c37dadadbf4696aab25e577b7acf6a828"
+hash = "656a16c7b197bd01135cbc322180934cbbd63b1601476539fa05f3166cbc62f3"
 
 [[files]]
 file = "config/pyrotech/core.compat.Ore-Custom.json"
@@ -698,6 +698,10 @@ hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/models/block/stoked_flame.json"
+hash = "bcc1eff096669d471ce7ca5d1e673baed1f0ec818d27a94d70847cb6823d9754"
+
+[[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/betterwithmods/textures/blocks/stumps/log_acacia_stump.png"
 hash = "e64e32157b03df3a28d5c58188edb091e4ede3241dad1aaaa39a80c2b6564591"
 
@@ -1009,7 +1013,7 @@ hash = "b15347b2a1e95dce6ead0255e302c49baeb37e7ec728eb8bb4ccac413c59be13"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "0043c098a8a3ea93f001151c0d2810a7b3873724fe2fb9f874725ac4b0667f01"
+hash = "e1df1468ee6a8f385e3ac390d1beba07e0bf95849914974daa08ccbee3f7950b"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech.zs"

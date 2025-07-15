@@ -41,6 +41,14 @@ recipes.addShapedMirrored("stone_hoe", <minecraft:stone_hoe>,
    [null, <ore:stickWood>],
    [null, <ore:stickWood>]]);
 
+recipes.addShapeless("sticks_from_bark_0", <minecraft:stick> * 4, [<betterwithmods:bark:0>]);
+recipes.addShapeless("sticks_from_bark_1", <minecraft:stick> * 4, [<betterwithmods:bark:1>]);
+recipes.addShapeless("sticks_from_bark_2", <minecraft:stick> * 4, [<betterwithmods:bark:2>]);
+recipes.addShapeless("sticks_from_bark_3", <minecraft:stick> * 4, [<betterwithmods:bark:3>]);
+recipes.addShapeless("sticks_from_bark_4", <minecraft:stick> * 4, [<betterwithmods:bark:4>]);
+recipes.addShapeless("sticks_from_bark_5", <minecraft:stick> * 4, [<betterwithmods:bark:5>]);
+recipes.addShapeless("sticks_from_bark_6", <minecraft:stick> * 4, [<betterwithmods:bark:6>]);
+
 
 # Furnace
 furnace.addRecipe(<minecraft:brick>, <betterwithmods:unfired_pottery:4>);
