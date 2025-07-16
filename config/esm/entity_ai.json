@@ -80,25 +80,32 @@
     "minecraft:spider": {
       "Spider Webbing": 1.00
     },
+    "minecraft:cave_spider": {
+      "Spider Webbing": 1.00
+    },
+    "betterwithmods:bwm_jungle_spider": {
+      "Spider Webbing": 1.00
+    },
     "minecraft:zombie": {
       "Digging": true,
       "Griefing": true,
       "Pillaring": true,
-      "Infectious": true,
+      "Speed": 0.5
+    },
+    "minecraft:zombie_villager": {
+      "Digging": true,
+      "Griefing": true,
+      "Pillaring": true,
       "Speed": 0.5
     },
     "minecraft:husk": {
       "Digging": true,
       "Griefing": true,
       "Pillaring": true,
-      "Infectious": true,
       "Speed": 0.5
     },
     "minecraft:creeper": {
       "Speed": 0.5
-    },
-    "minecraft:cave_spider": {
-      "Spider Webbing": 1.00
     },
     "minecraft:cow": {
       "Animal Retaliate": true

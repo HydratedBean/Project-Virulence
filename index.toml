@@ -17,10 +17,6 @@ file = "config/CustomMainMenu/mainmenu.json"
 hash = "53ae6f11e696eeb57ef8bd838d29168ce687c1ca5aa0101b98b4bd3271abbf23"
 
 [[files]]
-file = "config/aquaacrobatics_core.cfg"
-hash = "2b34ba14a25600ebdb49ebb6fd5de4623114c524abf2e73852553461d6552127"
-
-[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "13148803bc6795a6f3675b9fa50a1ed0f8716cb5cfc2f77739047ae650bd4592"
 
@@ -46,11 +42,11 @@ hash = "8b8d9b0cb2235f28c3d657a6876e783ebc28c6ab6baa6c19f132fe76129d4887"
 
 [[files]]
 file = "config/esm/entity_ai.json"
-hash = "460e46ff3ea93590b3e1cb2eed2c0d4a239b8d8aed075c1b35d342377db97331"
+hash = "28a002423286e65f9dc75f12371391d48cfe18d9217cca277e43335be092affc"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
-hash = "65c248f0d830556445f03a733fb7ba91ab0d4d78850278ea437bf0ddd6b31472"
+hash = "dfadcbc9b33d728fd38a6a23a62aec648d87f982c097a0100c604ff3e5e98182"
 
 [[files]]
 file = "config/fluidlogged_api/blacklist.cfg"
@@ -82,11 +78,11 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/materialchanger.cfg"
-hash = "a7b2cb0a40b53b61ce69afc5f8f91b2159b1ce62282c16f4d7ad808e52432346"
+hash = "a670740ea73be587ea5df83e99efa604214a83dce3a229f3b228ad55819c60ee"
 
 [[files]]
 file = "config/mobsunscreen.cfg"
-hash = "af0aadc72d6ddf17579656d781103419eaa1b942fea3acf218d7f4a6176098d9"
+hash = "c08d006861760916ce5fb4185d28938462d027a6d01eb87e1e98004cee33d735"
 
 [[files]]
 file = "config/morepaintings.cfg"
@@ -245,6 +241,10 @@ file = "config/quark.cfg"
 hash = "eccd5878264e620d1c3779c04a4a1fd4ac2af94910c7e09c3dbee3c549c964db"
 
 [[files]]
+file = "config/rotm.cfg"
+hash = "45145800d509a5cdfa3bd7ab178915e2056b4f8cb931213c4882001d2eca1357"
+
+[[files]]
 file = "config/sereneseasons/cropfertility.cfg"
 hash = "9f33b6163278a0060f3ea1ebd3eafcba7312033e0614a01c5e15b0c82ab37996"
 
@@ -270,7 +270,7 @@ hash = "6ce05a0d7907888ddc1605bc7fdbf8ec2028b3624d3c73436a760c3d87dbf74c"
 
 [[files]]
 file = "config/srparasites/SRParasitesSystems.cfg"
-hash = "0312bd069afb5379d3d0fcb1848646f8abc4e980069d1de4bf522fec0ba84f58"
+hash = "cb49618aedfb9a7c7c3150c96fe607dc3e2ca40178a1238792ff29aef0aab6d6"
 
 [[files]]
 file = "config/srparasites/SRParasitesWorld.cfg"
@@ -278,7 +278,7 @@ hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 
 [[files]]
 file = "config/srpmixins.cfg"
-hash = "dbf035ef014ab71b3f1d9d9e1dfc79b0f18f1ff68881b28d0ab51804d3f5a1be"
+hash = "c323f26e4d621988df9d35624a9f8b0f457ee7733a3befcfa0239cfeaa85c625"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -575,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/reach-fix.pw.toml"
 hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
+metafile = true
+
+[[files]]
+file = "mods/rebirth-of-the-mobs.pw.toml"
+hash = "e5c32fc4172c0b0dee10ea7d6aa92d0215567610db71fc49f94b5d9c2459b9ed"
 metafile = true
 
 [[files]]
