@@ -10,7 +10,7 @@ hash = "7c6ca579ada083069aa67c70aaceed720cd09f8dcb9ee9e3b22158bc49eeedf0"
 
 [[files]]
 file = "README.md"
-hash = "9f84751ff5b705f19a38bf09f5da52b7819af518e4fa6d65d5a46615af5d6b9b"
+hash = "6d407d4f84ac3f773e3f7ea7b1ee5c4c09de1fd276c2a150bf1e1e87b64d2379"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"

@@ -7,7 +7,7 @@ Project Virulence is a modpack that focuses on making minecraft a more challengi
 - Diamonds must be combined with creeper fuses and iron ingots in order to be usable in tools and armor
 - Coordinates in the F3 menu are disabled completely. You must hold a compass to see your coordinates
 - Hardcore hunger and nutrition
-- Player's can't place blocks or fluids while airborne
+- Players can't place blocks or fluids while airborne
 - Darkness kills players over time
 - Blood moons
 - Windmills, waterwheels, and other mechanical power that interacts with redstone
