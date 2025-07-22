@@ -1,0 +1,185 @@
+{
+  "modelFileName": "projectvirulence.shotgun.glb",
+  "animations": {
+    "default": {
+      "startTime": 22,
+	  "endTime": 34,
+	  "speed": 0.035
+    },
+    "draw": {
+      "startTime": 0,
+      "endTime": 22,
+	  "speed": 0.035
+    },
+    "aim": {
+	  "speed": 0.003
+    },
+	"preFire": {
+      "startTime": 305,
+      "endTime": 306,
+	  "speed":0.035
+    },
+	"fire": {
+      "startTime": 306,
+      "endTime": 307,
+	  "speed": 0.035
+    },
+	"postFire": {
+      "startTime": 307,
+      "endTime": 332,
+	  "speed": 0.035
+    },
+    "preReload": {
+      "startTime": 343,
+      "endTime": 380,
+	  "speed": 0.035
+    },
+	"reloadFirst": {
+      "startTime": 380,
+      "endTime": 388,
+	  "speed": 0.035
+    },
+	"reloadSecond": {
+      "startTime": 388,
+      "endTime": 396,
+	  "speed": 0.035
+    },
+	"postReload": {
+      "startTime": 396,
+      "endTime": 424,
+	  "speed": 0.035
+    },
+	"preUnload": {
+      "startTime": 408,
+      "endTime": 409,
+	  "speed": 0.035
+    },
+	"unload": {
+      "startTime": 409,
+      "endTime": 424,
+	  "speed": 0.035
+    },
+	"postUnload": {
+      "startTime": 409,
+      "endTime": 424,
+	  "speed": 0.035
+    },
+    "inspect": {
+      "startTime": 34,
+      "endTime": 294,
+	  "speed": 0.035
+    }
+  },
+  "sprint": {
+    "basicSprint": true,
+    "sprintRotate": {
+      "x": 0.0,
+      "y": 50.0,
+      "z": -10.0
+    },
+    "sprintTranslate": {
+      "x": 0.0,
+      "y": -2.0,
+      "z": 10.0
+    }
+  },
+  "thirdPerson": {
+    "thirdPersonOffset": {
+      "x": 1.0,
+      "y": -6.0,
+      "z": 0.0
+    },
+    "backPersonOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "thirdPersonScale": 0.5
+  },
+  "aim": {
+    "rotateHipPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "translateHipPosition": {
+      "x": 15.0,
+      "y": -17.0,
+      "z": 5.0
+    },
+    "rotateAimPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.0
+    },
+    "translateAimPosition": {
+      "x": -1.0,
+      "y": 3.0,
+      "z": -4.85
+    }
+  },
+  "bolt": {
+    "boltRotation": 0.0,
+    "boltRotationPoint": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "pumpHandleDistance": 0.1
+  },
+  "attachments": {
+    "attachmentPointMap": {
+      "charm": [
+        {
+          "x": -0.035,
+          "y": -0.09,
+          "z": -0.0354
+        },
+        {
+          "x": -2.0,
+          "y": -1.0,
+          "z": 0.0
+        }
+      ]
+	},
+	"attachmentModeRotate": {
+      "x": 10.0,
+      "y": 30.0,
+      "z": 20.0
+    },
+	"positionPointMap": {},
+	"aimPointMap": {},
+    "scopeIsOnSlide": false
+  },
+  "global": {
+    "globalTranslate": {
+      "x": 0.0,
+	  "y": 0.0,
+	  "z": 0.0
+    },
+    "globalScale": {
+      "x": 0.01,
+	  "y": 0.01,
+	  "z": 0.01
+    },
+    "globalRotate": {
+      "x": 0.0,
+	  "y": 0.0,
+  	  "z": 0.0
+    }
+  },
+  "extra": {
+    "translateAll": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "modelScale": 1.2,
+    "gunOffsetScoping": 0.0,
+    "crouchZoom": -0.0355,
+    "adsSpeed": 0.1,
+    "modelRecoilBackwards": 0.0,
+    "modelRecoilUpwards": 0.0,
+    "modelRecoilShake": 0.5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "internalName": "projectvirulence.item.shell",
+  "maxStackSize": 64,
+  "displayName": "Shotgun Shell",
+  "renderBulletModel": true,
+  "isDynamicBullet": false,
+  "sameTextureAsGun": false,
+  "modelSkins": [
+        {
+            "internalName": "projectvirulence.shell",
+            "skinAsset": "projectvirulence.shell",
+            "displayName": "Default",
+            "textures": ["basic"]
+        }
+    ],
+  "shellModelFileName": "projectvirulence.shell.obj"
+}

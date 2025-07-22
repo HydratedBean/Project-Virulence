@@ -9,6 +9,114 @@ file = "ModularWarfare/mod_config.json"
 hash = "7c6ca579ada083069aa67c70aaceed720cd09f8dcb9ee9e3b22158bc49eeedf0"
 
 [[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/ORIGINAL-MODELS.tar.gz"
+hash = "3c435af3161f12ae25dcde55c16b24af19cc5cc84c7dd8521f186780afc29376"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/gltf/guns/projectvirulence.shotgun.glb"
+hash = "cc5b51788815a9dc927202babcffba089c187bfb4e85e203cb4a1b6712fc2a8e"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/lang/en_US.lang"
+hash = "8244ab67b172181aaacca890346c82c82dccf90c2a6843f2637b84194df9845d"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/models/item/projectvirulence.flash.json"
+hash = "ad28e275648a0eba9e8bc52a58d9e0052a76d4654e6e0d20a8b293dcad5600c3"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/models/item/projectvirulence.item.shell.json"
+hash = "67c3755f4b4b0be6ead27eab5fc0c3f578440389cb8919eb3c2e7b3edfc13836"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/models/item/projectvirulence.item.shotgun.json"
+hash = "e1765156cea5cf3ec173a7315a880a981d8bfed0acbabc208a3be466d39e1dee"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/models/item/projectvirulence.shell.json"
+hash = "3c2e50adbe29f055ebce57fdf1db712966b009a3a5f0c32a644fc8a26133efd5"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/models/item/projectvirulence.shotgun.json"
+hash = "bf714eceff64f3a279ebe501fbeaaa0f037b8ee9091b4deb7c6a91209f9e9a7a"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/models/item/tcp.12gslug.json"
+hash = "af89dc52200909d8e1d7a2185d825560e3b03a5336732d65e3f495ce1266766c"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/skins/bullets/projectvirulence.shell.png"
+hash = "885a8e1d2d4eff207bfb9899db5f439ee4a17e82c4781a4000eb7417bb0ff2c0"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/skins/guns/projectvirulence.shotgun.png"
+hash = "5341057041fac821465f0aa3afc21d0ec8432611b559a566ebc01e9dddabd519"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/sounds.json"
+hash = "51fe81e8e9290f2d4f5441389a519e9be0f4011487d72febcb1e5c165365d6ba"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/sounds/projectvirulence.shotgun.distant_fire.ogg"
+hash = "27449434ab2ce2a6bc6729cc7d38021c54867685ed5542670c609107573abf68"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/sounds/projectvirulence.shotgun.fire.ogg"
+hash = "1e531af3544bc6af3f9820700cfd33637897cc026e43113476c1a847c70e5d5f"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/sounds/projectvirulence.shotgun.load.ogg"
+hash = "ec54ee648675c52268d713f213fa99c92ff30686a47bff367396b53a91d2d09b"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/textures/flash/projectvirulence.flash.png"
+hash = "214e6c065aca05814c2022b1d7b417ed7bb07cb47670e0edbec7ad626c648fa3"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/textures/items/bullets/projectvirulence.item.shell.png"
+hash = "3a8b62371172a39db12bfb026d13e4753df0084d8f54e4e19ac10d10b3b4ebc4"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/assets/modularwarfare/textures/items/guns/projectvirulence.item.shotgun.png"
+hash = "f23511f8403d55946710cf8cd6af3d885321e09c2de1d0491c70de6869427800"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/bullets/projectvirulence.item.shell.json"
+hash = "82f59a988f0586bc883631f420a96879984404ae44de076dc796702094d2b331"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/bullets/render/projectvirulence.item.shell.render.json"
+hash = "8956f64ece236a75c631817471eabd927c8e9193a4eb5451145490ee20912733"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/guns/projectvirulence.item.shotgun.json"
+hash = "baf86b8f14f446d558f00f05f445386db368b0e736e8d41e10db6b020b9fc1fe"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/guns/render/projectvirulence.item.shotgun.render.json"
+hash = "c9ace1eb2292d894e891a6e44915257568842bee7d331d8e3e90edd26a820338"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/obj/bullets/projectvirulence.shell_bullet.obj"
+hash = "5bb39d282114f3a20ba424572d43a084a128954bc6f19ba01b62b6215ebfd07a"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/obj/shells/projectvirulence.shell.mtl"
+hash = "857460fee9bd109d6dd1ce2f1f772e5e815fa6143e29c49f226054d03cdc82bb"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/obj/shells/projectvirulence.shell.obj"
+hash = "c81592e7e30811e7916edb3f3d23379badac65353f2219cad72a1e593572854a"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/textures/projectvirulence.flash.json"
+hash = "82700a0ecaf00e962af3143b112da99e1426c66fe73953dfa5a9e5982907c369"
+
+[[files]]
+file = "ModularWarfare/projectvirulence-mw-contentpack/textures/render/projectvirulence.flash.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "README.md"
 hash = "6d407d4f84ac3f773e3f7ea7b1ee5c4c09de1fd276c2a150bf1e1e87b64d2379"
 
@@ -430,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "f290452a923c2bd5ba182d29a5b9bcc6ce55bcba6d7fffccafeef36621cdc9ea"
+hash = "509f3cd899a8ba40980c5949d89a7dc2a3eb9750ba56eea30fa2945b2bcdaf1e"
 metafile = true
 
 [[files]]
@@ -450,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "4fb7b65345723a063af6e24820d526b55a4b139d86db7e457ba6b09a91d412af"
+hash = "70759abbdb05106115c1895a0267bd33057124d9fab070912bd2ac87dc12c1c6"
 metafile = true
 
 [[files]]
@@ -649,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "b07d678c6017cde024507e85f58834d3792eb459f34738712b600989dae43f1b"
+hash = "0bbd56c4f418879822adada922a27776c2a5fc463c1e12e727f55c007c7b2391"
 metafile = true
 
 [[files]]
@@ -737,34 +845,6 @@ hash = "2cd9f46552914bffc7bc1b7e641f0c369dd35701d5c84c3f17cdd3c4c934502b"
 [[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/models/block/lit_furnace.json"
 hash = "e64fca424473c986219c607bb268e7b323d48dca796aa2c9461292055bb8f44d"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep1.ogg"
-hash = "6922def789decd2daab7e879a9fe70d263d69d1853ca533c652164de69f1496d"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep2.ogg"
-hash = "796aae63969c60eb7b14d1a0226b46798ad165fc0f6fe5469c95c624de6f1a28"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep3.ogg"
-hash = "8cca78e2b36c3d58c160cdd1efa9dfec7bd0847ccdfbe5d024ae3b5c9e38cca7"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep4.ogg"
-hash = "c08d8796a978f3ad98880121164adba1406e02a23a55d593c74d56dd4f49988e"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep5.ogg"
-hash = "dea109bc1532baaf5c10c77d7dadfbde2c3a639c081c78f69619f7fb08b1c601"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep6.ogg"
-hash = "7d9477f0299ded9b6b2fb68e703ec58ab2b5826c9633ff5265d5782bc51f88a5"
-
-[[files]]
-file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/sounds/entity/player/attack/sweep7.ogg"
-hash = "b0132a33648940ccdb6d2b45b8e5ee13497b91f36ad5432c8d9645a1e6ddb5b9"
 
 [[files]]
 file = "resourcepacks/Project Virulence Tweaks/assets/minecraft/textures/blocks/coal_ore.png.mcmeta"
