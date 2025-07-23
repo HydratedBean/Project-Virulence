@@ -1,0 +1,13 @@
+name = "JSON Paintings"
+filename = "JSON-Paintings-v1.4.0-mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L55Wy0Fz/versions/iA5iBBLV/JSON-Paintings-v1.4.0-mc1.12.2.jar"
+hash-format = "sha512"
+hash = "75c3cc345241626a53ab4b15104b7bde748f4c20fdbd597ce636878cb3420ad8a25590a4fffa88d04bd0e40d54a89dc96c00aa218247a500562aac3e96e3d03f"
+
+[update]
+[update.modrinth]
+mod-id = "L55Wy0Fz"
+version = "iA5iBBLV"

@@ -12,12 +12,20 @@ recipes.removeByRecipeName("minecraft:wooden_axe");
 recipes.removeByRecipeName("minecraft:wooden_shovel");
 recipes.removeByRecipeName("minecraft:wooden_hoe");
 recipes.removeByRecipeName("minecraft:stone_axe");
+mods.jei.JEI.removeAndHide(<minecraft:wooden_sword>);
+mods.jei.JEI.removeAndHide(<minecraft:wooden_pickaxe>);
+mods.jei.JEI.removeAndHide(<minecraft:wooden_axe>);
+mods.jei.JEI.removeAndHide(<minecraft:wooden_shovel>);
+mods.jei.JEI.removeAndHide(<minecraft:wooden_hoe>);
 
 # Item
 recipes.removeByRecipeName("minecraft:brick");
 furnace.remove(<minecraft:brick>);
 
-# Crafting Table
+
+##################
+# CRAFTING TABLE #
+##################
 recipes.addShapedMirrored("furnace", <minecraft:furnace>,
    [[<minecraft:brick>, <minecraft:brick>, <minecraft:brick>],
     [<minecraft:brick>, <pyrotech:kiln_pit>, <minecraft:brick>],
@@ -50,7 +58,9 @@ recipes.addShapeless("sticks_from_bark_5", <minecraft:stick> * 4, [<betterwithmo
 recipes.addShapeless("sticks_from_bark_6", <minecraft:stick> * 4, [<betterwithmods:bark:6>]);
 
 
-# Furnace
+###########
+# FURNACE #
+###########
 furnace.addRecipe(<minecraft:brick>, <betterwithmods:unfired_pottery:4>);
 furnace.addRecipe(<pyrotech:material:13>, <pyrotech:material:12>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:0>);

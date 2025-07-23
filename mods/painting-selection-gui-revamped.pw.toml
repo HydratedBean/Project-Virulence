@@ -1,0 +1,13 @@
+name = "Painting Selection Gui Revamped[DEAD] (is now called PAINTINGS++)"
+filename = "paintingselgui-PSG Revamed-1.12.2-1.1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2361fee3855e1841ab17373cbe7e4c9c583d43cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2524727
+project-id = 252043
