@@ -32,13 +32,13 @@ recipes.addShapedMirrored("furnace", <minecraft:furnace>,
     [<minecraft:brick>, <minecraft:brick>, <minecraft:brick>]]);
 
 recipes.addShapedMirrored("stone_sword", <minecraft:stone_sword>,
-   [[<ore:cobblestone>],
-    [<ore:cobblestone>],
+   [[<ore:rock>],
+    [<ore:rock>],
     [<ore:stickWood>]]);
 
 recipes.addShapedMirrored("stone_axe", <minecraft:stone_axe>,
-   [[<ore:rock>, <ore:rock>],
-   [<ore:stickWood>, <pyrotech:material:12>]]);
+   [[<ore:rock>, <pyrotech:material:12>],
+   [<ore:rock>, <ore:stickWood>]]);
 
 recipes.replaceAllOccurences(<ore:cobblestone>, <ore:rock>, <minecraft:stone_pickaxe>);
 
@@ -48,6 +48,14 @@ recipes.addShapedMirrored("stone_hoe", <minecraft:stone_hoe>,
   [[<ore:rock>, <ore:rock>],
    [null, <ore:stickWood>],
    [null, <ore:stickWood>]]);
+
+recipes.addShapedMirrored("cobblestone_from_rocks", <minecraft:cobblestone>,
+   [[<pyrotech:rock:0>, <pyrotech:rock:0>],
+   [<pyrotech:rock:0>, <pyrotech:rock:0>]]);
+
+recipes.addShapedMirrored("sandstone_from_rocks", <minecraft:sandstone>,
+   [[<pyrotech:rock:6>, <pyrotech:rock:6>],
+   [<pyrotech:rock:6>, <pyrotech:rock:6>]]);
 
 recipes.addShapeless("sticks_from_bark_0", <minecraft:stick> * 4, [<betterwithmods:bark:0>]);
 recipes.addShapeless("sticks_from_bark_1", <minecraft:stick> * 4, [<betterwithmods:bark:1>]);

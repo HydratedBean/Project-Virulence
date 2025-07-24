@@ -1,4 +1,4 @@
-![Project Virulence](resources/projectvirulence/title_cropped.png)\
+![Project Virulence](images/title_cropped.png)\
 Project Virulence is a modpack that focuses on making minecraft a more challenging and rewarding experience
 ## Features
 ### Implemented
@@ -16,7 +16,7 @@ Project Virulence is a modpack that focuses on making minecraft a more challengi
 
 ### Planned
 - Furnace upgrades that smelt ores more efficiently and yield more than a single nugget.
-- Enchanting rework with craftable enchantments (one proof-of-concept recipe can be found in artisanworktables.zs)
+- Enchanting rework with craftable enchantments
 
 # Installation
 ## Prism Launcher
@@ -56,3 +56,6 @@ These steps are specifically for Prism Launcher. If Prism Launcher is the recomm
 10. Cleanroom Relauncher will open before the game can launch. Autodetect your `Java 24` install
 11. Under the `Java Arguments` section replace `-Xmx4g -Xms4g` with `-Xmx4g -Xms512m`
 12. Continue with launch.
+
+<h2>🔥 Join the 1.12 Coalition! 🔥</h2>
+<p style="font-style: italic; color: #666;"><a href="https://discord.gg/urdscFmnmm" target="_blank" rel="nofollow noopener noreferrer"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/CalaMariGold/Modernized-1.12/refs/heads/main/1.12 Coalition Assets/phoenixlogo2x1textlarge.png" alt="The 1.12 Modding Coalition Banner" width="1486" height="743" /></a></p>

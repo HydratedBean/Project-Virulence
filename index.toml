@@ -117,20 +117,24 @@ file = "ModularWarfare/projectvirulence-mw-contentpack/textures/render/projectvi
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "README.md"
-hash = "6d407d4f84ac3f773e3f7ea7b1ee5c4c09de1fd276c2a150bf1e1e87b64d2379"
-
-[[files]]
 file = "config/CustomMainMenu/mainmenu.json"
 hash = "53ae6f11e696eeb57ef8bd838d29168ce687c1ca5aa0101b98b4bd3271abbf23"
 
 [[files]]
+file = "config/Special_AI.cfg"
+hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
-hash = "2f1dd5508ed7a37b37182b42d7eb304be46dc3fc36a76ee07342d701b027c875"
+hash = "ac3422effa17e4f093ac90034343bb3ce04ad4e1e6daf9a281fa6d4110a9279f"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "d7e7d658f0e25d5c1c6e40a8cb49945f6ddf2e891965653d618cc3c5dc828351"
+hash = "502c5711279f7597eb200bad134c32dd74b561de62dfcb8c68bf139fe7ffd4b9"
+
+[[files]]
+file = "config/bloodmoon.cfg"
+hash = "a905af96a4a0bd815671eb3f5ccc00410bfa62ad6c0c6ca640e0e66454f64c7e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -182,7 +186,7 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/materialchanger.cfg"
-hash = "a670740ea73be587ea5df83e99efa604214a83dce3a229f3b228ad55819c60ee"
+hash = "a79a72bee0eb849bf1dbedc2f93c4ee5388640c1cf6ad793137fdc8dab65cdd2"
 
 [[files]]
 file = "config/mobsunscreen.cfg"
@@ -342,7 +346,7 @@ hash = "eccd5878264e620d1c3779c04a4a1fd4ac2af94910c7e09c3dbee3c549c964db"
 
 [[files]]
 file = "config/rotm.cfg"
-hash = "e17f81f4ed6bf814e13611d15bc2aeb8b2d4a8ac5bd161e582e3746ac8db1b9b"
+hash = "dd3fa9bd4061e1179f9e53441aadd75cfe73a76176aff42c48678ef2abb16bd3"
 
 [[files]]
 file = "config/sereneseasons/cropfertility.cfg"
@@ -425,8 +429,8 @@ hash = "a4cd331969ff23c1c7fe42c126c41541f407c9f5aa71613cfbe2bea6a269f80f"
 metafile = true
 
 [[files]]
-file = "mods/artisan-worktables.pw.toml"
-hash = "965f19dd965ecabbf07d64e75dfc29d7b298adc2c3799fb30e9a2bd9a286226a"
+file = "mods/archers-are-cowards.pw.toml"
+hash = "d83a3d5c37466d76e658b83e447b69a6bb6f6893f0cb8983fe25996f330e56a1"
 metafile = true
 
 [[files]]
@@ -509,6 +513,11 @@ hash = "0d88899bf3170d49b241f3623d8cd9e02f01abe83756e7100f66846478611de9"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "e441be9e3ccf2454b4ff4ebb2167080501e470b467a6500cd5498f002c1bc383"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-darkness.pw.toml"
 hash = "d8b8ce06a68e37306a98e4856641bbde63e11316b56819dcb2601ebf176261e1"
 metafile = true
@@ -576,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/hardcore-buoyance.pw.toml"
 hash = "19875ab7dbdaf0a21062942d18f2eb64a3291022924e3a9407591aaf0d62ecb1"
-metafile = true
-
-[[files]]
-file = "mods/hwyla.pw.toml"
-hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
 metafile = true
 
 [[files]]
@@ -754,6 +758,11 @@ hash = "d3e9ba33bf37c54871c8d7afe5a2415630af8a6b75fd4c6499b766a1a773d618"
 metafile = true
 
 [[files]]
+file = "mods/special-ai.pw.toml"
+hash = "cbfd3a6cfa140c254375d1085337b7761a6333c7e91c70abf03bb1e21a9d4451"
+metafile = true
+
+[[files]]
 file = "mods/splash-logo-color-fix.pw.toml"
 hash = "109387ca95c52d39f3fe7353ca747adad46ee58da302251f24e6d71adf28d02b"
 metafile = true
@@ -774,6 +783,11 @@ hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ff5a7d6fe7c70f7db36e33ceefc6936b382a572c35c9f6efc21c4cccbaaea362"
+metafile = true
+
+[[files]]
 file = "mods/tabulator.pw.toml"
 hash = "634b035a4ea90cc7a146d849330d1f5ea4f47e28ddc7e27297b0d83405c60155"
 metafile = true
@@ -791,11 +805,6 @@ metafile = true
 [[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "b016a6133e902eccc5327267ec34b466394b488c9a90de41c6d6edb83e233241"
-metafile = true
-
-[[files]]
-file = "mods/wawla.pw.toml"
-hash = "d808789ad05736d26ee79aadd1dc95a83670af06d618bf0b7a665f1da6ce38de"
 metafile = true
 
 [[files]]
@@ -1046,6 +1055,10 @@ file = "oresources/minecraft/textures/gui/widgets.png"
 hash = "c6acd8a7132cdc1aea351b30965634dd91b6fbf9c4fb704c3ca8b0e6beed6062"
 
 [[files]]
+file = "oresources/minecraft/textures/items/elytra.png"
+hash = "878c0717dba1e8ddbf7bebdb148f1d9ccdecf0e21abf88824447f12ee5cd5e47"
+
+[[files]]
 file = "oresources/minecraft/textures/misc/shadow.png"
 hash = "2288d82b71fa005a3425f11d6d82d43d55f133ee8b6aab922f6700fb7fc319d2"
 
@@ -1151,24 +1164,28 @@ file = "resources/projectvirulence/title.png"
 hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
 
 [[files]]
-file = "resources/projectvirulence/title_cropped.png"
-hash = "6decad35329945ecb7b1324847eda0a0a8db91004932ca23fc05f9ec3bdf0239"
-
-[[files]]
-file = "scripts/artisanworktables.zs"
-hash = "b15347b2a1e95dce6ead0255e302c49baeb37e7ec728eb8bb4ccac413c59be13"
-
-[[files]]
 file = "scripts/minecraft.zs"
-hash = "a34ebb5d7c3a8e146f0415bb2db2cb6d62ec36b84cfc516342bb3bbbe2455346"
+hash = "95626359b259a57c028a592d71e353ed146bbaf8bdce67509b301fc18aaab514"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech.zs"
-hash = "75ddd808133ce88fbe49a3ed60f8c914b2abf57c282e0b79ccceac5c0183610d"
+hash = "e2161d775c16a74046deee0ae4e25bee17ab78c3348b6727e15fa0db5d899dd3"
+
+[[files]]
+file = "scripts/pyrotech/pyrotech_pitkiln"
+hash = "a6cce9a1cae19e75d628490488453e8204a27051b36fefe0d153bc34261ae016"
+
+[[files]]
+file = "scripts/quark.zs"
+hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
-hash = "83166ad1f45f13f56d1c9bf2f471048ddda7619338467e53cd2c189b3d0bd711"
+hash = "cfb47f94065bb1a67b8481d29dc1a1e28e5732b6e32fd284e7a6b62f44c41933"
+
+[[files]]
+file = "scripts/spartanweaponry/stone.zs"
+hash = "4dd9ba500c7afadf5e7d47efe636eddde6f63eb90907a935e5707c81b6011304"
 
 [[files]]
 file = "scripts/tabulator.zs"
