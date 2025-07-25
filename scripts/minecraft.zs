@@ -55,9 +55,13 @@ recipes.addShapedMirrored("cobblestone_from_rocks", <minecraft:cobblestone>,
    [[<pyrotech:rock:0>, <pyrotech:rock:0>],
    [<pyrotech:rock:0>, <pyrotech:rock:0>]]);
 
+recipes.addShapeless("rocks_from_cobblestone", <pyrotech:rock:0> * 4, [<minecraft:cobblestone>]);
+
 recipes.addShapedMirrored("sandstone_from_rocks", <minecraft:sandstone>,
    [[<pyrotech:rock:6>, <pyrotech:rock:6>],
    [<pyrotech:rock:6>, <pyrotech:rock:6>]]);
+
+recipes.addShapeless("rocks_from_sandstone", <pyrotech:rock:6> * 4, [<minecraft:sandstone>]);
 
 recipes.addShapeless("sticks_from_bark", <minecraft:stick> * 4, [<ore:barkWood>]);
 

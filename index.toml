@@ -1207,7 +1207,7 @@ hash = "07e15b5642842cc111f0aa6c00a0e79c1364dad8afdd50787e18c95c798feb2c"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "c4718c2aed4a348a429a06b5c76725fbcd5160ec02db473c195ad1fa27aae644"
+hash = "286997e3e8f07d29764425a2f02e24c86799fe78bccc03c37f0e36658e512643"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"
