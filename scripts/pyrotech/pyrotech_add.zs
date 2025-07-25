@@ -40,11 +40,20 @@ recipes.replaceAllOccurences(<pyrotech:material:43>, <betterwithmods:material:8>
 recipes.replaceAllOccurences(<pyrotech:material:44>, <betterwithmods:material:9>);
 recipes.replaceAllOccurences(<pyrotech:material:20>, <ore:plankWood>);
 recipes.replaceAllOccurences(<pyrotech:material:23>, <ore:plankWood>);
+recipes.replaceAllOccurences(<pyrotech:material:26>, <pyrotech:material:14>);
 
 recipes.addShapeless("refractory_brick_from_clay", <pyrotech:material:9>, [<pyrotech:material:4>]);
 recipes.addShapeless("flint_clay", <pyrotech:material:3>, [<minecraft:clay_ball>, <pyrotech:material:31>]);
 recipes.addShapeless("flint_shards_from_flint", <pyrotech:material:10> * 4, [<minecraft:flint>]);
 recipes.addShapeless("blasting_clay", <pyrotech:material:54> * 8, [<minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:gravel>]);
+
+recipes.addShapedMirrored("drying_rack", <pyrotech:drying_rack:1>,
+   [[null, <minecraft:ladder>, null],
+   [<minecraft:ladder>, null, <minecraft:ladder>]]);
+
+recipes.addShapedMirrored("stone_rod", <pyrotech:material:27>,
+   [[<pyrotech:material:16>],
+   [<pyrotech:material:16>]]);
 
 recipes.addShapedMirrored("cobbled_granite_from_rocks", <pyrotech:cobblestone:2>,
    [[<pyrotech:rock:1>, <pyrotech:rock:1>],

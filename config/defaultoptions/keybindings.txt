@@ -31,12 +31,15 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
-key_quark.keybind.toggleAutojump:48:NONE
+key_quark.keybind.toggleAutojump:0:NONE
+key_key.spartanweaponry.access_quiver:23:NONE
 key_treechop.key.toggle_chopping:0:NONE
 key_treechop.key.toggle_felling:0:NONE
 key_treechop.key.cycle_sneak_behavior:0:NONE
 key_treechop.key.open_settings_overlay:0:NONE
-key_key.pickup.item:0:NONE
+key_dshuds.keybind.SelectionBox:0:NONE
+key_dshuds.keybind.LightLevel:0:NONE
+key_dshuds.keybind.ChunkBorders:0:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -55,6 +58,19 @@ key_waila.keybind.wailadisplay:79:NONE
 key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
+key_Reload Gun:19:NONE
+key_Reload Client:67:NONE
+key_Fire Mode:47:NONE
+key_Inspect:35:NONE
+key_Unload Key:22:NONE
+key_Attachment Mode:50:NONE
+key_Flashlight:0:NONE
+key_Open Inventory:0:NONE
+key_Left (Attach mode):203:NONE
+key_Right (Attach mode):205:NONE
+key_Up (Attach mode):200:NONE
+key_Down (Attach mode):208:NONE
+key_Debug Mode:68:NONE
 key_key.nutrition:49:NONE
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_key.sort_config:37:NONE

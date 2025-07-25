@@ -138,7 +138,7 @@ hash = "a905af96a4a0bd815671eb3f5ccc00410bfa62ad6c0c6ca640e0e66454f64c7e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "8633edd5a62d263900ebe2afaff54d30c28e4a2281589455dbab3cf687b6464a"
+hash = "8da15fab3a3e1cdf77f5703bebb6237311b1007e3824abeffa6d6bfd2621683a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -190,7 +190,7 @@ hash = "85600d199001b191af076a173bc9e6fe9095027a6c9486e108123b38eb6a55d1"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "f682147c97d6e95f1869afb980c55c8c779814c419cf666997f0ca2b4b960bdd"
+hash = "8501d1b99726cb953262c6abb4dd4a9585aab6d38afb6e88f737cff9670631fa"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -1202,32 +1202,36 @@ file = "resources/projectvirulence/title.png"
 hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
 
 [[files]]
-file = "scripts/betterwithmods.zs"
+file = "scripts/betterwithmods/bwm_mill_stone.zs"
 hash = "07e15b5642842cc111f0aa6c00a0e79c1364dad8afdd50787e18c95c798feb2c"
 
 [[files]]
+file = "scripts/betterwithmods/bwm_stoked_kiln.zs"
+hash = "5ee02076657fc088ffa0f1e8099fcdb4dfc33d730ed26d25a271b8892647c180"
+
+[[files]]
 file = "scripts/minecraft.zs"
-hash = "286997e3e8f07d29764425a2f02e24c86799fe78bccc03c37f0e36658e512643"
+hash = "a08c890fb17fe698a4456ac0629b0e0e95c8edc511abf81f1d03f5ace5903259"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"
-hash = "a50a1441824ebdec0558d4be93064c8dbf7f9435d28010bc10f5d3662f00e10a"
+hash = "ff659f4aed0e1af00856b0571e78df343c7025ed4dd97fdbbdb978a93f31a678"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_pit_kiln.zs"
-hash = "e7c95879dfb67d9206db77056bf5f8d760cdcac6fdd5008d767a0c025f044045"
+hash = "364268617806dadcb7690cc300120d15eaa5d82fbbf5c1c1c36a53d3da82728f"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_refractory_kiln.zs"
-hash = "2f28977662733a79275266b9c5ac2f37f5d9bde63b7e2cea1232b973b1e02f62"
+hash = "7050aeb3d6cc1aa0bd832018bc61a23343a61d314276eb1045cf7b05c21b47ab"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_remove.zs"
-hash = "9ce87de61e20ff44c18e6999eea4e302e28ed32b55483beea07f7440ce668467"
+hash = "dc42d5bc42061a488d41daff12737f6800e138af0a1442d4fb62b6537af64547"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_stone_kiln.zs"
-hash = "b6c25acac4be9aa1916e0d59ad61eb6b24241ad66029f7d99f3c72d8ebd221a3"
+hash = "c5d7a0d3b89adde2dc7df05d218ad896c567d313536af6e2d66a60b00a88e782"
 
 [[files]]
 file = "scripts/quark.zs"

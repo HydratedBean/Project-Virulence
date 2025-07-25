@@ -36,7 +36,3 @@ PitKiln.removeAllRecipes();
 PitKiln.addRecipe("brick", <minecraft:brick>,
     <betterwithmods:unfired_pottery:4>,
     5 * 60 * 20);
-
-PitKiln.addRecipe("masonry_brick", <pyrotech:material:16>,
-    <pyrotech:material:54>,
-    5 * 60 * 20);

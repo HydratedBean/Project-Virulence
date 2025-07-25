@@ -14,13 +14,12 @@ recipes.removeByRecipeName("minecraft:wooden_hoe");
 recipes.removeByRecipeName("minecraft:stone_axe");
 recipes.removeByRecipeName("minecraft:cake");
 recipes.removeByRecipeName("minecraft:bread");
+recipes.removeByRecipeName("minecraft:cookie");
 mods.jei.JEI.removeAndHide(<minecraft:wooden_sword>);
 mods.jei.JEI.removeAndHide(<minecraft:wooden_pickaxe>);
 mods.jei.JEI.removeAndHide(<minecraft:wooden_axe>);
 mods.jei.JEI.removeAndHide(<minecraft:wooden_shovel>);
 mods.jei.JEI.removeAndHide(<minecraft:wooden_hoe>);
-
-# Item
 recipes.removeByRecipeName("minecraft:brick");
 furnace.remove(<minecraft:brick>);
 
@@ -54,6 +53,9 @@ recipes.addShapedMirrored("stone_hoe", <minecraft:stone_hoe>,
 recipes.addShapedMirrored("cobblestone_from_rocks", <minecraft:cobblestone>,
    [[<pyrotech:rock:0>, <pyrotech:rock:0>],
    [<pyrotech:rock:0>, <pyrotech:rock:0>]]);
+
+recipes.addShapedMirrored("brick_slabs", <minecraft:stone_slab:4>,
+   [[<minecraft:brick>, <minecraft:brick>]]);
 
 recipes.addShapeless("rocks_from_cobblestone", <pyrotech:rock:0> * 4, [<minecraft:cobblestone>]);
 

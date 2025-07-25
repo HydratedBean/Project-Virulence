@@ -41,6 +41,10 @@ StoneKiln.addRecipe("masonry_brick_from_stone_kiln", <pyrotech:material:16>,
     <pyrotech:material:54>,
     2 * 60 * 20);
 
+StoneKiln.addRecipe("refractory_brick_from_stone_kiln", <pyrotech:material:5>,
+    <pyrotech:material:9>,
+    4 * 60 * 20);
+
 StoneKiln.addRecipe("iron_from_stone_kiln",
     <minecraft:iron_nugget> * 4,
     <ore:oreIron>, 5 * 60 * 20);
