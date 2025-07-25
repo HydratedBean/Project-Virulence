@@ -890,11 +890,15 @@ hash = "2cc9d9159ae207affecc097690b31b821cd42eaa89b52ef73030ba8d680a9ce4"
 
 [[files]]
 file = "oresources/minecraft/models/block/furnace.json"
-hash = "2cd9f46552914bffc7bc1b7e641f0c369dd35701d5c84c3f17cdd3c4c934502b"
+hash = "a8d26878a2e564379b3359ca2864d1f1329e2485a31aa42363a8352fbf350b4a"
 
 [[files]]
 file = "oresources/minecraft/models/block/lit_furnace.json"
-hash = "e64fca424473c986219c607bb268e7b323d48dca796aa2c9461292055bb8f44d"
+hash = "478f030696d5b99383fd68d2ea7ac1314a2fb83e70e5d08d04412d742a72595a"
+
+[[files]]
+file = "oresources/minecraft/textures/blocks/brick_furnace_grate.png"
+hash = "1e7da28bb60a281258936e1a771f9e489ba77bb57c8a24559e0b5038030fee74"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/coal_ore.png.mcmeta"
@@ -931,10 +935,6 @@ hash = "03b156eec8592b1712a63d16cf8fd017f454a4ad8da714e3f00e8d731b22f4d8"
 [[files]]
 file = "oresources/minecraft/textures/blocks/emerald_ore_2.png"
 hash = "957f2fc28824a6fde344b13e96c68479d1dfd7bec99845c036ad37b9cc109223"
-
-[[files]]
-file = "oresources/minecraft/textures/blocks/furnace.png"
-hash = "1b5e25c928a204fe7b90ac416cbde7bcfc8549ff74cefc75feef603a3988224d"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/gold_ore.png.mcmeta"
