@@ -1,0 +1,13 @@
+name = "Cine-Ghast"
+filename = "Cine-Ghast.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7c1d5b590eb95663817125d8171dd3f2eb1f5df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5370938
+project-id = 1024699

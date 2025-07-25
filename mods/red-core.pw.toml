@@ -1,13 +1,13 @@
 name = "Red Core"
-filename = "!Red-Core-MC-1.8-1.12-0.6-Dev-8.jar"
+filename = "!Red-Core-MC-1.8-1.12-0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "75a26e40a2a15d43a46798e101aee02825f6361f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iRzbJEus/versions/SWvZZBIP/%21Red-Core-MC-1.8-1.12-0.6.jar"
+hash-format = "sha512"
+hash = "5816b5afc3e0ff0b9df5ccfd99375d165eb16f40806c2bd65a378022f4bca8fc2022ce26ebb5ac4e2aecb8ef2634043af9764527fd0031e2543da4b079e7f8a7"
 
 [update]
-[update.curseforge]
-file-id = 5892019
-project-id = 873867
+[update.modrinth]
+mod-id = "iRzbJEus"
+version = "SWvZZBIP"

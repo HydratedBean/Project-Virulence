@@ -1,0 +1,5 @@
+{
+"projectvirulence.shotgun.fire": {"category": "player","sounds": [{"name": "modularwarfare:projectvirulence.shotgun.fire","stream": true}]},
+"projectvirulence.shotgun.distant_fire": {"category": "player","sounds": [{"name": "modularwarfare:projectvirulence.shotgun.distant_fire","stream": true}]},
+"projectvirulence.shotgun.load": {"category": "player","sounds": [{"name": "modularwarfare:projectvirulence.shotgun.load","stream": true}]}
+}

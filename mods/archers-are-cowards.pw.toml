@@ -1,0 +1,13 @@
+name = "Archers are Cowards"
+filename = "noarcher-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac4a91f052d41c87477b883351b7f646ba922979"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2999265
+project-id = 394325

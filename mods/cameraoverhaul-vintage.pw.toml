@@ -1,0 +1,13 @@
+name = "CameraOverhaul (Vintage)"
+filename = "vintagecam-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K2hCr1wS/versions/1fmMGzan/vintagecam-0.2.0.jar"
+hash-format = "sha512"
+hash = "e5eb751b84ab84e79c355b5c306854ff481e58766fc0489e49e90a12f4261ab1547862d5af84097f62e7c67473e4c0981b2cfa743a2e5af5befdb95122ad4d5d"
+
+[update]
+[update.modrinth]
+mod-id = "K2hCr1wS"
+version = "1fmMGzan"

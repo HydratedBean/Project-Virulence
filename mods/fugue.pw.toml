@@ -1,0 +1,13 @@
+name = "Fugue"
+filename = "+Fugue-0.19.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vylTACsh/versions/2eCcXsfT/%2BFugue-0.19.8.jar"
+hash-format = "sha512"
+hash = "10952ede2af376241528f1c099caed7687590fcd436827ce2de56d71886fe6f6a4e235263296cb64ef8d9b77b8455a2cd2a30f80d40b7b38b995555a0725222a"
+
+[update]
+[update.modrinth]
+mod-id = "vylTACsh"
+version = "2eCcXsfT"

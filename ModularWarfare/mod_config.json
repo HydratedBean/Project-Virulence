@@ -1,9 +1,9 @@
 {
   "general": {
     "customInventory": false,
-    "prototype_pack_extraction": true,
-    "animated_pack_extraction": true,
-    "modified_pack_server_kick": false,
+    "prototype_pack_extraction": false,
+    "animated_pack_extraction": false,
+    "modified_pack_server_kick": true,
     "drop_extra_slots_on_death": true
   },
   "shots": {
@@ -33,14 +33,14 @@
     ]
   },
   "drops": {
-    "advanced_drops_models": true,
+    "advanced_drops_models": false,
     "drops_despawn_time": 120,
     "advanced_drops_models_everything": false
   },
   "hud": {
     "hitmarkers": false,
-    "enable_crosshair": true,
-    "dynamic_crosshair": true,
+    "enable_crosshair": false,
+    "dynamic_crosshair": false,
     "ammo_count": true,
     "snap_fade_hit": false,
     "isDynamicFov": false,
@@ -57,7 +57,7 @@
     "despawn_time": 10
   },
   "killFeed": {
-    "enableKillFeed": true,
+    "enableKillFeed": false,
     "sendDefaultKillMessage": false,
     "messageDuration": 10,
     "messageList": [

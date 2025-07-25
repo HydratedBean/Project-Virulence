@@ -1,0 +1,13 @@
+name = "Scape and Run: Meshi"
+filename = "srpmeshi-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uzPypHse/versions/lfLQm0yE/srpmeshi-1.5.jar"
+hash-format = "sha512"
+hash = "ed0d8fd61807da5ffecec7f8cac6bca493f7eedde8b986d7b9da4496e809be5031c69919c06440220739f6b5052d8da787a12110e8b6b280b328c6236ffc46e7"
+
+[update]
+[update.modrinth]
+mod-id = "uzPypHse"
+version = "lfLQm0yE"

@@ -1,13 +1,13 @@
-name = "Alfheim Lighting Engine"
-filename = "Alfheim-1.5-Dev-4.jar"
+name = "Alfheim"
+filename = "Alfheim-1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f8e043eea7c125df7cec6113f4ea0fd5e6322a4d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/srzJgOEn/versions/CbatFFab/Alfheim-1.6.jar"
+hash-format = "sha512"
+hash = "0911b09fa949ac29d998437322e28fbc66f5230ed1de9d69c7d27dd44afb5aa864e108bfcacee8097069b3e47bc5891ce80f941f1d611872ed19b24ab41192a5"
 
 [update]
-[update.curseforge]
-file-id = 6003953
-project-id = 910715
+[update.modrinth]
+mod-id = "srzJgOEn"
+version = "CbatFFab"

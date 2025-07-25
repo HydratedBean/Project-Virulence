@@ -1,13 +1,13 @@
 name = "Modernity"
 filename = "Modernity-f3-3.10.2.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "58babf749ab21af4a9a7c7f77ddce91e430ebedb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rx58ZUPu/versions/qn52HWf6/Modernity-f3-3.10.2.zip"
+hash-format = "sha512"
+hash = "a277b17437de4b79acd750e3b2fb63ae24c22da2b285e9b6fca9bb299611b9e96926d5609620480e7a68939b34e8286021f407c46db8d723600a191dd7f138be"
 
 [update]
-[update.curseforge]
-file-id = 5789809
-project-id = 300317
+[update.modrinth]
+mod-id = "rx58ZUPu"
+version = "qn52HWf6"
