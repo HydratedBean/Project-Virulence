@@ -28,9 +28,9 @@ furnace.remove(<minecraft:brick>);
 # CRAFTING TABLE #
 ##################
 recipes.addShapedMirrored("furnace", <minecraft:furnace>,
-   [[<minecraft:brick>, <minecraft:brick>, <minecraft:brick>],
-    [<minecraft:brick>, <pyrotech:kiln_pit>, <minecraft:brick>],
-    [<minecraft:brick>, <minecraft:brick>, <minecraft:brick>]]);
+   [[<minecraft:stone_slab:4>, <minecraft:stone_slab:4>, <minecraft:stone_slab:4>],
+    [<minecraft:stone_slab:4>, <pyrotech:kiln_pit>, <minecraft:stone_slab:4>],
+    [<minecraft:stone_slab:4>, <minecraft:stone_slab:4>, <minecraft:stone_slab:4>]]);
 
 recipes.addShapedMirrored("stone_sword", <minecraft:stone_sword>,
    [[<ore:rock>],

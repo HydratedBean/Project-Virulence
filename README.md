@@ -1,25 +1,28 @@
 ![Project Virulence](images/title_cropped.png)\
-Project Virulence is a modpack that focuses on making minecraft a more challenging and rewarding experience
-## Features
-### Implemented
-- Wooden tools are skipped entirely, your first tool set is made of stone
-- Iron only smelts into nuggets in a furnace
-- Diamonds must be combined with creeper fuses and iron ingots in order to be usable in tools and armor
-- Coordinates in the F3 menu are disabled completely. You must hold a compass to see your coordinates
-- Hardcore hunger and nutrition
-- Players can't place blocks or fluids while airborne
-- Darkness kills players over time
-- Blood moons
-- Windmills, waterwheels, and other mechanical power that interacts with redstone
-- Combat tweaks
-- QOL features from 1.13+ backported
+(totaly didn't draw this logo in paint)
 
-### Planned
-- Furnace upgrades that smelt ores more efficiently and yield more than a single nugget.
-- Enchanting rework with craftable enchantments
+# FEATURES AND CHANGES
+- Wooden tools are skipped. Pick up some rocks, break up tree bark into sticks, and make stone tools.
+- Easier tree chopping
+- Swimming backported from 1.13
+- Faster and smarter mobs
+- New weapons to defend yourself with
+- Ability to use your offhand to attack
+- Numerous changed recipes
+- More challenging hunger system
+- Mechnical power
+- "Towering up" with blocks to escape mobs no longer works
+- Darker caves
+- Moon phases determine how dark night time is
+- Blood moons that increase monster spawn rates
+- Numerous changed crafting recipes to slow down progression
 
-# Installation
-## Prism Launcher
+# SCREENSHOTS
+![1](images/1.png)\
+![2](images/2.png)
+
+# INSTALLATION
+## PRISM LAUNCHER
 These steps are specifically for Prism Launcher. If Prism Launcher is the recommended method of installation, however if Prism Launcher or any of its dependencies do not funciton on your system, please see the **launcher agnostic** guide.
 1. Download and install **[Prism Launcher](https://prismlauncher.org)**, and follow the instructions for your operating system (Windows, Mac, Linux/Steam OS).
 2. Once **Prism Launcher** is installed and opened successfully, Pick your language, launcher theme, and cat picture.
@@ -41,7 +44,7 @@ These steps are specifically for Prism Launcher. If Prism Launcher is the recomm
 12. Choose ``Java 24`` and close settings
 13. You are now ready to ~~suffer~~ play! Hit **Launch** and "enjoy"
 
-## Launcher Agnostic
+## OTHER LAUNCHERS
 ***Should*** work on any launcher that supports running mods. Guide is much more vague since not all launchers are the same.
 
 1. Install [Java 24](https://www.azul.com/downloads/?package=jdk#zulu) to your system.
@@ -55,7 +58,9 @@ These steps are specifically for Prism Launcher. If Prism Launcher is the recomm
 9. Launch game.
 10. Cleanroom Relauncher will open before the game can launch. Autodetect your `Java 24` install
 11. Under the `Java Arguments` section replace `-Xmx4g -Xms4g` with `-Xmx4g -Xms512m`
-12. Continue with launch.
+12. Continue with launch. \
+
+server guide coming Soon™
 
 <h2>🔥 Join the 1.12 Coalition! 🔥</h2>
 <p style="font-style: italic; color: #666;"><a href="https://discord.gg/urdscFmnmm" target="_blank" rel="nofollow noopener noreferrer"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/CalaMariGold/Modernized-1.12/refs/heads/main/1.12 Coalition Assets/phoenixlogo2x1textlarge.png" alt="The 1.12 Modding Coalition Banner" width="1486" height="743" /></a></p>
