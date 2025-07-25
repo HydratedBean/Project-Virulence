@@ -1,7 +1,0 @@
-#######
-# ADD #
-#######
-# Brick
-PitKiln.addRecipe("brick", <minecraft:brick>,
-    <betterwithmods:unfired_pottery:4>, 1 * 60 * 20, 0.33,
-    [<pyrotech:material:6> * 2]);

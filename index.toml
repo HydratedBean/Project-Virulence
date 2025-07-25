@@ -130,7 +130,7 @@ hash = "ac3422effa17e4f093ac90034343bb3ce04ad4e1e6daf9a281fa6d4110a9279f"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "502c5711279f7597eb200bad134c32dd74b561de62dfcb8c68bf139fe7ffd4b9"
+hash = "6609db837d41051c3907831f88356f337ef47ed0f998ff02d451ecd817ddeb9f"
 
 [[files]]
 file = "config/bloodmoon.cfg"
@@ -183,6 +183,22 @@ hash = "b13e7389709ab1535e01a6addcb39fc7ab0bb60747d5d68a6ca7fcbb7e9ac395"
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
 hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "85600d199001b191af076a173bc9e6fe9095027a6c9486e108123b38eb6a55d1"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "f682147c97d6e95f1869afb980c55c8c779814c419cf666997f0ca2b4b960bdd"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "aa2d125660ad731dff9aec92c745a6947e204dba56ecc95d6907f1883d26ec33"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "5541b462c3a5ce2b8b12941aaa650a711d880359524436d305938c918d2b04de"
 
 [[files]]
 file = "config/materialchanger.cfg"
@@ -326,7 +342,7 @@ hash = "83d77a32cc97f1875635eb40b7fca9d008f9794b75079f0f8b24c7b82c573cc8"
 
 [[files]]
 file = "config/pyrotech/modules.cfg"
-hash = "fd990f4a238b72a769be6b68c0bdf11f0750fa7c8b77c270ee0f9e4071c68fe4"
+hash = "5007feb92e6455f376bde322f0b7d4384b9618f4e2625453e88818aa0f2c0bd9"
 
 [[files]]
 file = "config/pyrotech/patreon.cfg"
@@ -387,6 +403,18 @@ hash = "c323f26e4d621988df9d35624a9f8b0f457ee7733a3befcfa0239cfeaa85c625"
 [[files]]
 file = "config/vintagefix.properties"
 hash = "8e6fae79f9ef739a5f0bb40440d1b66b7c48fbb673c758e0f0e70cb76096332d"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "848b780f884a2b47fab859db663a8ea3b2ae0ee4384dac9b0a64ca80e85d67c6"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "77d1beb36fbc0fa1c2f342bc3d1fd6dc9f37db95a8b5b785548032b443f3bc2b"
 
 [[files]]
 file = "mods/aainfo.pw.toml"
@@ -484,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "7243df226f4079685bab9cfef4cdc80b3552ee746d610bca0be46bd01cd44291"
+hash = "c17788a4885a889d1657405611d4d5d5925389875cd3bf55c212fe35d0753dd6"
 metafile = true
 
 [[files]]
@@ -588,8 +616,18 @@ hash = "19875ab7dbdaf0a21062942d18f2eb64a3291022924e3a9407591aaf0d62ecb1"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.pw.toml"
+hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "51ad661a19c7cadd253de3dd4d33bc4ac89dbeef4b8ac9d78d0d9e7ab4ab24c1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
 metafile = true
 
 [[files]]
@@ -614,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/modtweaker.pw.toml"
-hash = "061c3882e2bef9107cdfb0f9cd160bf72a7e0aae4fa692f991a4dbdee92ee675"
+hash = "bb04dbefdc38cff1d0a015347bc8d9e0b2a6f8a347e1ad3e3ed5909bbc932777"
 metafile = true
 
 [[files]]
@@ -634,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtlib.pw.toml"
-hash = "ea5c0a24221e594a64813019076772ea46b3531127f998a9fb4143b17ac193d1"
+hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
@@ -916,11 +954,11 @@ hash = "417fbd6295a5bbf6193b8613c138e73933fa7cbf53a69c76f28d3a7b1704f9bf"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side.png"
-hash = "43f223a2f692fb86d44b1ed03f248fe8d7ee8bad9debc3ddb92c0b433d9cfb1f"
+hash = "c99700a526965855ea1457d4368ed29cdc5ab1860b8bb07f3710129bf9cef6b5"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side_overlay.png"
-hash = "0aa2f2a8455e31a3095606b2338365692ab7a26749606542051bc5f50907ebf1"
+hash = "af45a0b0edde6dc3f2851a29bccba2a9fb1923561854c021e5785ac5cd87e556"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side_snowed.png"
@@ -1164,16 +1202,32 @@ file = "resources/projectvirulence/title.png"
 hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
 
 [[files]]
+file = "scripts/betterwithmods.zs"
+hash = "07e15b5642842cc111f0aa6c00a0e79c1364dad8afdd50787e18c95c798feb2c"
+
+[[files]]
 file = "scripts/minecraft.zs"
-hash = "95626359b259a57c028a592d71e353ed146bbaf8bdce67509b301fc18aaab514"
+hash = "c4718c2aed4a348a429a06b5c76725fbcd5160ec02db473c195ad1fa27aae644"
 
 [[files]]
-file = "scripts/pyrotech/pyrotech.zs"
-hash = "e2161d775c16a74046deee0ae4e25bee17ab78c3348b6727e15fa0db5d899dd3"
+file = "scripts/pyrotech/pyrotech_add.zs"
+hash = "a50a1441824ebdec0558d4be93064c8dbf7f9435d28010bc10f5d3662f00e10a"
 
 [[files]]
-file = "scripts/pyrotech/pyrotech_pitkiln"
-hash = "a6cce9a1cae19e75d628490488453e8204a27051b36fefe0d153bc34261ae016"
+file = "scripts/pyrotech/pyrotech_pit_kiln.zs"
+hash = "e7c95879dfb67d9206db77056bf5f8d760cdcac6fdd5008d767a0c025f044045"
+
+[[files]]
+file = "scripts/pyrotech/pyrotech_refractory_kiln.zs"
+hash = "2f28977662733a79275266b9c5ac2f37f5d9bde63b7e2cea1232b973b1e02f62"
+
+[[files]]
+file = "scripts/pyrotech/pyrotech_remove.zs"
+hash = "9ce87de61e20ff44c18e6999eea4e302e28ed32b55483beea07f7440ce668467"
+
+[[files]]
+file = "scripts/pyrotech/pyrotech_stone_kiln.zs"
+hash = "b6c25acac4be9aa1916e0d59ad61eb6b24241ad66029f7d99f3c72d8ebd221a3"
 
 [[files]]
 file = "scripts/quark.zs"

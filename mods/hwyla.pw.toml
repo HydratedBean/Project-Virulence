@@ -1,0 +1,13 @@
+name = "Hwyla"
+filename = "Hwyla-1.8.26-B41_1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kr1RaEqy/versions/pgcAdhbb/Hwyla-1.8.26-B41_1.12.2.jar"
+hash-format = "sha512"
+hash = "a67144200a961d9786408244cd8639dbe3317346e95450a8eb8a904bf2bf41c2dcea402fd98b5a43e6791f1af017f34486e739ba0974545eb4c102c5835138e1"
+
+[update]
+[update.modrinth]
+mod-id = "kr1RaEqy"
+version = "pgcAdhbb"

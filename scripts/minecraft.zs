@@ -12,6 +12,8 @@ recipes.removeByRecipeName("minecraft:wooden_axe");
 recipes.removeByRecipeName("minecraft:wooden_shovel");
 recipes.removeByRecipeName("minecraft:wooden_hoe");
 recipes.removeByRecipeName("minecraft:stone_axe");
+recipes.removeByRecipeName("minecraft:cake");
+recipes.removeByRecipeName("minecraft:bread");
 mods.jei.JEI.removeAndHide(<minecraft:wooden_sword>);
 mods.jei.JEI.removeAndHide(<minecraft:wooden_pickaxe>);
 mods.jei.JEI.removeAndHide(<minecraft:wooden_axe>);
@@ -57,13 +59,7 @@ recipes.addShapedMirrored("sandstone_from_rocks", <minecraft:sandstone>,
    [[<pyrotech:rock:6>, <pyrotech:rock:6>],
    [<pyrotech:rock:6>, <pyrotech:rock:6>]]);
 
-recipes.addShapeless("sticks_from_bark_0", <minecraft:stick> * 4, [<betterwithmods:bark:0>]);
-recipes.addShapeless("sticks_from_bark_1", <minecraft:stick> * 4, [<betterwithmods:bark:1>]);
-recipes.addShapeless("sticks_from_bark_2", <minecraft:stick> * 4, [<betterwithmods:bark:2>]);
-recipes.addShapeless("sticks_from_bark_3", <minecraft:stick> * 4, [<betterwithmods:bark:3>]);
-recipes.addShapeless("sticks_from_bark_4", <minecraft:stick> * 4, [<betterwithmods:bark:4>]);
-recipes.addShapeless("sticks_from_bark_5", <minecraft:stick> * 4, [<betterwithmods:bark:5>]);
-recipes.addShapeless("sticks_from_bark_6", <minecraft:stick> * 4, [<betterwithmods:bark:6>]);
+recipes.addShapeless("sticks_from_bark", <minecraft:stick> * 4, [<ore:barkWood>]);
 
 
 ###########
@@ -77,7 +73,6 @@ furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:2>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:3>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:4>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:5>);
-
 
 # Brewing Stand
 brewing.addBrew(<minecraft:water_bucket>,
