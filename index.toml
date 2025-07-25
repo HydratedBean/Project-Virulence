@@ -890,15 +890,11 @@ hash = "2cc9d9159ae207affecc097690b31b821cd42eaa89b52ef73030ba8d680a9ce4"
 
 [[files]]
 file = "oresources/minecraft/models/block/furnace.json"
-hash = "a8d26878a2e564379b3359ca2864d1f1329e2485a31aa42363a8352fbf350b4a"
-
-[[files]]
-file = "oresources/minecraft/models/block/lit_furnace.bbmodel"
-hash = "ce5979a43131734ff8423217a3e2e23c8133c7eff6ffb626276f3211e1dab2c7"
+hash = "6cca5e70f7094c5c1b51b40694d8135fe6b8f45dc31745f9fcfca49bf5edd6c9"
 
 [[files]]
 file = "oresources/minecraft/models/block/lit_furnace.json"
-hash = "6128cfae49fa0de14927286e7caba9767c211d73491b8291741ac771da7883ff"
+hash = "c5c9813830dd5fad87d6f5e274ac3c7c4dc47ef769442292cf95bde456423716"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/brick_furnace_grate.png"
