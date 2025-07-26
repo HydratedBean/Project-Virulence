@@ -1,0 +1,2 @@
+recipes.replaceAllOccurences(<betterwithmods:raw_pastry:3>, <pyrotech:material:50>, <betterwithmods:raw_pastry:4>);
+recipes.replaceAllOccurences(<betterwithmods:raw_pastry:3>, <pyrotech:material:50>, <betterwithmods:raw_pastry:1>);
