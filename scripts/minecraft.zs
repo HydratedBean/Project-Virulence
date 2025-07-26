@@ -79,6 +79,7 @@ furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:2>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:3>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:4>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:5>);
+furnace.addRecipe(<pyrotech:material:16>, <pyrotech:material:54>);
 
 # Brewing Stand
 brewing.addBrew(<minecraft:water_bucket>,

@@ -130,7 +130,7 @@ hash = "ac3422effa17e4f093ac90034343bb3ce04ad4e1e6daf9a281fa6d4110a9279f"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "6609db837d41051c3907831f88356f337ef47ed0f998ff02d451ecd817ddeb9f"
+hash = "067f42323b4356497a53ad3177ec114a3acec80714aa4ddb805b5708eeb92b97"
 
 [[files]]
 file = "config/bloodmoon.cfg"
@@ -1211,7 +1211,7 @@ hash = "5ee02076657fc088ffa0f1e8099fcdb4dfc33d730ed26d25a271b8892647c180"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "c650bd3854a6a3dabe491b6076d2d17ef7bd06c5f49ecf6eb7fa9de7ed58a445"
+hash = "589a80796a686fe26f14f491f1d3fdd2dad0c6add58e38c7cc40fa6edeba6bac"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"
