@@ -41,11 +41,13 @@ recipes.replaceAllOccurences(<pyrotech:material:44>, <betterwithmods:material:9>
 recipes.replaceAllOccurences(<pyrotech:material:20>, <ore:plankWood>);
 recipes.replaceAllOccurences(<pyrotech:material:23>, <ore:plankWood>);
 recipes.replaceAllOccurences(<pyrotech:material:26>, <pyrotech:material:14>);
+recipes.replaceAllOccurences(<minecraft:dye:3>, <betterwithmods:chocolate>);
 
 recipes.addShapeless("refractory_brick_from_clay", <pyrotech:material:9>, [<pyrotech:material:4>]);
 recipes.addShapeless("flint_clay", <pyrotech:material:3>, [<minecraft:clay_ball>, <pyrotech:material:31>]);
 recipes.addShapeless("flint_shards_from_flint", <pyrotech:material:10> * 4, [<minecraft:flint>]);
 recipes.addShapeless("blasting_clay", <pyrotech:material:54> * 8, [<minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:clay_ball>, <minecraft:gravel>]);
+recipes.addShapeless("dough", <pyrotech:material:50> * 4, [<minecraft:milk_bucket>, <betterwithmods:raw_pastry:3>, <betterwithmods:raw_egg>]);
 
 recipes.addShapedMirrored("drying_rack", <pyrotech:drying_rack:1>,
    [[null, <minecraft:ladder>, null],

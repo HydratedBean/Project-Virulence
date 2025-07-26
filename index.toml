@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "b319499504966f32829db717877b8dccfa41990787915b2881b7288608ff7c35"
-
-[[files]]
 file = "ModularWarfare/mod_config.json"
 hash = "7c6ca579ada083069aa67c70aaceed720cd09f8dcb9ee9e3b22158bc49eeedf0"
 
@@ -1202,12 +1198,20 @@ file = "resources/projectvirulence/title.png"
 hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
 
 [[files]]
+file = "scripts/betterwithmods/bwm_food.zs"
+hash = "61c28845f63065b5855a8a295f4ca4687e301a4126a17bfe0c197efb7a48f96c"
+
+[[files]]
 file = "scripts/betterwithmods/bwm_mill_stone.zs"
-hash = "07e15b5642842cc111f0aa6c00a0e79c1364dad8afdd50787e18c95c798feb2c"
+hash = "964452569c73e0d8e6debba7134a02abbd442f8f99fa8d9842e5dbf6aa9289cd"
+
+[[files]]
+file = "scripts/betterwithmods/bwm_remove.zs"
+hash = "59e8242cb9ee98ca1d3af629d634e871d93871b2893489ce14f74451687ccc7a"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_stoked_kiln.zs"
-hash = "5ee02076657fc088ffa0f1e8099fcdb4dfc33d730ed26d25a271b8892647c180"
+hash = "325dc75e7b981686a2a309727e8e8843f0e6bfd80657cba141bab0643cec344f"
 
 [[files]]
 file = "scripts/minecraft.zs"
@@ -1215,7 +1219,7 @@ hash = "589a80796a686fe26f14f491f1d3fdd2dad0c6add58e38c7cc40fa6edeba6bac"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"
-hash = "ff659f4aed0e1af00856b0571e78df343c7025ed4dd97fdbbdb978a93f31a678"
+hash = "cb4e45005337556fca4313bfaeecc732a2480d9b74d3254f2e941de91a4aa0e0"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_pit_kiln.zs"
@@ -1223,7 +1227,7 @@ hash = "364268617806dadcb7690cc300120d15eaa5d82fbbf5c1c1c36a53d3da82728f"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_refractory_kiln.zs"
-hash = "7050aeb3d6cc1aa0bd832018bc61a23343a61d314276eb1045cf7b05c21b47ab"
+hash = "1b5e590a530e882f4edede9603bdd2f705ebb52ea14e776d609e1b5561eb81f0"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_remove.zs"
@@ -1231,11 +1235,15 @@ hash = "dc42d5bc42061a488d41daff12737f6800e138af0a1442d4fb62b6537af64547"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_stone_kiln.zs"
-hash = "c5d7a0d3b89adde2dc7df05d218ad896c567d313536af6e2d66a60b00a88e782"
+hash = "cadcca70c9ba5349397e59d3cd35a5a3276b85d2460ffe57dc5c83395964e0a8"
 
 [[files]]
 file = "scripts/quark.zs"
 hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
+
+[[files]]
+file = "scripts/renaming.zs"
+hash = "1411d561c1a6576b13036a09c9d507e2a3b0f4304dc9c1c85588d27b58f5e5b6"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
@@ -1247,4 +1255,4 @@ hash = "4dd9ba500c7afadf5e7d47efe636eddde6f63eb90907a935e5707c81b6011304"
 
 [[files]]
 file = "scripts/tabulator.zs"
-hash = "a187234ab02b8c520907198a5ad00b5e146211688b0acb4556187172d67e7769"
+hash = "c006e9e9c71ed3cd0d438973e781c93336001d445a5f6b6993565a5998efd0bc"

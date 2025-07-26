@@ -1,1 +1,1 @@
-mods.betterwithmods.Kiln.remove([<minecraft:bread>]);
+# Placeholder

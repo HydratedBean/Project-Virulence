@@ -46,10 +46,10 @@ BrickKiln.addRecipe("refractory_brick_from_refractory_kiln", <pyrotech:material:
     2 * 60 * 20);
 
 BrickKiln.addRecipe("iron_from_refractory_kiln",
-    <minecraft:iron_nugget> * 8,
+    <minecraft:iron_ingot>,
     <ore:oreIron>, 5 * 30 * 20);
 
 BrickKiln.addRecipe("gold_from_refractory_kiln",
-    <minecraft:gold_nugget> * 8,
+    <minecraft:gold_ingot>,
     <ore:oreGold>,
     5 * 30 * 20);
