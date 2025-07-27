@@ -126,7 +126,7 @@ hash = "ac3422effa17e4f093ac90034343bb3ce04ad4e1e6daf9a281fa6d4110a9279f"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "067f42323b4356497a53ad3177ec114a3acec80714aa4ddb805b5708eeb92b97"
+hash = "c412bef4370f17305a6bf8b3bc36af6792aeb0db80b64d65b3c2971af4c68185"
 
 [[files]]
 file = "config/bloodmoon.cfg"
@@ -202,7 +202,7 @@ hash = "5541b462c3a5ce2b8b12941aaa650a711d880359524436d305938c918d2b04de"
 
 [[files]]
 file = "config/materialchanger.cfg"
-hash = "a79a72bee0eb849bf1dbedc2f93c4ee5388640c1cf6ad793137fdc8dab65cdd2"
+hash = "e7cf6ee7d045332d956363bf17737d3b9474ba39926b96472998ac9605a4d633"
 
 [[files]]
 file = "config/mobsunscreen.cfg"
@@ -477,6 +477,11 @@ hash = "cb7c8abeaf45f8981e79ae05e3e16c9d50949f2b3289cf2e59d9252ece752739"
 metafile = true
 
 [[files]]
+file = "mods/baked-enchants.pw.toml"
+hash = "8bb15d7abe8a91e3fd74b69a9d55c63a87bd88ae7455f787709db920a90b8ad8"
+metafile = true
+
+[[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
@@ -566,6 +571,11 @@ hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
 metafile = true
 
 [[files]]
+file = "mods/fantastic-lib.pw.toml"
+hash = "b68ce842309d1369b6308cac6cba81c586c20bb8badcb84b9aaee2f0c05c89c8"
+metafile = true
+
+[[files]]
 file = "mods/fermiumasm.pw.toml"
 hash = "f7484ff1a7655695763970df350e5e5dd655467fd4b95823d9cbff409d49bfcb"
 metafile = true
@@ -593,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/fugue.pw.toml"
 hash = "70759abbdb05106115c1895a0267bd33057124d9fab070912bd2ac87dc12c1c6"
+metafile = true
+
+[[files]]
+file = "mods/future-fireproof.pw.toml"
+hash = "abac4023c3c234d4787c63deb816f6727d04e5966d8c8082b3733c4ec757e318"
 metafile = true
 
 [[files]]
@@ -786,6 +801,11 @@ hash = "b4468c89e9fe6284af2a108985c46ee6b1d742896e4664de531123a8350755e6"
 metafile = true
 
 [[files]]
+file = "mods/set-bonus.pw.toml"
+hash = "973d33a84f1fb134954e87e3070afd28b93ce60b64ff63a361f8454d34c17594"
+metafile = true
+
+[[files]]
 file = "mods/sledgehammer.pw.toml"
 hash = "48f2d45241510db831478b94b89db8209a88929f8b3a20fbd5024d4eb14b7f62"
 metafile = true
@@ -828,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/stellarcore.pw.toml"
 hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
+metafile = true
+
+[[files]]
+file = "mods/stripmining.pw.toml"
+hash = "c622f55bbed585be089fd70973f3f1bfd14255c5148594b05e3d321674de512e"
 metafile = true
 
 [[files]]
@@ -1224,6 +1249,10 @@ file = "scripts/betterwithmods/bwm_remove.zs"
 hash = "59e8242cb9ee98ca1d3af629d634e871d93871b2893489ce14f74451687ccc7a"
 
 [[files]]
+file = "scripts/betterwithmods/bwm_soulforged_steel_anvil.zs"
+hash = "27153ceed416ce47c851eab34716b74bb4ce964c982a7fc4c31b47129f02ef44"
+
+[[files]]
 file = "scripts/betterwithmods/bwm_stoked_crucible.zs"
 hash = "d18cda9b1514566b5dfb0d7a3b9c41a92210313b0809795197b92b6c1468031b"
 
@@ -1265,7 +1294,7 @@ hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/renaming.zs"
-hash = "1411d561c1a6576b13036a09c9d507e2a3b0f4304dc9c1c85588d27b58f5e5b6"
+hash = "d0aa614de87e0d1ee1eca6ee43469eac440eaaeb779e128a74b0308e21c52ca1"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
@@ -1277,4 +1306,4 @@ hash = "4dd9ba500c7afadf5e7d47efe636eddde6f63eb90907a935e5707c81b6011304"
 
 [[files]]
 file = "scripts/tabulator.zs"
-hash = "c006e9e9c71ed3cd0d438973e781c93336001d445a5f6b6993565a5998efd0bc"
+hash = "42f671e4797404adc7415543ac3795bcdfa35d2b09cd4d28899edb37cd413d31"

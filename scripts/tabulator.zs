@@ -52,7 +52,6 @@ Tabs.remove(<pyrotech:mechanical_bellows>);
 Tabs.remove(<pyrotech:drying_rack:0>);
 Tabs.remove(<pyrotech:cog_diamond>);
 Tabs.remove(<pyrotech:barrel>);
-Tabs.remove(<pyrotech:obsidian_hammer>);
 Tabs.remove(<pyrotech:material:43>);
 Tabs.remove(<pyrotech:sawmill_blade_gold>);
 Tabs.remove(<pyrotech:cog_bone>);

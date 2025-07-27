@@ -1,0 +1,13 @@
+name = "StripMining"
+filename = "stripmining-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fea17b7b695728dfa7efde44ab2bc4aed6541ce6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5633298
+project-id = 919339
