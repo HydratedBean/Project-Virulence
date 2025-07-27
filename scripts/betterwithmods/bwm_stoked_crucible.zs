@@ -1,0 +1,1 @@
+mods.betterwithmods.Crucible.addStoked([<betterwithmods:steel_block>, <srparasites:vile_shell>], [<srparasites:parasiterubble:6>]);

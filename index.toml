@@ -181,6 +181,10 @@ file = "config/fpsreducer/fpsreducer.cfg"
 hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
+file = "config/futuremc/futuremc.cfg"
+hash = "791abcef88da3871c14b5736f7b34b262e0178dabb440051ed18ca67c09bd7a8"
+
+[[files]]
 file = "config/jei/itemBlacklist.cfg"
 hash = "85600d199001b191af076a173bc9e6fe9095027a6c9486e108123b38eb6a55d1"
 
@@ -242,7 +246,7 @@ hash = "98abc7451e597d708ebaf4074b9129786aa819d5adde6025290750471ed64127"
 
 [[files]]
 file = "config/nutrition/nutrients/fruit.json"
-hash = "ecd2cfd4b5d010ea0c04b405c1ae4738627c98c888103939a1c91d9c970a4776"
+hash = "b966993f20957f71d3e690a891bffa596f55bb78214a3fd2c09506cdd635434e"
 
 [[files]]
 file = "config/nutrition/nutrients/grain.json"
@@ -254,7 +258,7 @@ hash = "1eba2ef895e1be5aab774fcaf3feee9b0561d70084533ccf99a7697e37426ecc"
 
 [[files]]
 file = "config/nutrition/nutrients/vegetable.json"
-hash = "ffc4c07ab64595d95da0295611ed0502a5eb116bef8ca522232df40922814941"
+hash = "584e795a5a7d85b65f027cd3b313d4189a8738cc3b1f22da597239e816e92950"
 
 [[files]]
 file = "config/nutrition/nutrition.cfg"
@@ -378,7 +382,7 @@ hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "68ec88b5465e1270e8e659df96f9b89d8f327f7dfa7f43b87090c79fd6dbced1"
+hash = "bd8b0084b54361069e173aabeeadb0d9042e5896a80126a46e2f4c6eacdfd0a7"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
@@ -589,6 +593,16 @@ metafile = true
 [[files]]
 file = "mods/fugue.pw.toml"
 hash = "70759abbdb05106115c1895a0267bd33057124d9fab070912bd2ac87dc12c1c6"
+metafile = true
+
+[[files]]
+file = "mods/future-mc.pw.toml"
+hash = "3b0fdf57e37ea8839a4665c740e28816dc9b37b74929f444b8497de787b30a50"
+metafile = true
+
+[[files]]
+file = "mods/gambling-style.pw.toml"
+hash = "d3c1ea159d88e1d2273f4784642eb389c3903735f41f112b3f18415a6bba19fc"
 metafile = true
 
 [[files]]
@@ -1210,8 +1224,16 @@ file = "scripts/betterwithmods/bwm_remove.zs"
 hash = "59e8242cb9ee98ca1d3af629d634e871d93871b2893489ce14f74451687ccc7a"
 
 [[files]]
+file = "scripts/betterwithmods/bwm_stoked_crucible.zs"
+hash = "d18cda9b1514566b5dfb0d7a3b9c41a92210313b0809795197b92b6c1468031b"
+
+[[files]]
 file = "scripts/betterwithmods/bwm_stoked_kiln.zs"
 hash = "325dc75e7b981686a2a309727e8e8843f0e6bfd80657cba141bab0643cec344f"
+
+[[files]]
+file = "scripts/futuremc/smithing_table.zs"
+hash = "182ef53d357d3dc26295cfbdb4e0eb9655b29db28a2ad92ef0228c92ae422beb"
 
 [[files]]
 file = "scripts/minecraft.zs"
