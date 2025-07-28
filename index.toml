@@ -900,6 +900,34 @@ file = "oresources/betterwithmods/models/block/stoked_flame.json"
 hash = "bcc1eff096669d471ce7ca5d1e673baed1f0ec818d27a94d70847cb6823d9754"
 
 [[files]]
+file = "oresources/betterwithmods/models/item/steel_axe.json"
+hash = "e0a0803dfe41b661448f7789ef78348b78b0415e06db057a4dba65a198100daa"
+
+[[files]]
+file = "oresources/betterwithmods/models/item/steel_battleaxe.json"
+hash = "7b6a41c9eeaf2cd4f8053fe9848f28e05b275106f85268fc7b6c16efe44b49e4"
+
+[[files]]
+file = "oresources/betterwithmods/models/item/steel_hoe.json"
+hash = "361f05df7a65a0129471aad881367cf4b78bcfd87c72bcfcf2d1ed3a94981f2e"
+
+[[files]]
+file = "oresources/betterwithmods/models/item/steel_mattock.json"
+hash = "d6a5a0b521363ecf6a3bcc26451cd963a609b0937865b89299f4dfd32abba543"
+
+[[files]]
+file = "oresources/betterwithmods/models/item/steel_pickaxe.json"
+hash = "9997afd4e0368cdfaa26db9a7c0f163fdb61ea5659d63b3459025387ac948840"
+
+[[files]]
+file = "oresources/betterwithmods/models/item/steel_shovel.json"
+hash = "c995fffe08891bc2bef50bb7025f9897c7a933eab31fa58cd37f03216e517568"
+
+[[files]]
+file = "oresources/betterwithmods/models/item/steel_sword.json"
+hash = "85938ede7a5b29ea0566a9e985b1714a9ff969cf3c2b39b915a7d3876ce84069"
+
+[[files]]
 file = "oresources/betterwithmods/textures/blocks/stumps/log_acacia_stump.png"
 hash = "e64e32157b03df3a28d5c58188edb091e4ede3241dad1aaaa39a80c2b6564591"
 
@@ -922,6 +950,58 @@ hash = "c828dd59da832bed3772038625d2262ab8d644ab2645b531a816ef74b5817985"
 [[files]]
 file = "oresources/betterwithmods/textures/blocks/stumps/log_spruce_stump.png"
 hash = "2cc9d9159ae207affecc097690b31b821cd42eaa89b52ef73030ba8d680a9ce4"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_axe.png"
+hash = "54421588515143c7a9be08624b0f3a6e33befc37e5e6b5a2d35e251b1308ed27"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_battleaxe.png"
+hash = "77520a0d6104cc07ee0ea8e1367907c5792f09071212baa46a8ed9cddb7c5189"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_boots.png"
+hash = "7263edd4e05d9a7965b2684990bd80ba7e4bc114412a1ebb06aa9ae2344e0a81"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_chest.png"
+hash = "f069eac0182d1f88422533e97dd697367cf3954a2abf4af9f40749aac90ed8ec"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_helmet.png"
+hash = "bd339f8ae7c2a6f63436f2801b826f40d2df7f9b3d5c372343321fc144eeee1f"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_hoe.png"
+hash = "8528717db2ac749fd5c1348811d1b1ff8266070d454493ccdf09b1141a72fd04"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_mattock.png"
+hash = "56ce623cfde4dcdfafd5da8acea90adabed3b1b9218716437e1d9fecb7e1cf58"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_pants.png"
+hash = "668c1d882b0b4bb82a506731db9868d4a60c469a39b9cf4e797897e68b977d21"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_pickaxe.png"
+hash = "28599a4f1e31980181537163fa4f74d38874b3eb820f03b94b7b0b0af91d9133"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_shovel.png"
+hash = "4d3aad789503161bc056e0889cc6c782769742be7e877f0d9f2defedee8b9f46"
+
+[[files]]
+file = "oresources/betterwithmods/textures/items/steel_sword.png"
+hash = "d32fa644aba31d2ffbad2a2e4f9d62aff7a73d2bb8734f297ccc3cf903b6aca0"
+
+[[files]]
+file = "oresources/betterwithmods/textures/models/armor/steel_layer_1.png"
+hash = "19bb7f4fd9e17a8e85471b04eec68f66feeb3f42bcb78605cfe4c9d6ee6fd1b7"
+
+[[files]]
+file = "oresources/betterwithmods/textures/models/armor/steel_layer_2.png"
+hash = "26e05523a320a7220d2b947414a839f0f18beb4085cd8c3160c2e41189fde796"
 
 [[files]]
 file = "oresources/minecraft/models/block/furnace.json"
@@ -1138,6 +1218,14 @@ hash = "2288d82b71fa005a3425f11d6d82d43d55f133ee8b6aab922f6700fb7fc319d2"
 [[files]]
 file = "oresources/minecraft/textures/misc/shadow.png.mcmeta"
 hash = "51cbe6abaa3db42ee417a3c941108188dc2f38a4679fce20a68299a6f7831e19"
+
+[[files]]
+file = "oresources/pyrotech/models/item/obsidian_hammer.json"
+hash = "fb8ea40ae214da242b68753297aa03a3ae8f67437373a9e94216980846b84a6c"
+
+[[files]]
+file = "oresources/pyrotech/textures/items/obsidian_hammer.png"
+hash = "d99d2c74cc61cfe4fa7e292ac9e53966bb489cb766fcff68b4bab89398f18b23"
 
 [[files]]
 file = "oresources/treechop/textures/block/chopped_log.png"
