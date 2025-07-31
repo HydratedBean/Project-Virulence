@@ -122,7 +122,7 @@ hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
-hash = "ac3422effa17e4f093ac90034343bb3ce04ad4e1e6daf9a281fa6d4110a9279f"
+hash = "b974c5cd0656b3db02525d708edd45603b741346cc1414a7b2f58837a5145ccd"
 
 [[files]]
 file = "config/betterwithmods.cfg"
@@ -362,7 +362,7 @@ hash = "ee23296029c3c260dfd86fa78d30b66ac2610c23ff2f9f137e3055a986112967"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "eccd5878264e620d1c3779c04a4a1fd4ac2af94910c7e09c3dbee3c549c964db"
+hash = "92b42db7303204a60f74f84ad827d155ac507aefccde38859a0620edf5029084"
 
 [[files]]
 file = "config/rotm.cfg"
@@ -512,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul-vintage.pw.toml"
 hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
+metafile = true
+
+[[files]]
+file = "mods/celeritas-dynamic-lights.pw.toml"
+hash = "9a8a962ae267a641f83a7b2c7ea7e2638f787a8ab98f60bfffcad647f112804d"
 metafile = true
 
 [[files]]
@@ -1081,11 +1086,11 @@ hash = "417fbd6295a5bbf6193b8613c138e73933fa7cbf53a69c76f28d3a7b1704f9bf"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side.png"
-hash = "c99700a526965855ea1457d4368ed29cdc5ab1860b8bb07f3710129bf9cef6b5"
+hash = "43f223a2f692fb86d44b1ed03f248fe8d7ee8bad9debc3ddb92c0b433d9cfb1f"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side_overlay.png"
-hash = "af45a0b0edde6dc3f2851a29bccba2a9fb1923561854c021e5785ac5cd87e556"
+hash = "0aa2f2a8455e31a3095606b2338365692ab7a26749606542051bc5f50907ebf1"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side_snowed.png"
