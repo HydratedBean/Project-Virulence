@@ -1,0 +1,13 @@
+name = "Baked Enchants"
+filename = "bakedenchants-1.12.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad98ddcc8c962370b964251db1c43318d045c400"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6554728
+project-id = 1255580
