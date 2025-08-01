@@ -189,6 +189,10 @@ file = "config/futuremc/futuremc.cfg"
 hash = "791abcef88da3871c14b5736f7b34b262e0178dabb440051ed18ca67c09bd7a8"
 
 [[files]]
+file = "config/iblis_headshots.cfg"
+hash = "94cb72e78a445be6997e148d91fad0a0d6eff1f426398b6df5a6d4fe06d0ace3"
+
+[[files]]
 file = "config/jei/itemBlacklist.cfg"
 hash = "85600d199001b191af076a173bc9e6fe9095027a6c9486e108123b38eb6a55d1"
 
@@ -573,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "e441be9e3ccf2454b4ff4ebb2167080501e470b467a6500cd5498f002c1bc383"
+hash = "cb23264847ae93e639ee1cae67e6f6e34cc00fabb7c9444fb399bb3542eb9cae"
 metafile = true
 
 [[files]]
@@ -669,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
+metafile = true
+
+[[files]]
+file = "mods/iblis-headshots.pw.toml"
+hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
 metafile = true
 
 [[files]]
@@ -904,6 +913,16 @@ metafile = true
 [[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "b016a6133e902eccc5327267ec34b466394b488c9a90de41c6d6edb83e233241"
+metafile = true
+
+[[files]]
+file = "mods/web-slinger.pw.toml"
+hash = "58a01ac03f0eeb058842a2e8721364868e80d0b57c2cdc617f7ce9c12b2d7afc"
+metafile = true
+
+[[files]]
+file = "mods/wumpleutil.pw.toml"
+hash = "2db051fd89945ee7cb144ff9c0732faff281825dfd948ef95c119fbf4d482d65"
 metafile = true
 
 [[files]]
