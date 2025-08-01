@@ -1,6 +1,6 @@
 {
   "default": {
-    "Awareness Radius": 64,
+    "Awareness Radius": 32,
     "Xray Distance": 0,
     "Attack Everything": false,
     "Attack Pets": true,
@@ -8,7 +8,7 @@
     "Neutral Mob": false,
     "Strafe Evade": true,
     "Animal Retaliate": false,
-    "Ranged Atk Dist": 64,
+    "Ranged Atk Dist": 32,
     "Ranged Atk Error": 0,
     "Arrow Tips": [
       "minecraft:slowness:60:0"

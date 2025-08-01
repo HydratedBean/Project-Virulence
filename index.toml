@@ -146,7 +146,7 @@ hash = "8b8d9b0cb2235f28c3d657a6876e783ebc28c6ab6baa6c19f132fe76129d4887"
 
 [[files]]
 file = "config/esm/entity_ai.json"
-hash = "28a002423286e65f9dc75f12371391d48cfe18d9217cca277e43335be092affc"
+hash = "bc5fd4f3467446ead3900fb27d31bf90dd28f1aacf7e191403b49b2a3d01c1b8"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
@@ -374,7 +374,7 @@ hash = "9f33b6163278a0060f3ea1ebd3eafcba7312033e0614a01c5e15b0c82ab37996"
 
 [[files]]
 file = "config/setbonus/1.12.2.009+.cfg"
-hash = "8d7b6a96db520745184a5bf75bbcc870ca584203094e2c3d755cb33f59c38d77"
+hash = "bf576432c5e654714823751129ba9a6fdc81b2080e11bd54267132317640c3f2"
 
 [[files]]
 file = "config/spartanshields.cfg"
@@ -390,11 +390,11 @@ hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "bd8b0084b54361069e173aabeeadb0d9042e5896a80126a46e2f4c6eacdfd0a7"
+hash = "0220722161cf67d4a5c9c2c08b723baef4f0416e7e72510f67bfd1cdcea5f077"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
-hash = "6ce05a0d7907888ddc1605bc7fdbf8ec2028b3624d3c73436a760c3d87dbf74c"
+hash = "98511e5180eb61e28838cee28b5be7bdb4455f184cc21eceeba20a942d78c4ca"
 
 [[files]]
 file = "config/srparasites/SRParasitesSystems.cfg"
@@ -407,6 +407,14 @@ hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 [[files]]
 file = "config/srpmixins.cfg"
 hash = "c323f26e4d621988df9d35624a9f8b0f457ee7733a3befcfa0239cfeaa85c625"
+
+[[files]]
+file = "config/stackup.cfg"
+hash = "b10883f9b5dc9ae75976380636b5f02192419581f6196e472246595c51b353e8"
+
+[[files]]
+file = "config/stackup/food.stackup"
+hash = "c5754ebba412ae1af8edad5c57c8d08c75949c58dfd2b1def4795cd40d5b0c33"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -856,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/srpmixins.pw.toml"
 hash = "0bbd56c4f418879822adada922a27776c2a5fc463c1e12e727f55c007c7b2391"
+metafile = true
+
+[[files]]
+file = "mods/stackup.pw.toml"
+hash = "3fe7fa96839c9899b85d85a8bf13ada1881b9b52a9e97aeeb47de6ed04f532a9"
 metafile = true
 
 [[files]]
@@ -1403,7 +1416,7 @@ hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/renaming.zs"
-hash = "d0aa614de87e0d1ee1eca6ee43469eac440eaaeb779e128a74b0308e21c52ca1"
+hash = "d83de7bb8f77476b1ab93beb6e420147b6d5b41aef982f32296fd0028658516d"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
