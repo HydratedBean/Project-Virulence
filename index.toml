@@ -114,7 +114,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "53ae6f11e696eeb57ef8bd838d29168ce687c1ca5aa0101b98b4bd3271abbf23"
+hash = "7c96e0c44c4acf0f863f492171338530e74e1afe94ae6856f84048d067b5e1e7"
 
 [[files]]
 file = "config/Special_AI.cfg"
@@ -1371,7 +1371,7 @@ hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 
 [[files]]
 file = "resources/projectvirulence/title.png"
-hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
+hash = "aab755f7d9e97e75df6615576ef50dc01dcda1f7c628b691c41f834354456d6d"
 
 [[files]]
 file = "scripts/bakedenchantments.zs"
