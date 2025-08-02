@@ -4,11 +4,11 @@
         "title":
         {
             "image" : "projectvirulence:title.png",
-            "posX" : 10,
-            "posY" : -96,
-            "width" : 256,
-            "height" : 256,
-            "alignment" : "left_center"
+            "posX" : -117,
+            "posY" : 35,
+            "width" : 232.5,
+            "height" : 70.75,
+            "alignment" : "top_center"
         }
     },
     
@@ -17,11 +17,10 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : 20,
-            "posY" : -24,
+            "posX" : -100,
+            "posY" : 48,
             "width" : 98,
             "height" : 20,
-            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -32,41 +31,24 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : 30,
-            "posY" : 0,
+            "posX" : 2,
+            "posY" : 48,
             "width" : 98,
             "height" : 20,
-            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
                 "gui" : "multiplayer"
             }
         },
-        
-        "mods":
-        {
-            "text" : "fml.menu.mods",
-            "posX" : 40,
-            "posY" : 24,
-            "width" : 98,
-            "height" : 20,
-            "alignment" : "left_center",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "mods"
-            }
-        },
             
         "options":
         {
             "text" : "menu.options",
-            "posX" : 50,
-            "posY" : 48,
-            "width" : 98,
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
             "height" : 20,
-            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "openGui",
@@ -77,11 +59,10 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : 60,
-            "posY" : 72,
-            "width" : 98,
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
             "height" : 20,
-            "alignment" : "left_center",
             "action" : 
             {
                 "type" : "quit"
@@ -91,11 +72,10 @@
         "language":
         {
             "text" : "",
-            "posX" : 5,
-            "posY" : -25,
+            "posX" : -124,
+            "posY" : 96,
             "width" : 20,
             "height" : 20,
-            "alignment" : "bottom_left",
             "action" : 
             {
                 "type" : "openGui",

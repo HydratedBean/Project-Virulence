@@ -114,7 +114,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/CustomMainMenu/mainmenu.json"
-hash = "53ae6f11e696eeb57ef8bd838d29168ce687c1ca5aa0101b98b4bd3271abbf23"
+hash = "7c96e0c44c4acf0f863f492171338530e74e1afe94ae6856f84048d067b5e1e7"
 
 [[files]]
 file = "config/Special_AI.cfg"
@@ -122,7 +122,7 @@ hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
-hash = "ac3422effa17e4f093ac90034343bb3ce04ad4e1e6daf9a281fa6d4110a9279f"
+hash = "b974c5cd0656b3db02525d708edd45603b741346cc1414a7b2f58837a5145ccd"
 
 [[files]]
 file = "config/betterwithmods.cfg"
@@ -146,7 +146,7 @@ hash = "8b8d9b0cb2235f28c3d657a6876e783ebc28c6ab6baa6c19f132fe76129d4887"
 
 [[files]]
 file = "config/esm/entity_ai.json"
-hash = "28a002423286e65f9dc75f12371391d48cfe18d9217cca277e43335be092affc"
+hash = "bc5fd4f3467446ead3900fb27d31bf90dd28f1aacf7e191403b49b2a3d01c1b8"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
@@ -187,6 +187,10 @@ hash = "624bd4c5cf1e4cbd75d0b267ff2cba768c530f5c0a0f09b26a58f97321c1f3bb"
 [[files]]
 file = "config/futuremc/futuremc.cfg"
 hash = "791abcef88da3871c14b5736f7b34b262e0178dabb440051ed18ca67c09bd7a8"
+
+[[files]]
+file = "config/iblis_headshots.cfg"
+hash = "94cb72e78a445be6997e148d91fad0a0d6eff1f426398b6df5a6d4fe06d0ace3"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -362,7 +366,7 @@ hash = "ee23296029c3c260dfd86fa78d30b66ac2610c23ff2f9f137e3055a986112967"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "eccd5878264e620d1c3779c04a4a1fd4ac2af94910c7e09c3dbee3c549c964db"
+hash = "92b42db7303204a60f74f84ad827d155ac507aefccde38859a0620edf5029084"
 
 [[files]]
 file = "config/rotm.cfg"
@@ -374,7 +378,7 @@ hash = "9f33b6163278a0060f3ea1ebd3eafcba7312033e0614a01c5e15b0c82ab37996"
 
 [[files]]
 file = "config/setbonus/1.12.2.009+.cfg"
-hash = "8d7b6a96db520745184a5bf75bbcc870ca584203094e2c3d755cb33f59c38d77"
+hash = "bf576432c5e654714823751129ba9a6fdc81b2080e11bd54267132317640c3f2"
 
 [[files]]
 file = "config/spartanshields.cfg"
@@ -390,11 +394,11 @@ hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
-hash = "bd8b0084b54361069e173aabeeadb0d9042e5896a80126a46e2f4c6eacdfd0a7"
+hash = "0220722161cf67d4a5c9c2c08b723baef4f0416e7e72510f67bfd1cdcea5f077"
 
 [[files]]
 file = "config/srparasites/SRParasitesMobs.cfg"
-hash = "6ce05a0d7907888ddc1605bc7fdbf8ec2028b3624d3c73436a760c3d87dbf74c"
+hash = "98511e5180eb61e28838cee28b5be7bdb4455f184cc21eceeba20a942d78c4ca"
 
 [[files]]
 file = "config/srparasites/SRParasitesSystems.cfg"
@@ -407,6 +411,14 @@ hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 [[files]]
 file = "config/srpmixins.cfg"
 hash = "c323f26e4d621988df9d35624a9f8b0f457ee7733a3befcfa0239cfeaa85c625"
+
+[[files]]
+file = "config/stackup.cfg"
+hash = "b10883f9b5dc9ae75976380636b5f02192419581f6196e472246595c51b353e8"
+
+[[files]]
+file = "config/stackup/food.stackup"
+hash = "c5754ebba412ae1af8edad5c57c8d08c75949c58dfd2b1def4795cd40d5b0c33"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -515,8 +527,23 @@ hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
+metafile = true
+
+[[files]]
+file = "mods/celeritas-dynamic-lights.pw.toml"
+hash = "9a8a962ae267a641f83a7b2c7ea7e2638f787a8ab98f60bfffcad647f112804d"
+metafile = true
+
+[[files]]
 file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
 hash = "cdb18184f2d798249264610a5850b2d61056eee7b7e773f0d62e55152f833bf5"
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "575824c005d5e0200e199224bd107f23728e04ea03ff2f5be05f642a535cb410"
+metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -560,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "e441be9e3ccf2454b4ff4ebb2167080501e470b467a6500cd5498f002c1bc383"
+hash = "cb23264847ae93e639ee1cae67e6f6e34cc00fabb7c9444fb399bb3542eb9cae"
 metafile = true
 
 [[files]]
@@ -656,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
+metafile = true
+
+[[files]]
+file = "mods/iblis-headshots.pw.toml"
+hash = "38037365be132702fd243472857da11ead314506e467dbec4e34f39970d632a8"
 metafile = true
 
 [[files]]
@@ -854,6 +886,11 @@ hash = "0bbd56c4f418879822adada922a27776c2a5fc463c1e12e727f55c007c7b2391"
 metafile = true
 
 [[files]]
+file = "mods/stackup.pw.toml"
+hash = "3fe7fa96839c9899b85d85a8bf13ada1881b9b52a9e97aeeb47de6ed04f532a9"
+metafile = true
+
+[[files]]
 file = "mods/startup-timer.pw.toml"
 hash = "70ac290d31eb53a8275bd570199a9cf25f0be0375e8256d7a1770f1f07519fa7"
 metafile = true
@@ -889,6 +926,16 @@ hash = "b016a6133e902eccc5327267ec34b466394b488c9a90de41c6d6edb83e233241"
 metafile = true
 
 [[files]]
+file = "mods/web-slinger.pw.toml"
+hash = "58a01ac03f0eeb058842a2e8721364868e80d0b57c2cdc617f7ce9c12b2d7afc"
+metafile = true
+
+[[files]]
+file = "mods/wumpleutil.pw.toml"
+hash = "2db051fd89945ee7cb144ff9c0732faff281825dfd948ef95c119fbf4d482d65"
+metafile = true
+
+[[files]]
 file = "mods/xp-orb-clump.pw.toml"
 hash = "642fd6d88e90ed6db1315a3a591e4ec57c72c39b18ae88b917412bdba841a1d1"
 metafile = true
@@ -901,6 +948,11 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
+metafile = true
+
+[[files]]
+file = "mods/zume.pw.toml"
+hash = "b242b6de5a59d1f480d2af1cdee0c91cdce35f3d364496896de71445d0907dcc"
 metafile = true
 
 [[files]]
@@ -1081,11 +1133,11 @@ hash = "417fbd6295a5bbf6193b8613c138e73933fa7cbf53a69c76f28d3a7b1704f9bf"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side.png"
-hash = "c99700a526965855ea1457d4368ed29cdc5ab1860b8bb07f3710129bf9cef6b5"
+hash = "43f223a2f692fb86d44b1ed03f248fe8d7ee8bad9debc3ddb92c0b433d9cfb1f"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side_overlay.png"
-hash = "af45a0b0edde6dc3f2851a29bccba2a9fb1923561854c021e5785ac5cd87e556"
+hash = "0aa2f2a8455e31a3095606b2338365692ab7a26749606542051bc5f50907ebf1"
 
 [[files]]
 file = "oresources/minecraft/textures/blocks/grass_side_snowed.png"
@@ -1334,7 +1386,7 @@ hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 
 [[files]]
 file = "resources/projectvirulence/title.png"
-hash = "63f4c66022be5e598feaeb2bc728c166dadc383c8a828183d520bfa1dca67dee"
+hash = "aab755f7d9e97e75df6615576ef50dc01dcda1f7c628b691c41f834354456d6d"
 
 [[files]]
 file = "scripts/bakedenchantments.zs"
@@ -1398,7 +1450,7 @@ hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/renaming.zs"
-hash = "d0aa614de87e0d1ee1eca6ee43469eac440eaaeb779e128a74b0308e21c52ca1"
+hash = "d83de7bb8f77476b1ab93beb6e420147b6d5b41aef982f32296fd0028658516d"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"

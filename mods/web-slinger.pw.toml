@@ -1,0 +1,13 @@
+name = "Web Slinger"
+filename = "webslinger-1.12.2-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a51cdf93cb75cf5e6ea2e9bb0988e9de4605fbb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2603356
+project-id = 296843

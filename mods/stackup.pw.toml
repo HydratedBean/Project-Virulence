@@ -1,0 +1,13 @@
+name = "StackUp!"
+filename = "StackUp-0.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c1a76cfc1d867504ffa6580f6513e93ffa4d697"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3015268
+project-id = 299488
