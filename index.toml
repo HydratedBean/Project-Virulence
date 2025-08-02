@@ -527,6 +527,11 @@ hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
+metafile = true
+
+[[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
 hash = "9a8a962ae267a641f83a7b2c7ea7e2638f787a8ab98f60bfffcad647f112804d"
 metafile = true
@@ -534,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
 hash = "cdb18184f2d798249264610a5850b2d61056eee7b7e773f0d62e55152f833bf5"
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "575824c005d5e0200e199224bd107f23728e04ea03ff2f5be05f642a535cb410"
+metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
