@@ -941,6 +941,11 @@ hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
 
 [[files]]
+file = "mods/zume.pw.toml"
+hash = "b242b6de5a59d1f480d2af1cdee0c91cdce35f3d364496896de71445d0907dcc"
+metafile = true
+
+[[files]]
 file = "oresources/betterwithmods/models/block/stoked_flame.json"
 hash = "bcc1eff096669d471ce7ca5d1e673baed1f0ec818d27a94d70847cb6823d9754"
 
