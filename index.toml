@@ -1438,7 +1438,7 @@ hash = "364268617806dadcb7690cc300120d15eaa5d82fbbf5c1c1c36a53d3da82728f"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_refractory_kiln.zs"
-hash = "1b5e590a530e882f4edede9603bdd2f705ebb52ea14e776d609e1b5561eb81f0"
+hash = "fccec292d71250da51e1def18d7c61ed3369c803351eb6f37b9e57e3b9d61996"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_remove.zs"
@@ -1446,7 +1446,7 @@ hash = "dc42d5bc42061a488d41daff12737f6800e138af0a1442d4fb62b6537af64547"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_stone_kiln.zs"
-hash = "cadcca70c9ba5349397e59d3cd35a5a3276b85d2460ffe57dc5c83395964e0a8"
+hash = "f4809262b37b2bb6d0d17461059650bd15e312cc6c58e1636b64ddf8c29aba6e"
 
 [[files]]
 file = "scripts/quark.zs"
