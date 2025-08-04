@@ -378,7 +378,7 @@ hash = "9f33b6163278a0060f3ea1ebd3eafcba7312033e0614a01c5e15b0c82ab37996"
 
 [[files]]
 file = "config/setbonus/1.12.2.009+.cfg"
-hash = "bf576432c5e654714823751129ba9a6fdc81b2080e11bd54267132317640c3f2"
+hash = "81c573a26fd80be6673b5a0c1fa4e6745cc4b722b322b096936f19171f3da7bf"
 
 [[files]]
 file = "config/spartanshields.cfg"
@@ -1256,6 +1256,10 @@ file = "oresources/minecraft/textures/blocks/stump_log_spruce_top.png"
 hash = "76cc43b5b10169e97fa8d9bea0b66d906805090837112f27d3bf4705bb84cc9f"
 
 [[files]]
+file = "oresources/minecraft/textures/entity/creeper/creeper.png"
+hash = "195ef9f09edde976cfc893b45796311bc8aedb14baeb7a110da75ea54f72f3a9"
+
+[[files]]
 file = "oresources/minecraft/textures/entity/zombie/husk.png"
 hash = "5259277b5ffd555b6a4638657989842c80f607cd409449e76a7dfc9acd9a6507"
 
@@ -1434,7 +1438,7 @@ hash = "364268617806dadcb7690cc300120d15eaa5d82fbbf5c1c1c36a53d3da82728f"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_refractory_kiln.zs"
-hash = "1b5e590a530e882f4edede9603bdd2f705ebb52ea14e776d609e1b5561eb81f0"
+hash = "dadc858dea2a191b6f3934f5e4e8082895c51dd01b50d47f0cb09c2f2ffef795"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_remove.zs"
@@ -1442,7 +1446,7 @@ hash = "dc42d5bc42061a488d41daff12737f6800e138af0a1442d4fb62b6537af64547"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_stone_kiln.zs"
-hash = "cadcca70c9ba5349397e59d3cd35a5a3276b85d2460ffe57dc5c83395964e0a8"
+hash = "6b207e5991a6b5e5cab9398947288e6ef8b9ada14f5988532d270868e19d3bb2"
 
 [[files]]
 file = "scripts/quark.zs"
