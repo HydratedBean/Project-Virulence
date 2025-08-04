@@ -55,6 +55,6 @@ BrickKiln.addRecipe("gold_from_refractory_kiln",
     5 * 30 * 20);
 
 BrickKiln.addRecipe("stone_from_refractory_kiln",
-    <ore:cobblestone>,
     <minecraft:stone>,
+    <ore:cobblestone>,
     15 * 20);

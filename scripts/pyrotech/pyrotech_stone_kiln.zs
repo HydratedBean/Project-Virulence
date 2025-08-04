@@ -55,6 +55,6 @@ StoneKiln.addRecipe("gold_from_stone_kiln",
     5 * 60 * 20);
 
 StoneKiln.addRecipe("stone_from_stone_kiln",
-    <ore:cobblestone>,
     <minecraft:stone>,
-    30 * 20);
+    <ore:cobblestone>,
+    45 * 20);
