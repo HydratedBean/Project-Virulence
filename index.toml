@@ -1256,6 +1256,10 @@ file = "oresources/minecraft/textures/blocks/stump_log_spruce_top.png"
 hash = "76cc43b5b10169e97fa8d9bea0b66d906805090837112f27d3bf4705bb84cc9f"
 
 [[files]]
+file = "oresources/minecraft/textures/entity/creeper/creeper.png"
+hash = "a0792fabfb0022859da53492eaa7e94f80ed0085dfb439303199799eff5e47dd"
+
+[[files]]
 file = "oresources/minecraft/textures/entity/zombie/husk.png"
 hash = "5259277b5ffd555b6a4638657989842c80f607cd409449e76a7dfc9acd9a6507"
 
