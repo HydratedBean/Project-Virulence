@@ -138,7 +138,7 @@ hash = "8da15fab3a3e1cdf77f5703bebb6237311b1007e3824abeffa6d6bfd2621683a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "fba433d4cbd41f8730940599eff5e8355d562244d79026faf2b478d1c1302c98"
+hash = "80b97086ebb3691efefb7864589a0903b0a8b095ab2937f28316eb77c0900dae"
 
 [[files]]
 file = "config/dshuds.cfg"
@@ -1358,6 +1358,11 @@ hash = "bb4d7524b54e3fd86b2d6eae76e61a04e630d85dedd3bd2983d08463469852dc"
 [[files]]
 file = "resourcepacks/cine-ghast.pw.toml"
 hash = "8ac3edec9a3491515fdcfcab468cb5a66396d8e817078dd6b6b6cc13881b6faf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/luminous.pw.toml"
+hash = "af8eed53fca5a71bd16c65c3cdb1aecf53697a8f930b465c8e2bf6fece7ff617"
 metafile = true
 
 [[files]]
