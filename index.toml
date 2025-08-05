@@ -410,7 +410,7 @@ hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 
 [[files]]
 file = "config/srpmixins.cfg"
-hash = "c323f26e4d621988df9d35624a9f8b0f457ee7733a3befcfa0239cfeaa85c625"
+hash = "b86cd1828dfd1bbd87ce2fd240f52d0d64ab6f67954d7d6db5ebb8a39a972983"
 
 [[files]]
 file = "config/stackup.cfg"
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "9a8a962ae267a641f83a7b2c7ea7e2638f787a8ab98f60bfffcad647f112804d"
+hash = "5018ba5e3656ed1f38a7b60e5c8f73dd36c4666bdf45fc95f73662bc61263929"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynaores.pw.toml"
-hash = "cd45e8c873bce7d04efcba4183e6a3807145f0320870434d40d9eb91c5bb3a89"
+hash = "1044f2ebb2dca156cc1b2da6ba56916c144e31929bb1d3e7fc39c501908e4786"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "509f3cd899a8ba40980c5949d89a7dc2a3eb9750ba56eea30fa2945b2bcdaf1e"
+hash = "329cd996315315f1e93c0b6c3f84efee9b73fca07fdcd058cfe808f8568ac67f"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "4bae4179b08753be024d0ec85f0d22102150784b56b5b89fa9209d3556c671d4"
+hash = "07a8746ecc9a2156a63be186f3bc39ee29e00136985bae1e93fd8bb331f8c831"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisethreader.pw.toml"
-hash = "17eac7eb305119ebcc7d3fb9ef2f9e5d4763a356f025803db5cbde91e90ca255"
+hash = "ef6adfe798f8ad7c26ef8eaae6b438b148d0c648b475f128b5cd0e23e66c44b6"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalar.pw.toml"
-hash = "c0a0a6df8882caf8989df6bec1864e16b6cf2d5bf960500910f43224c7fe9c41"
+hash = "844e2bdffc431dbec0d2dece6682570f0d10d68c68a3131a91c7bada3f6e1965"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "d3e9ba33bf37c54871c8d7afe5a2415630af8a6b75fd4c6499b766a1a773d618"
+hash = "8ffbfc0727c0ae3b0e9dfaa8e6dd130b670641a8c7aee97d4d9c03d9969b8651"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "0bbd56c4f418879822adada922a27776c2a5fc463c1e12e727f55c007c7b2391"
+hash = "aa2923b16d689afbc49f09b8d47a2ad3674edc2bc8839839417464470f61894d"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Spartan Weaponry"
-filename = "SpartanWeaponry-1.12.2-1.6.0.jar"
+filename = "SpartanWeaponry-1.12.2-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/icU5P2Mk/versions/furVBxZL/SpartanWeaponry-1.12.2-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/icU5P2Mk/versions/x2dB3EKv/SpartanWeaponry-1.12.2-1.6.1.jar"
 hash-format = "sha512"
-hash = "241e9e8756d7461851c2a6f2f7a30c13c29de81f6b66f43b9e75c5aa0af2b2e158a8ff7fcf61e6746a2f58491a3aabfa99e0dc7d3168d68a8bbdfc7ac1134ccc"
+hash = "10f446286aa79136fc4a0d98d0e96eb29c7e9b76b9bf49d5a162fcf63cb12355305d5d0d0d8a2d9842607e43a9b93770da3872e3abf13f6bb40187e820614706"
 
 [update]
 [update.modrinth]
 mod-id = "icU5P2Mk"
-version = "furVBxZL"
+version = "x2dB3EKv"
