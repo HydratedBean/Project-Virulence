@@ -113,10 +113,6 @@ file = "ModularWarfare/projectvirulence-mw-contentpack/textures/render/projectvi
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/CustomMainMenu/mainmenu.json"
-hash = "7c96e0c44c4acf0f863f492171338530e74e1afe94ae6856f84048d067b5e1e7"
-
-[[files]]
 file = "config/Special_AI.cfg"
 hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
 
@@ -126,7 +122,7 @@ hash = "b974c5cd0656b3db02525d708edd45603b741346cc1414a7b2f58837a5145ccd"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "c412bef4370f17305a6bf8b3bc36af6792aeb0db80b64d65b3c2971af4c68185"
+hash = "d19e6e40fe43beb598e920cafbe14b841348cda381a4853ee87e983439d6b9aa"
 
 [[files]]
 file = "config/bloodmoon.cfg"
@@ -138,7 +134,7 @@ hash = "8da15fab3a3e1cdf77f5703bebb6237311b1007e3824abeffa6d6bfd2621683a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "fba433d4cbd41f8730940599eff5e8355d562244d79026faf2b478d1c1302c98"
+hash = "30287344c69a45a4196f78aa82dc9b0eb9211ac9315aea24572903dac4ed5853"
 
 [[files]]
 file = "config/dshuds.cfg"
@@ -151,6 +147,54 @@ hash = "bc5fd4f3467446ead3900fb27d31bf90dd28f1aacf7e191403b49b2a3d01c1b8"
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
 hash = "dfadcbc9b33d728fd38a6a23a62aec648d87f982c097a0100c604ff3e5e98182"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "7510d8377ef92efc4b7f93501037c5a6a8d1d10c8e8ce3a526a70c37cb3bc665"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
+
+[[files]]
+file = "config/fancymenu/customization/main.txt"
+hash = "072aa6a3890797c4277df35a4b3805785484c47ccc79d0fed5a754f0d7841fe2"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/fluidlogged_api/blacklist.cfg"
@@ -369,10 +413,6 @@ file = "config/quark.cfg"
 hash = "92b42db7303204a60f74f84ad827d155ac507aefccde38859a0620edf5029084"
 
 [[files]]
-file = "config/rotm.cfg"
-hash = "dd3fa9bd4061e1179f9e53441aadd75cfe73a76176aff42c48678ef2abb16bd3"
-
-[[files]]
 file = "config/sereneseasons/cropfertility.cfg"
 hash = "9f33b6163278a0060f3ea1ebd3eafcba7312033e0614a01c5e15b0c82ab37996"
 
@@ -390,7 +430,7 @@ hash = "3a4337a934db359a8ce1eac1e3d578fe0ad97bf4a813fd493282fde0c2364c3b"
 
 [[files]]
 file = "config/splash.properties"
-hash = "bbd5ef0b87cb9536c855ce933ff6bfb1cec62d3ec47b61ae39c8c15bc8430403"
+hash = "f92542f66ce8d67efa859dc9bee107a271fabbc2065d2ef13abe07e98855a894"
 
 [[files]]
 file = "config/srparasites/SRParasites.cfg"
@@ -410,7 +450,7 @@ hash = "42465d588f1c94761c8d21c4baaa9022ca7b30d2b4c783e0de55ea1d26339c7d"
 
 [[files]]
 file = "config/srpmixins.cfg"
-hash = "c323f26e4d621988df9d35624a9f8b0f457ee7733a3befcfa0239cfeaa85c625"
+hash = "b86cd1828dfd1bbd87ce2fd240f52d0d64ab6f67954d7d6db5ebb8a39a972983"
 
 [[files]]
 file = "config/stackup.cfg"
@@ -464,11 +504,6 @@ metafile = true
 [[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.pw.toml"
-hash = "8c56ff242b4104361a43c9f77a03cb3d1f1234daa11ce369db8b119021fdfcc2"
 metafile = true
 
 [[files]]
@@ -533,17 +568,12 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "9a8a962ae267a641f83a7b2c7ea7e2638f787a8ab98f60bfffcad647f112804d"
+hash = "3cb4d42e0b237256f5f56e0bf74c804584a3f32d4bcb840b07184baa400d75b8"
 metafile = true
 
 [[files]]
 file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
 hash = "cdb18184f2d798249264610a5850b2d61056eee7b7e773f0d62e55152f833bf5"
-
-[[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "575824c005d5e0200e199224bd107f23728e04ea03ff2f5be05f642a535cb410"
-metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -568,11 +598,6 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
-metafile = true
-
-[[files]]
-file = "mods/custom-main-menu.pw.toml"
-hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
 metafile = true
 
 [[files]]
@@ -602,12 +627,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynaores.pw.toml"
-hash = "cd45e8c873bce7d04efcba4183e6a3807145f0320870434d40d9eb91c5bb3a89"
+hash = "1044f2ebb2dca156cc1b2da6ba56916c144e31929bb1d3e7fc39c501908e4786"
 metafile = true
 
 [[files]]
 file = "mods/epic-siege-mod.pw.toml"
 hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "a0b9178824a6998223027dbca140b3652300a9140c7ed908db5508c9f4af1902"
 metafile = true
 
 [[files]]
@@ -622,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "509f3cd899a8ba40980c5949d89a7dc2a3eb9750ba56eea30fa2945b2bcdaf1e"
+hash = "329cd996315315f1e93c0b6c3f84efee9b73fca07fdcd058cfe808f8568ac67f"
 metafile = true
 
 [[files]]
@@ -642,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "4bae4179b08753be024d0ec85f0d22102150784b56b5b89fa9209d3556c671d4"
+hash = "07a8746ecc9a2156a63be186f3bc39ee29e00136985bae1e93fd8bb331f8c831"
 metafile = true
 
 [[files]]
@@ -653,11 +683,6 @@ metafile = true
 [[files]]
 file = "mods/future-mc.pw.toml"
 hash = "3b0fdf57e37ea8839a4665c740e28816dc9b37b74929f444b8497de787b30a50"
-metafile = true
-
-[[files]]
-file = "mods/gambling-style.pw.toml"
-hash = "d3c1ea159d88e1d2273f4784642eb389c3903735f41f112b3f18415a6bba19fc"
 metafile = true
 
 [[files]]
@@ -706,6 +731,11 @@ hash = "e38bc42ab6204f1c68a2ec9708404c0f3c7869b0c4d7134e1175827c87f6a779"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "89d76a6016fd19cdb06f677ce4c678e1eea307d3a2a39fd4e9b532dd45acb7c7"
+metafile = true
+
+[[files]]
 file = "mods/material-changer.pw.toml"
 hash = "b82e68323a2bbcd938637a7d692200093e2fcad47e07a31e538d417d3a6fa149"
 metafile = true
@@ -747,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisethreader.pw.toml"
-hash = "17eac7eb305119ebcc7d3fb9ef2f9e5d4763a356f025803db5cbde91e90ca255"
+hash = "ef6adfe798f8ad7c26ef8eaae6b438b148d0c648b475f128b5cd0e23e66c44b6"
 metafile = true
 
 [[files]]
@@ -796,11 +826,6 @@ hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
 metafile = true
 
 [[files]]
-file = "mods/rebirth-of-the-mobs.pw.toml"
-hash = "e5c32fc4172c0b0dee10ea7d6aa92d0215567610db71fc49f94b5d9c2459b9ed"
-metafile = true
-
-[[files]]
 file = "mods/red-core.pw.toml"
 hash = "ac9cca051823089b6f0158464be26e3c75d83c590a698a76c8a788475017df99"
 metafile = true
@@ -822,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalar.pw.toml"
-hash = "c0a0a6df8882caf8989df6bec1864e16b6cf2d5bf960500910f43224c7fe9c41"
+hash = "844e2bdffc431dbec0d2dece6682570f0d10d68c68a3131a91c7bada3f6e1965"
 metafile = true
 
 [[files]]
@@ -867,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "d3e9ba33bf37c54871c8d7afe5a2415630af8a6b75fd4c6499b766a1a773d618"
+hash = "8ffbfc0727c0ae3b0e9dfaa8e6dd130b670641a8c7aee97d4d9c03d9969b8651"
 metafile = true
 
 [[files]]
@@ -882,17 +907,12 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "0bbd56c4f418879822adada922a27776c2a5fc463c1e12e727f55c007c7b2391"
+hash = "036e2c7845eb885e5ad46745f9ce06de338e2ff5366cc80b90bcff7f10c2a844"
 metafile = true
 
 [[files]]
 file = "mods/stackup.pw.toml"
 hash = "3fe7fa96839c9899b85d85a8bf13ada1881b9b52a9e97aeeb47de6ed04f532a9"
-metafile = true
-
-[[files]]
-file = "mods/startup-timer.pw.toml"
-hash = "70ac290d31eb53a8275bd570199a9cf25f0be0375e8256d7a1770f1f07519fa7"
 metafile = true
 
 [[files]]
@@ -1268,14 +1288,6 @@ file = "oresources/minecraft/textures/entity/zombie/zombie.png"
 hash = "59a79212e7e8042c12f88a3108a1a83fc73a7fda69af1b7e0ce28ff41adc0f11"
 
 [[files]]
-file = "oresources/minecraft/textures/gui/options_background.png"
-hash = "aab9c5a8c24498cf7b1daaab3fb7a9f6bc8132dc40dfe0c2af432822603bf9f8"
-
-[[files]]
-file = "oresources/minecraft/textures/gui/widgets.png"
-hash = "c6acd8a7132cdc1aea351b30965634dd91b6fbf9c4fb704c3ca8b0e6beed6062"
-
-[[files]]
 file = "oresources/minecraft/textures/items/elytra.png"
 hash = "878c0717dba1e8ddbf7bebdb148f1d9ccdecf0e21abf88824447f12ee5cd5e47"
 
@@ -1356,8 +1368,8 @@ file = "paintings/textures/whiteboard.png"
 hash = "bb4d7524b54e3fd86b2d6eae76e61a04e630d85dedd3bd2983d08463469852dc"
 
 [[files]]
-file = "resourcepacks/cine-ghast.pw.toml"
-hash = "8ac3edec9a3491515fdcfcab468cb5a66396d8e817078dd6b6b6cc13881b6faf"
+file = "resourcepacks/luminous.pw.toml"
+hash = "af8eed53fca5a71bd16c65c3cdb1aecf53697a8f930b465c8e2bf6fece7ff617"
 metafile = true
 
 [[files]]
@@ -1381,12 +1393,32 @@ hash = "6ee9893fdfc013203c9e849ebbe5626059aa842b3f281a0f587f9361a728bfc0"
 metafile = true
 
 [[files]]
-file = "resources/assets/fml/textures/gui/hydrated_bean_patpat.gif"
-hash = "50604da98c03448b08422358a8be8a13688c304b94fc3ec2a71aebec05ce23c9"
-
-[[files]]
 file = "resources/projectvirulence/backgrounds/01.png"
 hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
+
+[[files]]
+file = "resources/projectvirulence/buttons/button.png"
+hash = "33fad27d9760ea152c35a6ea4dea1665ff79c6b020bd53eceacbcb75bd3f4093"
+
+[[files]]
+file = "resources/projectvirulence/buttons/button2.png"
+hash = "9f77477028da39b2950b548d2a46bbfa786027f869b1d8b9502d0c44f3498891"
+
+[[files]]
+file = "resources/projectvirulence/buttons/language.png"
+hash = "cd6a6d53a097c19d47ab760e84fd1ebaae8673f5aba7771c333b5c4ca2289ba6"
+
+[[files]]
+file = "resources/projectvirulence/buttons/language2.png"
+hash = "8e5e27c59eb51b25f565e02e9aa98f08a14090ef2da3bbfa7c88e1c573ed0a4d"
+
+[[files]]
+file = "resources/projectvirulence/buttons/mods.png"
+hash = "7c3b822bcb6fa99004fe7fd719933d8ee590782effeb231ce18d6e507e7fadc6"
+
+[[files]]
+file = "resources/projectvirulence/buttons/mods2.png"
+hash = "c053d418fcfa2da77d83a803636e08d5f61b8e5d4b77047e0538c092a785485e"
 
 [[files]]
 file = "resources/projectvirulence/title.png"
