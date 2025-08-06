@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
-hash = "cdb18184f2d798249264610a5850b2d61056eee7b7e773f0d62e55152f833bf5"
+hash = "deca53d442f7f6f52363b671ed49d4e000b6ec70a5aa31a9f0f93854b82c1b12"
 
 [[files]]
 file = "mods/controlling.pw.toml"
