@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "5018ba5e3656ed1f38a7b60e5c8f73dd36c4666bdf45fc95f73662bc61263929"
+hash = "3cb4d42e0b237256f5f56e0bf74c804584a3f32d4bcb840b07184baa400d75b8"
 metafile = true
 
 [[files]]
@@ -882,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "aa2923b16d689afbc49f09b8d47a2ad3674edc2bc8839839417464470f61894d"
+hash = "036e2c7845eb885e5ad46745f9ce06de338e2ff5366cc80b90bcff7f10c2a844"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "SRPMixins"
-filename = "SRPMixins-2.8.7.jar"
+filename = "SRPMixins-2.8.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a3a8b150bcf9d3dc052e758b0252bf05d86e28b7"
+hash = "52772de92cbdf28c009695a75403186c4a3a7a35"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6837396
+file-id = 6855763
 project-id = 1119777
