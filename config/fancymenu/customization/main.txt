@@ -1,0 +1,233 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/projectvirulence/backgrounds/01.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -9
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/projectvirulence/buttons/button2.png
+  backgroundnormal = resources/projectvirulence/buttons/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/projectvirulence/buttons/button2.png
+  backgroundnormal = resources/projectvirulence/buttons/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/projectvirulence/buttons/button2.png
+  backgroundnormal = resources/projectvirulence/buttons/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = 39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/projectvirulence/buttons/language2.png
+  backgroundnormal = resources/projectvirulence/buttons/language.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -33
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/projectvirulence/buttons/button2.png
+  backgroundnormal = resources/projectvirulence/buttons/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources/projectvirulence/buttons/mods2.png
+  backgroundnormal = resources/projectvirulence/buttons/mods.png
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 106
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = f2dfff2f-eeb9-4698-b8c4-61bcffba2aa41754503154391
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 157
+  action = deep_customization_element:title_screen_branding
+  actionid = 2d174b3a-62d8-4ac2-9daf-60c37c20b7f81754503154399
+  y = 318
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 643dacbd-f19e-4c17-8764-abc97de0a12c1754503154399
+  y = 340
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 56329434-0322-45d2-85cd-b59b58c06fa21754503154400
+  y = 167
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 823bcd25-ad4f-4044-a69e-c68f281f6e631754503154400
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = mid-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 106
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 61ad8bb1-47a0-45ff-8de6-64bcee22a8a51754503154400
+  y = -49
+  height = 30
+}
+
+customization {
+  path = resources/projectvirulence/title.png
+  orientation = mid-centered
+  x = -112
+  width = 225
+  actionid = 2bbfd09a-e080-4805-8ddf-219ed4a9516d1754503203104
+  action = addtexture
+  y = -119
+  height = 68
+}
+
