@@ -117,6 +117,10 @@ file = "config/Special_AI.cfg"
 hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
 
 [[files]]
+file = "config/apatheticmobs.cfg"
+hash = "869b782aaec6604f0efe322aea2a066eb1cc60058490d7248d2ca04072b6c22b"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "b974c5cd0656b3db02525d708edd45603b741346cc1414a7b2f58837a5145ccd"
 
@@ -499,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/anvil-patch-lawful.pw.toml"
 hash = "51439acbfe2af529b2c3ee81267b48200d8724307d323dfb37432ed7913c21b5"
+metafile = true
+
+[[files]]
+file = "mods/apathetic-mobs.pw.toml"
+hash = "4f5fb25ad36c2bf5334f5846429d52eac20122158e84417c558b8c593d80169f"
 metafile = true
 
 [[files]]

@@ -15,6 +15,7 @@
 - Moon phases determine how dark night time is
 - Blood moons that increase monster spawn rates
 - Numerous changed crafting recipes to slow down progression
+- Easy difficulty prevents mobs from attacking players (however they can still target and attack each other)
 
 # SCREENSHOTS
 ![1](images/1.png)\
