@@ -122,7 +122,7 @@ hash = "869b782aaec6604f0efe322aea2a066eb1cc60058490d7248d2ca04072b6c22b"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
-hash = "e25e90b6208794b0df311f52dca39757c66d3bbd37a776d2a764e7217659c6be"
+hash = "8b3ec1e1b1c0b37abe7dd47293137280734305037ff83e72ccd9ad8667fb8126"
 
 [[files]]
 file = "config/betterhurttimer.cfg"
