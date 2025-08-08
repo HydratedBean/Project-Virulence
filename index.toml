@@ -125,6 +125,10 @@ file = "config/bettercombatmod.cfg"
 hash = "e25e90b6208794b0df311f52dca39757c66d3bbd37a776d2a764e7217659c6be"
 
 [[files]]
+file = "config/betterhurttimer.cfg"
+hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
+
+[[files]]
 file = "config/betterwithmods.cfg"
 hash = "d19e6e40fe43beb598e920cafbe14b841348cda381a4853ee87e983439d6b9aa"
 
@@ -962,6 +966,11 @@ metafile = true
 [[files]]
 file = "mods/web-slinger.pw.toml"
 hash = "58a01ac03f0eeb058842a2e8721364868e80d0b57c2cdc617f7ce9c12b2d7afc"
+metafile = true
+
+[[files]]
+file = "mods/worse-hurt-timer.pw.toml"
+hash = "19689aaf53823b59ac23d793b93c83cc42ac3f91357ded41b388a89531bb8ff5"
 metafile = true
 
 [[files]]
