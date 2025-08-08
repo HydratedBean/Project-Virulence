@@ -664,6 +664,11 @@ hash = "b68ce842309d1369b6308cac6cba81c586c20bb8badcb84b9aaee2f0c05c89c8"
 metafile = true
 
 [[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "8df6d0c594544ad4ef24073147bf99fbc942747e0256ba9933f5a8ad45497fdf"
+metafile = true
+
+[[files]]
 file = "mods/fermiumasm.pw.toml"
 hash = "f7484ff1a7655695763970df350e5e5dd655467fd4b95823d9cbff409d49bfcb"
 metafile = true
