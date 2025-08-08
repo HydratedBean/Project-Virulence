@@ -117,8 +117,16 @@ file = "config/Special_AI.cfg"
 hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
 
 [[files]]
+file = "config/apatheticmobs.cfg"
+hash = "869b782aaec6604f0efe322aea2a066eb1cc60058490d7248d2ca04072b6c22b"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
-hash = "b974c5cd0656b3db02525d708edd45603b741346cc1414a7b2f58837a5145ccd"
+hash = "8b3ec1e1b1c0b37abe7dd47293137280734305037ff83e72ccd9ad8667fb8126"
+
+[[files]]
+file = "config/betterhurttimer.cfg"
+hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
 
 [[files]]
 file = "config/betterwithmods.cfg"
@@ -426,7 +434,7 @@ hash = "88051d650a4bb978b23c53f7a99b08caddc030adfe603787930831bb23ea0ab9"
 
 [[files]]
 file = "config/spartanweaponry.cfg"
-hash = "3a4337a934db359a8ce1eac1e3d578fe0ad97bf4a813fd493282fde0c2364c3b"
+hash = "5ce85a32e44d4a021c49909f40c683eb1aea4e7c7370fd4619911d0a96f00bdd"
 
 [[files]]
 file = "config/splash.properties"
@@ -502,6 +510,11 @@ hash = "51439acbfe2af529b2c3ee81267b48200d8724307d323dfb37432ed7913c21b5"
 metafile = true
 
 [[files]]
+file = "mods/apathetic-mobs.pw.toml"
+hash = "4f5fb25ad36c2bf5334f5846429d52eac20122158e84417c558b8c593d80169f"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
@@ -547,6 +560,11 @@ hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
 
 [[files]]
+file = "mods/brigo.pw.toml"
+hash = "099eb27213e656f0c45912f9f9677adaefa2fb485e1e48714642ee7ded6a528b"
+metafile = true
+
+[[files]]
 file = "mods/bwm-core.pw.toml"
 hash = "f5f881df50d3d6954eca98bfae0bc9a7bff5eb28f9099f841ae703b11ebb74ef"
 metafile = true
@@ -559,11 +577,6 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul-vintage.pw.toml"
 hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
-metafile = true
-
-[[files]]
-file = "mods/carbon-config.pw.toml"
-hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
 metafile = true
 
 [[files]]
@@ -631,6 +644,11 @@ hash = "1044f2ebb2dca156cc1b2da6ba56916c144e31929bb1d3e7fc39c501908e4786"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "a256d006c9e5262d5914301f2ad403deeff19cb8ba6aa519dc0405591b82b0ac"
+metafile = true
+
+[[files]]
 file = "mods/epic-siege-mod.pw.toml"
 hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
 metafile = true
@@ -643,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/fantastic-lib.pw.toml"
 hash = "b68ce842309d1369b6308cac6cba81c586c20bb8badcb84b9aaee2f0c05c89c8"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "8df6d0c594544ad4ef24073147bf99fbc942747e0256ba9933f5a8ad45497fdf"
 metafile = true
 
 [[files]]
@@ -951,6 +974,11 @@ hash = "58a01ac03f0eeb058842a2e8721364868e80d0b57c2cdc617f7ce9c12b2d7afc"
 metafile = true
 
 [[files]]
+file = "mods/worse-hurt-timer.pw.toml"
+hash = "19689aaf53823b59ac23d793b93c83cc42ac3f91357ded41b388a89531bb8ff5"
+metafile = true
+
+[[files]]
 file = "mods/wumpleutil.pw.toml"
 hash = "2db051fd89945ee7cb144ff9c0732faff281825dfd948ef95c119fbf4d482d65"
 metafile = true
@@ -1030,6 +1058,10 @@ hash = "c828dd59da832bed3772038625d2262ab8d644ab2645b531a816ef74b5817985"
 [[files]]
 file = "oresources/betterwithmods/textures/blocks/stumps/log_spruce_stump.png"
 hash = "2cc9d9159ae207affecc097690b31b821cd42eaa89b52ef73030ba8d680a9ce4"
+
+[[files]]
+file = "oresources/betterwithmods/textures/entity/sheared_creeper.png"
+hash = "08740cb3fee3c0df923c4d96f5c1e49dbaab23c8c6a47b66b9a65023b02f7659"
 
 [[files]]
 file = "oresources/betterwithmods/textures/items/steel_axe.png"
@@ -1308,6 +1340,10 @@ file = "oresources/pyrotech/textures/items/obsidian_hammer.png"
 hash = "d99d2c74cc61cfe4fa7e292ac9e53966bb489cb766fcff68b4bab89398f18b23"
 
 [[files]]
+file = "oresources/spartanweaponry/lang/en_us.lang"
+hash = "005381e645f12b71fae1ba0decc7afde7cf5b1d14537d8bd8a35bd4bd9c3d25f"
+
+[[files]]
 file = "oresources/treechop/textures/block/chopped_log.png"
 hash = "848f6f704b2400fee395971c65eb10cec1730598e958dfcd9a4e1b330d51ab25"
 
@@ -1426,7 +1462,7 @@ hash = "aab755f7d9e97e75df6615576ef50dc01dcda1f7c628b691c41f834354456d6d"
 
 [[files]]
 file = "scripts/bakedenchantments.zs"
-hash = "9e83ef3c4f46b2f3b42f3a448ad92e8478fd87f1cae425cd7a23f8d42119e01a"
+hash = "a6b2d5fc8ad511e63ed9d4c88f372566452ba48b7ffb49bd49033a3848b1924b"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_food.zs"
@@ -1442,19 +1478,19 @@ hash = "59e8242cb9ee98ca1d3af629d634e871d93871b2893489ce14f74451687ccc7a"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_soulforged_steel_anvil.zs"
-hash = "27153ceed416ce47c851eab34716b74bb4ce964c982a7fc4c31b47129f02ef44"
+hash = "0a14d7113cb5b7621a28e5c284ca4e3acf455492a2f167c02bf83cd6c795e3cf"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_stoked_crucible.zs"
 hash = "d18cda9b1514566b5dfb0d7a3b9c41a92210313b0809795197b92b6c1468031b"
 
 [[files]]
-file = "scripts/betterwithmods/bwm_stoked_kiln.zs"
-hash = "325dc75e7b981686a2a309727e8e8843f0e6bfd80657cba141bab0643cec344f"
+file = "scripts/blockhardness.zs"
+hash = "8a992ee8d062b332221404b46b1bb9bdd34cb49ef07f5419691b762a77d3d62e"
 
 [[files]]
 file = "scripts/futuremc/smithing_table.zs"
-hash = "eea3d4e9c7fc7310c2b9ee36a21ef25e2abaf1be99fa314434eb13341b23af82"
+hash = "86998823d8df0ff0bcf2956c7e0cc1dc32ae452b3e07647e4ec1be045974cb58"
 
 [[files]]
 file = "scripts/minecraft.zs"
@@ -1486,11 +1522,15 @@ hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/renaming.zs"
-hash = "d83de7bb8f77476b1ab93beb6e420147b6d5b41aef982f32296fd0028658516d"
+hash = "355e875898283437151f50c68bc599d1b6e41a5728845baeb00dc41cf14d28ca"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
 hash = "cfb47f94065bb1a67b8481d29dc1a1e28e5732b6e32fd284e7a6b62f44c41933"
+
+[[files]]
+file = "scripts/spartanweaponry/living.zs"
+hash = "71afd3bfe3a1d46541d5575a585cb36fd2ab2f71e4fe3f2e1c054c9a8538d378"
 
 [[files]]
 file = "scripts/spartanweaponry/stone.zs"

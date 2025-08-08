@@ -18,11 +18,11 @@ game.setLocalization("item.bwm:steel_chest.name","Soulforged Steel Chestplate");
 game.setLocalization("item.bwm:steel_pants.name","Soulforged Steel Leggings");
 game.setLocalization("item.bwm:steel_boots.name","Soulforged Steel Boots");
 
-game.setLocalization("item.pyrotech.stone.hammer.name", "Stone Crafting Mallet");
-game.setLocalization("item.pyrotech.gold.hammer.name", "Golden Crafting Mallet");
-game.setLocalization("item.pyrotech.iron.hammer.name", "Iron Crafting Mallet");
-game.setLocalization("item.pyrotech.diamond.hammer.name", "Diamond Crafting Mallet");
-game.setLocalization("item.pyrotech.obsidian.hammer.name", "Soulforged Steel Crafting Mallet");
+game.setLocalization("item.pyrotech.stone.hammer.name", "Stone Mallet");
+game.setLocalization("item.pyrotech.gold.hammer.name", "Golden Mallet");
+game.setLocalization("item.pyrotech.iron.hammer.name", "Iron Mallet");
+game.setLocalization("item.pyrotech.diamond.hammer.name", "Diamond Mallet");
+game.setLocalization("item.pyrotech.obsidian.hammer.name", "Soulforged Steel Mallet");
 
 game.setLocalization("item.srparasites.armor_helm.name", "Living Helmet");
 game.setLocalization("item.srparasites.armor_chest.name", "Living Chestplate");

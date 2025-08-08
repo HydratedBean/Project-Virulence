@@ -1,0 +1,12 @@
+<minecraft:stone_slab:4>.hardness = 125;
+<minecraft:stone_slab:5>.hardness = 125;
+<minecraft:stone_slab:6>.hardness = 125;
+<minecraft:brick_block>.hardness = 125;
+<minecraft:stonebrick:0>.hardness = 125;
+<minecraft:stonebrick:1>.hardness = 125;
+<minecraft:stonebrick:2>.hardness = 125;
+<minecraft:stonebrick:3>.hardness = 125;
+<minecraft:brick_stairs>.hardness = 125;
+<minecraft:stone_brick_stairs>.hardness = 125;
+<minecraft:nether_brick>.hardness = 125;
+<minecraft:nether_brick_stairs>.hardness = 125;
