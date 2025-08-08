@@ -1471,6 +1471,10 @@ file = "scripts/betterwithmods/bwm_stoked_crucible.zs"
 hash = "d18cda9b1514566b5dfb0d7a3b9c41a92210313b0809795197b92b6c1468031b"
 
 [[files]]
+file = "scripts/blockhardness.zs"
+hash = "8a992ee8d062b332221404b46b1bb9bdd34cb49ef07f5419691b762a77d3d62e"
+
+[[files]]
 file = "scripts/futuremc/smithing_table.zs"
 hash = "86998823d8df0ff0bcf2956c7e0cc1dc32ae452b3e07647e4ec1be045974cb58"
 
