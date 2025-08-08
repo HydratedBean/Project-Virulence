@@ -560,6 +560,11 @@ hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
 
 [[files]]
+file = "mods/brigo.pw.toml"
+hash = "099eb27213e656f0c45912f9f9677adaefa2fb485e1e48714642ee7ded6a528b"
+metafile = true
+
+[[files]]
 file = "mods/bwm-core.pw.toml"
 hash = "f5f881df50d3d6954eca98bfae0bc9a7bff5eb28f9099f841ae703b11ebb74ef"
 metafile = true
@@ -572,11 +577,6 @@ metafile = true
 [[files]]
 file = "mods/cameraoverhaul-vintage.pw.toml"
 hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
-metafile = true
-
-[[files]]
-file = "mods/carbon-config.pw.toml"
-hash = "ba3c7e8e07954fe95f568d934a014a752ef05b0230cbf285c2c104b03b4044ca"
 metafile = true
 
 [[files]]
