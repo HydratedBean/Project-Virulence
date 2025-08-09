@@ -469,6 +469,10 @@ file = "config/stackup/food.stackup"
 hash = "c5754ebba412ae1af8edad5c57c8d08c75949c58dfd2b1def4795cd40d5b0c33"
 
 [[files]]
+file = "config/twistedtweaks.cfg"
+hash = "4a5000f25e4b4e1c2405073ece8eb9f169ad6d5206de15130f9d165cd854dff5"
+
+[[files]]
 file = "config/vintagefix.properties"
 hash = "8e6fae79f9ef739a5f0bb40440d1b66b7c48fbb673c758e0f0e70cb76096332d"
 
@@ -956,6 +960,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "35e36fd9f33c9ed9893bdfd63db0a186e69c17daf3cf19ba03b021c44a6638ec"
+metafile = true
+
+[[files]]
+file = "mods/twisted-tweaks.pw.toml"
+hash = "8aaf542f25447c5a93130e0e9d5f5f1146fc48d078c1411fa42acb0bebd2bb58"
 metafile = true
 
 [[files]]

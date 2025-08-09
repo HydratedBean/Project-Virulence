@@ -1,4 +1,10 @@
 ![Project Virulence](resources/projectvirulence/title.png)
+## A modpack inspired by ULTRAKILL's Encore levels. Mixing and moving bits and pieces of the game around in ways you might not expect, while making everything more challenging.
+
+# CORE MODS
+- Pyrotech
+- Better With Mods
+- Scape and Run Parasites
 
 # FEATURES AND CHANGES
 - Wooden tools are skipped. Pick up some rocks, break up tree bark into sticks, and make stone tools.
@@ -15,6 +21,7 @@
 - Moon phases determine how dark night time is
 - Blood moons that increase monster spawn rates
 - Numerous changed crafting recipes to slow down progression
+- Acid Rain
 - Easy difficulty prevents mobs from attacking players (however they can still target and attack each other)
 
 # SCREENSHOTS
