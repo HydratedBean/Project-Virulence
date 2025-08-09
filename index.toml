@@ -154,7 +154,7 @@ hash = "bc5fd4f3467446ead3900fb27d31bf90dd28f1aacf7e191403b49b2a3d01c1b8"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
-hash = "dfadcbc9b33d728fd38a6a23a62aec648d87f982c097a0100c604ff3e5e98182"
+hash = "e0bb21eda22eb9aad661b5190d1b4c2c4307394d53f459d4c4e6511b0168aaaa"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -1121,7 +1121,7 @@ hash = "26e05523a320a7220d2b947414a839f0f18beb4085cd8c3160c2e41189fde796"
 
 [[files]]
 file = "oresources/minecraft/models/block/furnace.json"
-hash = "6cca5e70f7094c5c1b51b40694d8135fe6b8f45dc31745f9fcfca49bf5edd6c9"
+hash = "61d76e76ea7fc7d8211c3bf34f65c1e84b403b35b6aa9795f5c3daa1b968fa15"
 
 [[files]]
 file = "oresources/minecraft/models/block/lit_furnace.json"
