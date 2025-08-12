@@ -114,15 +114,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/Special_AI.cfg"
-hash = "66ed30ddcab3fe87e7e686fc246f52e975dd8ca86e6c80f509d855e24d700d33"
-
-[[files]]
-file = "config/apatheticmobs.cfg"
-hash = "869b782aaec6604f0efe322aea2a066eb1cc60058490d7248d2ca04072b6c22b"
+hash = "f5309bda64514bc7fd7877fb0732d8ede47b0a73a5b01a66e79eced150d4f244"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
-hash = "8b3ec1e1b1c0b37abe7dd47293137280734305037ff83e72ccd9ad8667fb8126"
+hash = "d21295cbf55c97cfc59716d1054e6297e4e46fba729b0ed64c00e405436758f1"
 
 [[files]]
 file = "config/betterhurttimer.cfg"
@@ -154,7 +150,7 @@ hash = "bc5fd4f3467446ead3900fb27d31bf90dd28f1aacf7e191403b49b2a3d01c1b8"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
-hash = "dfadcbc9b33d728fd38a6a23a62aec648d87f982c097a0100c604ff3e5e98182"
+hash = "e0bb21eda22eb9aad661b5190d1b4c2c4307394d53f459d4c4e6511b0168aaaa"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -238,7 +234,7 @@ hash = "624bd4c5cf1e4cbd75d0b267ff2cba768c530f5c0a0f09b26a58f97321c1f3bb"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
-hash = "791abcef88da3871c14b5736f7b34b262e0178dabb440051ed18ca67c09bd7a8"
+hash = "f0ddc9c3ff85f424b543a9699c5a2b5a8ca110dc1934e8ff50d31731b91c5c96"
 
 [[files]]
 file = "config/iblis_headshots.cfg"
@@ -462,11 +458,11 @@ hash = "b86cd1828dfd1bbd87ce2fd240f52d0d64ab6f67954d7d6db5ebb8a39a972983"
 
 [[files]]
 file = "config/stackup.cfg"
-hash = "b10883f9b5dc9ae75976380636b5f02192419581f6196e472246595c51b353e8"
+hash = "b35481a694a663c4c8c550e3a59d8404ef780f330e516d36d5bb99034c0fe87d"
 
 [[files]]
 file = "config/stackup/food.stackup"
-hash = "c5754ebba412ae1af8edad5c57c8d08c75949c58dfd2b1def4795cd40d5b0c33"
+hash = "be81497d9c46d89fc4b923985cb0dacc9f23bf296de1b82c347c7ade365593dd"
 
 [[files]]
 file = "config/vintagefix.properties"
@@ -500,18 +496,8 @@ hash = "b720ead1a383bbe9167f2c4c40775940412ff7d8bcd33bd4214d87be0270b81c"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "3778808688d9e39c0b0d58c171cc22786a83dd2ace5e52c1f19b67bffd232c0e"
-metafile = true
-
-[[files]]
 file = "mods/anvil-patch-lawful.pw.toml"
 hash = "51439acbfe2af529b2c3ee81267b48200d8724307d323dfb37432ed7913c21b5"
-metafile = true
-
-[[files]]
-file = "mods/apathetic-mobs.pw.toml"
-hash = "4f5fb25ad36c2bf5334f5846429d52eac20122158e84417c558b8c593d80169f"
 metafile = true
 
 [[files]]
@@ -545,11 +531,6 @@ hash = "cb7c8abeaf45f8981e79ae05e3e16c9d50949f2b3289cf2e59d9252ece752739"
 metafile = true
 
 [[files]]
-file = "mods/baked-enchants.pw.toml"
-hash = "8bb15d7abe8a91e3fd74b69a9d55c63a87bd88ae7455f787709db920a90b8ad8"
-metafile = true
-
-[[files]]
 file = "mods/better-invisibility.pw.toml"
 hash = "0470eb8ceb8f83cc263f47169ba7e1c60507ac58e78b77b800ac0a60e6ca16b5"
 metafile = true
@@ -575,18 +556,13 @@ hash = "756e7bfc38e2fc05755d3fa8ce3832aba2299edc5774cfb0540e538913cb1957"
 metafile = true
 
 [[files]]
-file = "mods/cameraoverhaul-vintage.pw.toml"
-hash = "9340360b1e807b72041bfd9eb53e34d2b55e12819e604ccb8059b0a4308f4eb5"
-metafile = true
-
-[[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
 hash = "3cb4d42e0b237256f5f56e0bf74c804584a3f32d4bcb840b07184baa400d75b8"
 metafile = true
 
 [[files]]
-file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
-hash = "deca53d442f7f6f52363b671ed49d4e000b6ec70a5aa31a9f0f93854b82c1b12"
+file = "mods/celeritas-forge-mc12.2-2.3.0-dev.jar"
+hash = "ab10bf4fe40c04049694e5d1b345f6158b43380ddc1e76f17cf895be24a0289d"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -824,11 +800,6 @@ hash = "6f9699ef531cb96bc7deaf77196b8cbe63a32360cdfebea8ffb9a2f6dd6b87c4"
 metafile = true
 
 [[files]]
-file = "mods/passable-leaves.pw.toml"
-hash = "ea12813c8bc6d3652e2e5b696959d03d1627e4ce2435a31a91a3bedbe71c4857"
-metafile = true
-
-[[files]]
 file = "mods/pyrotech.pw.toml"
 hash = "6af42b239eae2b46162a2ec88ba65db91a07555aba5101e8296025655b020bd4"
 metafile = true
@@ -989,11 +960,6 @@ hash = "642fd6d88e90ed6db1315a3a591e4ec57c72c39b18ae88b917412bdba841a1d1"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.pw.toml"
-hash = "9b56c87a5c4a4086096082adef912aa826248ed2a1b3dec4259c16bbc4bf448c"
-metafile = true
-
-[[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
 metafile = true
@@ -1002,38 +968,6 @@ metafile = true
 file = "mods/zume.pw.toml"
 hash = "b242b6de5a59d1f480d2af1cdee0c91cdce35f3d364496896de71445d0907dcc"
 metafile = true
-
-[[files]]
-file = "oresources/betterwithmods/models/block/stoked_flame.json"
-hash = "bcc1eff096669d471ce7ca5d1e673baed1f0ec818d27a94d70847cb6823d9754"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_axe.json"
-hash = "e0a0803dfe41b661448f7789ef78348b78b0415e06db057a4dba65a198100daa"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_battleaxe.json"
-hash = "7b6a41c9eeaf2cd4f8053fe9848f28e05b275106f85268fc7b6c16efe44b49e4"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_hoe.json"
-hash = "361f05df7a65a0129471aad881367cf4b78bcfd87c72bcfcf2d1ed3a94981f2e"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_mattock.json"
-hash = "d6a5a0b521363ecf6a3bcc26451cd963a609b0937865b89299f4dfd32abba543"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_pickaxe.json"
-hash = "9997afd4e0368cdfaa26db9a7c0f163fdb61ea5659d63b3459025387ac948840"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_shovel.json"
-hash = "c995fffe08891bc2bef50bb7025f9897c7a933eab31fa58cd37f03216e517568"
-
-[[files]]
-file = "oresources/betterwithmods/models/item/steel_sword.json"
-hash = "f32b2e56e5f3c64a0cc782a789068b9a473ea7ad9399744247383b0f791cbe57"
 
 [[files]]
 file = "oresources/betterwithmods/textures/blocks/stumps/log_acacia_stump.png"
@@ -1064,14 +998,6 @@ file = "oresources/betterwithmods/textures/entity/sheared_creeper.png"
 hash = "08740cb3fee3c0df923c4d96f5c1e49dbaab23c8c6a47b66b9a65023b02f7659"
 
 [[files]]
-file = "oresources/betterwithmods/textures/items/steel_axe.png"
-hash = "0aa5524099f96f2fef19e699d0bae99a1091c99fecdc2aa6819bc740122c8066"
-
-[[files]]
-file = "oresources/betterwithmods/textures/items/steel_battleaxe.png"
-hash = "0df53d8700732ea5d812c1b5a89211e831056b1e81c5ac2610deb5aca020bf63"
-
-[[files]]
 file = "oresources/betterwithmods/textures/items/steel_boots.png"
 hash = "7263edd4e05d9a7965b2684990bd80ba7e4bc114412a1ebb06aa9ae2344e0a81"
 
@@ -1084,32 +1010,12 @@ file = "oresources/betterwithmods/textures/items/steel_helmet.png"
 hash = "bd339f8ae7c2a6f63436f2801b826f40d2df7f9b3d5c372343321fc144eeee1f"
 
 [[files]]
-file = "oresources/betterwithmods/textures/items/steel_hoe.png"
-hash = "06221a6c50ef12c7df40451f434b932f97e3af48b1a199c53aa8a251b8a1db24"
-
-[[files]]
 file = "oresources/betterwithmods/textures/items/steel_ingot.png"
 hash = "df32cf032947fd6afa4cbb00423d596c6727d73d63f5aacd84e373c61f820667"
 
 [[files]]
-file = "oresources/betterwithmods/textures/items/steel_mattock.png"
-hash = "2b32098ef7080fdb2478c08d989419f03b42b8d094b9ded1697ba1d498329dbc"
-
-[[files]]
 file = "oresources/betterwithmods/textures/items/steel_pants.png"
 hash = "668c1d882b0b4bb82a506731db9868d4a60c469a39b9cf4e797897e68b977d21"
-
-[[files]]
-file = "oresources/betterwithmods/textures/items/steel_pickaxe.png"
-hash = "fc486e40e688585e2e333acf4feaffd2231c0e9e4c769fe140017ab5b5ca9dbd"
-
-[[files]]
-file = "oresources/betterwithmods/textures/items/steel_shovel.png"
-hash = "4976188f93b469d278ee9192e7f580c48219af663f8e3b6bcf2f62ff7118df93"
-
-[[files]]
-file = "oresources/betterwithmods/textures/items/steel_sword.png"
-hash = "b2fdedd8c39cd25668b4a4065c6770d6f5081f7cb9f95cb53ed6b301e00c007b"
 
 [[files]]
 file = "oresources/betterwithmods/textures/models/armor/steel_layer_1.png"
@@ -1121,7 +1027,7 @@ hash = "26e05523a320a7220d2b947414a839f0f18beb4085cd8c3160c2e41189fde796"
 
 [[files]]
 file = "oresources/minecraft/models/block/furnace.json"
-hash = "6cca5e70f7094c5c1b51b40694d8135fe6b8f45dc31745f9fcfca49bf5edd6c9"
+hash = "61d76e76ea7fc7d8211c3bf34f65c1e84b403b35b6aa9795f5c3daa1b968fa15"
 
 [[files]]
 file = "oresources/minecraft/models/block/lit_furnace.json"
@@ -1459,10 +1365,6 @@ hash = "c053d418fcfa2da77d83a803636e08d5f61b8e5d4b77047e0538c092a785485e"
 [[files]]
 file = "resources/projectvirulence/title.png"
 hash = "aab755f7d9e97e75df6615576ef50dc01dcda1f7c628b691c41f834354456d6d"
-
-[[files]]
-file = "scripts/bakedenchantments.zs"
-hash = "a6b2d5fc8ad511e63ed9d4c88f372566452ba48b7ffb49bd49033a3848b1924b"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_food.zs"

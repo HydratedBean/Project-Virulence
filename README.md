@@ -1,21 +1,16 @@
 ![Project Virulence](resources/projectvirulence/title.png)
+## A modpack inspired by ULTRAKILL's Encore levels. Mixing and moving bits and pieces of the game around in ways you might not expect, while making everything more challenging.
 
-# FEATURES AND CHANGES
-- Wooden tools are skipped. Pick up some rocks, break up tree bark into sticks, and make stone tools.
-- Easier tree chopping
-- Some backports from newer versions
+# FEATURES
+- Different progression
 - Faster and smarter mobs
 - New weapons to defend yourself with
 - Ability to use your offhand to attack
-- Numerous changed recipes
 - More challenging hunger system
-- Mechnical power
 - "Towering up" with blocks to escape mobs no longer works
 - Darker caves
 - Moon phases determine how dark night time is
 - Blood moons that increase monster spawn rates
-- Numerous changed crafting recipes to slow down progression
-- Easy difficulty prevents mobs from attacking players (however they can still target and attack each other)
 
 # SCREENSHOTS
 ![1](images/1.png)\
