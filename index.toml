@@ -561,8 +561,8 @@ hash = "3cb4d42e0b237256f5f56e0bf74c804584a3f32d4bcb840b07184baa400d75b8"
 metafile = true
 
 [[files]]
-file = "mods/celeritas-forge-1.12.2-2.3.0-dev.jar"
-hash = "deca53d442f7f6f52363b671ed49d4e000b6ec70a5aa31a9f0f93854b82c1b12"
+file = "mods/celeritas-forge-mc12.2-2.3.0-dev.jar"
+hash = "ab10bf4fe40c04049694e5d1b345f6158b43380ddc1e76f17cf895be24a0289d"
 
 [[files]]
 file = "mods/controlling.pw.toml"
