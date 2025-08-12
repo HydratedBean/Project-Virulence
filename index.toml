@@ -133,6 +133,14 @@ file = "config/bloodmoon.cfg"
 hash = "a905af96a4a0bd815671eb3f5ccc00410bfa62ad6c0c6ca640e0e66454f64c7e"
 
 [[files]]
+file = "config/deeperdepths/blocks.cfg"
+hash = "d108ffebdaa7dacabfee9f7eb675b7a9831a2b2fb922f2a7ca0fdfb8683477d3"
+
+[[files]]
+file = "config/deeperdepths/world.cfg"
+hash = "3faa94c173bb87a9f2b08e70bbb75a196606a91358c3716d8e9eeceb59ae9e76"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "8da15fab3a3e1cdf77f5703bebb6237311b1007e3824abeffa6d6bfd2621683a"
 
@@ -226,7 +234,7 @@ hash = "27ed549158acecd9552a31f88bfd4a37f2c571a0757ffe19d8dcc7b041bc8faf"
 
 [[files]]
 file = "config/fluidlogged_api/whitelist.cfg"
-hash = "b13e7389709ab1535e01a6addcb39fc7ab0bb60747d5d68a6ca7fcbb7e9ac395"
+hash = "dca5023d5597a0c36c6fb835e23962a6bcfd6ec33d1331fd58db21f371e1b99e"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -1033,6 +1041,18 @@ hash = "19bb7f4fd9e17a8e85471b04eec68f66feeb3f42bcb78605cfe4c9d6ee6fd1b7"
 [[files]]
 file = "oresources/betterwithmods/textures/models/armor/steel_layer_2.png"
 hash = "26e05523a320a7220d2b947414a839f0f18beb4085cd8c3160c2e41189fde796"
+
+[[files]]
+file = "oresources/deeperdepths/textures/blocks/copper_ore_default.png.mcmeta"
+hash = "5d6945c2e9630887a8d9f105f11a3fee066ddfbd474d0bec39633acbd4bdb91e"
+
+[[files]]
+file = "oresources/deeperdepths/textures/blocks/copper_ore_default_1.png"
+hash = "5aeba2d0347af2362ee1006d3c1c91dcf30779ce3ee3d1bad2bb2e9be468724f"
+
+[[files]]
+file = "oresources/deeperdepths/textures/blocks/copper_ore_default_2.png"
+hash = "48ad3b94d8f4a747c19b38d94918d4bf4c8ecc3e331178c8786a10186186d959"
 
 [[files]]
 file = "oresources/minecraft/models/block/furnace.json"
