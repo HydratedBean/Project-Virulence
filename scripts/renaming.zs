@@ -13,6 +13,7 @@ game.setLocalization("item.bwm:steel_shovel.name","Soulforged Steel Shovel");
 game.setLocalization("item.bwm:steel_hoe.name","Soulforged Steel Hoe");
 game.setLocalization("item.bwm:steel_battleaxe.name","Soulforged Steel Battleaxe");
 game.setLocalization("item.bwm:steel_mattock.name","Soulforged Steel Mattock");
+game.setLocalization("item.bwm:steel_hacksaw.name","Soulforged Steel Hacksaw");
 game.setLocalization("item.bwm:steel_helmet.name","Soulforged Steel Helmet");
 game.setLocalization("item.bwm:steel_chest.name","Soulforged Steel Chestplate");
 game.setLocalization("item.bwm:steel_pants.name","Soulforged Steel Leggings");
