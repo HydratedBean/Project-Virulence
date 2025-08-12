@@ -1,1 +1,0 @@
-mods.bakedenchants.BakedEnchants.removeAll();
