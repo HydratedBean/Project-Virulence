@@ -126,7 +126,7 @@ hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "d19e6e40fe43beb598e920cafbe14b841348cda381a4853ee87e983439d6b9aa"
+hash = "bbb7d2f5c0ac421bfa1bbe095f08340ef107ab8df42b31c0c4f54f19d807afb8"
 
 [[files]]
 file = "config/bloodmoon.cfg"
@@ -143,6 +143,10 @@ hash = "30287344c69a45a4196f78aa82dc9b0eb9211ac9315aea24572903dac4ed5853"
 [[files]]
 file = "config/dshuds.cfg"
 hash = "8b8d9b0cb2235f28c3d657a6876e783ebc28c6ab6baa6c19f132fe76129d4887"
+
+[[files]]
+file = "config/dynaores.cfg"
+hash = "4d9e672c756819e024cd8cd10aa406d577b4fd47037fe36fdbd2efff33ddf244"
 
 [[files]]
 file = "config/esm/entity_ai.json"
@@ -522,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlas-lib.pw.toml"
-hash = "127f1b0e6fb5f83fc4a9a85a878f88e7f95b450373778b1056b02112ff7ab190"
+hash = "a8a44e87004d9f84d919ff8c57bdf23b6c0b8b7b826e50baba7e513f47d46090"
 metafile = true
 
 [[files]]
@@ -587,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/deeper-depths.pw.toml"
+hash = "5510d91155797da22f8f79d51fb0634445416445a0e704786ea15afb3f5c2dbb"
 metafile = true
 
 [[files]]
@@ -1388,7 +1397,7 @@ hash = "d18cda9b1514566b5dfb0d7a3b9c41a92210313b0809795197b92b6c1468031b"
 
 [[files]]
 file = "scripts/blockhardness.zs"
-hash = "8a992ee8d062b332221404b46b1bb9bdd34cb49ef07f5419691b762a77d3d62e"
+hash = "7d74eff68420f9cc3b945d774fa3a0ac1f570893392113a273108d59b91f90d8"
 
 [[files]]
 file = "scripts/futuremc/smithing_table.zs"
@@ -1424,7 +1433,7 @@ hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/renaming.zs"
-hash = "355e875898283437151f50c68bc599d1b6e41a5728845baeb00dc41cf14d28ca"
+hash = "4ff8ef64d4b69f57f5ecdad04581683c62a637a50db19a8de8714a63fa1bfbc7"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
