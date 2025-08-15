@@ -1,0 +1,13 @@
+name = "Combat Refined"
+filename = "combatrefined-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "456978d7eb09b4df447e556ed661b57b45623525"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2722937
+project-id = 322583

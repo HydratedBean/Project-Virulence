@@ -1,10 +1,11 @@
-game.setLocalization("item.helmetCloth","Leather Helmet");
-game.setLocalization("item.chestplateCloth","Leather Chestplate");
-game.setLocalization("item.leggingsCloth","Leather Leggings");
+game.setLocalization("item.helmetCloth.name","Leather Helmet");
+game.setLocalization("item.chestplateCloth.name","Leather Chestplate");
+game.setLocalization("item.leggingsCloth.name","Leather Leggings");
 game.setLocalization("item.fish.cod.raw.name","Raw Cod");
 game.setLocalization("item.fish.cod.cooked.name","Cooked Cod");
 game.setLocalization("item.fish.clownfish.raw.name","Tropical Fish");
 game.setLocalization("item.cauldron.name","Wash Tub");
+game.setLocalization("item.enchantedBook.name","Imbued Tome");
 
 game.setLocalization("item.bwm:steel_sword.name","Soulforged Steel Sword");
 game.setLocalization("item.bwm:steel_pickaxe.name","Soulforged Steel Pickaxe");

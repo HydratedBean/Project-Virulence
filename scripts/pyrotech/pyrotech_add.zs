@@ -51,32 +51,32 @@ recipes.addShapeless("dough", <pyrotech:material:50> * 4, [<minecraft:milk_bucke
 
 recipes.addShapedMirrored("drying_rack", <pyrotech:drying_rack:1>,
    [[null, <minecraft:ladder>, null],
-   [<minecraft:ladder>, null, <minecraft:ladder>]]);
+    [<minecraft:ladder>, null, <minecraft:ladder>]]);
 
 recipes.addShapedMirrored("stone_rod", <pyrotech:material:27>,
    [[<pyrotech:material:16>],
-   [<pyrotech:material:16>]]);
+    [<pyrotech:material:16>]]);
 
 recipes.addShapedMirrored("cobbled_granite_from_rocks", <pyrotech:cobblestone:2>,
    [[<pyrotech:rock:1>, <pyrotech:rock:1>],
-   [<pyrotech:rock:1>, <pyrotech:rock:1>]]);
+    [<pyrotech:rock:1>, <pyrotech:rock:1>]]);
 
 recipes.addShapedMirrored("cobbled_diorite_from_rocks", <pyrotech:cobblestone:1>,
    [[<pyrotech:rock:2>, <pyrotech:rock:2>],
-   [<pyrotech:rock:2>, <pyrotech:rock:2>]]);
+    [<pyrotech:rock:2>, <pyrotech:rock:2>]]);
 
 recipes.addShapedMirrored("cobbled_andesite_from_rocks", <pyrotech:cobblestone:0>,
    [[<pyrotech:rock:3>, <pyrotech:rock:3>],
-   [<pyrotech:rock:3>, <pyrotech:rock:3>]]);
+    [<pyrotech:rock:3>, <pyrotech:rock:3>]]);
 
 recipes.addShapedMirrored("cobbled_limestone_from_rocks", <pyrotech:cobblestone:3>,
    [[<pyrotech:rock:8>, <pyrotech:rock:8>],
-   [<pyrotech:rock:8>, <pyrotech:rock:8>]]);
+    [<pyrotech:rock:8>, <pyrotech:rock:8>]]);
 
 recipes.addShapedMirrored("worktable", <pyrotech:worktable>,
    [[<ore:plankWood>, <ore:plankWood>],
-   [<ore:plankWood>, <ore:plankWood>]]);
+    [<ore:plankWood>, <ore:plankWood>]]);
 
 recipes.addShapedMirrored("stone_hammer", <pyrotech:stone_hammer>,
    [[<pyrotech:rock>, <pyrotech:material:12>],
-   [<ore:stickWood>, <pyrotech:rock>]]);
+    [<ore:stickWood>, <pyrotech:rock>]]);

@@ -1,7 +1,18 @@
 import mods.tabulator.Tabs;
 
+# Misc.
+Tabs.removeTab("materials.base");
+Tabs.remove(<coroutil:repairing_block>);
+Tabs.remove(<coroutil:item_repairing_gel>);
+Tabs.remove(<wumpleutil:repairing_block>);
+
 # Minecraft
 Tabs.remove(<minecraft:shield>);
+Tabs.remove(<minecraft:wooden_axe>);
+Tabs.remove(<minecraft:wooden_hoe>);
+Tabs.remove(<minecraft:wooden_pickaxe>);
+Tabs.remove(<minecraft:wooden_shovel>);
+Tabs.remove(<minecraft:wooden_sword>);
 
 # SRP
 Tabs.remove(<srparasites:weapon_maul>);

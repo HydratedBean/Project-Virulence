@@ -1,0 +1,13 @@
+name = "Anvil Patch - Evil"
+filename = "anvilpatchevil-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40c1ae92423e4865157d3d5f3417fa93cccf90a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5793369
+project-id = 1117567

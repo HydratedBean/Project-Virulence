@@ -1,0 +1,13 @@
+name = "Bundles Backport"
+filename = "Bundles-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "984677647178be0f8fe7f826736098599350b90c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6339953
+project-id = 902861
