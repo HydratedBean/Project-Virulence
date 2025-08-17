@@ -3,11 +3,11 @@ filename = "SpartanWeaponry-1.12.2-1.6.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/icU5P2Mk/versions/x2dB3EKv/SpartanWeaponry-1.12.2-1.6.1.jar"
-hash-format = "sha512"
-hash = "10f446286aa79136fc4a0d98d0e96eb29c7e9b76b9bf49d5a162fcf63cb12355305d5d0d0d8a2d9842607e43a9b93770da3872e3abf13f6bb40187e820614706"
+hash-format = "sha1"
+hash = "0f4c533dbd1a9f6e9383bac0f6fef4cb80354fc3"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "icU5P2Mk"
-version = "x2dB3EKv"
+[update.curseforge]
+file-id = 6839689
+project-id = 278141

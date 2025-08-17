@@ -3,11 +3,11 @@ filename = "SpartanShields-1.12.2-1.5.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W5rjEyqs/versions/1.5.5/SpartanShields-1.12.2-1.5.5.jar"
-hash-format = "sha512"
-hash = "19d381281f5d6b09037f224cb9bb7021ab45859087f313c511be6c56cfcd69fcfb9a59a502b0e7f7f8b5972bc5c910e136f69420f16c3c64044e718e42a3eb96"
+hash-format = "sha1"
+hash = "89faa64364dfaa6799392e8f71da95e7b5af1144"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "W5rjEyqs"
-version = "PpoSqemC"
+[update.curseforge]
+file-id = 3567495
+project-id = 252239

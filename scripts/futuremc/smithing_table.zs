@@ -19,4 +19,4 @@ SmithingTable.addRecipe(<spartanweaponry:saber_steel>, <srparasites:parasiterubb
 SmithingTable.addRecipe(<spartanweaponry:throwing_axe_steel>, <srparasites:parasiterubble:6>, <swparasites:throwing_axe_living>);
 SmithingTable.addRecipe(<spartanweaponry:warhammer_steel>, <srparasites:parasiterubble:6>, <swparasites:warhammer_living>);
 
-SmithingTable.addRecipe(<deeperdepths:material:0>, <deeperdepths:material:1>, <contenttweaker:blank_tome>);
+SmithingTable.addRecipe(<deeperdepths:material:0>, <ore:wax>, <contenttweaker:blank_tome>);

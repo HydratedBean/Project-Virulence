@@ -3,11 +3,11 @@ filename = "SereneSeasons-1.12.2-1.2.18-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0bNACJD/versions/BMsrDMPq/SereneSeasons-1.12.2-1.2.18-universal.jar"
-hash-format = "sha512"
-hash = "94e4bf115a8cf30204fa2d195548532ea6fed0c264405b1cb832a735821288f87aa3dcae5925ab2d38a40576555c7da611115e58604e5ff1bcd23392447a6d1a"
+hash-format = "sha1"
+hash = "05acc4faf6f5ca31215599c0ebf778ba18a9121b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "e0bNACJD"
-version = "BMsrDMPq"
+[update.curseforge]
+file-id = 2799213
+project-id = 291874

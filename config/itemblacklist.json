@@ -1,0 +1,476 @@
+{
+  "__GLOBAL__": [
+    {
+      "item": "coroutil:repairing_block",
+      "damage": "*"
+    },
+    {
+      "item": "coroutil:item_repairing_gel",
+      "damage": "*"
+    },
+    {
+      "item": "wumpleutil:repairing_block",
+      "damage": "*"
+    },
+    {
+      "item": "minecraft:shield",
+      "damage": "*"
+    },
+    {
+      "item": "minecraft:wooden_axe",
+      "damage": "*"
+    },
+    {
+      "item": "minecraft:wooden_hoe",
+      "damage": "*"
+    },
+    {
+      "item": "minecraft:wooden_pickaxe",
+      "damage": "*"
+    },
+    {
+      "item": "minecraft:wooden_shovel",
+      "damage": "*"
+    },
+    {
+      "item": "minecraft:wooden_sword",
+      "damage": "*"
+    },
+    {
+      "item": "srparasites:weapon_maul",
+      "damage": "*"
+    },
+    {
+      "item": "srparasites:weapon_maul_sentient",
+      "damage": "*"
+    },
+    {
+      "item": "srparasites:weapon_lance",
+      "damage": "*"
+    },
+    {
+      "item": "srparasites:weapon_lance_sentient",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:mechanical_compacting_bin",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:fluid.lamp_oil",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:trip_hammer",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:furnace_core",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:bone_hammer",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_diamond",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "39"
+    },
+    {
+      "item": "pyrotech:brick_sawmill",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:faucet_stone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "47"
+    },
+    {
+      "item": "pyrotech:mechanical_mulch_spreader",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:mechanical_hopper",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:chopping_block",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:bellows",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:anvil_granite",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:worktable_stone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_obsidian",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cog_obsidian",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:torch_stone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cog_gold",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_iron",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:tanning_rack",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "38"
+    },
+    {
+      "item": "pyrotech:soaking_pot",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:compacting_bin",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:faucet_brick",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "40"
+    },
+    {
+      "item": "pyrotech:stone_sawmill",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "42"
+    },
+    {
+      "item": "pyrotech:cog_wood",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:flint_hammer_durable",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "44"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_bone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:bone_hammer_durable",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:flint_hammer",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cog_iron",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:barrel_lid",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:compost_bin",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:mechanical_bellows",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:drying_rack",
+      "damage": "0"
+    },
+    {
+      "item": "pyrotech:cog_diamond",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:barrel",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "43"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_gold",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cog_bone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:torch_fiber",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:anvil_iron_plated",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:anvil_obsidian",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:crude_hammer",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cog_stone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cog_flint",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_stone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:sawmill_blade_flint",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "17"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "24"
+    },
+    {
+      "item": "pyrotech:fluid.liquid_clay",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:fluid.pyroberry_wine",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:fluid.gloamberry_wine",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:fluid.freckleberry_wine",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "1"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "2"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "3"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "4"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "5"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "6"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "7"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "8"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "9"
+    },
+    {
+      "item": "pyrotech:rock",
+      "damage": "10"
+    },
+    {
+      "item": "pyrotech:rock_grass",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:rock_netherrack",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:slag_glass",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:fossil_ore",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:dense_coal_ore",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:dense_nether_coal_ore",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:farmland_mulched",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:planks_tarred",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:pile_wood_chips",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:wool_tarred",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:charcoal_block",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:wood_tar_block",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:living_tar",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "8"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "11"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "2"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "18"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "19"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "20"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "22"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "23"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "25"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "26"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "32"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "33"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "34"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "35"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "41"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "45"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "46"
+    },
+    {
+      "item": "pyrotech:material",
+      "damage": "49"
+    },
+    {
+      "item": "pyrotech:mulch",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:cobblestone",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:lamp_oil",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:stone_crucible",
+      "damage": "*"
+    },
+    {
+      "item": "pyrotech:brick_crucible",
+      "damage": "*"
+    }
+  ]
+}

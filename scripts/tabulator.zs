@@ -126,3 +126,6 @@ Tabs.remove(<pyrotech:cobblestone:0>);
 Tabs.remove(<pyrotech:cobblestone:1>);
 Tabs.remove(<pyrotech:cobblestone:2>);
 Tabs.remove(<pyrotech:cobblestone:3>);
+Tabs.remove(<pyrotech:lamp_oil>);
+Tabs.remove(<pyrotech:stone_crucible>);
+Tabs.remove(<pyrotech:brick_crucible>);
