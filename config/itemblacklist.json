@@ -37,6 +37,14 @@
       "damage": "*"
     },
     {
+      "item": "betterwithmods:candle",
+      "damage": "*"
+    },
+    {
+      "item": "betterwithmods:candle_holder",
+      "damage": "*"
+    },
+    {
       "item": "srparasites:weapon_maul",
       "damage": "*"
     },

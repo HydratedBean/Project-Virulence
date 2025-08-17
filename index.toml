@@ -133,6 +133,10 @@ file = "config/Universal Tweaks - Tweaks.cfg"
 hash = "65eb838fc0e7a40736fb1ff023ce0194e3126af03a019abedfdcdea9efb045bf"
 
 [[files]]
+file = "config/apatheticmobs.cfg"
+hash = "12712ca08333cb862960bcb2bc25986179137d44630cde6bb6285d49df12cd9a"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
 hash = "5617524485ccdc958f7058baa561b5cbf609797b7cf78d8c5fff10ae2a664eef"
 
@@ -142,7 +146,7 @@ hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "c5bdc9d3f14eebdae83e1ebc98f80d2a39778552f7d04dfe96d676094f3f9114"
+hash = "9844053f93f2f6957b63da146953883feae8553a75e7e4b1a6a5b70d2c880026"
 
 [[files]]
 file = "config/blockinteractionmod.cfg"
@@ -151,6 +155,10 @@ hash = "c5d05b4e0eed4ca922b7913ff2253657ec3b4be01e614a6af4b750a3c5a7c095"
 [[files]]
 file = "config/bloodmoon.cfg"
 hash = "a905af96a4a0bd815671eb3f5ccc00410bfa62ad6c0c6ca640e0e66454f64c7e"
+
+[[files]]
+file = "config/celeritas-options.json"
+hash = "99739c3b9890c0636ffb58281fd5b0cd572a8f18f5443b2cb72b316ca04d69f8"
 
 [[files]]
 file = "config/deeperdepths/blocks.cfg"
@@ -282,7 +290,7 @@ hash = "fb2e0b538de3e0a224c8fac0d0d5c56dbaca14f12f4fa979f74c65fba9645967"
 
 [[files]]
 file = "config/itemblacklist.json"
-hash = "a8b91f70979ff0a307be155b12bca003cfc2e76c2cd2a9245a22ba10517e93d3"
+hash = "4fdc14626562119d18d2113a63f9d9fa26d262b3d7b4006c1dd2d983e8426fcb"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -474,7 +482,7 @@ hash = "81c573a26fd80be6673b5a0c1fa4e6745cc4b722b322b096936f19171f3da7bf"
 
 [[files]]
 file = "config/spartanshields.cfg"
-hash = "88051d650a4bb978b23c53f7a99b08caddc030adfe603787930831bb23ea0ab9"
+hash = "076ce29036322c89c73dc87902a5601d44790d2fb70c564ee9aa32176422fe7e"
 
 [[files]]
 file = "config/spartanweaponry.cfg"
@@ -542,6 +550,16 @@ metafile = true
 [[files]]
 file = "mods/anvil-patch-evil.pw.toml"
 hash = "19fb641c0463135810aa4e093224907b50acc3886fca446fe0c7cbc57dd84dbd"
+metafile = true
+
+[[files]]
+file = "mods/apathetic-mobs.pw.toml"
+hash = "4f5fb25ad36c2bf5334f5846429d52eac20122158e84417c558b8c593d80169f"
+metafile = true
+
+[[files]]
+file = "mods/applecore.pw.toml"
+hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
 metafile = true
 
 [[files]]
@@ -781,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/hardcore-buoyance.pw.toml"
 hash = "19875ab7dbdaf0a21062942d18f2eb64a3291022924e3a9407591aaf0d62ecb1"
+metafile = true
+
+[[files]]
+file = "mods/hunger-in-peace.pw.toml"
+hash = "1d74b23e5db6e2feaf7618cc23c6b69300547520c8be01adaa267b06435d9c73"
 metafile = true
 
 [[files]]
@@ -1493,7 +1516,7 @@ hash = "964452569c73e0d8e6debba7134a02abbd442f8f99fa8d9842e5dbf6aa9289cd"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_remove.zs"
-hash = "59e8242cb9ee98ca1d3af629d634e871d93871b2893489ce14f74451687ccc7a"
+hash = "96aae6c5f5daf82efaa09d19f469be1d2f3c9c95491e0be543c3f55249bf435b"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_soulforged_steel_anvil.zs"
@@ -1561,4 +1584,4 @@ hash = "4dd9ba500c7afadf5e7d47efe636eddde6f63eb90907a935e5707c81b6011304"
 
 [[files]]
 file = "scripts/tabulator.zs"
-hash = "988fbf8ff63b9f600217c417904d6eb109510f8ed5b89c56f9608ab771b1f913"
+hash = "c6d5db8e3ce479eaa10bb30a761e0fe3753eef07a93f163f0f136b20fd79b489"

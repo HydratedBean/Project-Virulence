@@ -14,6 +14,10 @@ Tabs.remove(<minecraft:wooden_pickaxe>);
 Tabs.remove(<minecraft:wooden_shovel>);
 Tabs.remove(<minecraft:wooden_sword>);
 
+# BWM
+Tabs.remove(<betterwithmods:candle>);
+Tabs.remove(<betterwithmods:candle_holder>);
+
 # SRP
 Tabs.remove(<srparasites:weapon_maul>);
 Tabs.remove(<srparasites:weapon_maul_sentient>);
