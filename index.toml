@@ -134,7 +134,11 @@ hash = "65eb838fc0e7a40736fb1ff023ce0194e3126af03a019abedfdcdea9efb045bf"
 
 [[files]]
 file = "config/apatheticmobs.cfg"
-hash = "12712ca08333cb862960bcb2bc25986179137d44630cde6bb6285d49df12cd9a"
+hash = "abc06af434e1da5e888696e30870b24f567c699440cf81f1a80d99f1736ba556"
+
+[[files]]
+file = "config/aquaacrobatics.cfg"
+hash = "13560e4efff8e074456859e37feb75561e2307350c4442bf861497df967a32e8"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
@@ -146,7 +150,7 @@ hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "9844053f93f2f6957b63da146953883feae8553a75e7e4b1a6a5b70d2c880026"
+hash = "f3ab5aea6f40150d885b40f711893f12d5a27ba5d0ee1e6d22260b37ced095cf"
 
 [[files]]
 file = "config/blockinteractionmod.cfg"
@@ -314,7 +318,7 @@ hash = "e7cf6ee7d045332d956363bf17737d3b9474ba39926b96472998ac9605a4d633"
 
 [[files]]
 file = "config/mobsunscreen.cfg"
-hash = "c08d006861760916ce5fb4185d28938462d027a6d01eb87e1e98004cee33d735"
+hash = "7cc0f19293515835a24b4093eed6dd9919de96f4970ec0ed73cb49795e9695c2"
 
 [[files]]
 file = "config/normalasm.cfg"
@@ -482,7 +486,7 @@ hash = "81c573a26fd80be6673b5a0c1fa4e6745cc4b722b322b096936f19171f3da7bf"
 
 [[files]]
 file = "config/spartanshields.cfg"
-hash = "076ce29036322c89c73dc87902a5601d44790d2fb70c564ee9aa32176422fe7e"
+hash = "9e9c6adf76848c9c53a755e42757f7b536891f7f272a3184d97970eca43a3f27"
 
 [[files]]
 file = "config/spartanweaponry.cfg"
@@ -1540,7 +1544,7 @@ hash = "8b716e11ab9b48fd224bd5c614bebd37b59dd8c471208e7448671e49f6531efa"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "34af554d01ac60fe39ce5176d27742784fcbc823dbfc606a7524aa93eb6f364a"
+hash = "88127fff9c2ce8a2bb3eb69cf6984ef8beeed919a492bd8ec9277e229ce21ea2"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"

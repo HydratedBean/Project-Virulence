@@ -169,6 +169,36 @@ recipes.addShapedMirrored("black_bed", <minecraft:bed:15>,
     [<ore:slabWood>, <ore:slabWood>, <ore:slabWood>],
     [<ore:fenceWood>, null, <ore:fenceWood>]]);
 
+recipes.addShapedMirrored("oak_door", <minecraft:wooden_door> * 2,
+   [[<minecraft:planks:0>, <minecraft:planks:0>],
+    [<minecraft:planks:0>, <minecraft:planks:0>],
+    [<minecraft:planks:0>, <minecraft:planks:0>]]);
+
+recipes.addShapedMirrored("spruce_door", <minecraft:spruce_door> * 2,
+   [[<minecraft:planks:1>, <minecraft:planks:1>],
+    [<minecraft:planks:1>, <minecraft:planks:1>],
+    [<minecraft:planks:1>, <minecraft:planks:1>]]);
+
+recipes.addShapedMirrored("birch_door", <minecraft:birch_door> * 2,
+   [[<minecraft:planks:2>, <minecraft:planks:2>],
+    [<minecraft:planks:2>, <minecraft:planks:2>],
+    [<minecraft:planks:2>, <minecraft:planks:2>]]);
+
+recipes.addShapedMirrored("jungle_door", <minecraft:jungle_door> * 2,
+   [[<minecraft:planks:3>, <minecraft:planks:3>],
+    [<minecraft:planks:3>, <minecraft:planks:3>],
+    [<minecraft:planks:3>, <minecraft:planks:3>]]);
+
+recipes.addShapedMirrored("acacia_door", <minecraft:acacia_door> * 2,
+   [[<minecraft:planks:4>, <minecraft:planks:4>],
+    [<minecraft:planks:4>, <minecraft:planks:4>],
+    [<minecraft:planks:4>, <minecraft:planks:4>]]);
+
+recipes.addShapedMirrored("dark_oak_door", <minecraft:dark_oak_door> * 2,
+   [[<minecraft:planks:5>, <minecraft:planks:5>],
+    [<minecraft:planks:5>, <minecraft:planks:5>],
+    [<minecraft:planks:5>, <minecraft:planks:5>]]);
+
 # FURNACE
 furnace.addRecipe(<minecraft:brick>, <betterwithmods:unfired_pottery:4>);
 furnace.addRecipe(<pyrotech:material:13>, <pyrotech:material:12>);
