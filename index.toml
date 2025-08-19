@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-forge-mc12.2-2.3.0-dev.jar"
-hash = "a7da61386a261fa77cea491710934291be14bf6a9294dea1d2a238f3eb49f53b"
+hash = "d85a4895eb05835f38e89dbe93ff55961a9c4c2ad5c6d55e8de6d4f26ff34e5f"
 
 [[files]]
 file = "mods/contenttweaker.pw.toml"
