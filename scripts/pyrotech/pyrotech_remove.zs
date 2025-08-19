@@ -188,6 +188,10 @@ recipes.removeByRecipeName("pyrotech:clay_lump");
 mods.jei.JEI.removeAndHide(<pyrotech:material:17>);
 recipes.removeByRecipeName("pyrotech:unfired_brick");
 mods.jei.JEI.removeAndHide(<pyrotech:material:24>);
+recipes.removeByRecipeName("pyrotech:tech/machine/stone_crucible");
+mods.jei.JEI.removeAndHide(<pyrotech:stone_crucible>);
+recipes.removeByRecipeName("pyrotech:tech/machine/brick_crucible");
+mods.jei.JEI.removeAndHide(<pyrotech:brick_crucible>);
 
 mods.jei.JEI.removeAndHide(<pyrotech:fluid.liquid_clay>);
 mods.jei.JEI.removeAndHide(<pyrotech:fluid.pyroberry_wine>);

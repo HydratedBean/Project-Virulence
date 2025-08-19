@@ -1,13 +1,13 @@
-name = "ModularWarfare"
+name = "ModularWarfare - Guns & more"
 filename = "modularwarfare-2.4.2f.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IkpfYUd0/versions/IvGwhObZ/modularwarfare-2.4.2f.jar"
-hash-format = "sha512"
-hash = "a9304325fa4cbeadffe390c7c905d85bccb802786757b53d8541342c3f4d226ca274cb779b58305a3245698bd089a2fc6014ffc8274e947fd8d85c8100211937"
+hash-format = "sha1"
+hash = "a6c00b819de6dd4f602d9395278946fd48c2b877"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "IkpfYUd0"
-version = "IvGwhObZ"
+[update.curseforge]
+file-id = 4426196
+project-id = 350869

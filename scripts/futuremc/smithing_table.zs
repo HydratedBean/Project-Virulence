@@ -19,7 +19,4 @@ SmithingTable.addRecipe(<spartanweaponry:saber_steel>, <srparasites:parasiterubb
 SmithingTable.addRecipe(<spartanweaponry:throwing_axe_steel>, <srparasites:parasiterubble:6>, <swparasites:throwing_axe_living>);
 SmithingTable.addRecipe(<spartanweaponry:warhammer_steel>, <srparasites:parasiterubble:6>, <swparasites:warhammer_living>);
 
-SmithingTable.addRecipe(<srparasites:armor_helm>, <swparasites:living_nucleus>, <srparasites:armor_helm_sentient>);
-SmithingTable.addRecipe(<srparasites:armor_chest>, <swparasites:living_nucleus>, <srparasites:armor_chest_sentient>);
-SmithingTable.addRecipe(<srparasites:armor_pants>, <swparasites:living_nucleus>, <srparasites:armor_pants_sentient>);
-SmithingTable.addRecipe(<srparasites:armor_boots>, <swparasites:living_nucleus>, <srparasites:armor_boots_sentient>);
+SmithingTable.addRecipe(<deeperdepths:material:0>, <ore:wax>, <contenttweaker:blank_tome>);

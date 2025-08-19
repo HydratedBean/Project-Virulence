@@ -1,0 +1,13 @@
+name = "BlockInteraction"
+filename = "BlockInteractionMod-0.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f1dad3d7e3aff8cd688395ee371596b080cbc48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6130933
+project-id = 967349

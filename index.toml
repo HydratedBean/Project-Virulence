@@ -117,8 +117,32 @@ file = "config/Special_AI.cfg"
 hash = "f5309bda64514bc7fd7877fb0732d8ede47b0a73a5b01a66e79eced150d4f244"
 
 [[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "5519e86c973f1c4f1ae0732476172a6b57e77e6d14fe32a1c880dc48cd27db06"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "779a24626bd05542919d84a1b5af3b55d514ef806e3dc1063e5cec085727bdb7"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "e5e53bfa8d32c4ed6db14c6ae057c88a1c7d5fff9caf9233a4d20b6f9472e682"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "65eb838fc0e7a40736fb1ff023ce0194e3126af03a019abedfdcdea9efb045bf"
+
+[[files]]
+file = "config/apatheticmobs.cfg"
+hash = "abc06af434e1da5e888696e30870b24f567c699440cf81f1a80d99f1736ba556"
+
+[[files]]
+file = "config/aquaacrobatics.cfg"
+hash = "13560e4efff8e074456859e37feb75561e2307350c4442bf861497df967a32e8"
+
+[[files]]
 file = "config/bettercombatmod.cfg"
-hash = "d21295cbf55c97cfc59716d1054e6297e4e46fba729b0ed64c00e405436758f1"
+hash = "5617524485ccdc958f7058baa561b5cbf609797b7cf78d8c5fff10ae2a664eef"
 
 [[files]]
 file = "config/betterhurttimer.cfg"
@@ -126,11 +150,19 @@ hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "bbb7d2f5c0ac421bfa1bbe095f08340ef107ab8df42b31c0c4f54f19d807afb8"
+hash = "f3ab5aea6f40150d885b40f711893f12d5a27ba5d0ee1e6d22260b37ced095cf"
+
+[[files]]
+file = "config/blockinteractionmod.cfg"
+hash = "c5d05b4e0eed4ca922b7913ff2253657ec3b4be01e614a6af4b750a3c5a7c095"
 
 [[files]]
 file = "config/bloodmoon.cfg"
 hash = "a905af96a4a0bd815671eb3f5ccc00410bfa62ad6c0c6ca640e0e66454f64c7e"
+
+[[files]]
+file = "config/celeritas-options.json"
+hash = "99739c3b9890c0636ffb58281fd5b0cd572a8f18f5443b2cb72b316ca04d69f8"
 
 [[files]]
 file = "config/deeperdepths/blocks.cfg"
@@ -150,7 +182,7 @@ hash = "30287344c69a45a4196f78aa82dc9b0eb9211ac9315aea24572903dac4ed5853"
 
 [[files]]
 file = "config/dshuds.cfg"
-hash = "8b8d9b0cb2235f28c3d657a6876e783ebc28c6ab6baa6c19f132fe76129d4887"
+hash = "540467e8b8388244f7876687b14d160107b43b42bcb3149f483ec361ef9f725e"
 
 [[files]]
 file = "config/dynaores.cfg"
@@ -162,7 +194,7 @@ hash = "bc5fd4f3467446ead3900fb27d31bf90dd28f1aacf7e191403b49b2a3d01c1b8"
 
 [[files]]
 file = "config/esm/epicsiegemod.cfg"
-hash = "e0bb21eda22eb9aad661b5190d1b4c2c4307394d53f459d4c4e6511b0168aaaa"
+hash = "c9b9735098f54138de76b4eff0e0278c776a7e4b63e06682d83f60c016b647e3"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -234,7 +266,7 @@ hash = "27ed549158acecd9552a31f88bfd4a37f2c571a0757ffe19d8dcc7b041bc8faf"
 
 [[files]]
 file = "config/fluidlogged_api/whitelist.cfg"
-hash = "dca5023d5597a0c36c6fb835e23962a6bcfd6ec33d1331fd58db21f371e1b99e"
+hash = "2a14cab26faf4f22ab197780c024f640f88abc6030f36c2d9e39b85fa821f8d0"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer.cfg"
@@ -242,15 +274,27 @@ hash = "6339cf7f13365ceabf2672a3ab291793cf381b10535472a71bdae2f3076c655a"
 
 [[files]]
 file = "config/futurefireproof.cfg"
-hash = "624bd4c5cf1e4cbd75d0b267ff2cba768c530f5c0a0f09b26a58f97321c1f3bb"
+hash = "0af2524e304fb740f13cb6dbaa4272a3900c203021c0bf8113c5668bb5cdeb43"
 
 [[files]]
 file = "config/futuremc/futuremc.cfg"
 hash = "f0ddc9c3ff85f424b543a9699c5a2b5a8ca110dc1934e8ff50d31731b91c5c96"
 
 [[files]]
+file = "config/gravestone.cfg"
+hash = "0742a3e4ec3ac83efa3450861be5c9f2af58e12f2fb1a4f3c94d6c51d261439e"
+
+[[files]]
 file = "config/iblis_headshots.cfg"
 hash = "94cb72e78a445be6997e148d91fad0a0d6eff1f426398b6df5a6d4fe06d0ace3"
+
+[[files]]
+file = "config/itemblacklist.cfg"
+hash = "fb2e0b538de3e0a224c8fac0d0d5c56dbaca14f12f4fa979f74c65fba9645967"
+
+[[files]]
+file = "config/itemblacklist.json"
+hash = "4fdc14626562119d18d2113a63f9d9fa26d262b3d7b4006c1dd2d983e8426fcb"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
@@ -274,7 +318,7 @@ hash = "e7cf6ee7d045332d956363bf17737d3b9474ba39926b96472998ac9605a4d633"
 
 [[files]]
 file = "config/mobsunscreen.cfg"
-hash = "c08d006861760916ce5fb4185d28938462d027a6d01eb87e1e98004cee33d735"
+hash = "7cc0f19293515835a24b4093eed6dd9919de96f4970ec0ed73cb49795e9695c2"
 
 [[files]]
 file = "config/normalasm.cfg"
@@ -286,27 +330,31 @@ hash = "547d76223000afb92acda8a8e90bd6ef9923d8892b8496272a05eda2f5e87166"
 
 [[files]]
 file = "config/nutrition/effects/mining_fatigue.json"
-hash = "80a1dc9e636df3385fd97e37d9af1258d256f46e698d4c335a34ae72353eefb1"
+hash = "290c8a0a859f6d6630fde08f3e9ea9710943e07bf76b20c53d2df66338a827d6"
 
 [[files]]
 file = "config/nutrition/effects/resistance.json"
-hash = "e9f231c68bbe2f6e0f725186f94f317dcacc6ecddcbf1fa8e5f201e53faba572"
+hash = "b9acaaae373177c45157c738f30b8e006b32990bad7826e4cd130b1384d58205"
+
+[[files]]
+file = "config/nutrition/effects/speed.json"
+hash = "ada3fb3a282fb6741c00986cb569e9201983dcdc1fb77631d89ad43c7c4a4495"
 
 [[files]]
 file = "config/nutrition/effects/strength.json"
-hash = "c028940a1ff1fed5472671227706d32110f049e1f746047404be824ef900a81d"
+hash = "7782908057ebc785ba0b3752acc699b92b622a9e24e0fb86b27a560b1a4e39b5"
 
 [[files]]
 file = "config/nutrition/effects/toughness.json"
-hash = "c91d1af60916cb36c3f50f2e6e752cb9fb38505d922df347e552449de64865da"
+hash = "e2d47c9c307b7228ee4923c78e94e015f34f04a6f6a356e63ab31cbb5dd9cee7"
 
 [[files]]
 file = "config/nutrition/effects/weakness.json"
-hash = "fa85a4d88706a9298533033b1cabe7d071b55c7828e9e8a3df74924393c953b4"
+hash = "93be438fa48b5afa8935b091ae287811a0593da88924ba1342dce40eb5edf24f"
 
 [[files]]
 file = "config/nutrition/nutrients/dairy.json"
-hash = "393ffe1d6483160efd3154d7622d7e31a9f9d895f04beea43ccd583d870ef647"
+hash = "1de86301555bac13d4280ea385bcaea990c7943456b4c08597d31458b8e83451"
 
 [[files]]
 file = "config/nutrition/nutrients/example.json"
@@ -330,7 +378,7 @@ hash = "584e795a5a7d85b65f027cd3b313d4189a8738cc3b1f22da597239e816e92950"
 
 [[files]]
 file = "config/nutrition/nutrition.cfg"
-hash = "e59b92162833d205c66ee95ce3e6346e918a05078c34af164c694433754e5e70"
+hash = "14555abba3d9984215b614c416e36f7e25d80aea8c3ca7004a794cbea2c541de"
 
 [[files]]
 file = "config/pyrotech/core.OreDict-Custom.json"
@@ -342,7 +390,7 @@ hash = "954535357266426fd10f8d880c8b02d54e03591d07b3d0fb05ecf80455e60527"
 
 [[files]]
 file = "config/pyrotech/core.cfg"
-hash = "656a16c7b197bd01135cbc322180934cbbd63b1601476539fa05f3166cbc62f3"
+hash = "e8e517f6270e72cb3cf36097e257e0de37f79473b84c3600f3adc70413f155ed"
 
 [[files]]
 file = "config/pyrotech/core.compat.Ore-Custom.json"
@@ -426,11 +474,11 @@ hash = "ee23296029c3c260dfd86fa78d30b66ac2610c23ff2f9f137e3055a986112967"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "92b42db7303204a60f74f84ad827d155ac507aefccde38859a0620edf5029084"
+hash = "32b33575474248e8fb56b61db26b02ba4f06260f8459d75e6499b75dceb1188a"
 
 [[files]]
 file = "config/sereneseasons/cropfertility.cfg"
-hash = "9f33b6163278a0060f3ea1ebd3eafcba7312033e0614a01c5e15b0c82ab37996"
+hash = "8aaf6bfca1e35261e22053daa1f18b73f0997dd8eeb519baff96d2815ba70f58"
 
 [[files]]
 file = "config/setbonus/1.12.2.009+.cfg"
@@ -438,7 +486,7 @@ hash = "81c573a26fd80be6673b5a0c1fa4e6745cc4b722b322b096936f19171f3da7bf"
 
 [[files]]
 file = "config/spartanshields.cfg"
-hash = "88051d650a4bb978b23c53f7a99b08caddc030adfe603787930831bb23ea0ab9"
+hash = "9e9c6adf76848c9c53a755e42757f7b536891f7f272a3184d97970eca43a3f27"
 
 [[files]]
 file = "config/spartanweaponry.cfg"
@@ -474,23 +522,19 @@ hash = "b35481a694a663c4c8c550e3a59d8404ef780f330e516d36d5bb99034c0fe87d"
 
 [[files]]
 file = "config/stackup/food.stackup"
-hash = "be81497d9c46d89fc4b923985cb0dacc9f23bf296de1b82c347c7ade365593dd"
+hash = "b6f3cdf30bb0d00aaa130f8b09b8bf376384d9b5f9e5e3739883533e29fc063f"
+
+[[files]]
+file = "config/unexperienced.cfg"
+hash = "03d0344d141764f672e664341a422e6785c28ee373559306de085a305f2c791d"
 
 [[files]]
 file = "config/vintagefix.properties"
 hash = "8e6fae79f9ef739a5f0bb40440d1b66b7c48fbb673c758e0f0e70cb76096332d"
 
 [[files]]
-file = "config/waila/theme/dark.json"
-hash = "848b780f884a2b47fab859db663a8ea3b2ae0ee4384dac9b0a64ca80e85d67c6"
-
-[[files]]
-file = "config/waila/theme/vanilla.json"
-hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
-
-[[files]]
 file = "config/waila/waila.cfg"
-hash = "77d1beb36fbc0fa1c2f342bc3d1fd6dc9f37db95a8b5b785548032b443f3bc2b"
+hash = "a920c9093e318c7e6afa2eaf8846a24ff255caae57d5e3989f1ca27916919741"
 
 [[files]]
 file = "mods/aainfo.pw.toml"
@@ -504,17 +548,27 @@ metafile = true
 
 [[files]]
 file = "mods/alfheim-lighting-engine.pw.toml"
-hash = "b720ead1a383bbe9167f2c4c40775940412ff7d8bcd33bd4214d87be0270b81c"
+hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
 metafile = true
 
 [[files]]
-file = "mods/anvil-patch-lawful.pw.toml"
-hash = "51439acbfe2af529b2c3ee81267b48200d8724307d323dfb37432ed7913c21b5"
+file = "mods/anvil-patch-evil.pw.toml"
+hash = "19fb641c0463135810aa4e093224907b50acc3886fca446fe0c7cbc57dd84dbd"
+metafile = true
+
+[[files]]
+file = "mods/apathetic-mobs.pw.toml"
+hash = "4f5fb25ad36c2bf5334f5846429d52eac20122158e84417c558b8c593d80169f"
 metafile = true
 
 [[files]]
 file = "mods/applecore.pw.toml"
 hash = "840faece1c6e2411435603e97b90e6e7d2e939cd1f0faecd251c6a95d06b7ea4"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
@@ -539,7 +593,12 @@ metafile = true
 
 [[files]]
 file = "mods/autoreglib.pw.toml"
-hash = "cb7c8abeaf45f8981e79ae05e3e16c9d50949f2b3289cf2e59d9252ece752739"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+metafile = true
+
+[[files]]
+file = "mods/base.pw.toml"
+hash = "a177b39c27d5529675c2af3a83529a69a2067eefa76e9ffa80e8f642ac9d839f"
 metafile = true
 
 [[files]]
@@ -548,13 +607,28 @@ hash = "0470eb8ceb8f83cc263f47169ba7e1c60507ac58e78b77b800ac0a60e6ca16b5"
 metafile = true
 
 [[files]]
+file = "mods/blockinteraction.pw.toml"
+hash = "5fbcbce07763326bac90df73dedd665411ea3dac57b4f578f52ccce08be6cb38"
+metafile = true
+
+[[files]]
 file = "mods/bloodmoon.pw.toml"
 hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "9b29f8c649940c076771dae2b5de364eaa3b44d65a5f993bdc3482623c82e9b8"
+metafile = true
+
+[[files]]
 file = "mods/brigo.pw.toml"
 hash = "099eb27213e656f0c45912f9f9677adaefa2fb485e1e48714642ee7ded6a528b"
+metafile = true
+
+[[files]]
+file = "mods/bundles-backport.pw.toml"
+hash = "4d47c9cc758f3e2848288b0781e8fc30ca88ed8fc522decd18443863b3a44e71"
 metafile = true
 
 [[files]]
@@ -569,16 +643,21 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "3cb4d42e0b237256f5f56e0bf74c804584a3f32d4bcb840b07184baa400d75b8"
+hash = "4a0a6095d86145cc92591758a19a501a24bf063f649a3f108ba88173083d97c2"
 metafile = true
 
 [[files]]
 file = "mods/celeritas-forge-mc12.2-2.3.0-dev.jar"
-hash = "ab10bf4fe40c04049694e5d1b345f6158b43380ddc1e76f17cf895be24a0289d"
+hash = "d85a4895eb05835f38e89dbe93ff55961a9c4c2ad5c6d55e8de6d4f26ff34e5f"
+
+[[files]]
+file = "mods/contenttweaker.pw.toml"
+hash = "920813af35febabbbef23879f800feeba4d308c11c0fec3728b2629d6bed8692"
+metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a52181b941b7d5504aa07a232a2636065294e45fdb17ac5fbb879b8ce7af4773"
+hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
 metafile = true
 
 [[files]]
@@ -589,11 +668,6 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "04806c99d8cbfeab368bb24f88fbe503934cab19abf4bf7a4fee67833a2e1f40"
-metafile = true
-
-[[files]]
-file = "mods/creativecore.pw.toml"
-hash = "4ac54074b11216aa6cf6bfd99b1d7e24169ad48b9030b2b01ec18ba95d762135"
 metafile = true
 
 [[files]]
@@ -633,17 +707,32 @@ metafile = true
 
 [[files]]
 file = "mods/dynaores.pw.toml"
-hash = "1044f2ebb2dca156cc1b2da6ba56916c144e31929bb1d3e7fc39c501908e4786"
+hash = "106e088c1d7d112f123ed26e3f72d5a78c4f4178852ca5b18cf0ccf385e299f5"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "a256d006c9e5262d5914301f2ad403deeff19cb8ba6aa519dc0405591b82b0ac"
+hash = "8d21de09cd5f0c9cdf43d5b77b7333bfb68fba67e47578d3d46f08e5864f8bd0"
+metafile = true
+
+[[files]]
+file = "mods/editableedibles.pw.toml"
+hash = "708d9ebd9c8d0cb3aecb2a6afae33afc2431966e12eb8bed1a199979c674e63b"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
 metafile = true
 
 [[files]]
 file = "mods/epic-siege-mod.pw.toml"
 hash = "94f6a3d42c20d0e022ae802cca23568d8e288b086e9b2667527d798257b26f59"
+metafile = true
+
+[[files]]
+file = "mods/extended-days.pw.toml"
+hash = "367364e1166349bee55435205049e5633cbaab4fab4d7e8fa4ca96b37224b5b2"
 metafile = true
 
 [[files]]
@@ -657,18 +746,13 @@ hash = "b68ce842309d1369b6308cac6cba81c586c20bb8badcb84b9aaee2f0c05c89c8"
 metafile = true
 
 [[files]]
-file = "mods/fastquit-forge.pw.toml"
-hash = "8df6d0c594544ad4ef24073147bf99fbc942747e0256ba9933f5a8ad45497fdf"
-metafile = true
-
-[[files]]
 file = "mods/fermiumasm.pw.toml"
-hash = "f7484ff1a7655695763970df350e5e5dd655467fd4b95823d9cbff409d49bfcb"
+hash = "c27eafc724f6b77054c2cb44e1eab0490de18a623e3c17312b1363bd6af7ccdb"
 metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "329cd996315315f1e93c0b6c3f84efee9b73fca07fdcd058cfe808f8568ac67f"
+hash = "1eb8ec104f6a592e8c2be7da9db23dda26d83efe14b3f26b71851596e407927b"
 metafile = true
 
 [[files]]
@@ -678,22 +762,22 @@ metafile = true
 
 [[files]]
 file = "mods/forgelin-continuous.pw.toml"
-hash = "a1e1ef7d4eba2404581d60fe50f672a5a3ea6d14e33ef6b665e7e5f9e6384b87"
+hash = "80afddac6d73ecd4bd2ada3cad1dd187cc5396b4d3538968a3675089c5e0a486"
 metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "1f998d790af8119c415ed179131a1d6d8b1978a90f32ae9340ccdf239077299d"
+hash = "2571263ec4228ca6c6d2cdbf677bbb7b07622382163f606630304696ba5d4abc"
 metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "07a8746ecc9a2156a63be186f3bc39ee29e00136985bae1e93fd8bb331f8c831"
+hash = "eebb0c1e4fde92fd9233fb99fda7b72b02f1c8385091bef4e3651825bb5e0d91"
 metafile = true
 
 [[files]]
 file = "mods/future-fireproof.pw.toml"
-hash = "abac4023c3c234d4787c63deb816f6727d04e5966d8c8082b3733c4ec757e318"
+hash = "00c1af49526a139c54790f51cf475f0d06072f3b849d5fc136a6eb310a43ee8e"
 metafile = true
 
 [[files]]
@@ -703,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
-hash = "04ef9b96f7d8493ae1e7d4d11f7a077e1751f2a6c45b7649864a95e0adf7129f"
+hash = "8f137ee8120548601de516ef55eff0c4a499a924dd2cce53b3fb702634bb920c"
 metafile = true
 
 [[files]]
@@ -713,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "aa9c988fb6802e30ed33bef317b87f12e0a171d4a9650da80f5c969964643c8b"
+hash = "d679b885e6bb9d53553a64f0b3b29e56e249ee5782b0769f0203ead3a17fa95e"
 metafile = true
 
 [[files]]
@@ -722,8 +806,13 @@ hash = "19875ab7dbdaf0a21062942d18f2eb64a3291022924e3a9407591aaf0d62ecb1"
 metafile = true
 
 [[files]]
+file = "mods/hunger-in-peace.pw.toml"
+hash = "1d74b23e5db6e2feaf7618cc23c6b69300547520c8be01adaa267b06435d9c73"
+metafile = true
+
+[[files]]
 file = "mods/hwyla.pw.toml"
-hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
@@ -733,7 +822,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-bogosorter.pw.toml"
-hash = "51ad661a19c7cadd253de3dd4d33bc4ac89dbeef4b8ac9d78d0d9e7ab4ab24c1"
+hash = "d7961a9ee9eaf2ab8178f92fb7cbd9a7aeb221b79660770a44d0716d5f82ba7d"
+metafile = true
+
+[[files]]
+file = "mods/item-blacklist.pw.toml"
+hash = "774884eb257bdc6613ca71de5fb6618269e0e7bd0dfc4203caa563d58e0d8dfc"
 metafile = true
 
 [[files]]
@@ -758,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcgltf.pw.toml"
-hash = "83b961eec06dadfad97d466399049bbab391ef3c2f343b0287e799ac3d8f771a"
+hash = "b0e7fd5304ae9bf8016337cd22daa9d9faf32088cce53e6ab1ec2f27a8b52a68"
 metafile = true
 
 [[files]]
@@ -773,12 +867,12 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "bf50631491148d51d1184c5255202642818a53c5f54f1495b2284ca8b1e07eb4"
+hash = "b6687ee824c3aab78a9ef39d1c690345cfdef25723649f0fe8bfbb1da7d99612"
 metafile = true
 
 [[files]]
 file = "mods/modularwarfare.pw.toml"
-hash = "9c677256ee398777b58515bfbe8fadf8010c227dfec192dde55477e27a046648"
+hash = "7f18ca6496a86be2fae4052e8b6125596bf9372c35e610f08b5228668a67c669"
 metafile = true
 
 [[files]]
@@ -798,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/nutrition-unofficial-extended-life.pw.toml"
-hash = "a8120f65abc8b4180cba6e56384adc3c27b7245273e6d00e033610bb41dc91d9"
+hash = "49ef98c9e26fe47efdf649c9932e851c17ee52ae1596fb5156a486a3b61590ee"
 metafile = true
 
 [[files]]
@@ -813,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "6f9699ef531cb96bc7deaf77196b8cbe63a32360cdfebea8ffb9a2f6dd6b87c4"
+hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
 metafile = true
 
 [[files]]
@@ -823,12 +917,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark-oddities.pw.toml"
-hash = "3f75c1c33aa255a3c12759dd99abd4fe7b409d3f2f015bc9e33e9c18431f40fa"
+hash = "9ab2d2f7a009920ff0c75575d0e3f2cdd1aa765c70ff37e9bf5efabde7aed918"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "20c69833ab1070d44599e14db7069a0e1232c490f2988378065d8708cabdf2ad"
+hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
@@ -838,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-core.pw.toml"
-hash = "ac9cca051823089b6f0158464be26e3c75d83c590a698a76c8a788475017df99"
+hash = "61e97e8f79b9a9cb28e118275ece40ac1c14048aba7b153a2b99f14091208613"
 metafile = true
 
 [[files]]
@@ -847,13 +941,8 @@ hash = "5b23fff02027846cadc887ffe26fce12a4e20bdee2cc0c06732897a44f364357"
 metafile = true
 
 [[files]]
-file = "mods/responsiveshields.pw.toml"
-hash = "c3958ee00e8add6e097c217a01c6d4d6c818d489d3bcfb216df59d1479f2295c"
-metafile = true
-
-[[files]]
 file = "mods/rlcombat.pw.toml"
-hash = "d0b6a3d67cc21661d31dba689f7d628184604cb3c00cbe5331df58315c97e1d2"
+hash = "de0542893df995bc5ba4ee03945f58bfa345c2cfebac72f626ec674437a05be4"
 metafile = true
 
 [[files]]
@@ -878,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "b4468c89e9fe6284af2a108985c46ee6b1d742896e4664de531123a8350755e6"
+hash = "537667da8b18765eb6b6a4041ca23651f1c7b16caf1b206992012ffdf7df2ed4"
 metafile = true
 
 [[files]]
@@ -887,8 +976,18 @@ hash = "973d33a84f1fb134954e87e3070afd28b93ce60b64ff63a361f8454d34c17594"
 metafile = true
 
 [[files]]
+file = "mods/shield-delay-fix.pw.toml"
+hash = "e4bbf8a3f516d4d689fe78e72eedc91753d87f99da0ff30d1177b99fe760b34b"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
+metafile = true
+
+[[files]]
 file = "mods/sledgehammer.pw.toml"
-hash = "48f2d45241510db831478b94b89db8209a88929f8b3a20fbd5024d4eb14b7f62"
+hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
 metafile = true
 
 [[files]]
@@ -898,12 +997,12 @@ metafile = true
 
 [[files]]
 file = "mods/spartan-shields.pw.toml"
-hash = "adb41e0070f1c95f3f99a5153f20545cf239dddb7350ad87d0cbf166a7b72e3d"
+hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
 metafile = true
 
 [[files]]
 file = "mods/spartan-weaponry.pw.toml"
-hash = "8ffbfc0727c0ae3b0e9dfaa8e6dd130b670641a8c7aee97d4d9c03d9969b8651"
+hash = "8a0f793d75f97249d1cccfebed0187fe2ee7c35ed455f3f6c3645b1e4a4b7d79"
 metafile = true
 
 [[files]]
@@ -943,17 +1042,22 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "35e36fd9f33c9ed9893bdfd63db0a186e69c17daf3cf19ba03b021c44a6638ec"
+hash = "b89e19ad4e520e0bdbbdb5520ce9d1b917909b5ff3b595ee4279cb26b83160bf"
+metafile = true
+
+[[files]]
+file = "mods/unexperienced.pw.toml"
+hash = "943470df4a88d23d763d764f79f79bb94c3f7b2efa737c27527e346062a6ade0"
 metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "64c9942170913b1ed13af546ae524cab84cae0802b78683ebbfe5597f31ffde4"
+hash = "b5f39d01a85a2d61db11ea5fbe74e7e5627c40740dd4648f8bed9f240e6178f9"
 metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "b016a6133e902eccc5327267ec34b466394b488c9a90de41c6d6edb83e233241"
+hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
 metafile = true
 
 [[files]]
@@ -969,11 +1073,6 @@ metafile = true
 [[files]]
 file = "mods/wumpleutil.pw.toml"
 hash = "2db051fd89945ee7cb144ff9c0732faff281825dfd948ef95c119fbf4d482d65"
-metafile = true
-
-[[files]]
-file = "mods/xp-orb-clump.pw.toml"
-hash = "642fd6d88e90ed6db1315a3a591e4ec57c72c39b18ae88b917412bdba841a1d1"
 metafile = true
 
 [[files]]
@@ -1255,8 +1354,20 @@ file = "oresources/minecraft/textures/entity/zombie/zombie.png"
 hash = "59a79212e7e8042c12f88a3108a1a83fc73a7fda69af1b7e0ce28ff41adc0f11"
 
 [[files]]
+file = "oresources/minecraft/textures/items/book_enchanted.png"
+hash = "3be9d06528ecac6ca211895a0a06225bcd8dd9e144f443b8d8906751fade31b8"
+
+[[files]]
 file = "oresources/minecraft/textures/items/elytra.png"
 hash = "878c0717dba1e8ddbf7bebdb148f1d9ccdecf0e21abf88824447f12ee5cd5e47"
+
+[[files]]
+file = "oresources/minecraft/textures/misc/enchanted_item_glint.png"
+hash = "b7f74be850b5ab1d44f3b0fc83eae92178f9d1c5cfbb2753ac6d69edd2d7048d"
+
+[[files]]
+file = "oresources/minecraft/textures/misc/enchanted_item_glint.png.mcmeta"
+hash = "a4f5e3c3235dd128ee6d2ce397217e8c77037dbcf641aaa5bef65824e3b4b168"
 
 [[files]]
 file = "oresources/minecraft/textures/misc/shadow.png"
@@ -1364,6 +1475,10 @@ hash = "6ee9893fdfc013203c9e849ebbe5626059aa842b3f281a0f587f9361a728bfc0"
 metafile = true
 
 [[files]]
+file = "resources/contenttweaker/textures/items/blank_tome.png"
+hash = "f48bf0943df0714c7baa7e7636f61c27cc447e6ead5c00a28559523dfa994518"
+
+[[files]]
 file = "resources/projectvirulence/backgrounds/01.png"
 hash = "1c2ec9b12ee3f00bf75402bfee69db2c2d92ddd60e4301204bd2bdfd74f1cbda"
 
@@ -1405,31 +1520,35 @@ hash = "964452569c73e0d8e6debba7134a02abbd442f8f99fa8d9842e5dbf6aa9289cd"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_remove.zs"
-hash = "59e8242cb9ee98ca1d3af629d634e871d93871b2893489ce14f74451687ccc7a"
+hash = "96aae6c5f5daf82efaa09d19f469be1d2f3c9c95491e0be543c3f55249bf435b"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_soulforged_steel_anvil.zs"
-hash = "0a14d7113cb5b7621a28e5c284ca4e3acf455492a2f167c02bf83cd6c795e3cf"
+hash = "e95803908a858d68eb439712ab50edb7dc3bbbcc6af6b714aec0e13de766dd19"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_stoked_crucible.zs"
-hash = "d18cda9b1514566b5dfb0d7a3b9c41a92210313b0809795197b92b6c1468031b"
+hash = "0707603db2916213b509d533700c1ca236eed5b0d8075f2695d2263da16c1a3d"
 
 [[files]]
 file = "scripts/blockhardness.zs"
 hash = "7d74eff68420f9cc3b945d774fa3a0ac1f570893392113a273108d59b91f90d8"
 
 [[files]]
+file = "scripts/contenttweaker.zs"
+hash = "6ba9edcdbefce9965228693774245e275163eb04147e1e089637ab28d4336b17"
+
+[[files]]
 file = "scripts/futuremc/smithing_table.zs"
-hash = "86998823d8df0ff0bcf2956c7e0cc1dc32ae452b3e07647e4ec1be045974cb58"
+hash = "8b716e11ab9b48fd224bd5c614bebd37b59dd8c471208e7448671e49f6531efa"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "589a80796a686fe26f14f491f1d3fdd2dad0c6add58e38c7cc40fa6edeba6bac"
+hash = "88127fff9c2ce8a2bb3eb69cf6984ef8beeed919a492bd8ec9277e229ce21ea2"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"
-hash = "cb4e45005337556fca4313bfaeecc732a2480d9b74d3254f2e941de91a4aa0e0"
+hash = "ab935650714afcc3e6dfbc5179a75f070711934a53cc2f538e599605fdee573b"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_pit_kiln.zs"
@@ -1441,7 +1560,7 @@ hash = "dadc858dea2a191b6f3934f5e4e8082895c51dd01b50d47f0cb09c2f2ffef795"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_remove.zs"
-hash = "dc42d5bc42061a488d41daff12737f6800e138af0a1442d4fb62b6537af64547"
+hash = "fd7a97bf7352d1af5bce11148f491a2480a84c0193b6cb980385797791631102"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_stone_kiln.zs"
@@ -1453,7 +1572,7 @@ hash = "388e0b6b8e2a68cfc0b711414f4ad9338c182eb36e402f01f129ec63fa75008f"
 
 [[files]]
 file = "scripts/renaming.zs"
-hash = "4ff8ef64d4b69f57f5ecdad04581683c62a637a50db19a8de8714a63fa1bfbc7"
+hash = "b7b83271a7113464755ff555f3acb8bc148fc4ad0b982112ae6e3bb98a7fb68c"
 
 [[files]]
 file = "scripts/spartanweaponry/diamond.zs"
@@ -1469,4 +1588,4 @@ hash = "4dd9ba500c7afadf5e7d47efe636eddde6f63eb90907a935e5707c81b6011304"
 
 [[files]]
 file = "scripts/tabulator.zs"
-hash = "42f671e4797404adc7415543ac3795bcdfa35d2b09cd4d28899edb37cd413d31"
+hash = "c6d5db8e3ce479eaa10bb30a761e0fe3753eef07a93f163f0f136b20fd79b489"

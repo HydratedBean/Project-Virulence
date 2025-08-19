@@ -1,13 +1,13 @@
 name = "RLCombat"
-filename = "RLCombat-1.12.2-2.2.1.jar"
+filename = "RLCombat-1.12.2-2.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xeKkaaS4/versions/6P1rF2qs/RLCombat-1.12.2-2.2.1.jar"
-hash-format = "sha512"
-hash = "685f0c43c93111ed7b2e5ed9d876878b3788ba7e626fb66d136f1b1d6d4428ff083d1364637e8cf9ff20e387f9695732db0e06baf47c9f056085937f982accf3"
+hash-format = "sha1"
+hash = "2fb81ed0440f83e33fab88754ec73f2c71bdca69"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "xeKkaaS4"
-version = "6P1rF2qs"
+[update.curseforge]
+file-id = 5940474
+project-id = 711714

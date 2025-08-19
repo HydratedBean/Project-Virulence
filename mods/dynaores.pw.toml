@@ -1,13 +1,13 @@
 name = "Dynamic Raw Ores"
-filename = "Dynamic-Raw-Ores-1.12.2-1.0.4.jar"
+filename = "Dynamic-Raw-Ores-1.12.2-1.0.4a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6137add1a2f074fd65bf264dc830b2fcea9053e9"
+hash = "5a78666b1431a0d1a05efb6f564d0bb64fd2a147"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6847629
+file-id = 6867589
 project-id = 1056043

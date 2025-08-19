@@ -1,0 +1,13 @@
+name = "Extended Days"
+filename = "ExtendedDays-1.12.2-0.2.9-28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccc8681d407641648e8d0879d44b8fb2bfe8d31d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2643053
+project-id = 284707

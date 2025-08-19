@@ -1,0 +1,13 @@
+name = "EditableEdibles"
+filename = "EditableEdibles-1.3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "791695393d4ede8ec380b30bf76f39e23b68d4a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6808042
+project-id = 1052472

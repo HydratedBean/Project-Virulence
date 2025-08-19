@@ -1,7 +1,22 @@
 import mods.tabulator.Tabs;
 
+# Misc.
+Tabs.removeTab("materials.base");
+Tabs.remove(<coroutil:repairing_block>);
+Tabs.remove(<coroutil:item_repairing_gel>);
+Tabs.remove(<wumpleutil:repairing_block>);
+
 # Minecraft
 Tabs.remove(<minecraft:shield>);
+Tabs.remove(<minecraft:wooden_axe>);
+Tabs.remove(<minecraft:wooden_hoe>);
+Tabs.remove(<minecraft:wooden_pickaxe>);
+Tabs.remove(<minecraft:wooden_shovel>);
+Tabs.remove(<minecraft:wooden_sword>);
+
+# BWM
+Tabs.remove(<betterwithmods:candle>);
+Tabs.remove(<betterwithmods:candle_holder>);
 
 # SRP
 Tabs.remove(<srparasites:weapon_maul>);
@@ -115,3 +130,6 @@ Tabs.remove(<pyrotech:cobblestone:0>);
 Tabs.remove(<pyrotech:cobblestone:1>);
 Tabs.remove(<pyrotech:cobblestone:2>);
 Tabs.remove(<pyrotech:cobblestone:3>);
+Tabs.remove(<pyrotech:lamp_oil>);
+Tabs.remove(<pyrotech:stone_crucible>);
+Tabs.remove(<pyrotech:brick_crucible>);
