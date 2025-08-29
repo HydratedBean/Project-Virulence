@@ -58,3 +58,7 @@ mods.betterwithmods.Anvil.addShapedFixed(<spartanweaponry:boomerang_steel>,
      [<betterwithmods:material:14>, null, null, null],
      [<betterwithmods:material:36>, null, null, null],
      [<betterwithmods:material:36>, null, null, null]]);
+
+mods.betterwithmods.Anvil.addShapedFixed(<modularwarfare:projectvirulence.item.shotgun>,
+    [[<betterwithmods:material:14>, <betterwithmods:material:48>, <betterwithmods:material:14>, <betterwithmods:material:14>],
+     [<betterwithmods:material:14>, <minecraft:tripwire_hook>, null, null]]);
