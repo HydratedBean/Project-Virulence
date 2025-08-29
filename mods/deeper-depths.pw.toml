@@ -1,13 +1,13 @@
 name = "Deeper Depths"
-filename = "Deeper-Depths-1.12.2-1.0.3c.jar"
+filename = "Deeper-Depths-1.12.2-1.0.3d.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5a65f7fa108cbc93707a66acb6f962022297bed4"
+hash = "dbbbcf315971b7927fd8feaca5220262dea1aa60"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6526177
+file-id = 6918179
 project-id = 1101129

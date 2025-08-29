@@ -130,7 +130,7 @@ hash = "e5e53bfa8d32c4ed6db14c6ae057c88a1c7d5fff9caf9233a4d20b6f9472e682"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "65eb838fc0e7a40736fb1ff023ce0194e3126af03a019abedfdcdea9efb045bf"
+hash = "e8d7cc35e8898a468b940d600cdb70a228072448bbdac1078c8ca46df8b22d79"
 
 [[files]]
 file = "config/apatheticmobs.cfg"
@@ -150,7 +150,7 @@ hash = "8262bd00a2f1f1b79e2057467537094b8f12399229fe869fdefe464db0bfc586"
 
 [[files]]
 file = "config/betterwithmods.cfg"
-hash = "f3ab5aea6f40150d885b40f711893f12d5a27ba5d0ee1e6d22260b37ced095cf"
+hash = "b5a224fd83a9bd6ae87ecd9d9047d27d1e52cbcc44262460bd07b7346436091c"
 
 [[files]]
 file = "config/blockinteractionmod.cfg"
@@ -159,10 +159,6 @@ hash = "c5d05b4e0eed4ca922b7913ff2253657ec3b4be01e614a6af4b750a3c5a7c095"
 [[files]]
 file = "config/bloodmoon.cfg"
 hash = "a905af96a4a0bd815671eb3f5ccc00410bfa62ad6c0c6ca640e0e66454f64c7e"
-
-[[files]]
-file = "config/celeritas-options.json"
-hash = "99739c3b9890c0636ffb58281fd5b0cd572a8f18f5443b2cb72b316ca04d69f8"
 
 [[files]]
 file = "config/deeperdepths/blocks.cfg"
@@ -187,6 +183,22 @@ hash = "540467e8b8388244f7876687b14d160107b43b42bcb3149f483ec361ef9f725e"
 [[files]]
 file = "config/dynaores.cfg"
 hash = "4d9e672c756819e024cd8cd10aa406d577b4fd47037fe36fdbd2efff33ddf244"
+
+[[files]]
+file = "config/endermodpacktweaks/features.cfg"
+hash = "f2af8d1b146c27399444dbd96c9dbb6160a411f0676b001e8e464640808f5f00"
+
+[[files]]
+file = "config/endermodpacktweaks/minecraft.cfg"
+hash = "5d33c5e75b2c8eb0f2190f29e8458375d88d0ebb16782e316099c3f27fbfb213"
+
+[[files]]
+file = "config/endermodpacktweaks/modpack.cfg"
+hash = "47e81ec0e337ef7dd0ff7131151c3b9b0b5d6c9b753a08b37ea8feaa2ee60433"
+
+[[files]]
+file = "config/endermodpacktweaks/tweaks.cfg"
+hash = "54358de6acc3bb623c8485db99afbcae2c3905c930320a1ac7efb2aace2e357c"
 
 [[files]]
 file = "config/esm/entity_ai.json"
@@ -314,7 +326,7 @@ hash = "5541b462c3a5ce2b8b12941aaa650a711d880359524436d305938c918d2b04de"
 
 [[files]]
 file = "config/materialchanger.cfg"
-hash = "e7cf6ee7d045332d956363bf17737d3b9474ba39926b96472998ac9605a4d633"
+hash = "cee7013610baa33f7a403629b620b0ca353b9b159f7dc5fe3665d1aa9f600dfd"
 
 [[files]]
 file = "config/mobsunscreen.cfg"
@@ -582,13 +594,18 @@ hash = "d83a3d5c37466d76e658b83e447b69a6bb6f6893f0cb8983fe25996f330e56a1"
 metafile = true
 
 [[files]]
+file = "mods/assetmover.pw.toml"
+hash = "524023c2f9e70e261fe357d03c56936e0207b723cda6191ff2e1a7b53e1836fe"
+metafile = true
+
+[[files]]
 file = "mods/athenaeum.pw.toml"
 hash = "30120c9b5188449824a201cc681bfb8de70346b8cb1a189e1c717e44c80dd024"
 metafile = true
 
 [[files]]
 file = "mods/atlas-lib.pw.toml"
-hash = "a8a44e87004d9f84d919ff8c57bdf23b6c0b8b7b826e50baba7e513f47d46090"
+hash = "6efeb43479fea38f80d9e5cc33caaaaf15d0b0d38dfe0252e87cd8db7c93985e"
 metafile = true
 
 [[files]]
@@ -643,12 +660,12 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-dynamic-lights.pw.toml"
-hash = "4a0a6095d86145cc92591758a19a501a24bf063f649a3f108ba88173083d97c2"
+hash = "bb1f4088a9aa5eeb891063b9b43fed7e641526553dfe3d71ab72515bea52725d"
 metafile = true
 
 [[files]]
-file = "mods/celeritas-forge-mc12.2-2.3.0-dev.jar"
-hash = "d85a4895eb05835f38e89dbe93ff55961a9c4c2ad5c6d55e8de6d4f26ff34e5f"
+file = "mods/celeritas-forge-mc12.2-2.4.0-dev.jar"
+hash = "b1fb51de7067a6ad281d8df70697ea966ae8cee7eaf5070c2376a3233c47fade"
 
 [[files]]
 file = "mods/contenttweaker.pw.toml"
@@ -667,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "04806c99d8cbfeab368bb24f88fbe503934cab19abf4bf7a4fee67833a2e1f40"
+hash = "3ef0d324c6ab0c5e6b47ba711ce019662a3d0c41c8a2caa36878336e9947eed7"
 metafile = true
 
 [[files]]
@@ -677,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeper-depths.pw.toml"
-hash = "5510d91155797da22f8f79d51fb0634445416445a0e704786ea15afb3f5c2dbb"
+hash = "f3ce3e2357d19f8db9cfc5e0bbfa2685e2739d7a4797ff437642bccc71cdae99"
 metafile = true
 
 [[files]]
@@ -723,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "85868846ff257ccbc5b3674fb6afcb6343c2be867bebdbd9a4ebb7cacce3c09c"
+metafile = true
+
+[[files]]
+file = "mods/ender-modpack-tweaks.pw.toml"
+hash = "55373685d995bf42600e48e6242755387e44f26a8de9d69ab36c9616df05b97f"
 metafile = true
 
 [[files]]
@@ -797,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "d679b885e6bb9d53553a64f0b3b29e56e249ee5782b0769f0203ead3a17fa95e"
+hash = "80227423f8691fe9b45879bee5fe4feb7f3afbdf7ca1fe792f2795a9b88d2d2d"
 metafile = true
 
 [[files]]
@@ -867,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularui.pw.toml"
-hash = "b6687ee824c3aab78a9ef39d1c690345cfdef25723649f0fe8bfbb1da7d99612"
+hash = "338d7b1ed3eab71ef5d3cfa2538933d5acd9ad6b9410a3ea536c3e6e386841bd"
 metafile = true
 
 [[files]]
@@ -1017,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "036e2c7845eb885e5ad46745f9ce06de338e2ff5366cc80b90bcff7f10c2a844"
+hash = "6349f27f73166110589f43f9f84dd5241e8f98f72205ea6593918e77e87b1708"
 metafile = true
 
 [[files]]
@@ -1524,7 +1546,7 @@ hash = "96aae6c5f5daf82efaa09d19f469be1d2f3c9c95491e0be543c3f55249bf435b"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_soulforged_steel_anvil.zs"
-hash = "e95803908a858d68eb439712ab50edb7dc3bbbcc6af6b714aec0e13de766dd19"
+hash = "be0360eba9e017a1c8806770bc3855e845f1554fc99e40d74e2ee5d77693a7aa"
 
 [[files]]
 file = "scripts/betterwithmods/bwm_stoked_crucible.zs"
@@ -1539,12 +1561,20 @@ file = "scripts/contenttweaker.zs"
 hash = "6ba9edcdbefce9965228693774245e275163eb04147e1e089637ab28d4336b17"
 
 [[files]]
+file = "scripts/futuremc/futuremc.zs"
+hash = "dbe5dcbcbcde949d0c96f57a0087267285bce693dba3ac265cf1f5d3da50fe3b"
+
+[[files]]
 file = "scripts/futuremc/smithing_table.zs"
 hash = "8b716e11ab9b48fd224bd5c614bebd37b59dd8c471208e7448671e49f6531efa"
 
 [[files]]
 file = "scripts/minecraft.zs"
 hash = "88127fff9c2ce8a2bb3eb69cf6984ef8beeed919a492bd8ec9277e229ce21ea2"
+
+[[files]]
+file = "scripts/modularwarfare.zs"
+hash = "02e48375e589b28fd08d98a961bffeb949b5486ba5430af13b0f12c55c9c7503"
 
 [[files]]
 file = "scripts/pyrotech/pyrotech_add.zs"
