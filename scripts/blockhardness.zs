@@ -1,7 +1,7 @@
-<minecraft:stone:0>.hardness = 15;
-<minecraft:stone:1>.hardness = 15;
-<minecraft:stone:2>.hardness = 15;
-<minecraft:stone:3>.hardness = 15;
+<minecraft:stone:0>.hardness = 5;
+<minecraft:stone:1>.hardness = 5;
+<minecraft:stone:2>.hardness = 5;
+<minecraft:stone:3>.hardness = 5;
 <minecraft:brick_block>.hardness = 40;
 <minecraft:nether_brick>.hardness = 40;
 <minecraft:red_nether_brick>.hardness = 40;

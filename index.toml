@@ -1554,7 +1554,7 @@ hash = "0707603db2916213b509d533700c1ca236eed5b0d8075f2695d2263da16c1a3d"
 
 [[files]]
 file = "scripts/blockhardness.zs"
-hash = "7d74eff68420f9cc3b945d774fa3a0ac1f570893392113a273108d59b91f90d8"
+hash = "abf3b6c4f1399df036493a26ceee778c658a79272c4a6480c577333e68c2f82a"
 
 [[files]]
 file = "scripts/contenttweaker.zs"
@@ -1570,7 +1570,7 @@ hash = "8b716e11ab9b48fd224bd5c614bebd37b59dd8c471208e7448671e49f6531efa"
 
 [[files]]
 file = "scripts/minecraft.zs"
-hash = "88127fff9c2ce8a2bb3eb69cf6984ef8beeed919a492bd8ec9277e229ce21ea2"
+hash = "9b3b513b0b3d2e5f92c7e6067cc34c9001f931c30533c94e2319e0563bd16986"
 
 [[files]]
 file = "scripts/modularwarfare.zs"
