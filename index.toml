@@ -493,6 +493,10 @@ file = "config/sereneseasons/cropfertility.cfg"
 hash = "8aaf6bfca1e35261e22053daa1f18b73f0997dd8eeb519baff96d2815ba70f58"
 
 [[files]]
+file = "config/sereneseasons/seasons.cfg"
+hash = "158e0e394903f4048e73f6ce99a7d777f2e82da6610a73e179c8f6cc0a3eb876"
+
+[[files]]
 file = "config/setbonus/1.12.2.009+.cfg"
 hash = "81c573a26fd80be6673b5a0c1fa4e6745cc4b722b322b096936f19171f3da7bf"
 
