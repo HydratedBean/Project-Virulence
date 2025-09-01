@@ -209,3 +209,4 @@ furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:3>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:4>);
 furnace.addRecipe(<pyrotech:material:13>, <minecraft:sapling:5>);
 furnace.addRecipe(<pyrotech:material:16>, <pyrotech:material:54>);
+furnace.addRecipe(<minecraft:leather>, <minecraft:rotten_flesh>);
