@@ -31,15 +31,18 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
+key_zume.zoom:44:NONE
+key_zume.zoom_in:13:NONE
+key_zume.zoom_out:12:NONE
 key_quark.keybind.toggleAutojump:0:NONE
+key_dshuds.keybind.SelectionBox:0:NONE
+key_dshuds.keybind.LightLevel:0:NONE
+key_dshuds.keybind.ChunkBorders:0:NONE
 key_key.spartanweaponry.access_quiver:23:NONE
 key_treechop.key.toggle_chopping:0:NONE
 key_treechop.key.toggle_felling:0:NONE
 key_treechop.key.cycle_sneak_behavior:0:NONE
 key_treechop.key.open_settings_overlay:0:NONE
-key_dshuds.keybind.SelectionBox:0:NONE
-key_dshuds.keybind.LightLevel:0:NONE
-key_dshuds.keybind.ChunkBorders:0:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -50,14 +53,15 @@ key_key.jei.recipeBack:14:NONE
 key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
-key_key.jei.toggleBookmarkOverlay:0:NONE
-key_FpsReducer.key.guiOpen:207:NONE
-key_FpsReducer.key.forceIdle:197:NONE
+key_key.hei.toggleBookmarkOverlay:0:NONE
+key_key.hei.crafting:46:SHIFT
 key_waila.keybind.wailaconfig:82:NONE
 key_waila.keybind.wailadisplay:79:NONE
 key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
+key_FpsReducer.key.guiOpen:0:NONE
+key_FpsReducer.key.forceIdle:0:NONE
 key_Reload Gun:19:NONE
 key_Reload Client:67:NONE
 key_Fire Mode:47:NONE
@@ -73,5 +77,5 @@ key_Down (Attach mode):208:NONE
 key_Debug Mode:68:NONE
 key_key.nutrition:49:NONE
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
-key_key.sort_config:37:NONE
+key_key.sort_config:0:NONE
 key_key.sort:-98:NONE

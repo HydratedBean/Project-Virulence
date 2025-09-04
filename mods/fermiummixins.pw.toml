@@ -1,0 +1,13 @@
+name = "FermiumMixins"
+filename = "FermiumMixins-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3682f53b38f4fba3b79c22100c15578de691994"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6945437
+project-id = 1303863
