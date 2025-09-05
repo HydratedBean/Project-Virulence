@@ -1,0 +1,13 @@
+name = "Parkour and more"
+filename = "parkour-1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23e75952b80a15c46e598d129241ff1a5ba7e346"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902028
+project-id = 638231

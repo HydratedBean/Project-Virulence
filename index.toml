@@ -138,7 +138,7 @@ hash = "abc06af434e1da5e888696e30870b24f567c699440cf81f1a80d99f1736ba556"
 
 [[files]]
 file = "config/aquaacrobatics.cfg"
-hash = "13560e4efff8e074456859e37feb75561e2307350c4442bf861497df967a32e8"
+hash = "0b01877fa8b332324af0aaa62b399c5a9e3d7b91ab7ba58e4e865a382ff56dee"
 
 [[files]]
 file = "config/bettercombatmod.cfg"
@@ -399,6 +399,10 @@ hash = "584e795a5a7d85b65f027cd3b313d4189a8738cc3b1f22da597239e816e92950"
 [[files]]
 file = "config/nutrition/nutrition.cfg"
 hash = "14555abba3d9984215b614c416e36f7e25d80aea8c3ca7004a794cbea2c541de"
+
+[[files]]
+file = "config/parkour.cfg"
+hash = "3cc9b1ed10a347b90e9a375f69e813ecab48b8a4b66e156b846a3d5a60c28393"
 
 [[files]]
 file = "config/pyrotech/core.OreDict-Custom.json"
@@ -950,6 +954,11 @@ hash = "6239883dafa625b68d83788cd47259facba6cce79461e8978f2e1bdd5bbef5c0"
 metafile = true
 
 [[files]]
+file = "mods/parkour-and-more.pw.toml"
+hash = "6b19a2972baca78a645ed0a46d3f9904fe8e4b5ca64146ac49d966735ce63810"
+metafile = true
+
+[[files]]
 file = "mods/particle-culling.pw.toml"
 hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
 metafile = true
@@ -1027,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
+metafile = true
+
+[[files]]
+file = "mods/sit.pw.toml"
+hash = "47abc6c2ce2512da518477ca13bc05b51058e1eb52ae864c6dc656fa0643f912"
 metafile = true
 
 [[files]]
