@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/celeritas-forge-mc12.2-2.4.0-dev.jar"
-hash = "b1fb51de7067a6ad281d8df70697ea966ae8cee7eaf5070c2376a3233c47fade"
+hash = "21f8df38f58557711d55a13f1c133b4ebb8a6140a2718b17d43456e817b7d3a7"
 
 [[files]]
 file = "mods/contenttweaker.pw.toml"
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-modpack-tweaks.pw.toml"
-hash = "55373685d995bf42600e48e6242755387e44f26a8de9d69ab36c9616df05b97f"
+hash = "6121b94140c10400c8f9220777ac4a97a2097cf05b492d6e9dd3bf6ebb9be556"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "eebb0c1e4fde92fd9233fb99fda7b72b02f1c8385091bef4e3651825bb5e0d91"
+hash = "ba737672a28032c1ee2fcbd33644861fb5bd01ce7cdf504d143c77b5ef0ad49b"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "80227423f8691fe9b45879bee5fe4feb7f3afbdf7ca1fe792f2795a9b88d2d2d"
+hash = "eb78718c73fbebe53263af59c606cdab18c394652caae97ed3c51e27d3d66bf6"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/srpmixins.pw.toml"
-hash = "6349f27f73166110589f43f9f84dd5241e8f98f72205ea6593918e77e87b1708"
+hash = "3b77b2a547851c04925328d5a58ef8067418af20ab33275a3c119fa00f43edec"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-tweaks.pw.toml"
-hash = "b5f39d01a85a2d61db11ea5fbe74e7e5627c40740dd4648f8bed9f240e6178f9"
+hash = "ec6fa924cd52f756a56ad487089f06d42c54eaab650e3ef24c69d9272676bbe0"
 metafile = true
 
 [[files]]
