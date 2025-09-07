@@ -402,7 +402,7 @@ hash = "14555abba3d9984215b614c416e36f7e25d80aea8c3ca7004a794cbea2c541de"
 
 [[files]]
 file = "config/parkour.cfg"
-hash = "3cc9b1ed10a347b90e9a375f69e813ecab48b8a4b66e156b846a3d5a60c28393"
+hash = "e99b972fb5a73f44a385ca23917ab59a2f35d25c67ddd8fa565d053d23a99dd9"
 
 [[files]]
 file = "config/pyrotech/core.OreDict-Custom.json"
