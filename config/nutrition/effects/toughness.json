@@ -2,7 +2,7 @@
 	"name": "toughness",
 	"potion": "nutrition:toughness",
 	"amplifier": 0,
-	"minimum": 90,
+	"minimum": 80,
 	"maximum": 100,
 	"detect": "cumulative",
 	"cumulative_modifier": 1,

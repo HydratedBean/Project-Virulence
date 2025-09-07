@@ -39,8 +39,8 @@
   },
   "hud": {
     "hitmarkers": false,
-    "enable_crosshair": false,
-    "dynamic_crosshair": false,
+    "enable_crosshair": true,
+    "dynamic_crosshair": true,
     "ammo_count": true,
     "snap_fade_hit": false,
     "isDynamicFov": false,
